@@ -1,0 +1,10 @@
+.env
+cache/
+__pycache__/
+data/
+outputs/
+pipeline/
+config.json
+README_V2_2.md
+README.md
+requirements.txt
