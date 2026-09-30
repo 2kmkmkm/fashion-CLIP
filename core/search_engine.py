@@ -5,8 +5,6 @@ from transformers import CLIPModel, CLIPProcessor
 from qdrant_client import QdrantClient
 from qdrant_client.http import models
 
-# 2단계: Fashion-CLIP + Qdrant 탐색기
-
 class FashionSearchEngine:
     def __init__(self, qdrant_url="http://localhost:6333", collection_name="musinsa_products"):
         self.client = QdrantClient(url=qdrant_url)
@@ -32,52 +30,46 @@ class FashionSearchEngine:
             feats = self._normalize(feats)
         return feats.cpu().numpy()[0].tolist()
 
-    def encode_image(self, image_path: str) -> list:
-        img = Image.open(image_path).convert("RGB")
-        inputs = self.processor(images=[img], return_tensors="pt").to(self.device)
-        with torch.no_grad():
-            feats = self.model.get_image_features(**inputs)
-            if hasattr(feats, "pooler_output") and feats.pooler_output is not None:
-                feats = feats.pooler_output
-            elif hasattr(feats, "last_hidden_state"):
-                feats = feats.last_hidden_state[:, 0, :]
-            feats = self._normalize(feats)
-        return feats.cpu().numpy()[0].tolist()
-
-    def search(self, 
+    def search(self,
                query_text: str = None, 
-               query_image_path: str = None, 
                category: str = None,
-               color: str = None, 
+               season: str = "ALL",
                max_price: int = None, 
-               top_k: int = 5) -> list:
+               color: str = None,
+               top_k: int = 3) -> list:
         
-        if query_text:
-            query_vector = self.encode_text(query_text)
-        elif query_image_path and os.path.exists(query_image_path):
-            query_vector = self.encode_image(query_image_path)
-        else:
-            raise ValueError("query_text 또는 유효한 query_image_path가 필요합니다.")
+        query_vector = self.encode_text(query_text)
 
-        must_conditions = []
-        if category:
-            must_conditions.append(models.FieldCondition(key="category", match=models.MatchValue(value=category)))
-        if color:
-            must_conditions.append(models.FieldCondition(key="color_normalized", match=models.MatchAny(any=[color])))
+        # 하드 필터 구성 (카테고리 + 소프트 버퍼 예산)
+        must_conditions = [
+            models.FieldCondition(key="category", match=models.MatchValue(value=category))
+        ]
         if max_price is not None:
             must_conditions.append(models.FieldCondition(key="price", range=models.Range(lte=max_price)))
 
-        query_filter = models.Filter(must=must_conditions) if must_conditions else None
+        if color is not None:
+            must_conditions.append(models.FieldCondition(key="color_normalized", match=models.MatchValue(value=color)))
+            
+        # 계절 하이브리드 필터 (요청된 계절 + 'ALL' 우선 인출)
+        should_conditions = [
+            models.FieldCondition(key="season", match=models.MatchValue(value=season)),
+            models.FieldCondition(key="season", match=models.MatchValue(value="ALL"))
+        ]
+
+        query_filter = models.Filter(must=must_conditions, should=should_conditions)
 
         response = self.client.query_points(
             collection_name=self.collection_name,
             query=query_vector,
             query_filter=query_filter,
-            limit=top_k
+            limit=top_k * 2
         )
 
         results = []
         for hit in response.points:
+            # 유사도 0.2 미만인 쓰레기 후보 컷오프
+            if hit.score < 0.2:
+                continue
             p = hit.payload
             results.append({
                 "similarity_score": round(hit.score, 4),
@@ -87,7 +79,24 @@ class FashionSearchEngine:
                 "category": p.get("category"),
                 "price": p.get("price"),
                 "colors": p.get("color_normalized"),
-                "local_image_path": p.get("local_image_path"),
+                "image_url": p.get("image_url"),
                 "product_url": p.get("product_url")
             })
-        return results
+        
+        # 컷오프 때문에 후보가 비어버릴 경우 비상 방어 (Top 1 반환)
+        if not results and response.points:
+            hit = response.points[0]
+            p = hit.payload
+            results.append({
+                "similarity_score": round(hit.score, 4),
+                "product_id": p.get("product_id"),
+                "product_name": p.get("product_name"),
+                "brand_name": p.get("brand_name"),
+                "category": p.get("category"),
+                "price": p.get("price"),
+                "colors": p.get("color_normalized"),
+                "image_url": p.get("image_url"),
+                "product_url": p.get("product_url")
+            })
+
+        return results[:top_k]
