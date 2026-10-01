@@ -5,6 +5,11 @@ from transformers import CLIPModel, CLIPProcessor
 from qdrant_client import QdrantClient
 from qdrant_client.http import models
 
+# Fashion-CLIP + Qdrant
+# 사용자가 요청한 패션 키워드를 Fashion-CLIP 모델을 통해 512차원 벡터로 변환
+# Qdrant 벡터 DB에서 카테고리, 예산 상한선, 계절, 색상 등의 하드 필터를 적용
+# 1차 후보 추출: 카테고리별 5개씩
+
 class FashionSearchEngine:
     def __init__(self, qdrant_url="http://localhost:6333", collection_name="musinsa_products"):
         self.client = QdrantClient(url=qdrant_url)
@@ -38,12 +43,13 @@ class FashionSearchEngine:
                color: str = None,
                top_k: int = 3) -> list:
         
-        query_vector = self.encode_text(query_text)
+        query_vector = self.encode_text(query_text) # 질의 텍스트를 Fashion-CLIP 벡터로 변환
 
-        # 하드 필터 구성 (카테고리 + 소프트 버퍼 예산)
+        # 데이터베이스 레벨에서 반드시 만족해야 하는 하드 필터 구성 (카테고리 + 예산 + 색상)
         must_conditions = [
             models.FieldCondition(key="category", match=models.MatchValue(value=category))
         ]
+
         if max_price is not None:
             must_conditions.append(models.FieldCondition(key="price", range=models.Range(lte=max_price)))
 
@@ -62,12 +68,14 @@ class FashionSearchEngine:
             collection_name=self.collection_name,
             query=query_vector,
             query_filter=query_filter,
-            limit=top_k * 2
+            limit=top_k * 2,
+            with_vectors=True
         )
 
         results = []
         for hit in response.points:
-            # 유사도 0.2 미만인 쓰레기 후보 컷오프
+            # 유사도 0.2 미만인 컷오프
+            # 데이터셋 늘어나면 수정
             if hit.score < 0.2:
                 continue
             p = hit.payload
@@ -80,7 +88,8 @@ class FashionSearchEngine:
                 "price": p.get("price"),
                 "colors": p.get("color_normalized"),
                 "image_url": p.get("image_url"),
-                "product_url": p.get("product_url")
+                "product_url": p.get("product_url"),
+                "vector": hit.vector
             })
         
         # 컷오프 때문에 후보가 비어버릴 경우 비상 방어 (Top 1 반환)
@@ -96,7 +105,8 @@ class FashionSearchEngine:
                 "price": p.get("price"),
                 "colors": p.get("color_normalized"),
                 "image_url": p.get("image_url"),
-                "product_url": p.get("product_url")
+                "product_url": p.get("product_url"),
+                "vector": hit.vector
             })
 
         return results[:top_k]

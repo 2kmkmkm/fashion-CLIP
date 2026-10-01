@@ -4,6 +4,8 @@ from core.harmonizer import OutfitHarmonizer
 from core.response_generator import ResponseGenerator
 import itertools
 
+# 자연어 의도 분석-> 단품/코디 분기 -> 조화도 검수 -> 응답 생성하는 전체 흐름 총괄
+
 class FashionPipelineCoordinator:
     def __init__(self):
         print(">> 패션 추천 파이프라인 컴포넌트 초기화 중...")
@@ -17,10 +19,28 @@ class FashionPipelineCoordinator:
         print(f"\n[DEBUG] === 파이프라인 실행 시작 ===")
         
         # [1단계] LLM 질의 파싱 (예산, 계절, 슬롯별 1.3배 소프트 버퍼 가격 포함)
+        # query_parser.py
         intent = self.parser.parse(user_query)
         print(f"[DEBUG] 1. 파서 결과: 의도={intent.search_type}, 예산={intent.total_budget}, 슬롯 수={len(intent.slots)}개")
 
-        # 의도가 single이거나 추출된 슬롯이 딱 1개뿐인 경우 무조건 단품 검색으로 처리
+        print(f"\n[DEBUG] 🤖 LLM 파싱 분석 결과:")
+        print(f"  - 검색 타입 (Search Type) : {intent.search_type}")
+        print(f"  - 총 예산 (Total Budget)   : {intent.total_budget:,}원" if intent.total_budget else "  - 총 예산 (Total Budget)   : None")
+        print(f"  - 계절감 (Season)          : {intent.season}")
+        print(f"  - TPO 및 무드 (TPO)        : {intent.tpo_summary}")
+        print(f"  - 추출된 슬롯 개수         : {len(intent.slots)}개")
+        
+        for idx, slot in enumerate(intent.slots, 1):
+            print(f"    [{idx}] 슬롯명: {slot.slot_name} | 카테고리: {slot.category}")
+            print(f"        - 영문 검색어 (CLIP): {slot.clip_query_en}")
+            print(f"        - 가격 상한선(버퍼): {slot.max_price:,}원" if slot.max_price else "        - 가격 상한선(버퍼): None")
+            print(f"        - 지정 색상         : {slot.color}")
+        print("-" * 60)
+
+        # [2단계] Fashion-CLIP 호출
+        # search_engine.py
+
+        # [단품 검색] 추출된 슬롯이 딱 1개뿐인 경우
         if intent.search_type == "single" or len(intent.slots) == 1:
             slot = intent.slots[0]
             items = self.engine.search(
@@ -42,7 +62,7 @@ class FashionPipelineCoordinator:
                 "results": items
             }
 
-        # [코디 검색 분기] 슬롯이 2개 이상 복합으로 들어온 경우만 진입
+        # [코디 검색] 슬롯이 2개 이상 복합으로 들어온 경우만 진입
         else:
             slot_candidates = {}
             for slot in intent.slots:
@@ -60,7 +80,7 @@ class FashionPipelineCoordinator:
             # 단 하나의 슬롯이라도 검색 결과가 0개면 파이프라인 즉시 중단
             empty_slots = [s for s, items in slot_candidates.items() if len(items) == 0]
             if empty_slots:
-                print(f"[DEBUG] 🚨 비상 상황: 다음 슬롯의 검색 결과가 0개입니다 -> {empty_slots}")
+                print(f"[DEBUG] 🚨 비상: 다음 슬롯의 검색 결과가 0개입니다 -> {empty_slots}")
                 print("[DEBUG] 조합할 상품이 부족하여 파이프라인을 중단합니다. (Qdrant DB 점검 요망)")
                 return {
                     "type": "coordination",
@@ -70,7 +90,7 @@ class FashionPipelineCoordinator:
                     "outfits": []
                 }
 
-            # 조합 단계에서 예산 Hard Cut 적용 (total_price <= user_budget)
+            # 조합 단계에서 예산 하드컷 적용
             categories = list(slot_candidates.keys())
             item_lists = [slot_candidates[cat] for cat in categories]
             
@@ -93,6 +113,7 @@ class FashionPipelineCoordinator:
                 valid_combos = list(itertools.product(*item_lists))[:5]
 
             # [3단계] 조화도 채점 및 Vision Re-ranking (Top-5 압축 검수)
+            # harmonizer.py
             print(f"[DEBUG] 5. 조화도 검수기(Harmonizer) 실행 중... (Top-5 1차 추출 -> Vision LLM 2차 심사)")
             best_outfits = self.harmonizer.select_best_outfits(
                 slot_candidates, 
@@ -103,6 +124,7 @@ class FashionPipelineCoordinator:
             print(f"[DEBUG] 6. 최종 추천 코디 세트 확정: {len(best_outfits)}개")
 
             # [4단계] 자연어 응답 생성
+            # response_generator.py
             comment = self.responder.generate_coordination_response(user_query, intent.tpo_summary, best_outfits)
             return {
                 "type": "coordination",
