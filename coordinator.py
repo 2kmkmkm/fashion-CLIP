@@ -2,6 +2,7 @@ from core.query_parser import QueryParser
 from core.search_engine import FashionSearchEngine
 from core.harmonizer import OutfitHarmonizer
 from core.response_generator import ResponseGenerator
+from core.size_resolver import SizeProfileResolver, SizeCalculator
 import itertools
 
 # 자연어 의도 분석-> 단품/코디 분기 -> 조화도 검수 -> 응답 생성하는 전체 흐름 총괄
@@ -11,6 +12,7 @@ class FashionPipelineCoordinator:
         print(">> 패션 추천 파이프라인 컴포넌트 초기화 중...")
         self.parser = QueryParser()
         self.engine = FashionSearchEngine()
+        self.size_resolver = SizeProfileResolver(db_client=None)
         self.harmonizer = OutfitHarmonizer(self.engine)
         self.responder = ResponseGenerator()
         print(">> 전체 파이프라인 준비 완료.")
@@ -37,6 +39,9 @@ class FashionPipelineCoordinator:
             print(f"        - 지정 색상         : {slot.color}")
         print("-" * 60)
 
+        # 임시 사용자 ID (추후 세션/인증 시스템 연동 시 동적 할당)
+        user_id = "user_001"
+
         # [2단계] Fashion-CLIP 호출
         # search_engine.py
 
@@ -49,17 +54,42 @@ class FashionPipelineCoordinator:
                 season=intent.season,
                 max_price=slot.max_price,
                 color=slot.color,
-                top_k=5
-            )
+                top_k=10
+            )            
+
             print(f"[DEBUG] 2. 검색 엔진 결과: 단품 후보 {len(items)}개 추출 완료")
             
-            comment = self.responder.generate_single_response(user_query, intent.tpo_summary, items)
+            # [사이즈 추천] 단품 후보별 사이즈 적합도 계산
+            evaluated_items = []
+            for item in items:
+                subcategory = item.get("subcategory", slot.category)
+                fit_type = getattr(slot, "fit_type", None) or item.get("fit_type", "regular")
+                category_type = slot.category
+
+                size_result = self.size_resolver.resolve_and_calculate_size(
+                    user_id=user_id,
+                    subcategory=subcategory,
+                    fit_type=fit_type,
+                    candidate_products=[item],
+                    category_type=category_type
+                )
+
+                if size_result and size_result.get("recommendation"):
+                    item["size_recommendation"] = size_result["recommendation"]
+                    item["fit_source_type"] = size_result["source_type"]
+                else:
+                    item["size_recommendation"] = None
+                    item["fit_source_type"] = "none"
+
+                evaluated_items.append(item)
+            
+            comment = self.responder.generate_single_response(user_query, intent.tpo_summary, evaluated_items)
             return {
                 "type": "single",
                 "query": user_query,
                 "tpo": intent.tpo_summary,
                 "comment": comment,
-                "results": items
+                "results": evaluated_items
             }
 
         # [코디 검색] 슬롯이 2개 이상 복합으로 들어온 경우만 진입
@@ -74,8 +104,33 @@ class FashionPipelineCoordinator:
                     color=slot.color,
                     top_k=5
                 )
-                slot_candidates[slot.slot_name] = items
-                print(f"[DEBUG] 2. 검색 엔진 결과: 슬롯 '{slot.slot_name}' -> {len(items)}개 후보 찾음")
+
+                # [사이즈 추천 연동] 코디 후보 슬롯 내 각 상품별 사이즈 선계산 부여
+                evaluated_slot_items = []
+                for item in items:
+                    subcategory = item.get("subcategory", slot.category)
+                    fit_type = item.get("fit_type", "regular")
+                    category_type = slot.category
+
+                    size_result = self.size_resolver.resolve_and_calculate_size(
+                        user_id=user_id,
+                        subcategory=subcategory,
+                        fit_type=fit_type,
+                        candidate_products=[item],
+                        category_type=category_type
+                    )
+
+                    if size_result and size_result.get("recommendation"):
+                        item["size_recommendation"] = size_result["recommendation"]
+                        item["fit_source_type"] = size_result["source_type"]
+                    else:
+                        item["size_recommendation"] = None
+                        item["fit_source_type"] = "none"
+
+                    evaluated_slot_items.append(item)
+
+                slot_candidates[slot.slot_name] = evaluated_slot_items
+                print(f"[DEBUG] 2. 검색 엔진 결과: 슬롯 '{slot.slot_name}' -> {len(evaluated_slot_items)}개 후보 찾음")
 
             # 단 하나의 슬롯이라도 검색 결과가 0개면 파이프라인 즉시 중단
             empty_slots = [s for s, items in slot_candidates.items() if len(items) == 0]

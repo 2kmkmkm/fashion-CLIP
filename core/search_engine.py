@@ -74,7 +74,7 @@ class FashionSearchEngine:
 
         results = []
         for hit in response.points:
-            # 유사도 0.2 미만인 컷오프
+            # 유사도 0.2 미만은 컷오프
             # 데이터셋 늘어나면 수정
             if hit.score < 0.2:
                 continue
@@ -87,6 +87,7 @@ class FashionSearchEngine:
                 "category": p.get("category"),
                 "price": p.get("price"),
                 "colors": p.get("color_normalized"),
+                "fit_type": p.get("fit_type"),
                 "image_url": p.get("image_url"),
                 "product_url": p.get("product_url"),
                 "vector": hit.vector
@@ -104,6 +105,7 @@ class FashionSearchEngine:
                 "category": p.get("category"),
                 "price": p.get("price"),
                 "colors": p.get("color_normalized"),
+                "fit_type": p.get("fit_type"),
                 "image_url": p.get("image_url"),
                 "product_url": p.get("product_url"),
                 "vector": hit.vector
