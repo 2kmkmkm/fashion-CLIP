@@ -79,7 +79,7 @@ class OutfitHarmonizer:
 
         try:
             res = client.beta.chat.completions.parse(
-                model="gpt-4o-mini",
+                model="gpt-4o",
                 messages=messages,
                 response_format=HarmonyEvaluation,
                 temperature=0.2
@@ -110,17 +110,33 @@ class OutfitHarmonizer:
             items = list(combo)
             total_price = sum(it["price"] for it in items)
 
-            # Fashion-CLIP 벡터 기반 1차 조화도 점수 산정
+           # 1. Fashion-CLIP 벡터 기반 조화도 점수 (0 ~ 100점)
             vector_score = self.calculate_vector_harmony(items)
+
+            # 2. 아이템별 사이즈 적합도 점수 평균 산출 (0 ~ 1점 스케일을 100점 만점으로 환산)
+            fit_scores = []
+            for it in items:
+                rec = it.get("size_recommendation")
+                if rec and "predicted_fit_score" in rec:
+                    fit_scores.append(rec["predicted_fit_score"] * 100)
+                else:
+                    fit_scores.append(50.0) # 사이즈 정보가 없는 경우 기본 중간 점수 부여
+            
+            avg_fit_score = sum(fit_scores) / len(fit_scores) if fit_scores else 50.0
+
+            # 3. 종합 점수 결합 (예: 조화도 70% + 사이즈 적합도 30% 가중합)
+            composite_score = (vector_score * 0.7) + (avg_fit_score * 0.3)
 
             ranked.append({
                 "items": items, 
                 "total_price": total_price,
-                "vector_score": vector_score
+                "vector_score": vector_score,
+                "avg_fit_score": avg_fit_score,
+                "composite_score": composite_score
             })
 
-        # 1차 벡터 조화도가 높은 순서대로 정렬 후 상위 5개만 압축
-        ranked.sort(key=lambda x: x["vector_score"], reverse=True)
+        # 종합 점수(composite_score)가 높은 순서대로 정렬 후 상위 5개만 압축
+        ranked.sort(key=lambda x: x["composite_score"], reverse=True)
         top_candidates = ranked[:5] # 상위 5개 압축 검수
 
         final_outfits = []

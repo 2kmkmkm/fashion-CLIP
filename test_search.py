@@ -27,16 +27,26 @@ def main():
         try:
             # 3. 코디네이터 실행
             output = coordinator.run(q)
+            intent = output["intent"]
 
             print(f">> [TPO 분석]: {output['tpo']}")
+            print(f">> [추출된 슬롯 및 영문 키워드]")
+            for idx, slot in enumerate(intent.slots, 1):
+                print(f"  - [{slot.category.upper()}] 영문 검색어: \"{slot.clip_query_en}\" (카테고리: {slot.category}, 핏: {slot.fit_type or 'None'})")
             print(f">> [AI 스타일리스트 코멘트]:\n{output['comment']}\n")
 
             # 4. 결과 출력 로직
             if output["type"] == "single":
                 print(">> [추천 단품 목록]")
                 for idx, it in enumerate(output["results"], 1):
+                    fit_val = it.get('fit_type', 'regular')
+                    size_rec = it.get('size_recommendation')
+                    size_str = f"추천 사이즈: {size_rec.get('size_label')} (적합도: {size_rec.get('predicted_fit_score', 0)*100:.1f}점)" if size_rec else "사이즈 정보 없음"
+
                     print(f"  {idx}. [유사도: {it['similarity_score']}] [ID: {it['product_id']}] [{it['brand_name']}] {it['product_name']}")
-                    print(f"    - 가격: {it['price']:,}원 | 색상: {it['colors']} | 링크: {it['product_url']}")
+                    print(f"    - 가격: {it['price']:,}원 | 색상: {it['colors']} | 핏: {fit_val}")
+                    print(f"    - {size_str} [출처: {it.get('fit_source_type', 'none')}]")
+                    print(f"    - 링크: {it['product_url']}")
             else:
                 print(">> [추천 코디 세트]")
                 for c_idx, outfit in enumerate(output["outfits"], 1):
@@ -53,8 +63,13 @@ def main():
                     items_list = outfit["items"].values() if isinstance(outfit["items"], dict) else outfit["items"]
                     
                     for it in items_list:
+                        fit_val = it.get('fit_type', 'regular')
+                        size_rec = it.get('size_recommendation')
+                        size_str = f"추천 사이즈: {size_rec.get('size_label')} (적합도: {size_rec.get('predicted_fit_score', 0)*100:.1f}점)" if size_rec else "사이즈 정보 없음"
+                        
                         print(f"    • [{it['category'].upper()}] [ID: {it['product_id']}] {it['brand_name']} - {it['product_name']}")
-                        print(f"      - 가격: {it['price']:,}원 | 색상: {it['colors']}")
+                        print(f"      - 가격: {it['price']:,}원 | 색상: {it['colors']} | 핏: {fit_val}")
+                        print(f"      - 📏 {size_str} [출처: {it.get('fit_source_type', 'none')}]")
                         print(f"      - 링크: {it['product_url']}")
 
         except Exception as e:
