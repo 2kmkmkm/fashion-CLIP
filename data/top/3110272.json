@@ -1,0 +1,806 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3110272",
+  "product_id": 3110272,
+  "name": "씨비 너드 체크 셔츠 15종",
+  "name_en": "",
+  "style_no": "CB23SCNCS3",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "conichiwabonjour",
+    "name": "곤니치와봉쥬르",
+    "name_en": "CONICHIWA BONJOUR"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 67000,
+    "sale": 24700,
+    "discount_rate": 63,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230227/3110272/3110272_17254156779059_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "small",
+        "sequence": 0,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 53.0,
+          "가슴단면": 53.0,
+          "소매길이": 55.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "medium",
+        "sequence": 1,
+        "measurements": {
+          "총장": 75.0,
+          "어깨너비": 56.0,
+          "가슴단면": 61.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "large",
+        "sequence": 2,
+        "measurements": {
+          "총장": 78.0,
+          "어깨너비": 57.0,
+          "가슴단면": 64.0,
+          "소매길이": 62.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "NAVY(big check)",
+          "code": "NAVY(big check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/20a06b3411f74cf2949185586bf74777.jpg",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "NAVY(small check)",
+          "code": "NAVY(small check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/1193e72b046943139c52928d02907c23.png",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BLUE(big check)",
+          "code": "BLUE(big check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/69b060d7986143488efe1dff3de32e41.jpg",
+          "color": {
+            "colorCode": "7",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BLUE(small check)",
+          "code": "BLUE(small check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/f0e8f5e0b5cb48d6b3bdbc70e9013f5b.png",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "GREY(big check)",
+          "code": "GREY(big check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/3328dbf07a2c41f9987460b0f306ecea.jpg",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BEIGE(big check)",
+          "code": "BEIGE(big check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/98bcca7a48b74fb2b9c42cb1ef4219a6.png",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "AIRFORCE(big check)",
+          "code": "AIRFORCE(big check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/b458bede725d4d96af93e0a672281d89.jpg",
+          "color": {
+            "colorCode": "80",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "GREEN(small check)",
+          "code": "GREEN(small check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/d39922581e9b4b3fb947c312e63019f9.png",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BEIGE(small check)",
+          "code": "BEIGE(small check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/ed14efcbb8d643298de1798a7af0e795.png",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "PINK(big check)",
+          "code": "PINK(big check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/1c0a7467093a46098e086ed322cc8f7f.png",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BEIGE(check)",
+          "code": "BEIGE(check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/48c746518d7242b7bafbaed639f1f882.png",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BLUE(check)",
+          "code": "BLUE(check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/1a6ac774bdd84a44a7179f0bc390fc0f.png",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "WHITE(check)",
+          "code": "WHITE(check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/5f1daf37d8e045f29c07fcb5255a0df2.png",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "AIRFORCE(check)",
+          "code": "AIRFORCE(check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/b8a0d963dd1244e0a8232663fea315f0.png",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "PINK(check)",
+          "code": "PINK(check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/324f13cf021c4856b40db2611c51e13a.png",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "YELLOW(big check)",
+          "code": "YELLOW(big check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/2735886f0cdf4c55a335b723cc6044f9.jpg",
+          "color": {
+            "colorCode": "9",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "PURPLE(big check)",
+          "code": "PURPLE(big check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/c4189d3c70db4135a109723b3ac76d75.jpg",
+          "color": {
+            "colorCode": "39",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "SKY(big check)",
+          "code": "SKY(big check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/7f1986c7936a4c1b991517bcdfbb9507.jpg",
+          "color": {
+            "colorCode": "37",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "AIRFORCE(small check)",
+          "code": "AIRFORCE(small check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/ff82bbbccfb5404db97a44d5f1a361a3.jpg",
+          "color": {
+            "colorCode": "80",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "WHITE/BLUE(check)",
+          "code": "WHITE/BLUE(check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/21a9d1c886124af38d14616f69259b3a.jpg",
+          "color": {
+            "colorCode": "7",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "KHAKI/BROWN(check)",
+          "code": "KHAKI/BROWN(check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/2dd92db0f28a428d89956b1c81159292.jpg",
+          "color": {
+            "colorCode": "83",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BLACK(big check)",
+          "code": "BLACK(big check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/0c61e0af5b4e4e7ba8a533a5f8e57a7b.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BLUE MIX(big check)",
+          "code": "BLUE MIX(big check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/5f65bf4ad98e4d438d4a0e4da498aaca.jpg",
+          "color": {
+            "colorCode": "7",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "WHITE/PURPLE(check)",
+          "code": "WHITE/PURPLE(check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/bf7d9807b30c45a3ad4490f7528fec63.jpg",
+          "color": {
+            "colorCode": "8",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "WHITE/RED(check)",
+          "code": "WHITE/RED(check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/d50139363543477ebdcd36083e4ba801.jpg",
+          "color": {
+            "colorCode": "11",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "KHAKI(small check)",
+          "code": "KHAKI(small check)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/08/779d9b27f944428fb8b12a4882e9fed1.jpg",
+          "color": {
+            "colorCode": "30",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "small",
+          "code": "small",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "medium",
+          "code": "medium",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "large",
+          "code": "large",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 12983198,
+      "managed_code": "AIRFORCE(big check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "AIRFORCE(big check)",
+        "large"
+      ]
+    },
+    {
+      "id": 12983199,
+      "managed_code": "AIRFORCE(big check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "AIRFORCE(big check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 12983200,
+      "managed_code": "AIRFORCE(big check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "AIRFORCE(big check)",
+        "small"
+      ]
+    },
+    {
+      "id": 12983213,
+      "managed_code": "BLUE(big check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE(big check)",
+        "large"
+      ]
+    },
+    {
+      "id": 12983214,
+      "managed_code": "BLUE(big check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE(big check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 12983215,
+      "managed_code": "BLUE(big check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE(big check)",
+        "small"
+      ]
+    },
+    {
+      "id": 19038639,
+      "managed_code": "NAVY(big check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY(big check)",
+        "small"
+      ]
+    },
+    {
+      "id": 19038640,
+      "managed_code": "NAVY(big check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY(big check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 19038641,
+      "managed_code": "NAVY(big check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY(big check)",
+        "large"
+      ]
+    },
+    {
+      "id": 19694251,
+      "managed_code": "GREY(big check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY(big check)",
+        "small"
+      ]
+    },
+    {
+      "id": 19694252,
+      "managed_code": "GREY(big check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY(big check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 19694253,
+      "managed_code": "GREY(big check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY(big check)",
+        "large"
+      ]
+    },
+    {
+      "id": 23435018,
+      "managed_code": "YELLOW(big check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "YELLOW(big check)",
+        "small"
+      ]
+    },
+    {
+      "id": 23435019,
+      "managed_code": "YELLOW(big check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "YELLOW(big check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 23435020,
+      "managed_code": "YELLOW(big check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "YELLOW(big check)",
+        "large"
+      ]
+    },
+    {
+      "id": 23435021,
+      "managed_code": "PURPLE(big check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PURPLE(big check)",
+        "small"
+      ]
+    },
+    {
+      "id": 23435022,
+      "managed_code": "PURPLE(big check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PURPLE(big check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 23435023,
+      "managed_code": "PURPLE(big check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PURPLE(big check)",
+        "large"
+      ]
+    },
+    {
+      "id": 23435027,
+      "managed_code": "AIRFORCE(small check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "AIRFORCE(small check)",
+        "small"
+      ]
+    },
+    {
+      "id": 23435028,
+      "managed_code": "AIRFORCE(small check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "AIRFORCE(small check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 23435029,
+      "managed_code": "AIRFORCE(small check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "AIRFORCE(small check)",
+        "large"
+      ]
+    },
+    {
+      "id": 29795656,
+      "managed_code": "WHITE/BLUE(check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE/BLUE(check)",
+        "small"
+      ]
+    },
+    {
+      "id": 29795657,
+      "managed_code": "WHITE/BLUE(check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE/BLUE(check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 29795658,
+      "managed_code": "WHITE/BLUE(check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE/BLUE(check)",
+        "large"
+      ]
+    },
+    {
+      "id": 29795659,
+      "managed_code": "KHAKI/BROWN(check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI/BROWN(check)",
+        "small"
+      ]
+    },
+    {
+      "id": 29795660,
+      "managed_code": "KHAKI/BROWN(check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI/BROWN(check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 29795661,
+      "managed_code": "KHAKI/BROWN(check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI/BROWN(check)",
+        "large"
+      ]
+    },
+    {
+      "id": 29795662,
+      "managed_code": "BLACK(big check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK(big check)",
+        "small"
+      ]
+    },
+    {
+      "id": 29795663,
+      "managed_code": "BLACK(big check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK(big check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 29795664,
+      "managed_code": "BLACK(big check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK(big check)",
+        "large"
+      ]
+    },
+    {
+      "id": 29795665,
+      "managed_code": "BLUE MIX(big check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE MIX(big check)",
+        "small"
+      ]
+    },
+    {
+      "id": 29795666,
+      "managed_code": "BLUE MIX(big check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE MIX(big check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 29795667,
+      "managed_code": "BLUE MIX(big check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE MIX(big check)",
+        "large"
+      ]
+    },
+    {
+      "id": 29795668,
+      "managed_code": "WHITE/PURPLE(check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE/PURPLE(check)",
+        "small"
+      ]
+    },
+    {
+      "id": 29795669,
+      "managed_code": "WHITE/PURPLE(check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE/PURPLE(check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 29795670,
+      "managed_code": "WHITE/PURPLE(check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE/PURPLE(check)",
+        "large"
+      ]
+    },
+    {
+      "id": 29795671,
+      "managed_code": "WHITE/RED(check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE/RED(check)",
+        "small"
+      ]
+    },
+    {
+      "id": 29795672,
+      "managed_code": "WHITE/RED(check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE/RED(check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 29795673,
+      "managed_code": "WHITE/RED(check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE/RED(check)",
+        "large"
+      ]
+    },
+    {
+      "id": 29795674,
+      "managed_code": "KHAKI(small check)^small",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI(small check)",
+        "small"
+      ]
+    },
+    {
+      "id": 29795675,
+      "managed_code": "KHAKI(small check)^medium",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI(small check)",
+        "medium"
+      ]
+    },
+    {
+      "id": 29795676,
+      "managed_code": "KHAKI(small check)^large",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI(small check)",
+        "large"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 1808
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

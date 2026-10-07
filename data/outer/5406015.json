@@ -1,0 +1,155 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5406015",
+  "product_id": 5406015,
+  "name": "싱글라인 라운드 가디건 [버건디]",
+  "name_en": "",
+  "style_no": "ND253KT010M",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "nodu",
+    "name": "노드유",
+    "name_en": "NODU"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002020",
+    "categoryDepth2Title": "카디건",
+    "categoryDepth2Name": "카디건",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 56000,
+    "sale": 39200,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250904/5406015/5406015_17572913560603_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250904/5406015/detail_5406015_17572913649631_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250904/5406015/detail_5406015_17572913671501_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250904/5406015/detail_5406015_17572913640753_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250904/5406015/detail_5406015_17572913662372_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250904/5406015/detail_5406015_17572913738963_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250904/5406015/detail_5406015_17572913746872_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250904/5406015/detail_5406015_17572913754058_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250904/5406015/detail_5406015_17572913760947_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250904/5406015/detail_5406015_17572913769019_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250904/5406015/detail_5406015_17572913778665_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250904/5406015/detail_5406015_17572913787921_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 67.0,
+          "어깨너비": 46.0,
+          "가슴단면": 56.0,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 69.0,
+          "어깨너비": 48.0,
+          "가슴단면": 58.0,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 26038619,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 26038620,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 70
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

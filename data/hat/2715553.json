@@ -1,0 +1,108 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2715553",
+  "product_id": 2715553,
+  "name": "LOGO JACQUARD SHORT BEANIE IN BLACK",
+  "name_en": "LOGO JACQUARD SHORT BEANIE IN BLACK",
+  "style_no": "MK2600BN006VBB",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "matinkim",
+    "name": "마뗑킴",
+    "name_en": "MATIN KIM"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120005",
+    "categoryDepth2Title": "비니",
+    "categoryDepth2Name": "비니",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 68000,
+    "sale": 68000,
+    "discount_rate": 0,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220812/2715553/2715553_17766622832461_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "비니",
+    "type_number": 52,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711465700000088960.png",
+    "measurements": [
+      {
+        "size": "FREE",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 50.0,
+          "깊이": 21.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "ONE SIZE",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 11134667,
+      "managed_code": "FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 1686
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

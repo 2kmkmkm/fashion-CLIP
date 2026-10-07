@@ -1,0 +1,293 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4400132",
+  "product_id": 4400132,
+  "name": "남여 공용 코튼 치노 베이스 볼캡 11Color AC001",
+  "name_en": "남여 공용 코튼 치노 베이스 볼캡 11Color AC001",
+  "style_no": "A40AC001K3",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "bhpoloclub",
+    "name": "비버리힐스 폴로클럽",
+    "name_en": "BHPOLOCLUB"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": 2024,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 59900,
+    "sale": 23910,
+    "discount_rate": 60,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240903/4400132/4400132_17434819960424_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240903/4400132/detail_4400132_17434820238502_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240903/4400132/detail_4400132_17434820251866_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240903/4400132/detail_4400132_17434820264477_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240903/4400132/detail_4400132_17434820277297_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240903/4400132/detail_4400132_17434820289819_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240903/4400132/detail_4400132_17434820300790_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240903/4400132/detail_4400132_17434820313627_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240903/4400132/detail_4400132_17434820326225_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240903/4400132/detail_4400132_17434820339916_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240903/4400132/detail_4400132_17434820350273_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240903/4400132/detail_4400132_17434820362957_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "FREE",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 58.0,
+          "챙길이": 7.0,
+          "깊이": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "화이트",
+          "code": "화이트",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "네이비",
+          "code": "네이비",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "베이지",
+          "code": "베이지",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "핑크",
+          "code": "핑크",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블루",
+          "code": "블루",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "옐로우",
+          "code": "옐로우",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "레드",
+          "code": "레드",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "그린",
+          "code": "그린",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "라벤더",
+          "code": "라벤더",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "클래식블루",
+          "code": "클래식블루",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 19031630,
+      "managed_code": "화이트^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "FREE"
+      ]
+    },
+    {
+      "id": 19031631,
+      "managed_code": "블랙^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "FREE"
+      ]
+    },
+    {
+      "id": 19031632,
+      "managed_code": "네이비^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "FREE"
+      ]
+    },
+    {
+      "id": 19031633,
+      "managed_code": "베이지^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "FREE"
+      ]
+    },
+    {
+      "id": 19031634,
+      "managed_code": "핑크^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "핑크",
+        "FREE"
+      ]
+    },
+    {
+      "id": 19031635,
+      "managed_code": "블루^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블루",
+        "FREE"
+      ]
+    },
+    {
+      "id": 20777361,
+      "managed_code": "레드^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "레드",
+        "FREE"
+      ]
+    },
+    {
+      "id": 20777362,
+      "managed_code": "그린^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그린",
+        "FREE"
+      ]
+    },
+    {
+      "id": 20777363,
+      "managed_code": "라벤더^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라벤더",
+        "FREE"
+      ]
+    },
+    {
+      "id": 20777364,
+      "managed_code": "클래식블루^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "클래식블루",
+        "FREE"
+      ]
+    },
+    {
+      "id": 20777434,
+      "managed_code": "옐로우^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "옐로우",
+        "FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 347
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

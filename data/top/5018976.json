@@ -1,0 +1,326 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5018976",
+  "product_id": 5018976,
+  "name": "썸머 리브드 헨리넥  숏 슬리브",
+  "name_en": "Summer Ribbed Short Sleeve",
+  "style_no": "Summer Ribbed Short Sleeve",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "pino",
+    "name": "피인오",
+    "name_en": "P.IN.O"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001001",
+    "categoryDepth2Title": "반소매 티셔츠",
+    "categoryDepth2Name": "반소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "여름"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 48750,
+    "sale": 39000,
+    "discount_rate": 20,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250412/5018976/5018976_17836573436429_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "슬림"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "거의 없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "여름"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 47.0,
+          "가슴단면": 52.0,
+          "소매길이": 19.0,
+          "밑단단면": 49.0,
+          "소매부리단면": 16.5,
+          "암홀": 21.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 48.0,
+          "가슴단면": 53.5,
+          "소매길이": 21.0,
+          "밑단단면": 51.0,
+          "소매부리단면": 16.0,
+          "암홀": 24.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5018976/20260616182456_option_6a311668980de5.07293017.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "네이비",
+          "code": "네이비",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5018976/20260616182500_option_6a31166c0ebde8.45526889.",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "멜란지",
+          "code": "멜란지",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5018976/20260616182502_option_6a31166e71cd63.53762352.",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "아이보리",
+          "code": "아이보리",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5018976/20260616182551_option_6a31169f461223.14545811.",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "연베이지",
+          "code": "연베이지",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5018976/20260616182507_option_6a3116731a3a28.81483318.",
+          "color": {
+            "colorCode": "77",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "브라운",
+          "code": "브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5018976/20260616182509_option_6a3116756f3d47.56420532.",
+          "color": {
+            "colorCode": "4",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 23041061,
+      "managed_code": "블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 23041062,
+      "managed_code": "블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 23041063,
+      "managed_code": "멜란지^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "멜란지",
+        "M"
+      ]
+    },
+    {
+      "id": 23041064,
+      "managed_code": "멜란지^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "멜란지",
+        "L"
+      ]
+    },
+    {
+      "id": 23041065,
+      "managed_code": "아이보리^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "M"
+      ]
+    },
+    {
+      "id": 23041066,
+      "managed_code": "아이보리^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "L"
+      ]
+    },
+    {
+      "id": 30625796,
+      "managed_code": "네이비^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "M"
+      ]
+    },
+    {
+      "id": 30625797,
+      "managed_code": "네이비^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "L"
+      ]
+    },
+    {
+      "id": 30625798,
+      "managed_code": "연베이지^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "연베이지",
+        "M"
+      ]
+    },
+    {
+      "id": 30625799,
+      "managed_code": "연베이지^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "연베이지",
+        "L"
+      ]
+    },
+    {
+      "id": 30625800,
+      "managed_code": "브라운^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "M"
+      ]
+    },
+    {
+      "id": 30625801,
+      "managed_code": "브라운^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 514
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

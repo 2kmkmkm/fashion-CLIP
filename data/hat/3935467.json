@@ -1,0 +1,124 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3935467",
+  "product_id": 3935467,
+  "name": "Poser Vintage Cap, Navy",
+  "name_en": "",
+  "style_no": "gv24ssac03",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "guvo",
+    "name": "구보",
+    "name_en": "GUVO"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2024,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 36900,
+    "discount_rate": 25,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240308/3935467/3935467_17737977960354_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240308/3935467/detail_3935467_17737978076227_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240308/3935467/detail_3935467_17737978082685_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240308/3935467/detail_3935467_17737978088729_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240308/3935467/detail_3935467_17737978094026_500.jpg"
+  ],
+  "features": {
+    "깊이": [
+      "깊음"
+    ],
+    "챙 넓이": [
+      "보통"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "NONE",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 60.0,
+          "챙길이": 8.0,
+          "깊이": 16.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "NONE",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "NONE",
+          "code": "NONE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 16591396,
+      "managed_code": "NONE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NONE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 332
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

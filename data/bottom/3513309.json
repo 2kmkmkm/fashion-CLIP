@@ -1,0 +1,381 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3513309",
+  "product_id": 3513309,
+  "name": "[ 원단 선택  가능]카펜터 버뮤다 스웨트 8부 팬츠 블랙",
+  "name_en": "CARPENTER BERMUDA SWEAT SHORT BLACK",
+  "style_no": "CARPENTER BERMUDA SWEAT SHORT BLACK",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "momg",
+    "name": "필립페이커",
+    "name_en": "PHILIPPAKER"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003009",
+    "categoryDepth2Title": "숏 팬츠",
+    "categoryDepth2Name": "숏 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 69000,
+    "sale": 16000,
+    "discount_rate": 77,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230830/3513309/3513309_16934722502141_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_17282790056296_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_17282790064398_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_16934722686492_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_16934722715807_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_16934722758648_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_16934722674656_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_16934722664464_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_16934722700486_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_16934722808192_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_16934722736413_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_16934722831370_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_17827364076145_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_17827364102601_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_17827364082833_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_17827364089423_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_17827364095746_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_17827364050089_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_17827364056352_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_17827364062841_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_17827364069483_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_16934722858590_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_16934722891391_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_16934722922611_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230830/3513309/detail_3513309_16934722953055_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "약간 두꺼움"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반바지",
+    "type_number": 23,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711371500000057711.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 68.0,
+          "허리단면": 34.0,
+          "엉덩이단면": 56.0,
+          "허벅지단면": 38.0,
+          "밑위": 41.0,
+          "밑단단면": 32.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.0,
+          "허리단면": 37.0,
+          "엉덩이단면": 61.0,
+          "허벅지단면": 40.0,
+          "밑위": 43.0,
+          "밑단단면": 33.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 66.0,
+          "허벅지단면": 42.0,
+          "밑위": 45.0,
+          "밑단단면": 34.0
+        }
+      },
+      {
+        "size": "M(3단쭈리)",
+        "sequence": 3,
+        "measurements": {
+          "총장": 68.0,
+          "허리단면": 34.0,
+          "엉덩이단면": 56.0,
+          "허벅지단면": 38.0,
+          "밑위": 41.0,
+          "밑단단면": 32.0
+        }
+      },
+      {
+        "size": "L(3단쭈리)",
+        "sequence": 4,
+        "measurements": {
+          "총장": 70.0,
+          "허리단면": 37.0,
+          "엉덩이단면": 61.0,
+          "허벅지단면": 40.0,
+          "밑위": 43.0,
+          "밑단단면": 33.0
+        }
+      },
+      {
+        "size": "XL(3단쭈리)",
+        "sequence": 5,
+        "measurements": {
+          "총장": 72.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 66.0,
+          "허벅지단면": 42.0,
+          "밑위": 45.0,
+          "밑단단면": 34.0
+        }
+      },
+      {
+        "size": "M(미니쭈리 여름전용)",
+        "sequence": 6,
+        "measurements": {
+          "총장": 0.0,
+          "허리단면": 0.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 0.0,
+          "밑위": 0.0,
+          "밑단단면": 0.0
+        }
+      },
+      {
+        "size": "L(미니쭈리 여름전용)",
+        "sequence": 7,
+        "measurements": {
+          "총장": 0.0,
+          "허리단면": 0.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 0.0,
+          "밑위": 0.0,
+          "밑단단면": 0.0
+        }
+      },
+      {
+        "size": "XL(미니쭈리 여름전용)",
+        "sequence": 8,
+        "measurements": {
+          "총장": 0.0,
+          "허리단면": 0.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 0.0,
+          "밑위": 0.0,
+          "밑단단면": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(3단쭈리)",
+          "code": "M(3단쭈리)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(3단쭈리)",
+          "code": "L(3단쭈리)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(3단쭈리)",
+          "code": "XL(3단쭈리)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(미니쭈리 여름전용)",
+          "code": "M(미니쭈리 여름전용)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(미니쭈리 여름전용)",
+          "code": "L(미니쭈리 여름전용)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(미니쭈리 여름전용)",
+          "code": "XL(미니쭈리 여름전용)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 14783287,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 14783288,
+      "managed_code": "L(3단쭈리)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L(3단쭈리)"
+      ]
+    },
+    {
+      "id": 14783289,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 14783290,
+      "managed_code": "M(3단쭈리)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M(3단쭈리)"
+      ]
+    },
+    {
+      "id": 14783291,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 14783292,
+      "managed_code": "XL(3단쭈리)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL(3단쭈리)"
+      ]
+    },
+    {
+      "id": 31681747,
+      "managed_code": "M(미니쭈리 여름전용)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M(미니쭈리 여름전용)"
+      ]
+    },
+    {
+      "id": 31681748,
+      "managed_code": "L(미니쭈리 여름전용)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L(미니쭈리 여름전용)"
+      ]
+    },
+    {
+      "id": 31681749,
+      "managed_code": "XL(미니쭈리 여름전용)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL(미니쭈리 여름전용)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1997
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

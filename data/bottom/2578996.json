@@ -1,0 +1,469 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2578996",
+  "product_id": 2578996,
+  "name": "[기모선택] 더블턱 와이드 슬랙스[블랙]",
+  "name_en": "Double-Tuck Wide Slacks [Black]",
+  "style_no": "SSL-001",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "signature",
+    "name": "시그니처",
+    "name_en": "SIGNATURE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003008",
+    "categoryDepth2Title": "슈트 팬츠/슬랙스",
+    "categoryDepth2Name": "슈트 팬츠/슬랙스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 59000,
+    "sale": 29000,
+    "discount_rate": 51,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220524/2578996/2578996_17870331293023_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220524/2578996/detail_2578996_17870329868516_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220524/2578996/detail_2578996_17870329875443_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220524/2578996/detail_2578996_17870329882392_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220524/2578996/detail_2578996_17870329890372_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220524/2578996/detail_2578996_17870329897605_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220524/2578996/detail_2578996_17870329905424_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220524/2578996/detail_2578996_17870329912302_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "약간 있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "얇음"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "4계절원단 S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 53.5,
+          "허벅지단면": 34.0,
+          "밑위": 34.5,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "4계절원단 M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 109.0,
+          "허리단면": 38.0,
+          "엉덩이단면": 55.0,
+          "허벅지단면": 36.0,
+          "밑위": 35.5,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "4계절원단 L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 110.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 56.5,
+          "허벅지단면": 38.0,
+          "밑위": 36.5,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "4계절원단 XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 111.0,
+          "허리단면": 42.0,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 40.0,
+          "밑위": 37.5,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "겨울원단S",
+        "sequence": 4,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 53.5,
+          "허벅지단면": 34.0,
+          "밑위": 34.5,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "겨울원단M",
+        "sequence": 5,
+        "measurements": {
+          "총장": 109.0,
+          "허리단면": 38.0,
+          "엉덩이단면": 55.0,
+          "허벅지단면": 36.0,
+          "밑위": 35.5,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "겨울원단L",
+        "sequence": 6,
+        "measurements": {
+          "총장": 110.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 56.5,
+          "허벅지단면": 38.0,
+          "밑위": 36.5,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "겨울원단XL",
+        "sequence": 7,
+        "measurements": {
+          "총장": 111.0,
+          "허리단면": 42.0,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 40.0,
+          "밑위": 37.5,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "여름원단 S",
+        "sequence": 12,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 53.5,
+          "허벅지단면": 34.0,
+          "밑위": 34.5,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "여름원단 M",
+        "sequence": 13,
+        "measurements": {
+          "총장": 109.0,
+          "허리단면": 38.0,
+          "엉덩이단면": 55.0,
+          "허벅지단면": 36.0,
+          "밑위": 35.5,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "여름원단 L",
+        "sequence": 14,
+        "measurements": {
+          "총장": 110.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 56.5,
+          "허벅지단면": 38.0,
+          "밑위": 36.5,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "여름원단 XL",
+        "sequence": 15,
+        "measurements": {
+          "총장": 111.0,
+          "허리단면": 42.0,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 40.0,
+          "밑위": 37.5,
+          "밑단단면": 28.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "4계절원단 S",
+          "code": "4계절원단 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "4계절원단 M",
+          "code": "4계절원단 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "4계절원단 L",
+          "code": "4계절원단 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "4계절원단 XL",
+          "code": "4계절원단 XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "겨울원단S",
+          "code": "겨울원단S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "겨울원단M",
+          "code": "겨울원단M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "겨울원단L",
+          "code": "겨울원단L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "겨울원단XL",
+          "code": "겨울원단XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "여름원단 S",
+          "code": "여름원단 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "여름원단 M",
+          "code": "여름원단 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "여름원단 L",
+          "code": "여름원단 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "여름원단 XL",
+          "code": "여름원단 XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 10568852,
+      "managed_code": "4계절원단 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4계절원단 L"
+      ]
+    },
+    {
+      "id": 10568853,
+      "managed_code": "4계절원단 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4계절원단 M"
+      ]
+    },
+    {
+      "id": 10568854,
+      "managed_code": "4계절원단 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4계절원단 S"
+      ]
+    },
+    {
+      "id": 10568855,
+      "managed_code": "4계절원단 XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4계절원단 XL"
+      ]
+    },
+    {
+      "id": 10568860,
+      "managed_code": "겨울원단L",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "겨울원단L"
+      ]
+    },
+    {
+      "id": 10568861,
+      "managed_code": "겨울원단M",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "겨울원단M"
+      ]
+    },
+    {
+      "id": 10568862,
+      "managed_code": "겨울원단S",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "겨울원단S"
+      ]
+    },
+    {
+      "id": 10568863,
+      "managed_code": "겨울원단XL",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "겨울원단XL"
+      ]
+    },
+    {
+      "id": 27827617,
+      "managed_code": "여름원단 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "여름원단 S"
+      ]
+    },
+    {
+      "id": 27827618,
+      "managed_code": "여름원단 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "여름원단 M"
+      ]
+    },
+    {
+      "id": 27827619,
+      "managed_code": "여름원단 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "여름원단 L"
+      ]
+    },
+    {
+      "id": 27827620,
+      "managed_code": "여름원단 XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "여름원단 XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5308429",
+  "product_id": 5308429,
+  "name": "빈티지 워싱 더블포켓 데님 셔츠 3Color GLS-716",
+  "name_en": "빈티지 워싱 더블포켓 데님 셔츠 3Color GLS-716",
+  "style_no": "GLS-716dustindigo",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "ghostrepublic",
+    "name": "고스트리퍼블릭",
+    "name_en": "GHOST REPUBLIC"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 57000,
+    "sale": 25300,
+    "discount_rate": 56,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250811/5308429/5308429_17847041958656_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308429/detail_5308429_17847042004744_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308429/detail_5308429_17835722447090_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308429/detail_5308429_17835722506228_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308429/detail_5308429_17560982877252_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308429/detail_5308429_17560982899439_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308429/detail_5308429_17835722469731_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308429/detail_5308429_17835722492040_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308429/detail_5308429_17835722518663_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308429/detail_5308429_17835722528384_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈",
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "거의 없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 75.0,
+          "어깨너비": 56.0,
+          "가슴단면": 68.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 77.0,
+          "어깨너비": 58.0,
+          "가슴단면": 70.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 79.0,
+          "어깨너비": 60.0,
+          "가슴단면": 72.0,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "더스트인디고",
+          "code": "더스트인디고",
+          "image_url": "",
+          "color": {
+            "colorCode": "81",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "더스트블랙",
+          "code": "더스트블랙",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "더스트블루",
+          "code": "더스트블루",
+          "image_url": "",
+          "color": {
+            "colorCode": "7",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25479141,
+      "managed_code": "더스트인디고^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스트인디고",
+        "M"
+      ]
+    },
+    {
+      "id": 25479142,
+      "managed_code": "더스트인디고^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스트인디고",
+        "L"
+      ]
+    },
+    {
+      "id": 25479143,
+      "managed_code": "더스트인디고^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스트인디고",
+        "XL"
+      ]
+    },
+    {
+      "id": 31874205,
+      "managed_code": "더스트블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스트블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 31874206,
+      "managed_code": "더스트블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스트블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 31874207,
+      "managed_code": "더스트블랙^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스트블랙",
+        "XL"
+      ]
+    },
+    {
+      "id": 31874208,
+      "managed_code": "더스트블루^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스트블루",
+        "M"
+      ]
+    },
+    {
+      "id": 31874209,
+      "managed_code": "더스트블루^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스트블루",
+        "L"
+      ]
+    },
+    {
+      "id": 31874210,
+      "managed_code": "더스트블루^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스트블루",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 238
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

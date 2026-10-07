@@ -1,0 +1,246 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3808476",
+  "product_id": 3808476,
+  "name": "마쉬멜로우 슬라이드 블랙",
+  "name_en": "MARSHMELLOW SLIDE BLACK",
+  "style_no": "YES4FW333ABK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "yale",
+    "name": "예일",
+    "name_en": "YALE"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103003",
+    "categoryDepth2Title": "샌들/슬리퍼",
+    "categoryDepth2Name": "샌들/슬리퍼",
+    "categoryDepth3Code": "103003007",
+    "categoryDepth3Title": "슬라이드",
+    "categoryDepth3Name": "슬라이드",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 29900,
+    "discount_rate": 39,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240119/3808476/3808476_17183528099521_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240119/3808476/detail_3808476_17183528163232_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240119/3808476/detail_3808476_17061610354948_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240119/3808476/detail_3808476_17061610360525_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240119/3808476/detail_3808476_17061610365699_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240119/3808476/detail_3808476_17061610371982_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240119/3808476/detail_3808476_17120406651712_500.png",
+    "https://image.msscdn.net/images/prd_img/20240119/3808476/detail_3808476_17120406664079_500.png"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "230",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 230.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "240",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 240.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "250",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 250.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 260.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 270.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 280.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "230",
+          "code": "230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "240",
+          "code": "240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15982809,
+      "managed_code": "230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "230"
+      ]
+    },
+    {
+      "id": 15982810,
+      "managed_code": "240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "240"
+      ]
+    },
+    {
+      "id": 15982811,
+      "managed_code": "250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "250"
+      ]
+    },
+    {
+      "id": 15982812,
+      "managed_code": "260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "260"
+      ]
+    },
+    {
+      "id": 15982813,
+      "managed_code": "270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "270"
+      ]
+    },
+    {
+      "id": 15982814,
+      "managed_code": "280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.5,
+    "count": 118
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

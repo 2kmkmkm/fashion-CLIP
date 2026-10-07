@@ -1,0 +1,202 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5375199",
+  "product_id": 5375199,
+  "name": "Diagonal henley neck long sleeves BLACK",
+  "name_en": "Diagonal henley neck long sleeves BLACK",
+  "style_no": "MSKM254LS02BK",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "misekiseoulmen",
+    "name": "미세키서울 맨",
+    "name_en": "MISEKISEOUL MEN"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001010",
+    "categoryDepth2Title": "긴소매 티셔츠",
+    "categoryDepth2Name": "긴소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2025,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 88000,
+    "sale": 79200,
+    "discount_rate": 10,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250828/5375199/5375199_17574702888772_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250828/5375199/detail_5375199_17739726477345_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250828/5375199/detail_5375199_17563658320554_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "1",
+        "sequence": 0,
+        "measurements": {
+          "총장": 68.5,
+          "어깨너비": 52.0,
+          "가슴단면": 56.0,
+          "소매길이": 61.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "2",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.5,
+          "어깨너비": 54.0,
+          "가슴단면": 58.5,
+          "소매길이": 63.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "3",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.5,
+          "어깨너비": 56.0,
+          "가슴단면": 61.0,
+          "소매길이": 65.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "4",
+        "sequence": 3,
+        "measurements": {
+          "총장": 74.5,
+          "어깨너비": 58.0,
+          "가슴단면": 63.5,
+          "소매길이": 67.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "1",
+          "code": "1",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2",
+          "code": "2",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "3",
+          "code": "3",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "4",
+          "code": "4",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25852936,
+      "managed_code": "1",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "id": 25852937,
+      "managed_code": "2",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2"
+      ]
+    },
+    {
+      "id": 25852938,
+      "managed_code": "3",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "3"
+      ]
+    },
+    {
+      "id": 25852939,
+      "managed_code": "4",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 58
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

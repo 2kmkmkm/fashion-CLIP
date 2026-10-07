@@ -1,0 +1,172 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2721684",
+  "product_id": 2721684,
+  "name": "유니브 맨투맨(에어포스)",
+  "name_en": "",
+  "style_no": "CB22RAUMAF",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "conichiwabonjour",
+    "name": "곤니치와봉쥬르",
+    "name_en": "CONICHIWA BONJOUR"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001005",
+    "categoryDepth2Title": "맨투맨/스웨트",
+    "categoryDepth2Name": "맨투맨/스웨트",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2025,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 65000,
+    "sale": 29250,
+    "discount_rate": 55,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220817/2721684/2721684_2_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "1(small)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 62.0,
+          "어깨너비": 57.0,
+          "가슴단면": 58.0,
+          "소매길이": 55.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "2(medium)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 69.0,
+          "어깨너비": 59.0,
+          "가슴단면": 60.0,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "3(large)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 62.0,
+          "가슴단면": 62.0,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "1(small)",
+          "code": "1(small)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2(medium)",
+          "code": "2(medium)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "3(large)",
+          "code": "3(large)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 11168650,
+      "managed_code": "1(small)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1(small)"
+      ]
+    },
+    {
+      "id": 11168651,
+      "managed_code": "2(medium)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2(medium)"
+      ]
+    },
+    {
+      "id": 11168652,
+      "managed_code": "3(large)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "3(large)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1473
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

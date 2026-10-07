@@ -1,0 +1,171 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7365631",
+  "product_id": 7365631,
+  "name": "헤럴딕 엠블럼 크롭 후드 집업 - 네이비",
+  "name_en": "Heraldic Emblem Crop Hoodie Zip-up - Navy",
+  "style_no": "FFHZ107-NV",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "easynoeasy",
+    "name": "이지노이지",
+    "name_en": "EASY NO EASY"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002022",
+    "categoryDepth2Title": "후드 집업",
+    "categoryDepth2Name": "후드 집업",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 142000,
+    "sale": 85200,
+    "discount_rate": 40,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260918/7365631/7365631_17901243212293_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7365631/detail_7365631_17901243218407_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7365631/detail_7365631_17901243219961_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7365631/detail_7365631_17901243221517_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "1번",
+        "sequence": 0,
+        "measurements": {
+          "총장": 55.0,
+          "어깨너비": 51.5,
+          "가슴단면": 61.5,
+          "소매길이": 65.0,
+          "밑단단면": 45.0,
+          "소매부리단면": 10.0,
+          "암홀": 29.0
+        }
+      },
+      {
+        "size": "2번",
+        "sequence": 1,
+        "measurements": {
+          "총장": 57.0,
+          "어깨너비": 63.5,
+          "가슴단면": 64.0,
+          "소매길이": 67.0,
+          "밑단단면": 47.0,
+          "소매부리단면": 11.0,
+          "암홀": 30.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "1번",
+          "code": "1번",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2번",
+          "code": "2번",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 33316323,
+      "managed_code": "1번",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1번"
+      ]
+    },
+    {
+      "id": 33316324,
+      "managed_code": "2번",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2번"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

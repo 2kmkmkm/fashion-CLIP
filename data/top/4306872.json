@@ -1,0 +1,251 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4306872",
+  "product_id": 4306872,
+  "name": "90S VTG THE NERD 오버핏 체크셔츠_라이트 핑크",
+  "name_en": "90S VTG THE NERD 오버핏 체크셔츠_라이트 핑크",
+  "style_no": "CBDFUSH003LP",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "codegraphy",
+    "name": "코드그라피",
+    "name_en": "CGP"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 24900,
+    "discount_rate": 49,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240807/4306872/4306872_17718107079304_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17585998624453_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17585998853810_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17585998845247_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17572903453112_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17572903461996_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17572903468396_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17572903475401_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17572903484072_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17572903492447_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17588508730357_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17588509307967_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17588509366253_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17588509457627_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17588509541213_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4306872/detail_4306872_17588509597922_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 74.0,
+          "어깨너비": 54.0,
+          "가슴단면": 60.0,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 76.0,
+          "어깨너비": 56.0,
+          "가슴단면": 62.5,
+          "소매길이": 58.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 78.0,
+          "어깨너비": 58.0,
+          "가슴단면": 65.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블루그린",
+          "code": "블루그린",
+          "image_url": "",
+          "color": {
+            "colorCode": "32",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "라이트핑크",
+          "code": "라이트핑크",
+          "image_url": "",
+          "color": {
+            "colorCode": "45",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "옐로우그린",
+          "code": "옐로우그린",
+          "image_url": "",
+          "color": {
+            "colorCode": "31",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "옐로우",
+          "code": "옐로우",
+          "image_url": "",
+          "color": {
+            "colorCode": "9",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "스카이블루",
+          "code": "스카이블루",
+          "image_url": "",
+          "color": {
+            "colorCode": "37",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "그린",
+          "code": "그린",
+          "image_url": "",
+          "color": {
+            "colorCode": "6",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 18604851,
+      "managed_code": "라이트핑크^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트핑크",
+        "S"
+      ]
+    },
+    {
+      "id": 18604852,
+      "managed_code": "라이트핑크^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트핑크",
+        "M"
+      ]
+    },
+    {
+      "id": 18604853,
+      "managed_code": "라이트핑크^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트핑크",
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1222
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4336667",
+  "product_id": 4336667,
+  "name": "MINI TORY LOGO 롱슬리브 (SLS011) 화이트",
+  "name_en": "Mini Tory Long Sleeve (SLS011) White",
+  "style_no": "SLS011",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "shutter",
+    "name": "셔터",
+    "name_en": "SHUTTER"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001010",
+    "categoryDepth2Title": "긴소매 티셔츠",
+    "categoryDepth2Name": "긴소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 34900,
+    "sale": 24430,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240816/4336667/4336667_17237841861541_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240816/4336667/detail_4336667_17237841949465_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240816/4336667/detail_4336667_17749229344327_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240816/4336667/detail_4336667_17237842083037_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 50.0,
+          "가슴단면": 51.5,
+          "소매길이": 56.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 52.0,
+          "가슴단면": 55.0,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 54.0,
+          "가슴단면": 58.5,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 74.0,
+          "어깨너비": 56.0,
+          "가슴단면": 62.0,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XXL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 76.0,
+          "어깨너비": 58.0,
+          "가슴단면": 65.5,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 18629543,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 18629544,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 18629545,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 18629546,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 18629547,
+      "managed_code": "XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XXL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 3
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

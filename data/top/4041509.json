@@ -1,0 +1,176 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4041509",
+  "product_id": 4041509,
+  "name": "헤이지 펜슬 스트라이프 셔츠 [SKY BLUE]",
+  "name_en": "HAZY PENCIL STRIPE SHIRT [SKY BLUE]",
+  "style_no": "DFSH4202SBL",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "drawfit",
+    "name": "드로우핏",
+    "name_en": "DRAW FIT"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 55000,
+    "sale": 49500,
+    "discount_rate": 10,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240409/4041509/4041509_17772735201936_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240409/4041509/detail_4041509_17772735348748_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240409/4041509/detail_4041509_17764032320295_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240409/4041509/detail_4041509_17629156400883_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240409/4041509/detail_4041509_17629156409195_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 78.0,
+          "어깨너비": 57.0,
+          "가슴단면": 64.0,
+          "소매길이": 57.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 79.0,
+          "어깨너비": 59.0,
+          "가슴단면": 66.5,
+          "소매길이": 58.5,
+          "밑단단면": 63.0,
+          "소매부리단면": 12.0,
+          "암홀": 27.5
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 80.5,
+          "어깨너비": 61.0,
+          "가슴단면": 69.0,
+          "소매길이": 59.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 17021170,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 17021171,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 17021172,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 612
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

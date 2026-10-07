@@ -1,0 +1,248 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4766527",
+  "product_id": 4766527,
+  "name": "트레이닝 삥줄 트랙 와이드 팬츠_그레이",
+  "name_en": "트레이닝 삥줄 트랙 와이드 팬츠_그레이",
+  "style_no": "5011101490",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "likethemost",
+    "name": "라이크더모스트",
+    "name_en": "LIKE THE MOST"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 37400,
+    "sale": 15900,
+    "discount_rate": 57,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250207/4766527/4766527_17394245378000_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250207/4766527/detail_4766527_17394245448156_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250207/4766527/detail_4766527_17394245507994_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250207/4766527/detail_4766527_17394245549436_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250207/4766527/detail_4766527_17394245584878_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 97.0,
+          "허리단면": 33.5,
+          "엉덩이단면": 68.0,
+          "허벅지단면": 42.0,
+          "밑위": 0.0,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 99.0,
+          "허리단면": 35.5,
+          "엉덩이단면": 70.0,
+          "허벅지단면": 43.0,
+          "밑위": 0.0,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 101.0,
+          "허리단면": 37.5,
+          "엉덩이단면": 72.0,
+          "허벅지단면": 44.0,
+          "밑위": 0.0,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 39.5,
+          "엉덩이단면": 74.0,
+          "허벅지단면": 45.0,
+          "밑위": 0.0,
+          "밑단단면": 29.0
+        }
+      },
+      {
+        "size": "XXL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 41.5,
+          "엉덩이단면": 76.0,
+          "허벅지단면": 46.0,
+          "밑위": 0.0,
+          "밑단단면": 30.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "그레이",
+          "code": "그레이",
+          "image_url": "",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 21757401,
+      "managed_code": "그레이^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "S"
+      ]
+    },
+    {
+      "id": 21757402,
+      "managed_code": "그레이^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "M"
+      ]
+    },
+    {
+      "id": 21757403,
+      "managed_code": "그레이^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "L"
+      ]
+    },
+    {
+      "id": 21757404,
+      "managed_code": "그레이^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "XL"
+      ]
+    },
+    {
+      "id": 21841551,
+      "managed_code": "그레이^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "XXL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.3,
+    "count": 23
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

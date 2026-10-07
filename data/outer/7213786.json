@@ -1,0 +1,185 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7213786",
+  "product_id": 7213786,
+  "name": "울솜 퀄팅 코튜로이 2WAY 블루종 자켓  ULSOM™ [브라운]",
+  "name_en": "",
+  "style_no": "26S-111-22",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "blackmoment",
+    "name": "블랙모먼트",
+    "name_en": "BLACK MOMENT"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002001",
+    "categoryDepth2Title": "블루종/MA-1",
+    "categoryDepth2Name": "블루종/MA-1",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "겨울"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": null,
+      "year": 2027,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 79000,
+    "sale": 39900,
+    "discount_rate": 49,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260901/7213786/7213786_17882342852040_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260901/7213786/detail_7213786_17882342858288_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "거의 없음"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 67.5,
+          "어깨너비": 49.5,
+          "가슴단면": 61.0,
+          "소매길이": 65.0,
+          "밑단단면": 58.5,
+          "소매부리단면": 11.5,
+          "암홀": 28.5
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 69.0,
+          "어깨너비": 51.5,
+          "가슴단면": 63.5,
+          "소매길이": 66.0,
+          "밑단단면": 61.0,
+          "소매부리단면": 12.0,
+          "암홀": 29.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "브라운",
+          "code": "브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/479b2d9c7d0e4e988453f436dfb7de08.jpg",
+          "color": {
+            "colorCode": "4",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32871057,
+      "managed_code": "브라운^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "M"
+      ]
+    },
+    {
+      "id": 32871058,
+      "managed_code": "브라운^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 1
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

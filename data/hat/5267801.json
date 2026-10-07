@@ -1,0 +1,133 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5267801",
+  "product_id": 5267801,
+  "name": "시그니처 심볼 로고 볼캡 - 블랙",
+  "name_en": "",
+  "style_no": "166",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "377place",
+    "name": "페르메논",
+    "name_en": "PHERMENON"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": 2025,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 25900,
+    "sale": 9900,
+    "discount_rate": 62,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250723/5267801/5267801_17555892755537_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250723/5267801/detail_5267801_17555892819115_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250723/5267801/detail_5267801_17555892826128_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250723/5267801/detail_5267801_17555892832653_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250723/5267801/detail_5267801_17555892839309_500.jpg"
+  ],
+  "features": {
+    "깊이": [
+      "깊음"
+    ],
+    "챙 넓이": [
+      "넒음"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "FREE",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 60.0,
+          "챙길이": 7.5,
+          "깊이": 17.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25245399,
+      "managed_code": "블랙^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.6,
+    "count": 50
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

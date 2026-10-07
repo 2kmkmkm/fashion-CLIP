@@ -1,0 +1,306 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4705772",
+  "product_id": 4705772,
+  "name": "세미와이드 옥스포드 워크 팬츠 - 2color",
+  "name_en": "semi-wide oxford work pants - 2color",
+  "style_no": "MZPT2150",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "mindbridge",
+    "name": "마인드브릿지",
+    "name_en": "MINDBRIDGE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 89900,
+    "sale": 29900,
+    "discount_rate": 67,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250108/4705772/4705772_17622209162726_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4705772/detail_4705772_17622209284024_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4705772/detail_4705772_17622209272960_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4705772/detail_4705772_17368485874786_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4705772/detail_4705772_17368485921984_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4705772/detail_4705772_17368485881845_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4705772/detail_4705772_17368485889488_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4705772/detail_4705772_17368485908585_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4705772/detail_4705772_17368485896230_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4705772/detail_4705772_17368485902535_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4705772/detail_4705772_17368485914970_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "029",
+        "sequence": 0,
+        "measurements": {
+          "총장": 106.5,
+          "허리단면": 38.75,
+          "엉덩이단면": 51.75,
+          "허벅지단면": 33.3,
+          "밑위": 30.5,
+          "밑단단면": 22.75
+        }
+      },
+      {
+        "size": "030",
+        "sequence": 1,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 53.0,
+          "허벅지단면": 33.95,
+          "밑위": 31.0,
+          "밑단단면": 23.0
+        }
+      },
+      {
+        "size": "032",
+        "sequence": 2,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 42.5,
+          "엉덩이단면": 55.5,
+          "허벅지단면": 35.25,
+          "밑위": 32.0,
+          "밑단단면": 23.5
+        }
+      },
+      {
+        "size": "034",
+        "sequence": 3,
+        "measurements": {
+          "총장": 109.0,
+          "허리단면": 45.0,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 36.55,
+          "밑위": 33.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "036",
+        "sequence": 4,
+        "measurements": {
+          "총장": 110.0,
+          "허리단면": 47.5,
+          "엉덩이단면": 60.5,
+          "허벅지단면": 37.85,
+          "밑위": 34.0,
+          "밑단단면": 24.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "BK",
+          "code": "BK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4705772/20260407171245_option_69d4bc7d0c54c2.51913625.",
+          "color": null
+        },
+        {
+          "name": "LB",
+          "code": "LB",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4705772/20260407171249_option_69d4bc81df50f7.26487225.",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "029",
+          "code": "029",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "030",
+          "code": "030",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "032",
+          "code": "032",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "034",
+          "code": "034",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "036",
+          "code": "036",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 21249848,
+      "managed_code": "BK^029",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "029"
+      ]
+    },
+    {
+      "id": 21249849,
+      "managed_code": "BK^030",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "030"
+      ]
+    },
+    {
+      "id": 21249850,
+      "managed_code": "BK^032",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "032"
+      ]
+    },
+    {
+      "id": 21249851,
+      "managed_code": "BK^034",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "034"
+      ]
+    },
+    {
+      "id": 21249852,
+      "managed_code": "BK^036",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "036"
+      ]
+    },
+    {
+      "id": 21249853,
+      "managed_code": "LB^029",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LB",
+        "029"
+      ]
+    },
+    {
+      "id": 21249854,
+      "managed_code": "LB^030",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LB",
+        "030"
+      ]
+    },
+    {
+      "id": 21249855,
+      "managed_code": "LB^032",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LB",
+        "032"
+      ]
+    },
+    {
+      "id": 21249856,
+      "managed_code": "LB^034",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LB",
+        "034"
+      ]
+    },
+    {
+      "id": 21249857,
+      "managed_code": "LB^036",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LB",
+        "036"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 22
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

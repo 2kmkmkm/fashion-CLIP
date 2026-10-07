@@ -1,0 +1,297 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4953183",
+  "product_id": 4953183,
+  "name": "피그먼트 래글런 트랙 반팔티 3Color GT-371",
+  "name_en": "Pigment Raglan Track Short-Sleeve Tee 3Color GT-371",
+  "style_no": "GT-371",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "ghostrepublic",
+    "name": "고스트리퍼블릭",
+    "name_en": "GHOST REPUBLIC"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001001",
+    "categoryDepth2Title": "반소매 티셔츠",
+    "categoryDepth2Name": "반소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "여름"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 48700,
+    "sale": 23900,
+    "discount_rate": 51,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/prd_img/20250327/4953183/detail_4953183_17827169310336_500.jpg",
+    "https://image.msscdn.net/images/goods_img/20250327/4953183/4953183_17827169167857_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250327/4953183/detail_4953183_17827169278975_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250327/4953183/detail_4953183_17827169322790_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250327/4953183/detail_4953183_17827169316197_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250327/4953183/detail_4953183_17827169297961_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250327/4953183/detail_4953183_17827169291055_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250327/4953183/detail_4953183_17679408817431_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250327/4953183/detail_4953183_17679408811417_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통",
+      "약간 있음"
+    ],
+    "비침": [
+      "보통",
+      "거의 없음"
+    ],
+    "두께": [
+      "약간 얇음",
+      "보통"
+    ],
+    "계절": [
+      "여름"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반소매_래글런",
+    "type_number": 11,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711314400000093969.png",
+    "measurements": [
+      {
+        "size": "L",
+        "sequence": 0,
+        "measurements": {
+          "총장": 68.0,
+          "가슴단면": 53.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 1,
+        "measurements": {
+          "총장": 74.0,
+          "가슴단면": 58.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XXL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 78.0,
+          "가슴단면": 64.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "스모크블랙",
+          "code": "스모크블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4953183/20260506103649_option_69fa9b31428775.51682042.",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "크림",
+          "code": "크림",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4953183/20260506103651_option_69fa9b33ecab79.90745111.",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "와인",
+          "code": "와인",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4953183/20260506103654_option_69fa9b365b68c9.28378297.",
+          "color": {
+            "colorCode": "49",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 22727431,
+      "managed_code": "스모크블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스모크블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 22727432,
+      "managed_code": "스모크블랙^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스모크블랙",
+        "XL"
+      ]
+    },
+    {
+      "id": 22727433,
+      "managed_code": "스모크블랙^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스모크블랙",
+        "XXL"
+      ]
+    },
+    {
+      "id": 22727434,
+      "managed_code": "크림^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림",
+        "L"
+      ]
+    },
+    {
+      "id": 22727435,
+      "managed_code": "크림^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림",
+        "XL"
+      ]
+    },
+    {
+      "id": 22727436,
+      "managed_code": "크림^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림",
+        "XXL"
+      ]
+    },
+    {
+      "id": 22727437,
+      "managed_code": "와인^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "와인",
+        "L"
+      ]
+    },
+    {
+      "id": 22727438,
+      "managed_code": "와인^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "와인",
+        "XL"
+      ]
+    },
+    {
+      "id": 22727439,
+      "managed_code": "와인^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "와인",
+        "XXL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 178
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

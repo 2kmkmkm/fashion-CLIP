@@ -1,0 +1,368 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4258826",
+  "product_id": 4258826,
+  "name": "베이직 라인 나일론 스트링 팬츠 (블랙)",
+  "name_en": "Basic line nylon string pants (black)",
+  "style_no": "BTFW018",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "buttonseoul",
+    "name": "버튼서울",
+    "name_en": "BUTTON SEOUL"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 82000,
+    "sale": 29900,
+    "discount_rate": 64,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240718/4258826/4258826_17246350067348_500.png",
+    "https://image.msscdn.net/images/prd_img/20240718/4258826/detail_4258826_17514369067695_500.png",
+    "https://image.msscdn.net/images/prd_img/20240718/4258826/detail_4258826_17514369084850_500.png",
+    "https://image.msscdn.net/images/prd_img/20240718/4258826/detail_4258826_17514369103173_500.png",
+    "https://image.msscdn.net/images/prd_img/20240718/4258826/detail_4258826_17514369122047_500.png",
+    "https://image.msscdn.net/images/prd_img/20240718/4258826/detail_4258826_17872024279547_500.png",
+    "https://image.msscdn.net/images/prd_img/20240718/4258826/detail_4258826_17872024317849_500.png",
+    "https://image.msscdn.net/images/prd_img/20240718/4258826/detail_4258826_17872024367784_500.png",
+    "https://image.msscdn.net/images/prd_img/20240718/4258826/detail_4258826_17872024392018_500.png",
+    "https://image.msscdn.net/images/prd_img/20240718/4258826/detail_4258826_17872024407914_500.png"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "XS(44)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 97.0,
+          "허리단면": 36.5,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 34.5,
+          "밑위": 34.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "S(46)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 97.5,
+          "허리단면": 39.0,
+          "엉덩이단면": 60.5,
+          "허벅지단면": 37.0,
+          "밑위": 36.0,
+          "밑단단면": 26.5
+        }
+      },
+      {
+        "size": "M(48)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 101.5,
+          "허리단면": 41.5,
+          "엉덩이단면": 62.0,
+          "허벅지단면": 37.5,
+          "밑위": 37.0,
+          "밑단단면": 27.5
+        }
+      },
+      {
+        "size": "L(50)",
+        "sequence": 3,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 42.0,
+          "엉덩이단면": 63.5,
+          "허벅지단면": 38.0,
+          "밑위": 38.0,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "XL(52)",
+        "sequence": 4,
+        "measurements": {
+          "총장": 105.5,
+          "허리단면": 46.0,
+          "엉덩이단면": 66.5,
+          "허벅지단면": 39.5,
+          "밑위": 39.0,
+          "밑단단면": 29.5
+        }
+      },
+      {
+        "size": "안감ver. XS(44)",
+        "sequence": 5,
+        "measurements": {
+          "총장": 97.0,
+          "허리단면": 36.5,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 34.5,
+          "밑위": 34.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "안감ver. S(46)",
+        "sequence": 6,
+        "measurements": {
+          "총장": 97.5,
+          "허리단면": 39.0,
+          "엉덩이단면": 60.5,
+          "허벅지단면": 37.0,
+          "밑위": 36.0,
+          "밑단단면": 26.5
+        }
+      },
+      {
+        "size": "안감ver. M(48)",
+        "sequence": 7,
+        "measurements": {
+          "총장": 101.5,
+          "허리단면": 41.5,
+          "엉덩이단면": 62.0,
+          "허벅지단면": 37.5,
+          "밑위": 37.0,
+          "밑단단면": 27.5
+        }
+      },
+      {
+        "size": "안감ver. L(50)",
+        "sequence": 8,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 42.0,
+          "엉덩이단면": 63.5,
+          "허벅지단면": 38.0,
+          "밑위": 38.0,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "안감ver. XL(52)",
+        "sequence": 9,
+        "measurements": {
+          "총장": 105.5,
+          "허리단면": 46.0,
+          "엉덩이단면": 66.5,
+          "허벅지단면": 39.5,
+          "밑위": 39.0,
+          "밑단단면": 29.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "XS(44)",
+          "code": "XS(44)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4258826/20251024141111_option_68fb0a6f25d4b8.60771182.",
+          "color": null
+        },
+        {
+          "name": "S(46)",
+          "code": "S(46)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4258826/20251024141113_option_68fb0a71d2b8c8.74540254.",
+          "color": null
+        },
+        {
+          "name": "M(48)",
+          "code": "M(48)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4258826/20251024141115_option_68fb0a73e55c35.03685179.",
+          "color": null
+        },
+        {
+          "name": "L(50)",
+          "code": "L(50)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4258826/20251024141118_option_68fb0a762ea515.03860268.",
+          "color": null
+        },
+        {
+          "name": "XL(52)",
+          "code": "XL(52)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4258826/20251024141120_option_68fb0a783587a5.28745959.",
+          "color": null
+        },
+        {
+          "name": "안감ver. XS(44)",
+          "code": "안감ver. XS(44)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "안감ver. S(46)",
+          "code": "안감ver. S(46)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "안감ver. M(48)",
+          "code": "안감ver. M(48)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "안감ver. L(50)",
+          "code": "안감ver. L(50)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "안감ver. XL(52)",
+          "code": "안감ver. XL(52)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 18090751,
+      "managed_code": "M(48)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M(48)"
+      ]
+    },
+    {
+      "id": 18090752,
+      "managed_code": "L(50)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L(50)"
+      ]
+    },
+    {
+      "id": 18090753,
+      "managed_code": "XL(52)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL(52)"
+      ]
+    },
+    {
+      "id": 22154698,
+      "managed_code": "S(46)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S(46)"
+      ]
+    },
+    {
+      "id": 24428528,
+      "managed_code": "XS(44)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XS(44)"
+      ]
+    },
+    {
+      "id": 32610058,
+      "managed_code": "안감ver. XS(44)",
+      "price_delta": 1900,
+      "activated": true,
+      "values": [
+        "안감ver. XS(44)"
+      ]
+    },
+    {
+      "id": 32610059,
+      "managed_code": "안감ver. S(46)",
+      "price_delta": 1900,
+      "activated": true,
+      "values": [
+        "안감ver. S(46)"
+      ]
+    },
+    {
+      "id": 32610060,
+      "managed_code": "안감ver. M(48)",
+      "price_delta": 1900,
+      "activated": true,
+      "values": [
+        "안감ver. M(48)"
+      ]
+    },
+    {
+      "id": 32610061,
+      "managed_code": "안감ver. L(50)",
+      "price_delta": 1900,
+      "activated": true,
+      "values": [
+        "안감ver. L(50)"
+      ]
+    },
+    {
+      "id": 32610062,
+      "managed_code": "안감ver. XL(52)",
+      "price_delta": 1900,
+      "activated": true,
+      "values": [
+        "안감ver. XL(52)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1495
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

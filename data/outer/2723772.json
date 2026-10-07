@@ -1,0 +1,524 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2723772",
+  "product_id": 2723772,
+  "name": "헤리티지 블레이저 시리즈",
+  "name_en": "HERITAGE BLAZER SERIES",
+  "style_no": "SBBAWLJK021",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "suare",
+    "name": "수아레",
+    "name_en": "SUARE"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002003",
+    "categoryDepth2Title": "슈트/블레이저 재킷",
+    "categoryDepth2Name": "슈트/블레이저 재킷",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2025,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 139000,
+    "sale": 96000,
+    "discount_rate": 31,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220818/2723772/2723772_17152500620750_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723772/detail_2723772_5_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723772/detail_2723772_6_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723772/detail_2723772_7_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723772/detail_2723772_8_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723772/detail_2723772_9_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723772/detail_2723772_10_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723772/detail_2723772_11_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723772/detail_2723772_12_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723772/detail_2723772_13_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "블레이져",
+    "type_number": 9,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711353500000001166.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 73.5,
+          "어깨너비": 47.0,
+          "가슴단면": 57.0,
+          "소매길이": 63.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0,
+          "허리단면": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 74.0,
+          "어깨너비": 49.0,
+          "가슴단면": 60.0,
+          "소매길이": 64.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0,
+          "허리단면": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 75.0,
+          "어깨너비": 51.0,
+          "가슴단면": 63.0,
+          "소매길이": 65.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0,
+          "허리단면": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "헤링본브라운",
+          "code": "헤링본브라운",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "체크브라운",
+          "code": "체크브라운",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "홈스펀블랙",
+          "code": "홈스펀블랙",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "홈스펀브라운",
+          "code": "홈스펀브라운",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "하운드블랙",
+          "code": "하운드블랙",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "하운드베이지",
+          "code": "하운드베이지",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "하운드브라운",
+          "code": "하운드브라운",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "홈스펀 그린",
+          "code": "홈스펀 그린",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "다크브라운",
+          "code": "다크브라운",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "홈스펀베이지",
+          "code": "홈스펀베이지",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 11175958,
+      "managed_code": "다크브라운^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크브라운",
+        "L"
+      ]
+    },
+    {
+      "id": 11175959,
+      "managed_code": "다크브라운^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크브라운",
+        "M"
+      ]
+    },
+    {
+      "id": 11175960,
+      "managed_code": "다크브라운^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크브라운",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175961,
+      "managed_code": "체크브라운^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "체크브라운",
+        "L"
+      ]
+    },
+    {
+      "id": 11175962,
+      "managed_code": "체크브라운^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "체크브라운",
+        "M"
+      ]
+    },
+    {
+      "id": 11175963,
+      "managed_code": "체크브라운^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "체크브라운",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175964,
+      "managed_code": "하운드베이지^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "하운드베이지",
+        "L"
+      ]
+    },
+    {
+      "id": 11175965,
+      "managed_code": "하운드베이지^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "하운드베이지",
+        "M"
+      ]
+    },
+    {
+      "id": 11175966,
+      "managed_code": "하운드베이지^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "하운드베이지",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175967,
+      "managed_code": "하운드브라운^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "하운드브라운",
+        "L"
+      ]
+    },
+    {
+      "id": 11175968,
+      "managed_code": "하운드브라운^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "하운드브라운",
+        "M"
+      ]
+    },
+    {
+      "id": 11175969,
+      "managed_code": "하운드브라운^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "하운드브라운",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175970,
+      "managed_code": "하운드블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "하운드블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 11175971,
+      "managed_code": "하운드블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "하운드블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 11175972,
+      "managed_code": "하운드블랙^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "하운드블랙",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175973,
+      "managed_code": "헤링본브라운^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "헤링본브라운",
+        "L"
+      ]
+    },
+    {
+      "id": 11175974,
+      "managed_code": "헤링본브라운^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "헤링본브라운",
+        "M"
+      ]
+    },
+    {
+      "id": 11175975,
+      "managed_code": "헤링본브라운^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "헤링본브라운",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175976,
+      "managed_code": "홈스펀 그린^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "홈스펀 그린",
+        "L"
+      ]
+    },
+    {
+      "id": 11175977,
+      "managed_code": "홈스펀 그린^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "홈스펀 그린",
+        "M"
+      ]
+    },
+    {
+      "id": 11175978,
+      "managed_code": "홈스펀 그린^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "홈스펀 그린",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175979,
+      "managed_code": "홈스펀베이지^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "홈스펀베이지",
+        "L"
+      ]
+    },
+    {
+      "id": 11175980,
+      "managed_code": "홈스펀베이지^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "홈스펀베이지",
+        "M"
+      ]
+    },
+    {
+      "id": 11175981,
+      "managed_code": "홈스펀베이지^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "홈스펀베이지",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175982,
+      "managed_code": "홈스펀브라운^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "홈스펀브라운",
+        "L"
+      ]
+    },
+    {
+      "id": 11175983,
+      "managed_code": "홈스펀브라운^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "홈스펀브라운",
+        "M"
+      ]
+    },
+    {
+      "id": 11175984,
+      "managed_code": "홈스펀브라운^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "홈스펀브라운",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175985,
+      "managed_code": "홈스펀블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "홈스펀블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 11175986,
+      "managed_code": "홈스펀블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "홈스펀블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 11175987,
+      "managed_code": "홈스펀블랙^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "홈스펀블랙",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 4738
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

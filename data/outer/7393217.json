@@ -1,0 +1,169 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7393217",
+  "product_id": 7393217,
+  "name": "니티드 하이넥 레더 자켓 - 블랙",
+  "name_en": "",
+  "style_no": "26FWJK003",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "moo",
+    "name": "엠오오",
+    "name_en": "MOO"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002002",
+    "categoryDepth2Title": "레더/라이더스 재킷",
+    "categoryDepth2Name": "레더/라이더스 재킷",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을"
+    ],
+    "primary": "봄",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 192000,
+    "sale": 134400,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260922/7393217/7393217_17901377808773_500.jpg",
+    "https://image.msscdn.net/images/goods_img/20260922/7393217/7393217_17900591405157_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260922/7393217/detail_7393217_17900591412264_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "슬림"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "거의 없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 64.0,
+          "어깨너비": 51.0,
+          "가슴단면": 59.0,
+          "소매길이": 67.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 53.0,
+          "가슴단면": 61.0,
+          "소매길이": 68.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 33378567,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 33378568,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

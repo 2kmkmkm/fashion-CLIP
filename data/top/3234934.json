@@ -1,0 +1,257 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3234934",
+  "product_id": 3234934,
+  "name": "ACHROMATIC_ 컴포트  Concise U넥 반팔티 ( 2Color )",
+  "name_en": "",
+  "style_no": "ACHRO036",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "brenson",
+    "name": "브렌슨",
+    "name_en": "BRENSON"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001001",
+    "categoryDepth2Title": "반소매 티셔츠",
+    "categoryDepth2Name": "반소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2023,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 39800,
+    "sale": 19900,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230414/3234934/3234934_17430548222518_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230414/3234934/detail_3234934_17430548284682_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230414/3234934/detail_3234934_17430548292518_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "거의 없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 50.5,
+          "가슴단면": 56.0,
+          "소매길이": 22.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 71.5,
+          "어깨너비": 52.0,
+          "가슴단면": 58.5,
+          "소매길이": 23.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 73.0,
+          "어깨너비": 53.5,
+          "가슴단면": 61.0,
+          "소매길이": 24.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "색상",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "화이트",
+          "code": "화이트",
+          "image_url": "",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 13548583,
+      "managed_code": "블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 13548584,
+      "managed_code": "블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 13548585,
+      "managed_code": "블랙^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "XL"
+      ]
+    },
+    {
+      "id": 13548586,
+      "managed_code": "화이트^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "L"
+      ]
+    },
+    {
+      "id": 13548587,
+      "managed_code": "화이트^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "M"
+      ]
+    },
+    {
+      "id": 13548588,
+      "managed_code": "화이트^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 776
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

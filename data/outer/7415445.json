@@ -1,0 +1,172 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7415445",
+  "product_id": 7415445,
+  "name": "RHPS Hoodie zip",
+  "name_en": "RHPS Hoodie zip",
+  "style_no": "26092902",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "sundayoffclub",
+    "name": "선데이오프클럽",
+    "name_en": "SUNDAYOFFCLUB"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002022",
+    "categoryDepth2Title": "후드 집업",
+    "categoryDepth2Name": "후드 집업",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 198000,
+    "sale": 198000,
+    "discount_rate": 0,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260929/7415445/7415445_17906537563272_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260929/7415445/detail_7415445_17906537569525_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "슬림"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "1",
+        "sequence": 0,
+        "measurements": {
+          "총장": 61.0,
+          "어깨너비": 52.0,
+          "가슴단면": 53.0,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "2",
+        "sequence": 1,
+        "measurements": {
+          "총장": 62.0,
+          "어깨너비": 54.0,
+          "가슴단면": 55.0,
+          "소매길이": 63.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "1",
+          "code": "1",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2",
+          "code": "2",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 33472121,
+      "managed_code": "1",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "id": 33472122,
+      "managed_code": "2",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

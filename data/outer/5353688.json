@@ -1,0 +1,178 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5353688",
+  "product_id": 5353688,
+  "name": "BRUSHED WOOL ROUND NECK CARDIGAN_MELANGE OLIVE",
+  "name_en": "브러쉬드 울 라운드 넥 가디건 멜란지 올리브",
+  "style_no": "OS00ALKN08MOL",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "outstanding",
+    "name": "아웃스탠딩",
+    "name_en": "OUTSTANDING"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002020",
+    "categoryDepth2Title": "카디건",
+    "categoryDepth2Name": "카디건",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 108000,
+    "sale": 86400,
+    "discount_rate": 20,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250822/5353688/5353688_17688064619745_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250822/5353688/detail_5353688_17688064782019_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250822/5353688/detail_5353688_17688064730235_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250822/5353688/detail_5353688_17688064739746_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250822/5353688/detail_5353688_17688064750039_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250822/5353688/detail_5353688_17688064759487_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250822/5353688/detail_5353688_17688064768998_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 61.0,
+          "어깨너비": 49.0,
+          "가슴단면": 56.0,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 63.0,
+          "어깨너비": 51.0,
+          "가슴단면": 58.0,
+          "소매길이": 63.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 65.0,
+          "어깨너비": 53.0,
+          "가슴단면": 60.0,
+          "소매길이": 64.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25741675,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 25741676,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 25741677,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 17
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

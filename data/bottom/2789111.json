@@ -1,0 +1,202 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2789111",
+  "product_id": 2789111,
+  "name": "XP127 셔링 카고 팬츠 (KHAKI)",
+  "name_en": "",
+  "style_no": "XP127",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "xtonz",
+    "name": "엑스톤즈",
+    "name_en": "XTONZ"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "FW",
+      "year": 2022,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 99000,
+    "sale": 69300,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220914/2789111/2789111_1_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220914/2789111/detail_2789111_1_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220914/2789111/detail_2789111_4_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220914/2789111/detail_2789111_3_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "거의 없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 101.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 55.0,
+          "허벅지단면": 40.0,
+          "밑위": 37.5,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 43.0,
+          "엉덩이단면": 57.0,
+          "허벅지단면": 41.0,
+          "밑위": 38.5,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 46.0,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 42.0,
+          "밑위": 39.5,
+          "밑단단면": 28.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 11461807,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 11461808,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 11461809,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 4222
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

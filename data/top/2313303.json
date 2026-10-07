@@ -1,0 +1,147 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2313303",
+  "product_id": 2313303,
+  "name": "오리지널 라글란 롱 슬리브_그레이",
+  "name_en": "ORIGINAL RAGLAN LONG SLEEVE_GRAY",
+  "style_no": "93251TTL100110",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "1993studio",
+    "name": "1993스튜디오",
+    "name_en": "1993STUDIO"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001010",
+    "categoryDepth2Title": "긴소매 티셔츠",
+    "categoryDepth2Name": "긴소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "SS",
+      "year": 2023,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 34000,
+    "discount_rate": 31,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220118/2313303/2313303_17567108045631_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220118/2313303/detail_2313303_17567108116382_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220118/2313303/detail_2313303_17567108108122_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "약간 부드러움"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "거의 없음"
+    ],
+    "두께": [
+      "약간 얇음"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매_래글런",
+    "type_number": 22,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711325400000036950.png",
+    "measurements": [
+      {
+        "size": "FREE",
+        "sequence": 0,
+        "measurements": {
+          "총장": 75.0,
+          "가슴단면": 61.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 9426461,
+      "managed_code": "FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1826
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/6288741",
+  "product_id": 6288741,
+  "name": "[SECOND.A] 유니섹스 레트로 캐주얼 더비 SN5700UX [BROWN SUEDE]",
+  "name_en": "[SECOND.A] Unisex Retro Casual Derby SN5700UX [BROWN SUEDE]",
+  "style_no": "SN5700UX",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "firenzeatelier",
+    "name": "피렌체 아뜨리에",
+    "name_en": "FIRENZE ATELIER"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103001",
+    "categoryDepth2Title": "구두",
+    "categoryDepth2Name": "구두",
+    "categoryDepth3Code": "103001001",
+    "categoryDepth3Title": "더비 슈즈",
+    "categoryDepth3Name": "더비 슈즈",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2026,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 116000,
+    "sale": 87000,
+    "discount_rate": 25,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260410/6288741/6288741_17769983580941_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288741/detail_6288741_17769983690484_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288741/detail_6288741_17769983695702_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288741/detail_6288741_17769983670331_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288741/detail_6288741_17769983675575_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288741/detail_6288741_17769983680748_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288741/detail_6288741_17769983685634_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288741/detail_6288741_17769983700831_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288741/detail_6288741_17769983706959_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288741/detail_6288741_17769983713412_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288741/detail_6288741_17769983720241_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288741/detail_6288741_17769983727300_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288741/detail_6288741_17769983733927_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288741/detail_6288741_17769983740234_500.jpg"
+  ],
+  "features": {
+    "굽 높이": [
+      "낮음"
+    ],
+    "쿠션": [
+      "보통"
+    ],
+    "무게": [
+      "가벼움"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "230",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 24.3,
+          "발볼": 0.0,
+          "발목높이": 8.0,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "240",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 25.3,
+          "발볼": 0.0,
+          "발목높이": 8.0,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "250",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 26.3,
+          "발볼": 0.0,
+          "발목높이": 8.5,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 27.3,
+          "발볼": 0.0,
+          "발목높이": 8.5,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 28.3,
+          "발볼": 0.0,
+          "발목높이": 8.5,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 29.3,
+          "발볼": 0.0,
+          "발목높이": 8.5,
+          "굽높이": 1.2
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "BROWN SUEDE",
+          "code": "BROWN SUEDE",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/4e06216b2e3b40938ff4e90e6a51490e.jpg",
+          "color": {
+            "colorCode": "4",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "230",
+          "code": "230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "240",
+          "code": "240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 30133705,
+      "managed_code": "BROWN SUEDE^230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN SUEDE",
+        "230"
+      ]
+    },
+    {
+      "id": 30133706,
+      "managed_code": "BROWN SUEDE^240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN SUEDE",
+        "240"
+      ]
+    },
+    {
+      "id": 30133707,
+      "managed_code": "BROWN SUEDE^250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN SUEDE",
+        "250"
+      ]
+    },
+    {
+      "id": 30133708,
+      "managed_code": "BROWN SUEDE^260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN SUEDE",
+        "260"
+      ]
+    },
+    {
+      "id": 30133709,
+      "managed_code": "BROWN SUEDE^270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN SUEDE",
+        "270"
+      ]
+    },
+    {
+      "id": 30133710,
+      "managed_code": "BROWN SUEDE^280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN SUEDE",
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 3
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

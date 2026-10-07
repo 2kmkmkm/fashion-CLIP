@@ -1,0 +1,232 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5167869",
+  "product_id": 5167869,
+  "name": "와플 숏 팬츠 - 네이비 / KB5463",
+  "name_en": "WAFFLE SHORTS       LEGINK",
+  "style_no": "KB5463",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "adidas",
+    "name": "아디다스",
+    "name_en": "ADIDAS"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003009",
+    "categoryDepth2Title": "숏 팬츠",
+    "categoryDepth2Name": "숏 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 79000,
+    "sale": 38990,
+    "discount_rate": 51,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250605/5167869/5167869_17495318179433_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250605/5167869/detail_5167869_17495318291043_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250605/5167869/detail_5167869_17495318312372_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250605/5167869/detail_5167869_17495318334435_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250605/5167869/detail_5167869_17495318360806_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250605/5167869/detail_5167869_17495318417169_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250605/5167869/detail_5167869_17495318434057_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250605/5167869/detail_5167869_17495318449530_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250605/5167869/detail_5167869_17495318464793_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "반바지",
+    "type_number": 23,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711371500000057711.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 39.5,
+          "허리단면": 35.0,
+          "엉덩이단면": 51.0,
+          "허벅지단면": 35.0,
+          "밑위": 28.5,
+          "밑단단면": 32.5
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 41.0,
+          "허리단면": 37.0,
+          "엉덩이단면": 53.0,
+          "허벅지단면": 36.5,
+          "밑위": 29.0,
+          "밑단단면": 34.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 41.5,
+          "허리단면": 39.0,
+          "엉덩이단면": 55.0,
+          "허벅지단면": 38.0,
+          "밑위": 30.0,
+          "밑단단면": 35.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 42.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 57.0,
+          "허벅지단면": 39.5,
+          "밑위": 31.0,
+          "밑단단면": 36.0
+        }
+      },
+      {
+        "size": "2XL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 44.0,
+          "허리단면": 44.0,
+          "엉덩이단면": 61.0,
+          "허벅지단면": 42.0,
+          "밑위": 33.0,
+          "밑단단면": 37.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL",
+          "code": "2XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 23930279,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 23930280,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 23930281,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 23930282,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 23930283,
+      "managed_code": "2XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 263
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4697730",
+  "product_id": 4697730,
+  "name": "덤보 데님 팬츠 (BLUE)",
+  "name_en": "Dumbo denim pants (BLUE)",
+  "style_no": "T5S-DDPT21BL",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "toffee",
+    "name": "토피",
+    "name_en": "TOFFEE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003002",
+    "categoryDepth2Title": "데님 팬츠",
+    "categoryDepth2Name": "데님 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 34900,
+    "discount_rate": 29,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250103/4697730/4697730_17362180360665_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250103/4697730/detail_4697730_17362180602991_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250103/4697730/detail_4697730_17362180611847_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250103/4697730/detail_4697730_17362180622666_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250103/4697730/detail_4697730_17362180634206_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250103/4697730/detail_4697730_17362180645667_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250103/4697730/detail_4697730_17362180656972_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250103/4697730/detail_4697730_17362180668326_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250103/4697730/detail_4697730_17566861691024_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "XS",
+        "sequence": 0,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 37.5,
+          "밑위": 34.5,
+          "밑단단면": 21.5
+        }
+      },
+      {
+        "size": "S",
+        "sequence": 1,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 38.0,
+          "엉덩이단면": 60.0,
+          "허벅지단면": 39.0,
+          "밑위": 35.5,
+          "밑단단면": 22.5
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 2,
+        "measurements": {
+          "총장": 110.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 62.0,
+          "허벅지단면": 40.5,
+          "밑위": 36.5,
+          "밑단단면": 23.5
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 3,
+        "measurements": {
+          "총장": 112.0,
+          "허리단면": 42.0,
+          "엉덩이단면": 64.0,
+          "허벅지단면": 42.0,
+          "밑위": 37.5,
+          "밑단단면": 24.5
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 114.0,
+          "허리단면": 44.0,
+          "엉덩이단면": 66.0,
+          "허벅지단면": 43.5,
+          "밑위": 38.5,
+          "밑단단면": 25.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "XS",
+          "code": "XS",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 21100727,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 21100728,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 21100729,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 21100730,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 23415139,
+      "managed_code": "XS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XS"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 208
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

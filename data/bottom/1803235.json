@@ -1,0 +1,218 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/1803235",
+  "product_id": 1803235,
+  "name": "SAINT TWO TUCK WIDE PANTS BROWN",
+  "name_en": "SAINT TWO TUCK WIDE PANTS BROWN",
+  "style_no": "FMPSCPS103M",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "maisonmined",
+    "name": "메종미네드",
+    "name_en": "MAISON MINED"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003008",
+    "categoryDepth2Title": "슈트 팬츠/슬랙스",
+    "categoryDepth2Name": "슈트 팬츠/슬랙스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 89000,
+    "sale": 62300,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20210218/1803235/1803235_17407102455475_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17407102557455_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17407102568218_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17407103575315_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_16989076724889_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_16989076730928_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_16989076737758_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_16989076745920_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_16989076756571_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_16989077346594_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_16989077351971_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_16989077358328_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_16989077364379_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_16989077449580_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_16989077455402_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_16989077461891_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_16989077469737_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397672724_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397681677_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397688879_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397697331_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397707806_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397795316_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397804075_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397812486_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397819033_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397827403_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397933784_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397942324_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397949984_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397956837_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210218/1803235/detail_1803235_17138397966226_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 3,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 31.1,
+          "밑위": 31.2,
+          "밑단단면": 26.5
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 4,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 41.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 32.5,
+          "밑위": 32.0,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 5,
+        "measurements": {
+          "총장": 110.0,
+          "허리단면": 44.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 33.9,
+          "밑위": 32.8,
+          "밑단단면": 27.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "46",
+          "code": "46",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "48",
+          "code": "48",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "50",
+          "code": "50",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 6982193,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 6982194,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 6982195,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1866
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

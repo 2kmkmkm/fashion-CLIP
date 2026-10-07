@@ -1,0 +1,188 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5288615",
+  "product_id": 5288615,
+  "name": "크런치 뱅 쓰리 타코즈 볼캡 (4color)",
+  "name_en": "Crunch Bang Three Tacos Ball Cap (4color)",
+  "style_no": "DO25079DOBC01",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "driftout",
+    "name": "드리프트아웃",
+    "name_en": "DRIFTOUT"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 45000,
+    "sale": 26500,
+    "discount_rate": 41,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250802/5288615/5288615_17541086324138_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250802/5288615/detail_5288615_17541086386104_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250802/5288615/detail_5288615_17541086392816_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250802/5288615/detail_5288615_17541086399500_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250802/5288615/detail_5288615_17541086405841_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "베이지",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 60.0,
+          "챙길이": 7.5,
+          "깊이": 12.0
+        }
+      },
+      {
+        "size": "그레이",
+        "sequence": 1,
+        "measurements": {
+          "머리둘레": 60.0,
+          "챙길이": 7.5,
+          "깊이": 12.0
+        }
+      },
+      {
+        "size": "차콜",
+        "sequence": 2,
+        "measurements": {
+          "머리둘레": 60.0,
+          "챙길이": 7.5,
+          "깊이": 12.0
+        }
+      },
+      {
+        "size": "블랙",
+        "sequence": 3,
+        "measurements": {
+          "머리둘레": 60.0,
+          "챙길이": 7.5,
+          "깊이": 12.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "베이지",
+          "code": "베이지",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "그레이",
+          "code": "그레이",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "차콜",
+          "code": "차콜",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25381399,
+      "managed_code": "베이지",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지"
+      ]
+    },
+    {
+      "id": 25381400,
+      "managed_code": "그레이",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이"
+      ]
+    },
+    {
+      "id": 25381401,
+      "managed_code": "차콜",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "차콜"
+      ]
+    },
+    {
+      "id": 25381402,
+      "managed_code": "블랙",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 5
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

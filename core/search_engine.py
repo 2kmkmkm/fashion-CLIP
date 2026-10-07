@@ -7,7 +7,7 @@ from qdrant_client.http import models
 
 # Fashion-CLIP + Qdrant
 # 사용자가 요청한 패션 키워드를 Fashion-CLIP 모델을 통해 512차원 벡터로 변환
-# Qdrant 벡터 DB에서 카테고리, 예산 상한선, 계절, 색상 등의 하드 필터를 적용
+# Qdrant 벡터 DB에서 카테고리, 예산 상한선, 계절 등의 하드 필터를 적용
 # 1차 후보 추출: 카테고리별 5개씩
 
 class FashionSearchEngine:
@@ -45,24 +45,50 @@ class FashionSearchEngine:
         
         query_vector = self.encode_text(query_text) # 질의 텍스트를 Fashion-CLIP 벡터로 변환
 
-        # 데이터베이스 레벨에서 반드시 만족해야 하는 하드 필터 구성 (카테고리 + 예산 + 색상)
-        must_conditions = [
-            models.FieldCondition(key="category", match=models.MatchValue(value=category))
-        ]
+        # 영문 카테고리를 Qdrant에 저장된 한글 카테고리로 변환하는 매핑
+        category_map = {
+            "top": "상의",
+            "outer": "아우터",
+            "bottom": "하의",
+            "shoes": "신발",
+            "hat": "모자"
+        }
+        db_category = category_map.get(category, category) if category else None
+
+        # 데이터베이스 레벨에서 반드시 만족해야 하는 하드 필터 구성 (변환된 한글 카테고리 + 예산 + 색상)
+        must_conditions = []
+        if db_category is not None:
+            must_conditions.append(
+                models.FieldCondition(key="category", match=models.MatchValue(value=db_category))
+            )
 
         if max_price is not None:
             must_conditions.append(models.FieldCondition(key="price", range=models.Range(lte=max_price)))
 
         if color is not None:
-            must_conditions.append(models.FieldCondition(key="color_normalized", match=models.MatchValue(value=color)))
-            
-        # 계절 하이브리드 필터 (요청된 계절 + 'ALL' 우선 인출)
-        should_conditions = [
-            models.FieldCondition(key="season", match=models.MatchValue(value=season)),
-            models.FieldCondition(key="season", match=models.MatchValue(value="ALL"))
-        ]
+            # must_conditions.append(models.FieldCondition(key="color_normalized", match=models.MatchValue(value=color)))
+            pass
 
-        query_filter = models.Filter(must=must_conditions, should=should_conditions)
+        # 계절 하이브리드 필터 (요청된 계절 + 'ALL' 우선 인출)
+        should_conditions = []
+        if season and season != "ALL":
+            target_seasons = ["ALL"]  # 사계절(ALL) 상품은 항상 기본 포함
+            
+            if season == "SS":
+                target_seasons.extend(["봄", "여름"])
+            elif season == "FW":
+                target_seasons.extend(["가을", "겨울"])
+            else:
+                target_seasons.append(season)
+
+            # target_seasons 리스트 중 하나라도 일치하면 통과하도록 구성 (OR 조건)
+            for s in target_seasons:
+                should_conditions.append(
+                    models.FieldCondition(key="season", match=models.MatchValue(value=s))
+                )
+        
+        # 적용될 query_filter
+        query_filter = models.Filter(must=must_conditions, should=should_conditions if should_conditions else None)
 
         response = self.client.query_points(
             collection_name=self.collection_name,
@@ -75,7 +101,6 @@ class FashionSearchEngine:
         results = []
         for hit in response.points:
             # 유사도 0.2 미만은 컷오프
-            # 데이터셋 늘어나면 수정
             if hit.score < 0.2:
                 continue
             p = hit.payload
@@ -85,9 +110,11 @@ class FashionSearchEngine:
                 "product_name": p.get("product_name"),
                 "brand_name": p.get("brand_name"),
                 "category": p.get("category"),
+                "subcategory": p.get("subcategory"),
                 "price": p.get("price"),
                 "colors": p.get("color_normalized"),
                 "fit_type": p.get("fit_type"),
+                "sizes": p.get("sizes", []),
                 "image_url": p.get("image_url"),
                 "product_url": p.get("product_url"),
                 "vector": hit.vector
@@ -103,9 +130,11 @@ class FashionSearchEngine:
                 "product_name": p.get("product_name"),
                 "brand_name": p.get("brand_name"),
                 "category": p.get("category"),
+                "subcategory": p.get("subcategory"),
                 "price": p.get("price"),
                 "colors": p.get("color_normalized"),
                 "fit_type": p.get("fit_type"),
+                "sizes": p.get("sizes", []),
                 "image_url": p.get("image_url"),
                 "product_url": p.get("product_url"),
                 "vector": hit.vector

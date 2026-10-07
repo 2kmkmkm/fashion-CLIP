@@ -1,0 +1,232 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7049136",
+  "product_id": 7049136,
+  "name": "[알레산드로 푼제티] 아비스 윈드브레이커 [올리브]",
+  "name_en": "[알레산드로 푼제티] 아비스 윈드브레이커",
+  "style_no": "MMFJJ9C97-OL",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "musinsastandard",
+    "name": "무신사 스탠다드",
+    "name_en": "MUSINSA STANDARD"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002015",
+    "categoryDepth2Title": "기타 아우터",
+    "categoryDepth2Name": "기타 아우터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을"
+    ],
+    "primary": "봄",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 159900,
+    "sale": 159900,
+    "discount_rate": 0,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260811/7049136/7049136_17908355927638_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049136/detail_7049136_17908356034592_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049136/detail_7049136_17908356061863_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049136/detail_7049136_17908356070225_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049136/detail_7049136_17908356078763_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049136/detail_7049136_17908356085726_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049136/detail_7049136_17908356094515_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049136/detail_7049136_17908356154652_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049136/detail_7049136_17908356165152_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049136/detail_7049136_17908356171918_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "없음"
+    ],
+    "비침": [
+      "거의 없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 68.1,
+          "어깨너비": 52.0,
+          "가슴단면": 60.5,
+          "소매길이": 61.8,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 54.0,
+          "가슴단면": 63.0,
+          "소매길이": 63.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 71.9,
+          "어깨너비": 56.0,
+          "가슴단면": 65.5,
+          "소매길이": 64.2,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "2XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 73.8,
+          "어깨너비": 58.0,
+          "가슴단면": 68.0,
+          "소매길이": 65.4,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL",
+          "code": "2XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32433201,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 32433202,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 32433203,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 32433204,
+      "managed_code": "2XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

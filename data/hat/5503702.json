@@ -1,0 +1,389 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5503702",
+  "product_id": 5503702,
+  "name": "Executive 클래식 카치온 볼캡",
+  "name_en": "Executive 클래식 카치온 볼캡",
+  "style_no": "5008626805",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "wick",
+    "name": "윅",
+    "name_en": "WICK"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 24000,
+    "sale": 9900,
+    "discount_rate": 59,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250922/5503702/5503702_17678585368661_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5503702/detail_5503702_17678585538030_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5503702/detail_5503702_17678585546385_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5503702/detail_5503702_17678585554780_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5503702/detail_5503702_17678585563368_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5503702/detail_5503702_17678585571093_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5503702/detail_5503702_17678585579622_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5503702/detail_5503702_17678585588011_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5503702/detail_5503702_17678585596087_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5503702/detail_5503702_17678585603991_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5503702/detail_5503702_17678585611276_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5503702/detail_5503702_17678585618898_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5503702/detail_5503702_17678585628707_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "브라운",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 58.0,
+          "챙길이": 7.0,
+          "깊이": 15.5
+        }
+      },
+      {
+        "size": "라이트베이지",
+        "sequence": 1,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      },
+      {
+        "size": "그레이",
+        "sequence": 2,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      },
+      {
+        "size": "베이지",
+        "sequence": 3,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      },
+      {
+        "size": "카키",
+        "sequence": 4,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      },
+      {
+        "size": "버건디",
+        "sequence": 5,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      },
+      {
+        "size": "레드와인",
+        "sequence": 6,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      },
+      {
+        "size": "퍼플",
+        "sequence": 7,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      },
+      {
+        "size": "다크그린",
+        "sequence": 8,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      },
+      {
+        "size": "네이비",
+        "sequence": 9,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      },
+      {
+        "size": "차콜",
+        "sequence": 10,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      },
+      {
+        "size": "블랙",
+        "sequence": 11,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "브라운",
+          "code": "브라운",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "라이트베이지",
+          "code": "라이트베이지",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "그레이",
+          "code": "그레이",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "베이지",
+          "code": "베이지",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "카키",
+          "code": "카키",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "버건디",
+          "code": "버건디",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "레드와인",
+          "code": "레드와인",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "퍼플",
+          "code": "퍼플",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "다크그린",
+          "code": "다크그린",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "네이비",
+          "code": "네이비",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "차콜",
+          "code": "차콜",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 26451157,
+      "managed_code": "브라운",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운"
+      ]
+    },
+    {
+      "id": 28216957,
+      "managed_code": "라이트베이지",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트베이지"
+      ]
+    },
+    {
+      "id": 28216958,
+      "managed_code": "그레이",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이"
+      ]
+    },
+    {
+      "id": 28216959,
+      "managed_code": "베이지",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지"
+      ]
+    },
+    {
+      "id": 28216960,
+      "managed_code": "카키",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키"
+      ]
+    },
+    {
+      "id": 28216961,
+      "managed_code": "버건디",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "버건디"
+      ]
+    },
+    {
+      "id": 28216962,
+      "managed_code": "레드와인",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "레드와인"
+      ]
+    },
+    {
+      "id": 28216963,
+      "managed_code": "퍼플",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "퍼플"
+      ]
+    },
+    {
+      "id": 28216964,
+      "managed_code": "다크그린",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크그린"
+      ]
+    },
+    {
+      "id": 28216965,
+      "managed_code": "네이비",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비"
+      ]
+    },
+    {
+      "id": 28216966,
+      "managed_code": "차콜",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "차콜"
+      ]
+    },
+    {
+      "id": 28216967,
+      "managed_code": "블랙",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 29
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

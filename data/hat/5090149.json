@@ -1,0 +1,109 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5090149",
+  "product_id": 5090149,
+  "name": "나일론 PA 볼 캡 블랙",
+  "name_en": "Nylon PA Ball Cap Black",
+  "style_no": "PYC-2505 BK",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "partimento",
+    "name": "파르티멘토",
+    "name_en": "PARTIMENTO"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 37400,
+    "sale": 28000,
+    "discount_rate": 25,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250507/5090149/5090149_17467519518679_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "ONE",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 61.0,
+          "챙길이": 8.0,
+          "깊이": 16.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "ONE",
+          "code": "ONE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 23401409,
+      "managed_code": "ONE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "ONE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 258
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

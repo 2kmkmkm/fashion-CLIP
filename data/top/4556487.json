@@ -1,0 +1,177 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4556487",
+  "product_id": 4556487,
+  "name": "크롭 체크 셔츠[브라운]",
+  "name_en": "Cropped Check Shirt [Brown]",
+  "style_no": "24FW-CCS001",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "signature",
+    "name": "시그니처",
+    "name_en": "SIGNATURE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 37900,
+    "discount_rate": 23,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241024/4556487/4556487_17882448766655_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241024/4556487/detail_4556487_17882451427772_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241024/4556487/detail_4556487_17882451429987_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241024/4556487/detail_4556487_17882451431602_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241024/4556487/detail_4556487_17882451433685_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241024/4556487/detail_4556487_17882451435363_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "약간 얇음",
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 62.0,
+          "가슴단면": 63.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 67.0,
+          "어깨너비": 64.0,
+          "가슴단면": 65.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 19991608,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 19991609,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 580
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

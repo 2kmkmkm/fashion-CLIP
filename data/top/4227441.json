@@ -1,0 +1,538 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4227441",
+  "product_id": 4227441,
+  "name": "87-STAN083 레트로 플레이드 오버핏 포켓 긴팔 체크 셔츠",
+  "name_en": "87-STAN083 Retro Plaid OverFit Pocket Long-Sleeved Check Shirt",
+  "style_no": "87-STAN083",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "standarderror",
+    "name": "스탠다드에러",
+    "name_en": "STANDARDERROR"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 54000,
+    "sale": 9900,
+    "discount_rate": 82,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240702/4227441/4227441_17738156721895_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240702/4227441/detail_4227441_17738883805431_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240702/4227441/detail_4227441_17738883787809_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240702/4227441/detail_4227441_17738883796849_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240702/4227441/detail_4227441_17738883778078_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240702/4227441/detail_4227441_17554968556384_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240702/4227441/detail_4227441_17554968566425_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240702/4227441/detail_4227441_17211953986461_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240702/4227441/detail_4227441_17211953974900_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240702/4227441/detail_4227441_17211954007358_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240702/4227441/detail_4227441_17211953965359_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240702/4227441/detail_4227441_17211953996218_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "딥블루 S",
+        "sequence": 3,
+        "measurements": {
+          "총장": 80.0,
+          "어깨너비": 60.5,
+          "가슴단면": 69.5,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "딥블루 M",
+        "sequence": 4,
+        "measurements": {
+          "총장": 81.0,
+          "어깨너비": 62.5,
+          "가슴단면": 71.5,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "딥블루 L",
+        "sequence": 5,
+        "measurements": {
+          "총장": 82.0,
+          "어깨너비": 64.5,
+          "가슴단면": 73.5,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "스카이블루 S",
+        "sequence": 6,
+        "measurements": {
+          "총장": 80.0,
+          "어깨너비": 60.5,
+          "가슴단면": 69.5,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "스카이블루 M",
+        "sequence": 7,
+        "measurements": {
+          "총장": 81.0,
+          "어깨너비": 62.5,
+          "가슴단면": 71.5,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "스카이블루 L",
+        "sequence": 8,
+        "measurements": {
+          "총장": 82.0,
+          "어깨너비": 64.5,
+          "가슴단면": 73.5,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블루 S",
+        "sequence": 9,
+        "measurements": {
+          "총장": 80.0,
+          "어깨너비": 60.5,
+          "가슴단면": 69.5,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블루 M",
+        "sequence": 10,
+        "measurements": {
+          "총장": 81.0,
+          "어깨너비": 62.5,
+          "가슴단면": 71.5,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블루 L",
+        "sequence": 11,
+        "measurements": {
+          "총장": 82.0,
+          "어깨너비": 64.5,
+          "가슴단면": 73.5,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "레드 S",
+        "sequence": 12,
+        "measurements": {
+          "총장": 80.0,
+          "어깨너비": 60.5,
+          "가슴단면": 69.5,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "레드 M",
+        "sequence": 13,
+        "measurements": {
+          "총장": 81.0,
+          "어깨너비": 62.5,
+          "가슴단면": 71.5,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "레드 L",
+        "sequence": 14,
+        "measurements": {
+          "총장": 82.0,
+          "어깨너비": 64.5,
+          "가슴단면": 73.5,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블랙 S",
+        "sequence": 15,
+        "measurements": {
+          "총장": 80.0,
+          "어깨너비": 60.5,
+          "가슴단면": 69.5,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블랙 M",
+        "sequence": 16,
+        "measurements": {
+          "총장": 81.0,
+          "어깨너비": 62.5,
+          "가슴단면": 71.5,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블랙 L",
+        "sequence": 17,
+        "measurements": {
+          "총장": 82.0,
+          "어깨너비": 64.5,
+          "가슴단면": 73.5,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러 + 사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "딥블루 S",
+          "code": "딥블루 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "딥블루 M",
+          "code": "딥블루 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "딥블루 L",
+          "code": "딥블루 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "스카이블루 S",
+          "code": "스카이블루 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "스카이블루 M",
+          "code": "스카이블루 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "스카이블루 L",
+          "code": "스카이블루 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블루 S",
+          "code": "블루 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블루 M",
+          "code": "블루 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블루 L",
+          "code": "블루 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "레드 S",
+          "code": "레드 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "레드 M",
+          "code": "레드 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "레드 L",
+          "code": "레드 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 S",
+          "code": "블랙 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 M",
+          "code": "블랙 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 L",
+          "code": "블랙 L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 29591344,
+      "managed_code": "딥블루 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "딥블루 S"
+      ]
+    },
+    {
+      "id": 29591345,
+      "managed_code": "딥블루 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "딥블루 M"
+      ]
+    },
+    {
+      "id": 29591346,
+      "managed_code": "딥블루 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "딥블루 L"
+      ]
+    },
+    {
+      "id": 29591347,
+      "managed_code": "스카이블루 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스카이블루 S"
+      ]
+    },
+    {
+      "id": 29591348,
+      "managed_code": "스카이블루 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스카이블루 M"
+      ]
+    },
+    {
+      "id": 29591349,
+      "managed_code": "스카이블루 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스카이블루 L"
+      ]
+    },
+    {
+      "id": 29591350,
+      "managed_code": "블루 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블루 S"
+      ]
+    },
+    {
+      "id": 29591351,
+      "managed_code": "블루 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블루 M"
+      ]
+    },
+    {
+      "id": 29591352,
+      "managed_code": "블루 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블루 L"
+      ]
+    },
+    {
+      "id": 29591353,
+      "managed_code": "레드 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "레드 S"
+      ]
+    },
+    {
+      "id": 29591354,
+      "managed_code": "레드 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "레드 M"
+      ]
+    },
+    {
+      "id": 29591355,
+      "managed_code": "레드 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "레드 L"
+      ]
+    },
+    {
+      "id": 29591356,
+      "managed_code": "블랙 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 S"
+      ]
+    },
+    {
+      "id": 29591357,
+      "managed_code": "블랙 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 M"
+      ]
+    },
+    {
+      "id": 29591358,
+      "managed_code": "블랙 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 2336
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

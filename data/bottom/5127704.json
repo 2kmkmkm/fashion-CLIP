@@ -1,0 +1,228 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5127704",
+  "product_id": 5127704,
+  "name": "원턱 8부 썬스턴 버뮤다 카고팬츠 브라운",
+  "name_en": "",
+  "style_no": "G7770120BN",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "gakka2",
+    "name": "가까이 유니언즈",
+    "name_en": "GAKKAI UNIONS"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003009",
+    "categoryDepth2Title": "숏 팬츠",
+    "categoryDepth2Name": "숏 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 50000,
+    "sale": 34990,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250519/5127704/5127704_17478119092492_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250519/5127704/detail_5127704_17478117144712_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250519/5127704/detail_5127704_17478117160984_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250519/5127704/detail_5127704_17478117168249_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250519/5127704/detail_5127704_17478117137225_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250519/5127704/detail_5127704_17478117153513_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈",
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반바지",
+    "type_number": 23,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711371500000057711.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 67.0,
+          "허리단면": 32.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 37.0,
+          "밑위": 36.0,
+          "밑단단면": 34.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 69.5,
+          "허리단면": 34.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 38.0,
+          "밑위": 37.0,
+          "밑단단면": 35.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 39.0,
+          "밑위": 38.0,
+          "밑단단면": 36.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 74.5,
+          "허리단면": 38.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 40.0,
+          "밑위": 39.0,
+          "밑단단면": 37.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5127704/20251012231116_option_68ebb704a29c00.05815002.",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5127704/20251012231130_option_68ebb712b30ef8.59058496.",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5127704/20251012231133_option_68ebb715910d15.39873694.",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5127704/20251012231137_option_68ebb7190a0086.31616917.",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 23683280,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 23683281,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 23683282,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 23683283,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 251
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

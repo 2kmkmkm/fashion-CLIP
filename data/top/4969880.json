@@ -1,0 +1,363 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4969880",
+  "product_id": 4969880,
+  "name": "올 데이 린넨 라이크 셔츠-5Color",
+  "name_en": "All Day Linen Like Shirt-5Color",
+  "style_no": "FBEUUSH183",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "filluminate",
+    "name": "필루미네이트",
+    "name_en": "FILLUMINATE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2026,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 54000,
+    "sale": 39000,
+    "discount_rate": 28,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250331/4969880/4969880_17800388645015_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250331/4969880/detail_4969880_17446116759312_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250331/4969880/detail_4969880_17446070419186_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250331/4969880/detail_4969880_17446070431683_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250331/4969880/detail_4969880_17446070381353_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250331/4969880/detail_4969880_17446070395369_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 75.0,
+          "어깨너비": 54.5,
+          "가슴단면": 68.5,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 77.0,
+          "어깨너비": 56.5,
+          "가슴단면": 70.5,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 79.0,
+          "어깨너비": 58.5,
+          "가슴단면": 72.5,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "WHITE",
+          "code": "WHITE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BEIGE",
+          "code": "BEIGE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "SKY BLUE",
+          "code": "SKY BLUE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "LIGHT BLUE",
+          "code": "LIGHT BLUE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "INDIGO",
+          "code": "INDIGO",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 22965825,
+      "managed_code": "WHITE^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE",
+        "M"
+      ]
+    },
+    {
+      "id": 22965826,
+      "managed_code": "WHITE^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE",
+        "L"
+      ]
+    },
+    {
+      "id": 22965827,
+      "managed_code": "WHITE^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE",
+        "XL"
+      ]
+    },
+    {
+      "id": 22965828,
+      "managed_code": "SKY BLUE^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "SKY BLUE",
+        "M"
+      ]
+    },
+    {
+      "id": 22965829,
+      "managed_code": "SKY BLUE^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "SKY BLUE",
+        "L"
+      ]
+    },
+    {
+      "id": 22965830,
+      "managed_code": "SKY BLUE^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "SKY BLUE",
+        "XL"
+      ]
+    },
+    {
+      "id": 22965831,
+      "managed_code": "BEIGE^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE",
+        "M"
+      ]
+    },
+    {
+      "id": 22965832,
+      "managed_code": "BEIGE^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE",
+        "L"
+      ]
+    },
+    {
+      "id": 22965833,
+      "managed_code": "BEIGE^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE",
+        "XL"
+      ]
+    },
+    {
+      "id": 22965834,
+      "managed_code": "INDIGO^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "INDIGO",
+        "M"
+      ]
+    },
+    {
+      "id": 22965835,
+      "managed_code": "INDIGO^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "INDIGO",
+        "L"
+      ]
+    },
+    {
+      "id": 22965836,
+      "managed_code": "INDIGO^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "INDIGO",
+        "XL"
+      ]
+    },
+    {
+      "id": 22965837,
+      "managed_code": "LIGHT BLUE^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LIGHT BLUE",
+        "M"
+      ]
+    },
+    {
+      "id": 22965838,
+      "managed_code": "LIGHT BLUE^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LIGHT BLUE",
+        "L"
+      ]
+    },
+    {
+      "id": 22965839,
+      "managed_code": "LIGHT BLUE^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LIGHT BLUE",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 382
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

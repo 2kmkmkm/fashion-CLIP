@@ -1,0 +1,489 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/1736085",
+  "product_id": 1736085,
+  "name": "(Renew Ver.) 와이드 스웨트 팬츠 ( 5Color ) ( 기모선택 )",
+  "name_en": "",
+  "style_no": "BR722",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "brenson",
+    "name": "브렌슨",
+    "name_en": "BRENSON"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 34900,
+    "sale": 27900,
+    "discount_rate": 20,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20210105/1736085/1736085_17292148923657_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210105/1736085/detail_1736085_17276598350402_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210105/1736085/detail_1736085_17276598378092_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210105/1736085/detail_1736085_17322403619841_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210105/1736085/detail_1736085_17276598408013_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210105/1736085/detail_1736085_17276598434246_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210105/1736085/detail_1736085_17276598486358_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210105/1736085/detail_1736085_17276598498159_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210105/1736085/detail_1736085_17276598510452_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 102.0,
+          "허리단면": 32.0,
+          "엉덩이단면": 55.0,
+          "허벅지단면": 35.5,
+          "밑위": 32.5,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 33.5,
+          "엉덩이단면": 57.0,
+          "허벅지단면": 36.5,
+          "밑위": 33.5,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 35.0,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 37.5,
+          "밑위": 34.5,
+          "밑단단면": 26.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "색상",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "멜란지",
+          "code": "멜란지",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "다크그레이",
+          "code": "다크그레이",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "화이트멜란지",
+          "code": "화이트멜란지",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "★블랙(기모)★",
+          "code": "★블랙(기모)★",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "★멜란지(기모)★",
+          "code": "★멜란지(기모)★",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "★다크그레이(기모)★",
+          "code": "★다크그레이(기모)★",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "★오트밀(기모)★",
+          "code": "★오트밀(기모)★",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "오트밀",
+          "code": "오트밀",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "네이비",
+          "code": "네이비",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL",
+          "code": "2XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 6668653,
+      "managed_code": "★멜란지(기모)★^L",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "★멜란지(기모)★",
+        "L"
+      ]
+    },
+    {
+      "id": 6668654,
+      "managed_code": "★멜란지(기모)★^M",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "★멜란지(기모)★",
+        "M"
+      ]
+    },
+    {
+      "id": 6668655,
+      "managed_code": "★멜란지(기모)★^XL",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "★멜란지(기모)★",
+        "XL"
+      ]
+    },
+    {
+      "id": 6668657,
+      "managed_code": "★블랙(기모)★^L",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "★블랙(기모)★",
+        "L"
+      ]
+    },
+    {
+      "id": 6668658,
+      "managed_code": "★블랙(기모)★^M",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "★블랙(기모)★",
+        "M"
+      ]
+    },
+    {
+      "id": 6668659,
+      "managed_code": "★블랙(기모)★^XL",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "★블랙(기모)★",
+        "XL"
+      ]
+    },
+    {
+      "id": 6668661,
+      "managed_code": "★오트밀(기모)★^L",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "★오트밀(기모)★",
+        "L"
+      ]
+    },
+    {
+      "id": 6668662,
+      "managed_code": "★오트밀(기모)★^M",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "★오트밀(기모)★",
+        "M"
+      ]
+    },
+    {
+      "id": 6668663,
+      "managed_code": "★오트밀(기모)★^XL",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "★오트밀(기모)★",
+        "XL"
+      ]
+    },
+    {
+      "id": 6668669,
+      "managed_code": "다크그레이^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크그레이",
+        "L"
+      ]
+    },
+    {
+      "id": 6668670,
+      "managed_code": "다크그레이^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크그레이",
+        "M"
+      ]
+    },
+    {
+      "id": 6668671,
+      "managed_code": "다크그레이^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크그레이",
+        "XL"
+      ]
+    },
+    {
+      "id": 6668673,
+      "managed_code": "멜란지^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "멜란지",
+        "L"
+      ]
+    },
+    {
+      "id": 6668674,
+      "managed_code": "멜란지^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "멜란지",
+        "M"
+      ]
+    },
+    {
+      "id": 6668675,
+      "managed_code": "멜란지^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "멜란지",
+        "XL"
+      ]
+    },
+    {
+      "id": 6668677,
+      "managed_code": "블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 6668678,
+      "managed_code": "블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 6668679,
+      "managed_code": "블랙^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "XL"
+      ]
+    },
+    {
+      "id": 6668685,
+      "managed_code": "화이트멜란지^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트멜란지",
+        "L"
+      ]
+    },
+    {
+      "id": 6668686,
+      "managed_code": "화이트멜란지^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트멜란지",
+        "M"
+      ]
+    },
+    {
+      "id": 6668687,
+      "managed_code": "화이트멜란지^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트멜란지",
+        "XL"
+      ]
+    },
+    {
+      "id": 20507582,
+      "managed_code": "★다크그레이(기모)★^M",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "★다크그레이(기모)★",
+        "M"
+      ]
+    },
+    {
+      "id": 20507583,
+      "managed_code": "★다크그레이(기모)★^L",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "★다크그레이(기모)★",
+        "L"
+      ]
+    },
+    {
+      "id": 20507584,
+      "managed_code": "★다크그레이(기모)★^XL",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "★다크그레이(기모)★",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 48089
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

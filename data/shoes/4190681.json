@@ -1,0 +1,273 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4190681",
+  "product_id": 4190681,
+  "name": "8325LT1127 인터스텔라 캐주얼 슬리퍼 White/Black",
+  "name_en": "8325LT1127 Interstellar Casual Slippers White/Black",
+  "style_no": "8325LT1127",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "kelme",
+    "name": "켈미",
+    "name_en": "KELME"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103003",
+    "categoryDepth2Title": "샌들/슬리퍼",
+    "categoryDepth2Name": "샌들/슬리퍼",
+    "categoryDepth3Code": "103003007",
+    "categoryDepth3Title": "슬라이드",
+    "categoryDepth3Name": "슬라이드",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2024,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 59000,
+    "sale": 32450,
+    "discount_rate": 45,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240612/4190681/4190681_17181572535741_500.jpg"
+  ],
+  "features": {
+    "굽 높이": [
+      "보통"
+    ],
+    "쿠션": [
+      "있음"
+    ],
+    "무게": [
+      "가벼움"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "스니커즈",
+    "type_number": 54,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711445100000068699.png",
+    "measurements": [
+      {
+        "size": "39(245)",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 27.5,
+          "발볼": 11.5,
+          "발목높이": 8.5,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "40(250)",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 28.0,
+          "발볼": 11.5,
+          "발목높이": 8.5,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "41(255)",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 28.5,
+          "발볼": 11.5,
+          "발목높이": 8.5,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "42(260)",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 29.0,
+          "발볼": 11.5,
+          "발목높이": 8.5,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "43(265)",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 29.5,
+          "발볼": 12.0,
+          "발목높이": 8.5,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "44(270)",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 30.0,
+          "발볼": 12.0,
+          "발목높이": 8.5,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "45(275)",
+        "sequence": 6,
+        "measurements": {
+          "발길이": 30.5,
+          "발볼": 12.0,
+          "발목높이": 8.5,
+          "굽높이": 4.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "39(245)",
+          "code": "39(245)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "40(250)",
+          "code": "40(250)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "41(255)",
+          "code": "41(255)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "42(260)",
+          "code": "42(260)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "43(265)",
+          "code": "43(265)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "44(270)",
+          "code": "44(270)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "45(275)",
+          "code": "45(275)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 17669937,
+      "managed_code": "39(245)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "39(245)"
+      ]
+    },
+    {
+      "id": 17669938,
+      "managed_code": "41(255)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "41(255)"
+      ]
+    },
+    {
+      "id": 17669939,
+      "managed_code": "43(265)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "43(265)"
+      ]
+    },
+    {
+      "id": 17669940,
+      "managed_code": "45(275)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "45(275)"
+      ]
+    },
+    {
+      "id": 17980061,
+      "managed_code": "40(250)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "40(250)"
+      ]
+    },
+    {
+      "id": 17980062,
+      "managed_code": "42(260)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "42(260)"
+      ]
+    },
+    {
+      "id": 17980063,
+      "managed_code": "44(270)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "44(270)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 7
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

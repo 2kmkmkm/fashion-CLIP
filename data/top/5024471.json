@@ -1,0 +1,267 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5024471",
+  "product_id": 5024471,
+  "name": "멀티 타이포 그래픽 티셔츠 White",
+  "name_en": "MULTI TYPOGRAPHIC T-SHIRT",
+  "style_no": "CO2502ST52WH",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "covernat",
+    "name": "커버낫",
+    "name_en": "COVERNAT"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001001",
+    "categoryDepth2Title": "반소매 티셔츠",
+    "categoryDepth2Name": "반소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 59000,
+    "sale": 27100,
+    "discount_rate": 54,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250414/5024471/5024471_17466689013597_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250414/5024471/detail_5024471_17466689025939_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250414/5024471/detail_5024471_17466689029237_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250414/5024471/detail_5024471_17466689032943_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250414/5024471/detail_5024471_17466689037677_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250414/5024471/detail_5024471_17466689040954_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250414/5024471/detail_5024471_17466689042997_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250414/5024471/detail_5024471_17466689045030_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250414/5024471/detail_5024471_17466689047142_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250414/5024471/detail_5024471_17466689050389_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250414/5024471/detail_5024471_17466689053735_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "XS",
+        "sequence": 0,
+        "measurements": {
+          "총장": 64.0,
+          "어깨너비": 53.0,
+          "가슴단면": 54.5,
+          "소매길이": 19.4,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "S",
+        "sequence": 1,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 55.0,
+          "가슴단면": 57.0,
+          "소매길이": 20.1,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 2,
+        "measurements": {
+          "총장": 69.0,
+          "어깨너비": 58.0,
+          "가슴단면": 60.5,
+          "소매길이": 21.3,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 3,
+        "measurements": {
+          "총장": 71.0,
+          "어깨너비": 60.0,
+          "가슴단면": 63.0,
+          "소매길이": 22.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 73.0,
+          "어깨너비": 62.0,
+          "가슴단면": 65.5,
+          "소매길이": 22.7,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XXL",
+        "sequence": 5,
+        "measurements": {
+          "총장": 74.0,
+          "어깨너비": 64.0,
+          "가슴단면": 68.0,
+          "소매길이": 23.4,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "XS",
+          "code": "XS",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 23062965,
+      "managed_code": "XS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XS"
+      ]
+    },
+    {
+      "id": 23062966,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 23062967,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 23062968,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 23062969,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 23062970,
+      "managed_code": "XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XXL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 45
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

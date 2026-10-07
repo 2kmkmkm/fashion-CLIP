@@ -1,0 +1,260 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3187939",
+  "product_id": 3187939,
+  "name": "This is wide pants LIGHT BLUE",
+  "name_en": "",
+  "style_no": "23SS04-03",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "avan",
+    "name": "어반드레스",
+    "name_en": "AVANDRESS"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003002",
+    "categoryDepth2Title": "데님 팬츠",
+    "categoryDepth2Name": "데님 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 52000,
+    "sale": 39900,
+    "discount_rate": 23,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230329/3187939/3187939_17198083237893_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230329/3187939/detail_3187939_17198083332823_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230329/3187939/detail_3187939_17198083311493_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230329/3187939/detail_3187939_17198083351235_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230329/3187939/detail_3187939_17198083368326_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230329/3187939/detail_3187939_17198083342304_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230329/3187939/detail_3187939_17198083322655_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230329/3187939/detail_3187939_17198083360556_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "0",
+        "sequence": 0,
+        "measurements": {
+          "총장": 101.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 36.0,
+          "밑위": 32.0,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "1",
+        "sequence": 1,
+        "measurements": {
+          "총장": 102.0,
+          "허리단면": 38.0,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 37.0,
+          "밑위": 33.0,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "2",
+        "sequence": 2,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 60.0,
+          "허벅지단면": 38.0,
+          "밑위": 34.0,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "3",
+        "sequence": 3,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 42.0,
+          "엉덩이단면": 62.0,
+          "허벅지단면": 39.0,
+          "밑위": 35.0,
+          "밑단단면": 29.0
+        }
+      },
+      {
+        "size": "4",
+        "sequence": 4,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 44.0,
+          "엉덩이단면": 64.0,
+          "허벅지단면": 40.0,
+          "밑위": 36.0,
+          "밑단단면": 30.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "옵션 선택",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "0",
+          "code": "0",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3187939/20251014154525_option_68edf185d38585.06582068.",
+          "color": null
+        },
+        {
+          "name": "1",
+          "code": "1",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3187939/20251014154527_option_68edf1877991d6.61119129.",
+          "color": null
+        },
+        {
+          "name": "2",
+          "code": "2",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3187939/20251014154529_option_68edf18932ff26.19793243.",
+          "color": null
+        },
+        {
+          "name": "3",
+          "code": "3",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3187939/20251014154530_option_68edf18ae40205.33374353.",
+          "color": null
+        },
+        {
+          "name": "4",
+          "code": "4",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3187939/20251014154533_option_68edf18df27045.06966552.",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 13354535,
+      "managed_code": "0",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "id": 13354536,
+      "managed_code": "1",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "id": 13354537,
+      "managed_code": "2",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2"
+      ]
+    },
+    {
+      "id": 13354538,
+      "managed_code": "3",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "3"
+      ]
+    },
+    {
+      "id": 13354539,
+      "managed_code": "4",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1340
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

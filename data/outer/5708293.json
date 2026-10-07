@@ -1,0 +1,163 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5708293",
+  "product_id": 5708293,
+  "name": "숄더 인시전 포인트 빈티지 윈터 패디드 라이더 레더 자켓 [블랙]",
+  "name_en": "",
+  "style_no": "25W7771220-4500",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "placestudioman",
+    "name": "플레이스스튜디오맨",
+    "name_en": "PLACESTUDIOMAN"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002002",
+    "categoryDepth2Title": "레더/라이더스 재킷",
+    "categoryDepth2Name": "레더/라이더스 재킷",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "가을",
+      "겨울"
+    ],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2025,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 71000,
+    "sale": 28400,
+    "discount_rate": 60,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20251110/5708293/5708293_17627582762142_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251110/5708293/detail_5708293_17627582793553_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251110/5708293/detail_5708293_17627582821957_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251110/5708293/detail_5708293_17627582831407_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251110/5708293/detail_5708293_17645560685623_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251110/5708293/detail_5708293_17645560724220_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러",
+      "루즈",
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통",
+      "약간 두꺼움"
+    ],
+    "계절": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "FREE",
+        "sequence": 0,
+        "measurements": {
+          "총장": 65.0,
+          "어깨너비": 52.5,
+          "가슴단면": 57.0,
+          "소매길이": 64.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 27356592,
+      "managed_code": "블랙^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.1,
+    "count": 7
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

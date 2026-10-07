@@ -1,0 +1,294 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4557447",
+  "product_id": 4557447,
+  "name": "원턱 와이드 스웨트 팬츠 2 Color [ULZT_0001]",
+  "name_en": "One-Tuck Wide Sweatpants 2 Color [ULZT_0001]",
+  "style_no": "4557447",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "ulifezip",
+    "name": "유라이프지",
+    "name_en": "ULIFEZIP"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": null,
+      "year": 2026,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 42000,
+    "sale": 29400,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241025/4557447/4557447_17885077264229_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241025/4557447/detail_4557447_17894531765957_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241025/4557447/detail_4557447_17894531767675_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241025/4557447/detail_4557447_17298165611014_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241025/4557447/detail_4557447_17298165613936_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 102.0,
+          "허리단면": 33.0,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 35.0,
+          "밑위": 33.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 35.0,
+          "엉덩이단면": 60.0,
+          "허벅지단면": 36.0,
+          "밑위": 34.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 37.0,
+          "엉덩이단면": 62.0,
+          "허벅지단면": 37.0,
+          "밑위": 35.0,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 64.0,
+          "허벅지단면": 38.0,
+          "밑위": 36.0,
+          "밑단단면": 27.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "그레이_ULZT_0001",
+          "code": "그레이_ULZT_0001",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4557447/20250703092204_option_6865cd2c1025f6.00409805.",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙_ULZT_0001",
+          "code": "블랙_ULZT_0001",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4557447/20250703092207_option_6865cd2f1243c4.23050560.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 19996548,
+      "managed_code": "그레이_ULZT_0001^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이_ULZT_0001",
+        "M"
+      ]
+    },
+    {
+      "id": 19996549,
+      "managed_code": "그레이_ULZT_0001^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이_ULZT_0001",
+        "L"
+      ]
+    },
+    {
+      "id": 19996550,
+      "managed_code": "그레이_ULZT_0001^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이_ULZT_0001",
+        "XL"
+      ]
+    },
+    {
+      "id": 19996551,
+      "managed_code": "블랙_ULZT_0001^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙_ULZT_0001",
+        "M"
+      ]
+    },
+    {
+      "id": 19996552,
+      "managed_code": "블랙_ULZT_0001^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙_ULZT_0001",
+        "L"
+      ]
+    },
+    {
+      "id": 19996553,
+      "managed_code": "블랙_ULZT_0001^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙_ULZT_0001",
+        "XL"
+      ]
+    },
+    {
+      "id": 21977434,
+      "managed_code": "그레이_ULZT_0001^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이_ULZT_0001",
+        "S"
+      ]
+    },
+    {
+      "id": 21977435,
+      "managed_code": "블랙_ULZT_0001^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙_ULZT_0001",
+        "S"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 192
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

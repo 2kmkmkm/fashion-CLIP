@@ -1,0 +1,214 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4614686",
+  "product_id": 4614686,
+  "name": "WW2 Lot S101B Cowboys Jeans",
+  "name_en": "WW2 Lot S101B Cowboys Jeans",
+  "style_no": "N-BOTTOM-008",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "bronson",
+    "name": "브론슨",
+    "name_en": "BRONSON"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003002",
+    "categoryDepth2Title": "데님 팬츠",
+    "categoryDepth2Name": "데님 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 180000,
+    "sale": 162000,
+    "discount_rate": 10,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241114/4614686/4614686_17763146888715_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17763146661224_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17549668669705_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17549668679280_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17549668688656_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17549668701473_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17549668714642_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17549668727193_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17549668740361_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17549668753611_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17549668771958_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17549668788042_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17896929958734_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17896929960794_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17896929962514_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17896929964246_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17709501371224_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17709501380241_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241114/4614686/detail_4614686_17709501389107_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "30",
+        "sequence": 0,
+        "measurements": {
+          "총장": 103.5,
+          "허리단면": 37.5,
+          "엉덩이단면": 50.0,
+          "허벅지단면": 31.5,
+          "밑위": 29.5,
+          "밑단단면": 22.0
+        }
+      },
+      {
+        "size": "32",
+        "sequence": 1,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 40.5,
+          "엉덩이단면": 51.5,
+          "허벅지단면": 32.5,
+          "밑위": 30.5,
+          "밑단단면": 22.5
+        }
+      },
+      {
+        "size": "34",
+        "sequence": 2,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 43.0,
+          "엉덩이단면": 54.5,
+          "허벅지단면": 34.0,
+          "밑위": 31.5,
+          "밑단단면": 23.0
+        }
+      },
+      {
+        "size": "36",
+        "sequence": 3,
+        "measurements": {
+          "총장": 109.0,
+          "허리단면": 45.5,
+          "엉덩이단면": 57.0,
+          "허벅지단면": 35.5,
+          "밑위": 32.5,
+          "밑단단면": 23.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "30",
+          "code": "30",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "32",
+          "code": "32",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "34",
+          "code": "34",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "36",
+          "code": "36",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 20319206,
+      "managed_code": "30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "30"
+      ]
+    },
+    {
+      "id": 20319207,
+      "managed_code": "32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "32"
+      ]
+    },
+    {
+      "id": 20319208,
+      "managed_code": "34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "34"
+      ]
+    },
+    {
+      "id": 20319209,
+      "managed_code": "36",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "36"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 151
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

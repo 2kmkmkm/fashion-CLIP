@@ -1,0 +1,190 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4534935",
+  "product_id": 4534935,
+  "name": "슈퍼 플리스 그래픽 후드 티셔츠 Creamhttps://bizest.musinsa.com/ho/prd/prd01/detailCMD=edit&GOODS_NO=4534935&GOOD",
+  "name_en": "슈퍼 플리스 그래픽 후드 티셔츠 Cream",
+  "style_no": "CKTS4F512CR",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "champion",
+    "name": "챔피온",
+    "name_en": "CHAMPION"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001004",
+    "categoryDepth2Title": "후드 티셔츠",
+    "categoryDepth2Name": "후드 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 189000,
+    "sale": 85000,
+    "discount_rate": 55,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241018/4534935/4534935_17471132955346_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 3,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 61.0,
+          "가슴단면": 64.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 4,
+        "measurements": {
+          "총장": 73.0,
+          "어깨너비": 63.0,
+          "가슴단면": 67.0,
+          "소매길이": 63.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 5,
+        "measurements": {
+          "총장": 76.0,
+          "어깨너비": 65.0,
+          "가슴단면": 70.0,
+          "소매길이": 65.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "S",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "00M",
+          "code": "00M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "00L",
+          "code": "00L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "0XL",
+          "code": "0XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 22115360,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 22115361,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 22115362,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 11
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

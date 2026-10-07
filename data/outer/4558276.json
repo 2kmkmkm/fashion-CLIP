@@ -1,0 +1,228 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4558276",
+  "product_id": 4558276,
+  "name": "NEO GRID (네오 그리드) UNI 플리스 자켓_Light Beige",
+  "name_en": "NEO GRID (네오 그리드) UNI 플리스 자켓_Light Beige",
+  "style_no": "DUU24156E1",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "eider",
+    "name": "아이더",
+    "name_en": "EIDER"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002023",
+    "categoryDepth2Title": "플리스/뽀글이",
+    "categoryDepth2Name": "플리스/뽀글이",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 149000,
+    "sale": 47200,
+    "discount_rate": 68,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241025/4558276/4558276_17298249406105_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "03(S)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 46.0,
+          "가슴단면": 52.0,
+          "소매길이": 60.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "04(M)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 48.0,
+          "가슴단면": 54.5,
+          "소매길이": 61.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "05(L)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 50.0,
+          "가슴단면": 57.0,
+          "소매길이": 62.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "06(XL)",
+        "sequence": 3,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 52.0,
+          "가슴단면": 59.5,
+          "소매길이": 63.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "07(XXL)",
+        "sequence": 4,
+        "measurements": {
+          "총장": 74.0,
+          "어깨너비": 54.0,
+          "가슴단면": 62.0,
+          "소매길이": 64.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "S",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "03(S)",
+          "code": "03(S)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "04(M)",
+          "code": "04(M)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "05(L)",
+          "code": "05(L)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "06(XL)",
+          "code": "06(XL)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "07(XXL)",
+          "code": "07(XXL)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 20001023,
+      "managed_code": "03(S)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "03(S)"
+      ]
+    },
+    {
+      "id": 20001024,
+      "managed_code": "04(M)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "04(M)"
+      ]
+    },
+    {
+      "id": 20001025,
+      "managed_code": "05(L)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "05(L)"
+      ]
+    },
+    {
+      "id": 20001026,
+      "managed_code": "06(XL)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "06(XL)"
+      ]
+    },
+    {
+      "id": 20001027,
+      "managed_code": "07(XXL)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "07(XXL)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 6
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

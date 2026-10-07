@@ -1,0 +1,207 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5320096",
+  "product_id": 5320096,
+  "name": "가먼트다잉 트윌 세미크롭 블루종 집업 자켓 [카키]",
+  "name_en": "가먼트다잉 트윌 세미크롭 블루종 집업 자켓 [카키]",
+  "style_no": "V5FLWJ01",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "verdnt",
+    "name": "버던트",
+    "name_en": "VERDNT"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002001",
+    "categoryDepth2Title": "블루종/MA-1",
+    "categoryDepth2Name": "블루종/MA-1",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을"
+    ],
+    "primary": "봄",
+    "collection": {
+      "type": "FW",
+      "year": 2025,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 91000,
+    "sale": 36400,
+    "discount_rate": 60,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250813/5320096/5320096_17687901408778_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250813/5320096/detail_5320096_17687901512062_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250813/5320096/detail_5320096_17576575625140_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250813/5320096/detail_5320096_17576575634761_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250813/5320096/detail_5320096_17576575649449_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250813/5320096/detail_5320096_17576575657547_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250813/5320096/detail_5320096_17576575666670_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250813/5320096/detail_5320096_17576575675648_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250813/5320096/detail_5320096_17576575683252_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250813/5320096/detail_5320096_17576575691732_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250813/5320096/detail_5320096_17576575701029_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈",
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 64.0,
+          "어깨너비": 54.0,
+          "가슴단면": 61.5,
+          "소매길이": 59.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 56.0,
+          "가슴단면": 64.0,
+          "소매길이": 60.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 58.0,
+          "가슴단면": 66.5,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25540431,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 25540432,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 25540433,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 48
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4773444",
+  "product_id": 4773444,
+  "name": "BASIC LOGO TEE NAVY(WHITE)",
+  "name_en": "BASIC LOGO TEE NAVY(WHITE)",
+  "style_no": "AM2EMUT510ANW",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "amesworldwide",
+    "name": "아메스 월드와이드",
+    "name_en": "AMES-WORLDWIDE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001001",
+    "categoryDepth2Title": "반소매 티셔츠",
+    "categoryDepth2Name": "반소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 34000,
+    "sale": 23800,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250210/4773444/4773444_17775334440656_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250210/4773444/detail_4773444_17418431576041_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250210/4773444/detail_4773444_17418431585482_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250210/4773444/detail_4773444_17775302128170_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250210/4773444/detail_4773444_17775302160177_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250210/4773444/detail_4773444_17775302139189_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250210/4773444/detail_4773444_17775302174697_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250210/4773444/detail_4773444_17775302149010_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250210/4773444/detail_4773444_17775302184489_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250210/4773444/detail_4773444_17775302194942_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250210/4773444/detail_4773444_17775302205456_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "네이비(화이트) S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 50.5,
+          "어깨너비": 37.5,
+          "가슴단면": 43.0,
+          "소매길이": 16.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "네이비(화이트) M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 68.5,
+          "어깨너비": 50.0,
+          "가슴단면": 54.5,
+          "소매길이": 20.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "네이비(화이트) L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.5,
+          "어깨너비": 54.0,
+          "가슴단면": 59.0,
+          "소매길이": 21.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "네이비(화이트) S",
+          "code": "네이비(화이트) S",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4773444/20251114134135_option_6916b2ff550cc9.37159087.",
+          "color": null
+        },
+        {
+          "name": "네이비(화이트) M",
+          "code": "네이비(화이트) M",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4773444/20251114134138_option_6916b3023dbbe7.36480565.",
+          "color": null
+        },
+        {
+          "name": "네이비(화이트) L",
+          "code": "네이비(화이트) L",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4773444/20251114134140_option_6916b304a2f316.01679133.",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 21796081,
+      "managed_code": "네이비(화이트) S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비(화이트) S"
+      ]
+    },
+    {
+      "id": 21796082,
+      "managed_code": "네이비(화이트) M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비(화이트) M"
+      ]
+    },
+    {
+      "id": 21796083,
+      "managed_code": "네이비(화이트) L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비(화이트) L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 516
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

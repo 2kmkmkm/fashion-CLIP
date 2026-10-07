@@ -1,0 +1,301 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5953433",
+  "product_id": 5953433,
+  "name": "[UV차단]83플래그 세일링 윈드브레이커(3colors) NJK0936",
+  "name_en": "83플래그 세일링 윈드브레이커(3colors) NJK0936",
+  "style_no": "NJK0936",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "nautica",
+    "name": "노티카",
+    "name_en": "NAUTICA"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002006",
+    "categoryDepth2Title": "나일론/코치 재킷",
+    "categoryDepth2Name": "나일론/코치 재킷",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2026,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 99000,
+    "sale": 84150,
+    "discount_rate": 15,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260129/5953433/5953433_17770059458319_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260129/5953433/detail_5953433_17725184252535_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260129/5953433/detail_5953433_17719127506923_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260129/5953433/detail_5953433_17719127540849_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260129/5953433/detail_5953433_17708985172851_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260129/5953433/detail_5953433_17708985209657_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260129/5953433/detail_5953433_17708985249305_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260129/5953433/detail_5953433_17708985280524_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "점퍼_래글런",
+    "type_number": 31,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711342800000057654.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 65.0,
+          "가슴단면": 57.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단 단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 67.0,
+          "가슴단면": 60.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단 단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 69.0,
+          "가슴단면": 63.0,
+          "소매부리단면": 10.0,
+          "전체소매길이": 70.0,
+          "밑단 단면": 48.0,
+          "암홀": 26.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 71.0,
+          "가슴단면": 67.0,
+          "소매부리단면": 10.0,
+          "전체소매길이": 85.0,
+          "밑단 단면": 53.0,
+          "암홀": 38.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "BLACK",
+          "code": "BLACK",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "OLIVE",
+          "code": "OLIVE",
+          "image_url": "",
+          "color": {
+            "colorCode": "34",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "LIGHT GRAY",
+          "code": "LIGHT GRAY",
+          "image_url": "",
+          "color": {
+            "colorCode": "24",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 28709427,
+      "managed_code": "BLACK^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "S"
+      ]
+    },
+    {
+      "id": 28709428,
+      "managed_code": "BLACK^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "M"
+      ]
+    },
+    {
+      "id": 28709429,
+      "managed_code": "BLACK^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "L"
+      ]
+    },
+    {
+      "id": 28709430,
+      "managed_code": "BLACK^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "XL"
+      ]
+    },
+    {
+      "id": 28709432,
+      "managed_code": "OLIVE^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OLIVE",
+        "M"
+      ]
+    },
+    {
+      "id": 28709433,
+      "managed_code": "OLIVE^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OLIVE",
+        "L"
+      ]
+    },
+    {
+      "id": 28709434,
+      "managed_code": "OLIVE^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OLIVE",
+        "XL"
+      ]
+    },
+    {
+      "id": 28787373,
+      "managed_code": "LIGHT GRAY^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LIGHT GRAY",
+        "M"
+      ]
+    },
+    {
+      "id": 28787374,
+      "managed_code": "LIGHT GRAY^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LIGHT GRAY",
+        "L"
+      ]
+    },
+    {
+      "id": 28787375,
+      "managed_code": "LIGHT GRAY^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LIGHT GRAY",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 56
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

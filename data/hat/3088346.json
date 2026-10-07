@@ -1,0 +1,191 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3088346",
+  "product_id": 3088346,
+  "name": "MLB 베이직 LA 다저스 K프레임 볼캡 화이트 온 블랙",
+  "name_en": "940KF WHITE ON BLACK MLB LOSDOD BLK",
+  "style_no": "13583794",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "newera",
+    "name": "뉴에라",
+    "name_en": "NEW ERA"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2023,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 46000,
+    "sale": 32200,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230216/3088346/3088346_16774846344759_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230216/3088346/detail_3088346_16774846414182_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230216/3088346/detail_3088346_16774846424335_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230216/3088346/detail_3088346_16774846434071_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230216/3088346/detail_3088346_16774846445515_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230216/3088346/detail_3088346_16774846458842_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230216/3088346/detail_3088346_16774846475452_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "M/L",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 59.0,
+          "챙길이": 7.0,
+          "깊이": 11.0
+        }
+      },
+      {
+        "size": "SM",
+        "sequence": 1,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      },
+      {
+        "size": "ML",
+        "sequence": 2,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      },
+      {
+        "size": "LXL",
+        "sequence": 3,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M/L",
+          "code": "M/L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "SM",
+          "code": "SM",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "ML",
+          "code": "ML",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "LXL",
+          "code": "LXL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 12875870,
+      "managed_code": "M/L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M/L"
+      ]
+    },
+    {
+      "id": 30139741,
+      "managed_code": "SM",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "SM"
+      ]
+    },
+    {
+      "id": 30139742,
+      "managed_code": "ML",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "ML"
+      ]
+    },
+    {
+      "id": 30139743,
+      "managed_code": "LXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LXL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 144
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

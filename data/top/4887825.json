@@ -1,0 +1,406 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4887825",
+  "product_id": 4887825,
+  "name": "STRANGE PUPPY TEE_4colors",
+  "name_en": "STRANGE PUPPY TEE_4colors",
+  "style_no": "MG2FMMT506A",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "mahagrid",
+    "name": "마하그리드",
+    "name_en": "MAHAGRID"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001001",
+    "categoryDepth2Title": "반소매 티셔츠",
+    "categoryDepth2Name": "반소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 39000,
+    "sale": 19500,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250312/4887825/4887825_17906537916434_500.jpg",
+    "https://image.msscdn.net/images/goods_img/20250312/4887825/4887825_17792538224711_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17811375802968_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17811375838582_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17811375877049_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17811376791222_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17792538317746_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17792538374143_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17732762271616_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17748511063252_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17550636340920_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17732762319972_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17550637998458_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17791742440519_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17791742433259_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17732762529654_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17550635909660_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17550635901741_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17550635879868_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17550635889710_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17720865506605_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17720865472823_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17720865537407_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17720865571517_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17720865635187_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17720865604885_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17720865351639_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17720865394907_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17419283593586_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17419283609474_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250312/4887825/detail_4887825_17419283623002_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 65.0,
+          "어깨너비": 46.5,
+          "가슴단면": 53.0,
+          "소매길이": 22.0,
+          "밑단단면": 53.5,
+          "소매부리단면": 20.0,
+          "암홀": 25.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 49.0,
+          "가슴단면": 56.0,
+          "소매길이": 23.0,
+          "밑단단면": 55.5,
+          "소매부리단면": 20.5,
+          "암홀": 26.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 71.0,
+          "어깨너비": 51.5,
+          "가슴단면": 59.0,
+          "소매길이": 24.0,
+          "밑단단면": 56.0,
+          "소매부리단면": 20.0,
+          "암홀": 27.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 74.0,
+          "어깨너비": 54.0,
+          "가슴단면": 62.0,
+          "소매길이": 25.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "색상",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "화이트",
+          "code": "화이트",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/29/a2b0a4ca1c7141c5b8fe8625a36c2fdb.jpg",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "차콜",
+          "code": "차콜",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/29/e9087a41af98422db357300268d7f3bd.jpg",
+          "color": {
+            "colorCode": "25",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "라이트 그레이",
+          "code": "라이트 그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/29/ce53c118c85a460fb55d28f113a62035.jpg",
+          "color": {
+            "colorCode": "24",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/29/3b46e593fe504db89e1a3d81147cd74a.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "그레이",
+          "code": "그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/29/b679f25198674d2fa97cc169473a208f.jpg",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 22370999,
+      "managed_code": "화이트^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "S"
+      ]
+    },
+    {
+      "id": 22371000,
+      "managed_code": "화이트^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "M"
+      ]
+    },
+    {
+      "id": 22371001,
+      "managed_code": "화이트^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "L"
+      ]
+    },
+    {
+      "id": 22371002,
+      "managed_code": "화이트^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "XL"
+      ]
+    },
+    {
+      "id": 25540614,
+      "managed_code": "차콜^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "차콜",
+        "S"
+      ]
+    },
+    {
+      "id": 25540615,
+      "managed_code": "차콜^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "차콜",
+        "M"
+      ]
+    },
+    {
+      "id": 25540616,
+      "managed_code": "차콜^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "차콜",
+        "L"
+      ]
+    },
+    {
+      "id": 25540617,
+      "managed_code": "차콜^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "차콜",
+        "XL"
+      ]
+    },
+    {
+      "id": 25540622,
+      "managed_code": "블랙^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "S"
+      ]
+    },
+    {
+      "id": 25540623,
+      "managed_code": "블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 25540624,
+      "managed_code": "블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 25540625,
+      "managed_code": "블랙^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "XL"
+      ]
+    },
+    {
+      "id": 25567603,
+      "managed_code": "그레이^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "S"
+      ]
+    },
+    {
+      "id": 25567604,
+      "managed_code": "그레이^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "M"
+      ]
+    },
+    {
+      "id": 25567605,
+      "managed_code": "그레이^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "L"
+      ]
+    },
+    {
+      "id": 25567606,
+      "managed_code": "그레이^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1465
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

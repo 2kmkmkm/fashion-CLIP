@@ -1,0 +1,220 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3511387",
+  "product_id": 3511387,
+  "name": "3STARS LOGO KNIT HOODIE_IVORY(NG2DFUK610A)",
+  "name_en": "3STARS LOGO KNIT HOODIE_IVORY(NG2DFUK610A)",
+  "style_no": "NG2DFUK610AIV",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "niceghostclub",
+    "name": "나이스고스트클럽",
+    "name_en": "NICEGHOSTCLUB"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001006",
+    "categoryDepth2Title": "니트/스웨터",
+    "categoryDepth2Name": "니트/스웨터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "가을",
+      "겨울"
+    ],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 89000,
+    "sale": 73870,
+    "discount_rate": 17,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230829/3511387/3511387_17586734242171_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230829/3511387/detail_3511387_17586734068745_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230829/3511387/detail_3511387_16943970075228_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230829/3511387/detail_3511387_16943970082360_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230829/3511387/detail_3511387_16943970088913_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230829/3511387/detail_3511387_16943970096922_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230829/3511387/detail_3511387_16944092789073_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "약간 있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 66.0,
+          "가슴단면": 65.0,
+          "소매길이": 58.0,
+          "밑단단면": 49.0,
+          "소매부리단면": 25.0,
+          "암홀": 67.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 68.0,
+          "가슴단면": 67.5,
+          "소매길이": 59.0,
+          "밑단단면": 50.0,
+          "소매부리단면": 26.0,
+          "암홀": 69.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 70.0,
+          "가슴단면": 70.0,
+          "소매길이": 60.0,
+          "밑단단면": 55.5,
+          "소매부리단면": 11.5,
+          "암홀": 28.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "아이보리",
+          "code": "아이보리",
+          "image_url": "",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 14774668,
+      "managed_code": "아이보리^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "L"
+      ]
+    },
+    {
+      "id": 14774669,
+      "managed_code": "아이보리^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "M"
+      ]
+    },
+    {
+      "id": 14774670,
+      "managed_code": "아이보리^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "S"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1444
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

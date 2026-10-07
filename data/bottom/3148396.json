@@ -1,0 +1,149 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3148396",
+  "product_id": 3148396,
+  "name": "린넨 코튼 워싱 팬츠(화이트)",
+  "name_en": "린넨 코튼 워싱 팬츠(화이트)",
+  "style_no": "32-00-0041",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "camelwork",
+    "name": "카멜워크",
+    "name_en": "CAMEL WORK"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2026,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 110000,
+    "sale": 55000,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230315/3148396/3148396_16818709194451_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230315/3148396/detail_3148396_16792835356086_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230315/3148396/detail_3148396_16792835493244_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230315/3148396/detail_3148396_16792835562086_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230315/3148396/detail_3148396_16792835602958_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230315/3148396/detail_3148396_16792835645446_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230315/3148396/detail_3148396_16792835682558_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230315/3148396/detail_3148396_16788477989615_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 38.0,
+          "밑위": 33.0,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 43.0,
+          "엉덩이단면": 60.0,
+          "허벅지단면": 40.0,
+          "밑위": 33.5,
+          "밑단단면": 29.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 13160475,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 13160476,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 242
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

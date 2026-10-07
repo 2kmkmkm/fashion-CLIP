@@ -1,0 +1,336 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4045046",
+  "product_id": 4045046,
+  "name": "Pinch Wide Denim Pants - 2COL",
+  "name_en": "",
+  "style_no": "AV41PT14",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "avan",
+    "name": "어반드레스",
+    "name_en": "AVANDRESS"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003002",
+    "categoryDepth2Title": "데님 팬츠",
+    "categoryDepth2Name": "데님 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "SS",
+      "year": 2024,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 86000,
+    "sale": 22420,
+    "discount_rate": 74,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240411/4045046/4045046_17169736192601_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045046/detail_4045046_17169736271641_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045046/detail_4045046_17169736279281_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045046/detail_4045046_17169736287390_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045046/detail_4045046_17169736294724_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "약간 있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "XS",
+        "sequence": 0,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 33.5,
+          "엉덩이단면": 53.0,
+          "허벅지단면": 34.5,
+          "밑위": 38.0,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "S",
+        "sequence": 1,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 55.5,
+          "허벅지단면": 36.0,
+          "밑위": 39.0,
+          "밑단단면": 27.5
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 2,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 38.5,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 37.5,
+          "밑위": 40.5,
+          "밑단단면": 28.5
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 3,
+        "measurements": {
+          "총장": 110.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 60.5,
+          "허벅지단면": 39.0,
+          "밑위": 41.5,
+          "밑단단면": 30.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 112.0,
+          "허리단면": 43.5,
+          "엉덩이단면": 63.0,
+          "허벅지단면": 40.5,
+          "밑위": 43.0,
+          "밑단단면": 31.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "색상",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "BLACK",
+          "code": "BLACK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4045046/20251013131859_option_68ec7db3443921.38558051.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BLUE",
+          "code": "BLUE",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4045046/20251013131901_option_68ec7db5675246.92291423.",
+          "color": {
+            "colorCode": "7",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "XS",
+          "code": "XS",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 17037311,
+      "managed_code": "BLACK^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "L"
+      ]
+    },
+    {
+      "id": 17037312,
+      "managed_code": "BLACK^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "M"
+      ]
+    },
+    {
+      "id": 17037313,
+      "managed_code": "BLACK^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "S"
+      ]
+    },
+    {
+      "id": 17037314,
+      "managed_code": "BLACK^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "XL"
+      ]
+    },
+    {
+      "id": 17037315,
+      "managed_code": "BLACK^XS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "XS"
+      ]
+    },
+    {
+      "id": 17037316,
+      "managed_code": "BLUE^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE",
+        "L"
+      ]
+    },
+    {
+      "id": 17037317,
+      "managed_code": "BLUE^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE",
+        "M"
+      ]
+    },
+    {
+      "id": 17037318,
+      "managed_code": "BLUE^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE",
+        "S"
+      ]
+    },
+    {
+      "id": 17037319,
+      "managed_code": "BLUE^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE",
+        "XL"
+      ]
+    },
+    {
+      "id": 17037320,
+      "managed_code": "BLUE^XS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE",
+        "XS"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 40
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

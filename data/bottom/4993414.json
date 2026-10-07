@@ -1,0 +1,230 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4993414",
+  "product_id": 4993414,
+  "name": "와이드 커브드 다트 코튼 팬츠[베이지]",
+  "name_en": "Wide Curved Dart Cotton Pants [Beige]",
+  "style_no": "25SSBCDC-003",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "signature",
+    "name": "시그니처",
+    "name_en": "SIGNATURE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 53000,
+    "sale": 27900,
+    "discount_rate": 47,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250407/4993414/4993414_17883391236407_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250407/4993414/detail_4993414_17890237752572_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250407/4993414/detail_4993414_17890237754340_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250407/4993414/detail_4993414_17890237755843_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250407/4993414/detail_4993414_17890237757563_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250407/4993414/detail_4993414_17890237759178_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250407/4993414/detail_4993414_17890237760894_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250407/4993414/detail_4993414_17890237762457_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 36.5,
+          "엉덩이단면": 53.0,
+          "허벅지단면": 37.0,
+          "밑위": 35.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 55.0,
+          "허벅지단면": 39.5,
+          "밑위": 36.0,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 41.5,
+          "엉덩이단면": 57.0,
+          "허벅지단면": 41.0,
+          "밑위": 37.0,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 109.0,
+          "허리단면": 44.0,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 42.5,
+          "밑위": 38.0,
+          "밑단단면": 28.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 22916211,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 22916212,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 22916213,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 22916214,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 4367
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

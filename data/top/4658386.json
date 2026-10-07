@@ -1,0 +1,311 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4658386",
+  "product_id": 4658386,
+  "name": "헤비 그라운드 모헤어 브이넥 니트_4Color",
+  "name_en": "",
+  "style_no": "헤비 그라운드 모헤어 브이넥 니트_4Color",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "maninstore",
+    "name": "무드인사이드",
+    "name_en": "MOOD INSIDE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001006",
+    "categoryDepth2Title": "니트/스웨터",
+    "categoryDepth2Name": "니트/스웨터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 99900,
+    "sale": 45900,
+    "discount_rate": 54,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241210/4658386/4658386_17344845356445_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241210/4658386/detail_4658386_17345714587490_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241210/4658386/detail_4658386_17345714657056_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241210/4658386/detail_4658386_17345714698127_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241210/4658386/detail_4658386_17345714736211_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 50.0,
+          "가슴단면": 58.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 52.0,
+          "가슴단면": 60.0,
+          "소매길이": 63.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 54.0,
+          "가슴단면": 62.0,
+          "소매길이": 65.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "색상",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "화이트",
+          "code": "화이트",
+          "image_url": "",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "연베이지",
+          "code": "연베이지",
+          "image_url": "",
+          "color": {
+            "colorCode": "77",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "차콜",
+          "code": "차콜",
+          "image_url": "",
+          "color": {
+            "colorCode": "25",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 20726355,
+      "managed_code": "M^차콜",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M",
+        "차콜"
+      ]
+    },
+    {
+      "id": 20726356,
+      "managed_code": "L^차콜",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L",
+        "차콜"
+      ]
+    },
+    {
+      "id": 20726357,
+      "managed_code": "M^화이트",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M",
+        "화이트"
+      ]
+    },
+    {
+      "id": 20726358,
+      "managed_code": "L^화이트",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L",
+        "화이트"
+      ]
+    },
+    {
+      "id": 20951681,
+      "managed_code": "M^연베이지",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M",
+        "연베이지"
+      ]
+    },
+    {
+      "id": 20951682,
+      "managed_code": "M^블랙",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M",
+        "블랙"
+      ]
+    },
+    {
+      "id": 20951683,
+      "managed_code": "L^연베이지",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L",
+        "연베이지"
+      ]
+    },
+    {
+      "id": 20951684,
+      "managed_code": "L^블랙",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L",
+        "블랙"
+      ]
+    },
+    {
+      "id": 27526257,
+      "managed_code": "XL^화이트",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL",
+        "화이트"
+      ]
+    },
+    {
+      "id": 27526258,
+      "managed_code": "XL^연베이지",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL",
+        "연베이지"
+      ]
+    },
+    {
+      "id": 27526259,
+      "managed_code": "XL^차콜",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL",
+        "차콜"
+      ]
+    },
+    {
+      "id": 27526260,
+      "managed_code": "XL^블랙",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL",
+        "블랙"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.5,
+    "count": 63
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

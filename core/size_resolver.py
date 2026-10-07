@@ -92,13 +92,70 @@ class SizeProfileResolver:
 
     # --- 내부 DB 조회 및 갱신 헬퍼 메서드 (Stub) ---
     def _fetch_user_fit_preferences(self, user_id, subcategory, fit_type):
-        pass
+        # 1. 상의
+        if "후드 티셔츠" in subcategory or "긴소매 티셔츠" in subcategory or "반소매 티셔츠" in subcategory:
+            return {
+                "top_length": 72.0,
+                "shoulder": 53.0,
+                "chest": 61.0,
+                "sleeve": 62.0,
+                "top_hem": 52.0,
+                "cuff": 10.0,
+                "armhole": 26.0,
+                "sample_count": 5
+            }
+            
+        # 2. 아우터
+        elif "나일론/코치 재킷" in subcategory or "겨울 싱글 코트" in subcategory or "슈트/블레이저 재킷" in subcategory:
+            return {
+                "top_length": 75.0,
+                "shoulder": 56.0,
+                "chest": 65.0,
+                "sleeve": 64.0,
+                "top_hem": 58.0,
+                "cuff": 14.0,
+                "armhole": 29.0,
+                "sample_count": 3
+            }
+            
+        # 3. 하의
+        elif "트레이닝/조거 팬츠" in subcategory or "데님 팬츠" in subcategory or "코튼 팬츠" in subcategory:
+            return {
+                "bottom_length": 102.0,
+                "waist": 41.0,
+                "hip": 52.0,
+                "thigh": 31.0,
+                "rise": 29.0,
+                "bottom_hem": 22.0,
+                "sample_count": 7
+            }
+            
+        # 4. 신발
+        elif "샌들/슬리퍼" in subcategory or "부츠/워커" in subcategory:
+            return {
+                "foot_length": 265.0,
+                "foot_width": 10.5,
+                "ankle_height": 8.0,
+                "heel_height": 3.5,
+                "sample_count": 4
+            }
+            
+        # 5. 모자
+        elif "캡/야구모자" in subcategory or "비니" in subcategory:
+            return {
+                "head_circumference": 58.0,
+                "brim_length": 0.0,
+                "depth": 22.0,
+                "sample_count": 2
+            }
+            
+        return None
 
     def _fetch_recent_purchased_spec(self, user_id, subcategory, fit_type):
-        pass
+        return None
 
     def _fetch_similar_body_spec(self, user_id, subcategory, fit_type):
-        pass
+        return None
 
     def _insert_fit_preferences(self, user_id, subcategory, fit_type, spec, sample_count):
         pass
@@ -132,25 +189,27 @@ class SizeCalculator:
 
                 fields = []
 
-                # 1. 카테고리별 세부 실측 항목 매핑 (총장 및 밑단 구분 적용)
-                if category_type == "top":  # 상의 / 아우터
-                    fields = ["top_length", "shoulder", "chest", "sleeve", "top_hem", "cuff"]
+               # 1. 카테고리별 세부 실측 항목 매핑
+                if category_type in ["top", "outer"]:  # 상의 / 아우터 통합 처리
+                    fields = ["top_length", "shoulder", "chest", "sleeve", "top_hem", "cuff", "armhole"]
                 elif category_type == "bottom":  # 하의
                     fields = ["bottom_length", "waist", "hip", "thigh", "rise", "bottom_hem"]
                 elif category_type == "shoes":  # 신발
                     fields = ["foot_length", "foot_width", "ankle_height", "heel_height"]
                 elif category_type == "hat":  # 모자
-                    fields = ["head_circumference", "brim_length", "cap_depth"]
+                    fields = ["head_circumference", "brim_length", "depth"]
                 else:
                     continue  # 정의되지 않은 카테고리는 스킵
+
+                measurements = size_option.get("measurements", {})
 
                 # 2. 공통 필드 순회 및 Null 엄격 방어 로직 적용
                 for field in fields:
                     if (
-                        field in size_option and size_option[field] is not None and
+                        field in measurements and measurements[field] is not None and
                         field in baseline_spec and baseline_spec[field] is not None
                     ):
-                        penalty += abs(size_option[field] - baseline_spec[field])
+                        penalty += abs(measurements[field] - baseline_spec[field])
                         valid_fields_count += 1
 
                 # 비교할 수 있는 유효한 데이터가 하나도 없다면 이 사이즈 옵션은 스킵
@@ -162,7 +221,7 @@ class SizeCalculator:
                     min_penalty = penalty
                     best_match = {
                         "product_id": product.get("product_id"),
-                        "size_label": size_option.get("size_label"),
+                        "size_label": size_option.get("size", "Unknown"),
                         "predicted_fit_score": max(0.0, 1.0 - (min_penalty / 15.0))  # 15cm 기준 마진
                     }
                     

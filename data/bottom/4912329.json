@@ -1,0 +1,146 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4912329",
+  "product_id": 4912329,
+  "name": "심볼 로고 나일론 트랙 팬츠_네이비",
+  "name_en": "SYMBOL LOGO NYLON TRACK PANTS_INDIE PINK",
+  "style_no": "93252WWL100119",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "1993studio",
+    "name": "1993스튜디오",
+    "name_en": "1993STUDIO"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 72000,
+    "sale": 44800,
+    "discount_rate": 38,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250318/4912329/4912329_17422828949690_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250318/4912329/detail_4912329_17422829038585_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250318/4912329/detail_4912329_17424474782737_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250318/4912329/detail_4912329_17422829048568_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250318/4912329/detail_4912329_17422829057778_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 34.0,
+          "엉덩이단면": 60.5,
+          "허벅지단면": 37.0,
+          "밑위": 34.0,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 38.0,
+          "엉덩이단면": 62.5,
+          "허벅지단면": 38.5,
+          "밑위": 35.0,
+          "밑단단면": 29.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 22510208,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 22510209,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 81
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

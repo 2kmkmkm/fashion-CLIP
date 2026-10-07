@@ -1,0 +1,229 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5194733",
+  "product_id": 5194733,
+  "name": "[SECOND.A] 엔틱버클 6CM 벌룬 클로그 2NDS090BS [SAND]",
+  "name_en": "Antique Buckle 6cm Balloon Clog 2NDS090BS [SAND]",
+  "style_no": "2NDS090BS",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "firenzeatelier",
+    "name": "피렌체 아뜨리에",
+    "name_en": "FIRENZE ATELIER"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103003",
+    "categoryDepth2Title": "샌들/슬리퍼",
+    "categoryDepth2Name": "샌들/슬리퍼",
+    "categoryDepth3Code": "103003001",
+    "categoryDepth3Title": "클로그",
+    "categoryDepth3Name": "클로그",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 108000,
+    "sale": 81000,
+    "discount_rate": 25,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250619/5194733/5194733_17802888972670_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250619/5194733/detail_5194733_17802889272117_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250619/5194733/detail_5194733_17802889278096_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250619/5194733/detail_5194733_17802889248677_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250619/5194733/detail_5194733_17802889254410_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250619/5194733/detail_5194733_17802889260281_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250619/5194733/detail_5194733_17802889266011_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250619/5194733/detail_5194733_17802889286898_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250619/5194733/detail_5194733_17802889292897_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250619/5194733/detail_5194733_17802889299928_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250619/5194733/detail_5194733_17802889306415_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250619/5194733/detail_5194733_17802889312640_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250619/5194733/detail_5194733_17802889319244_500.jpg"
+  ],
+  "features": {
+    "굽 높이": [
+      "높음"
+    ],
+    "쿠션": [
+      "보통"
+    ],
+    "무게": [
+      "보통"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "250",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 27.5,
+          "발볼": 0.0,
+          "발목높이": 6.0,
+          "굽높이": 6.0
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 28.5,
+          "발볼": 0.0,
+          "발목높이": 6.0,
+          "굽높이": 6.0
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 29.5,
+          "발볼": 0.0,
+          "발목높이": 6.0,
+          "굽높이": 6.0
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 30.5,
+          "발볼": 0.0,
+          "발목높이": 6.0,
+          "굽높이": 6.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "CAMEL",
+          "code": "CAMEL",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/02/b20d2a5a83094cefa9e6271e14d1c6dd.jpg",
+          "color": {
+            "colorCode": "26",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 24172958,
+      "managed_code": "CAMEL^250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CAMEL",
+        "250"
+      ]
+    },
+    {
+      "id": 24172959,
+      "managed_code": "CAMEL^260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CAMEL",
+        "260"
+      ]
+    },
+    {
+      "id": 24172960,
+      "managed_code": "CAMEL^270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CAMEL",
+        "270"
+      ]
+    },
+    {
+      "id": 24172961,
+      "managed_code": "CAMEL^280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CAMEL",
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 26
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

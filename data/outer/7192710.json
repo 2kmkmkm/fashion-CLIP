@@ -1,0 +1,160 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7192710",
+  "product_id": 7192710,
+  "name": "빈티지 워시드 밀리터리 자켓_네이비",
+  "name_en": "Vintage Washed Military Jacket_Navy",
+  "style_no": "SR26OUT04NYOS",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "slowrecordhouse",
+    "name": "슬로우 레코드 하우스",
+    "name_en": "SLOW RECORD HOUSE"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002014",
+    "categoryDepth2Title": "사파리/헌팅 재킷",
+    "categoryDepth2Name": "사파리/헌팅 재킷",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을"
+    ],
+    "primary": "봄",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 189000,
+    "sale": 159000,
+    "discount_rate": 16,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260828/7192710/7192710_17883445078325_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260828/7192710/detail_7192710_17883445085133_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260828/7192710/detail_7192710_17883445086716_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260828/7192710/detail_7192710_17883445088443_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260828/7192710/detail_7192710_17883445090211_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "거의 없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "FREE",
+        "sequence": 0,
+        "measurements": {
+          "총장": 95.0,
+          "어깨너비": 59.0,
+          "가슴단면": 69.0,
+          "소매길이": 65.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "네이비",
+          "code": "네이비",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/02/0658b915f9d44df0bf0b91267d688c69.jpg",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32914169,
+      "managed_code": "네이비^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

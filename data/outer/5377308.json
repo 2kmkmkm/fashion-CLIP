@@ -1,0 +1,776 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5377308",
+  "product_id": 5377308,
+  "name": "87-STAN009 [리뉴얼] 스탠다드 블루종 스웨이드 자켓 12COLOR",
+  "name_en": "87-STAN009 [Renewal] Standard Blouson Suede Jacket 11 Colors",
+  "style_no": "87-STAN009",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "standarderror",
+    "name": "스탠다드에러",
+    "name_en": "STANDARDERROR"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002001",
+    "categoryDepth2Title": "블루종/MA-1",
+    "categoryDepth2Name": "블루종/MA-1",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2026,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 89000,
+    "sale": 35400,
+    "discount_rate": 60,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250829/5377308/5377308_17738935049490_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17605925411219_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17605925422442_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17605925390331_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17605925401718_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17605925430987_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17731930469913_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17605925440405_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17605925451171_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17605925008212_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17605924985223_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17568692557678_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17738935528492_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17738935536305_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17738936718476_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17738936724088_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17738936728764_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250829/5377308/detail_5377308_17738936733718_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 65.0,
+          "어깨너비": 56.0,
+          "가슴단면": 64.0,
+          "소매길이": 54.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 67.0,
+          "어깨너비": 58.0,
+          "가슴단면": 66.0,
+          "소매길이": 55.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 69.0,
+          "어깨너비": 60.0,
+          "가슴단면": 68.0,
+          "소매길이": 56.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 71.0,
+          "어깨너비": 62.0,
+          "가슴단면": 70.0,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "카키",
+          "code": "카키",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/03/b53865b3c3a341eb8cdd10c491a64900.jpg",
+          "color": {
+            "colorCode": "30",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/03/1723a73d57f14ee7b5818ed1bc96a831.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "그레이",
+          "code": "그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/03/5f7ee74b49da4de5afec15be1dab60d8.jpg",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "아이보리",
+          "code": "아이보리",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/03/fa68af8cbe2943488cb8aa913f225370.jpg",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "레드 브라운",
+          "code": "레드 브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/03/f4257d8121b944069d03a7c9743b6dfe.jpg",
+          "color": {
+            "colorCode": "4",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "다크 브라운",
+          "code": "다크 브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/03/39ac446f1c8c42569063b273c54e7139.jpg",
+          "color": {
+            "colorCode": "83",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "크랙 카키",
+          "code": "크랙 카키",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/03/9ae11f97017b44a9a105137f1fa4d42e.jpg",
+          "color": {
+            "colorCode": "30",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "크랙 블랙",
+          "code": "크랙 블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/03/1ae67ffad70e4c8f87ed84bc930f0a7a.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "크랙 아이보리",
+          "code": "크랙 아이보리",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/03/63830f109c054c6cb3582eabf0f2e6ad.jpg",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "크랙 브라운",
+          "code": "크랙 브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/03/747bce74838847c7b4c4d8d8fc49c279.jpg",
+          "color": {
+            "colorCode": "82",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "크랙 레드 브라운",
+          "code": "크랙 레드 브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/03/7bc24ddb105b41dca6537180e98b6951.jpg",
+          "color": {
+            "colorCode": "4",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "크랙 다크 브라운",
+          "code": "크랙 다크 브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/03/4f4068b4f8f544d6a9f28d1132598fbf.jpg",
+          "color": {
+            "colorCode": "83",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25863081,
+      "managed_code": "카키^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "S"
+      ]
+    },
+    {
+      "id": 25863082,
+      "managed_code": "카키^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "M"
+      ]
+    },
+    {
+      "id": 25863083,
+      "managed_code": "카키^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "L"
+      ]
+    },
+    {
+      "id": 25863084,
+      "managed_code": "그레이^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "S"
+      ]
+    },
+    {
+      "id": 25863085,
+      "managed_code": "그레이^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "M"
+      ]
+    },
+    {
+      "id": 25863086,
+      "managed_code": "그레이^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "L"
+      ]
+    },
+    {
+      "id": 25863087,
+      "managed_code": "아이보리^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "S"
+      ]
+    },
+    {
+      "id": 25863088,
+      "managed_code": "아이보리^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "M"
+      ]
+    },
+    {
+      "id": 25863089,
+      "managed_code": "아이보리^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "L"
+      ]
+    },
+    {
+      "id": 25863090,
+      "managed_code": "블랙^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "S"
+      ]
+    },
+    {
+      "id": 25863091,
+      "managed_code": "블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 25863092,
+      "managed_code": "블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 25863093,
+      "managed_code": "레드 브라운^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "레드 브라운",
+        "S"
+      ]
+    },
+    {
+      "id": 25863094,
+      "managed_code": "레드 브라운^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "레드 브라운",
+        "M"
+      ]
+    },
+    {
+      "id": 25863095,
+      "managed_code": "레드 브라운^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "레드 브라운",
+        "L"
+      ]
+    },
+    {
+      "id": 25863096,
+      "managed_code": "다크 브라운^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크 브라운",
+        "S"
+      ]
+    },
+    {
+      "id": 25863097,
+      "managed_code": "다크 브라운^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크 브라운",
+        "M"
+      ]
+    },
+    {
+      "id": 25863098,
+      "managed_code": "다크 브라운^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크 브라운",
+        "L"
+      ]
+    },
+    {
+      "id": 25863099,
+      "managed_code": "크랙 블랙^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 블랙",
+        "S"
+      ]
+    },
+    {
+      "id": 25863100,
+      "managed_code": "크랙 블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 25863101,
+      "managed_code": "크랙 블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 25863102,
+      "managed_code": "크랙 아이보리^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 아이보리",
+        "S"
+      ]
+    },
+    {
+      "id": 25863103,
+      "managed_code": "크랙 아이보리^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 아이보리",
+        "M"
+      ]
+    },
+    {
+      "id": 25863104,
+      "managed_code": "크랙 아이보리^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 아이보리",
+        "L"
+      ]
+    },
+    {
+      "id": 25863105,
+      "managed_code": "크랙 브라운^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 브라운",
+        "S"
+      ]
+    },
+    {
+      "id": 25863106,
+      "managed_code": "크랙 브라운^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 브라운",
+        "M"
+      ]
+    },
+    {
+      "id": 25863107,
+      "managed_code": "크랙 브라운^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 브라운",
+        "L"
+      ]
+    },
+    {
+      "id": 25863108,
+      "managed_code": "크랙 카키^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 카키",
+        "S"
+      ]
+    },
+    {
+      "id": 25863109,
+      "managed_code": "크랙 카키^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 카키",
+        "M"
+      ]
+    },
+    {
+      "id": 25863110,
+      "managed_code": "크랙 카키^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 카키",
+        "L"
+      ]
+    },
+    {
+      "id": 25863111,
+      "managed_code": "크랙 다크 브라운^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 다크 브라운",
+        "S"
+      ]
+    },
+    {
+      "id": 25863112,
+      "managed_code": "크랙 다크 브라운^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 다크 브라운",
+        "M"
+      ]
+    },
+    {
+      "id": 25863113,
+      "managed_code": "크랙 다크 브라운^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 다크 브라운",
+        "L"
+      ]
+    },
+    {
+      "id": 25863114,
+      "managed_code": "크랙 레드 브라운^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 레드 브라운",
+        "S"
+      ]
+    },
+    {
+      "id": 25863115,
+      "managed_code": "크랙 레드 브라운^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 레드 브라운",
+        "M"
+      ]
+    },
+    {
+      "id": 25863116,
+      "managed_code": "크랙 레드 브라운^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 레드 브라운",
+        "L"
+      ]
+    },
+    {
+      "id": 28130409,
+      "managed_code": "카키^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "XL"
+      ]
+    },
+    {
+      "id": 28130410,
+      "managed_code": "블랙^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "XL"
+      ]
+    },
+    {
+      "id": 28130411,
+      "managed_code": "그레이^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "XL"
+      ]
+    },
+    {
+      "id": 28130412,
+      "managed_code": "아이보리^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "XL"
+      ]
+    },
+    {
+      "id": 28130413,
+      "managed_code": "레드 브라운^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "레드 브라운",
+        "XL"
+      ]
+    },
+    {
+      "id": 28130414,
+      "managed_code": "다크 브라운^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크 브라운",
+        "XL"
+      ]
+    },
+    {
+      "id": 28130415,
+      "managed_code": "크랙 카키^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 카키",
+        "XL"
+      ]
+    },
+    {
+      "id": 28130416,
+      "managed_code": "크랙 블랙^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 블랙",
+        "XL"
+      ]
+    },
+    {
+      "id": 28130417,
+      "managed_code": "크랙 아이보리^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 아이보리",
+        "XL"
+      ]
+    },
+    {
+      "id": 28130418,
+      "managed_code": "크랙 브라운^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 브라운",
+        "XL"
+      ]
+    },
+    {
+      "id": 28130419,
+      "managed_code": "크랙 레드 브라운^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 레드 브라운",
+        "XL"
+      ]
+    },
+    {
+      "id": 28130420,
+      "managed_code": "크랙 다크 브라운^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크랙 다크 브라운",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 26768
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

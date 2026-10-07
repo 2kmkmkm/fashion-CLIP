@@ -1,0 +1,122 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5502312",
+  "product_id": 5502312,
+  "name": "심볼 로고 배색 볼캡 아이보리",
+  "name_en": "심볼 로고 배색 볼캡 아이보리",
+  "style_no": "TNCPP902_IV",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "tonylawrence",
+    "name": "토니로렌스",
+    "name_en": "TONY LAWRENCE"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2025,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 39000,
+    "sale": 31200,
+    "discount_rate": 20,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250922/5502312/5502312_17585245893597_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5502312/detail_5502312_17585245996442_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250922/5502312/detail_5502312_17585245986686_500.jpg"
+  ],
+  "features": {
+    "깊이": [
+      "깊음"
+    ],
+    "챙 넓이": [
+      "넒음"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "00F",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 60.5,
+          "챙길이": 8.0,
+          "깊이": 16.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "00F",
+          "code": "00F",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 26445273,
+      "managed_code": "00F",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "00F"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 48
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

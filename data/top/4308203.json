@@ -1,0 +1,231 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4308203",
+  "product_id": 4308203,
+  "name": "VLAD 피그먼트 슬래쉬 롱슬리브 티셔츠_차콜",
+  "name_en": "VLAD PIGMENT SLASH LONG SLEEVE T-SHIRT_CHARCOAL",
+  "style_no": "VBD8TL03CH",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "dimitriblack",
+    "name": "디미트리블랙",
+    "name_en": "DIMITRI BLACK"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001010",
+    "categoryDepth2Title": "긴소매 티셔츠",
+    "categoryDepth2Name": "긴소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 45900,
+    "sale": 28900,
+    "discount_rate": 37,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240808/4308203/4308203_17240583743289_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240808/4308203/detail_4308203_17240492823264_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240808/4308203/detail_4308203_17240492814651_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240808/4308203/detail_4308203_17240354234946_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240808/4308203/detail_4308203_17236032034260_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240808/4308203/detail_4308203_17236032041221_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240808/4308203/detail_4308203_17236032049460_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240808/4308203/detail_4308203_17236032056724_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240808/4308203/detail_4308203_17236032065361_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매_래글런",
+    "type_number": 22,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711325400000036950.png",
+    "measurements": [
+      {
+        "size": "0 (S)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 69.0,
+          "가슴단면": 59.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "1 (M)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 71.0,
+          "가슴단면": 61.5,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "2 (L)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 73.0,
+          "가슴단면": 64.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "3 (XL)",
+        "sequence": 3,
+        "measurements": {
+          "총장": 75.0,
+          "가슴단면": 66.5,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "0 (S)",
+          "code": "0 (S)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "1 (M)",
+          "code": "1 (M)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2 (L)",
+          "code": "2 (L)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "3 (XL)",
+          "code": "3 (XL)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 18445851,
+      "managed_code": "1 (M)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1 (M)"
+      ]
+    },
+    {
+      "id": 18445852,
+      "managed_code": "2 (L)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2 (L)"
+      ]
+    },
+    {
+      "id": 18445853,
+      "managed_code": "3 (XL)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "3 (XL)"
+      ]
+    },
+    {
+      "id": 19948223,
+      "managed_code": "0 (S)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "0 (S)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 835
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

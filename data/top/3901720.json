@@ -1,0 +1,184 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3901720",
+  "product_id": 3901720,
+  "name": "풋볼 져지 티셔츠_화이트",
+  "name_en": "FFootball Jersey T-Shirts_White",
+  "style_no": "UBDUTS002WH",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "urbandtype",
+    "name": "어반디타입",
+    "name_en": "URBANDTYPE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001001",
+    "categoryDepth2Title": "반소매 티셔츠",
+    "categoryDepth2Name": "반소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 39000,
+    "sale": 31200,
+    "discount_rate": 20,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240226/3901720/3901720_17521968601813_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240226/3901720/detail_3901720_17514200476034_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240226/3901720/detail_3901720_17514200468304_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240226/3901720/detail_3901720_17514200461171_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240226/3901720/detail_3901720_17526546393723_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240226/3901720/detail_3901720_17509041245676_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240226/3901720/detail_3901720_17108142287387_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 1,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 48.0,
+          "가슴단면": 54.0,
+          "소매길이": 21.0,
+          "밑단단면": 53.0,
+          "소매부리단면": 18.0,
+          "암홀": 36.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 2,
+        "measurements": {
+          "총장": 69.0,
+          "어깨너비": 53.0,
+          "가슴단면": 59.0,
+          "소매길이": 23.5,
+          "밑단단면": 46.5,
+          "소매부리단면": 18.0,
+          "암홀": 24.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 3,
+        "measurements": {
+          "총장": 73.0,
+          "어깨너비": 56.0,
+          "가슴단면": 61.5,
+          "소매길이": 25.0,
+          "밑단단면": 60.0,
+          "소매부리단면": 19.0,
+          "암홀": 26.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "WS",
+          "code": "WS",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 16463859,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 16463860,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 16463861,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 3152
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

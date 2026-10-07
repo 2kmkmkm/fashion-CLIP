@@ -1,0 +1,224 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4939318",
+  "product_id": 4939318,
+  "name": "캠퍼스 피그먼트 블록코어 긴팔 티셔츠 [블랙]",
+  "name_en": "",
+  "style_no": "V5SLKT05",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "verdnt",
+    "name": "버던트",
+    "name_en": "VERDNT"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001010",
+    "categoryDepth2Title": "긴소매 티셔츠",
+    "categoryDepth2Name": "긴소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 14700,
+    "discount_rate": 70,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250325/4939318/4939318_17687987859772_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250325/4939318/detail_4939318_17687987963317_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250325/4939318/detail_4939318_17495440165693_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250325/4939318/detail_4939318_17495440174724_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250325/4939318/detail_4939318_17495440184119_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250325/4939318/detail_4939318_17495440193961_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250325/4939318/detail_4939318_17495440213072_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250325/4939318/detail_4939318_17495440223454_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 69.0,
+          "어깨너비": 60.0,
+          "가슴단면": 62.0,
+          "소매길이": 55.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 71.0,
+          "어깨너비": 62.0,
+          "가슴단면": 64.0,
+          "소매길이": 56.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 73.0,
+          "어깨너비": 64.0,
+          "가슴단면": 66.0,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 22665880,
+      "managed_code": "블랙^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "S"
+      ]
+    },
+    {
+      "id": 22665881,
+      "managed_code": "블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 22665882,
+      "managed_code": "블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 47
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

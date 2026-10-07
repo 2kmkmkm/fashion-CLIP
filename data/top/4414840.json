@@ -1,0 +1,127 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4414840",
+  "product_id": 4414840,
+  "name": "빈티지 스트라이프 셔츠 (블랙)",
+  "name_en": "",
+  "style_no": "huke5000",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "huke",
+    "name": "후크",
+    "name_en": "HUKE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 89000,
+    "sale": 43900,
+    "discount_rate": 51,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240906/4414840/4414840_17255970990176_500.jpg"
+  ],
+  "features": {
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "NONE",
+        "sequence": 0,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 58.0,
+          "가슴단면": 61.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "NONE",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "NONE",
+          "code": "NONE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 19143945,
+      "managed_code": "NONE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NONE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 152
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

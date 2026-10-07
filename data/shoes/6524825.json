@@ -1,0 +1,281 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/6524825",
+  "product_id": 6524825,
+  "name": "[SECOND.A] 셔링디테일 유니섹스 글러브 로퍼 PL5800UX [VINTAGE BLACK]",
+  "name_en": "[SECOND.A] Shirring Detail Unisex Glove Loafer PL5800UX [VINTAGE BLACK]",
+  "style_no": "PL5800UX",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "firenzeatelier",
+    "name": "피렌체 아뜨리에",
+    "name_en": "FIRENZE ATELIER"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103001",
+    "categoryDepth2Title": "구두",
+    "categoryDepth2Name": "구두",
+    "categoryDepth3Code": "103001007",
+    "categoryDepth3Title": "로퍼",
+    "categoryDepth3Name": "로퍼",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2026,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 128000,
+    "sale": 96000,
+    "discount_rate": 25,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260521/6524825/6524825_17793724184952_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260521/6524825/detail_6524825_17798044513691_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260521/6524825/detail_6524825_17798044518490_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260521/6524825/detail_6524825_17798044523444_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260521/6524825/detail_6524825_17798044528965_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260521/6524825/detail_6524825_17798044534609_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260521/6524825/detail_6524825_17798044540875_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260521/6524825/detail_6524825_17798044548058_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260521/6524825/detail_6524825_17798044553549_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260521/6524825/detail_6524825_17798044559404_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260521/6524825/detail_6524825_17798044565156_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260521/6524825/detail_6524825_17798044571356_500.jpg"
+  ],
+  "features": {
+    "굽 높이": [
+      "낮음"
+    ],
+    "쿠션": [
+      "보통"
+    ],
+    "무게": [
+      "가벼움"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "230",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 25.5,
+          "발볼": 0.0,
+          "발목높이": 7.0,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "240",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 26.5,
+          "발볼": 0.0,
+          "발목높이": 7.0,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "250",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 27.5,
+          "발볼": 0.0,
+          "발목높이": 8.0,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 28.5,
+          "발볼": 0.0,
+          "발목높이": 8.0,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 29.5,
+          "발볼": 0.0,
+          "발목높이": 8.0,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 30.5,
+          "발볼": 0.0,
+          "발목높이": 8.0,
+          "굽높이": 1.2
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/02/ea7fd754a8694e7d9ff6bc2b6a35e7a7.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "230",
+          "code": "230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "240",
+          "code": "240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 31006732,
+      "managed_code": "블랙^230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "230"
+      ]
+    },
+    {
+      "id": 31006733,
+      "managed_code": "블랙^240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "240"
+      ]
+    },
+    {
+      "id": 31006734,
+      "managed_code": "블랙^250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "250"
+      ]
+    },
+    {
+      "id": 31006735,
+      "managed_code": "블랙^260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "260"
+      ]
+    },
+    {
+      "id": 31006736,
+      "managed_code": "블랙^270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "270"
+      ]
+    },
+    {
+      "id": 31006737,
+      "managed_code": "블랙^280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 19
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

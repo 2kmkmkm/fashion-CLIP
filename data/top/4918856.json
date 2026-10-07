@@ -1,0 +1,299 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4918856",
+  "product_id": 4918856,
+  "name": "피그먼트 절개 카라 숏 슬리브 티셔츠 3 COLOR COOSTS258",
+  "name_en": "피그먼트 절개 카라 숏 슬리브 티셔츠 3 COLOR COOSTS258",
+  "style_no": "COOSTS258",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "costumeoclock",
+    "name": "커스텀어클락",
+    "name_en": "COSTUME O’CLOCK"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001003",
+    "categoryDepth2Title": "피케/카라 티셔츠",
+    "categoryDepth2Name": "피케/카라 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 37000,
+    "sale": 19900,
+    "discount_rate": 46,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250319/4918856/4918856_17865939493167_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250319/4918856/detail_4918856_17865939551210_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250319/4918856/detail_4918856_17865939559546_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250319/4918856/detail_4918856_17865939568187_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250319/4918856/detail_4918856_17865939576687_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250319/4918856/detail_4918856_17865939585514_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 72.5,
+          "어깨너비": 59.0,
+          "가슴단면": 60.0,
+          "소매길이": 20.0,
+          "밑단단면": 63.0,
+          "소매부리단면": 21.5,
+          "암홀": 25.5
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 75.0,
+          "어깨너비": 62.0,
+          "가슴단면": 63.0,
+          "소매길이": 21.0,
+          "밑단단면": 67.0,
+          "소매부리단면": 21.0,
+          "암홀": 23.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 77.5,
+          "어깨너비": 65.0,
+          "가슴단면": 66.0,
+          "소매길이": 22.0,
+          "밑단단면": 67.0,
+          "소매부리단면": 22.0,
+          "암홀": 26.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4918856/20250403183122_option_67ee556a775567.97399635.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙화이트",
+          "code": "블랙화이트",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4918856/20250403183125_option_67ee556dd6baa5.79466118.",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "다크그레이",
+          "code": "다크그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4918856/20250403183128_option_67ee5570207a09.94754381.",
+          "color": {
+            "colorCode": "25",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 22539643,
+      "managed_code": "블랙^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "S"
+      ]
+    },
+    {
+      "id": 22539644,
+      "managed_code": "블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 22539645,
+      "managed_code": "블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 22539646,
+      "managed_code": "블랙화이트^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙화이트",
+        "S"
+      ]
+    },
+    {
+      "id": 22539647,
+      "managed_code": "블랙화이트^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙화이트",
+        "M"
+      ]
+    },
+    {
+      "id": 22539648,
+      "managed_code": "블랙화이트^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙화이트",
+        "L"
+      ]
+    },
+    {
+      "id": 22539649,
+      "managed_code": "다크그레이^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크그레이",
+        "S"
+      ]
+    },
+    {
+      "id": 22539650,
+      "managed_code": "다크그레이^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크그레이",
+        "M"
+      ]
+    },
+    {
+      "id": 22539651,
+      "managed_code": "다크그레이^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크그레이",
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 239
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

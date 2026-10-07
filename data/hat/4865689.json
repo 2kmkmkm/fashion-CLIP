@@ -1,0 +1,140 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4865689",
+  "product_id": 4865689,
+  "name": "트레포일 베이스볼 캡 - 블랙 / JC6023",
+  "name_en": "BASEBALL CAP AC     BLACK",
+  "style_no": "JC6023",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "adidas",
+    "name": "아디다스",
+    "name_en": "ADIDAS"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 35000,
+    "sale": 30990,
+    "discount_rate": 11,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250306/4865689/4865689_17416774037078_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250306/4865689/detail_4865689_17416774179778_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250306/4865689/detail_4865689_17416774201538_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250306/4865689/detail_4865689_17416774220605_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "OSFW",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 66.0,
+          "챙길이": 7.0,
+          "깊이": 16.0
+        }
+      },
+      {
+        "size": "OSFM",
+        "sequence": 1,
+        "measurements": {
+          "머리둘레": 67.0,
+          "챙길이": 7.0,
+          "깊이": 16.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "OSFW",
+          "code": "OSFW",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "OSFM",
+          "code": "OSFM",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 22259844,
+      "managed_code": "OSFW",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OSFW"
+      ]
+    },
+    {
+      "id": 22259845,
+      "managed_code": "OSFM",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OSFM"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 156
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

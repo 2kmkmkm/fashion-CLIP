@@ -1,0 +1,254 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/6955437",
+  "product_id": 6955437,
+  "name": "[SECOND.A] 스웨이드 5CM 모크슈즈 2NDF3300BS [BLACK]",
+  "name_en": "[SECOND.A] Suede 5CM Moc Shoes 2NDF3300BS [BLACK]",
+  "style_no": "2NDF3300BS",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "firenzeatelier",
+    "name": "피렌체 아뜨리에",
+    "name_en": "FIRENZE ATELIER"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103001",
+    "categoryDepth2Title": "구두",
+    "categoryDepth2Name": "구두",
+    "categoryDepth3Code": "103001009",
+    "categoryDepth3Title": "모카신",
+    "categoryDepth3Name": "모카신",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 126000,
+    "sale": 75600,
+    "discount_rate": 40,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260730/6955437/6955437_17853747248500_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260730/6955437/detail_6955437_17853814687583_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260730/6955437/detail_6955437_17853814692418_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260730/6955437/detail_6955437_17853814697232_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260730/6955437/detail_6955437_17853814701968_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260730/6955437/detail_6955437_17853814706086_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260730/6955437/detail_6955437_17853814710411_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260730/6955437/detail_6955437_17853814714702_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260730/6955437/detail_6955437_17853814718911_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260730/6955437/detail_6955437_17853814723355_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260730/6955437/detail_6955437_17853814728030_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260730/6955437/detail_6955437_17853814732387_500.jpg"
+  ],
+  "features": {
+    "굽 높이": [
+      "높음"
+    ],
+    "쿠션": [
+      "보통"
+    ],
+    "무게": [
+      "가벼움"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "240",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 27.0,
+          "발볼": 0.0,
+          "발목높이": 11.5,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "250",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 28.0,
+          "발볼": 0.0,
+          "발목높이": 11.5,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 29.0,
+          "발볼": 0.0,
+          "발목높이": 11.5,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 30.0,
+          "발볼": 0.0,
+          "발목높이": 11.5,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 31.0,
+          "발볼": 0.0,
+          "발목높이": 11.5,
+          "굽높이": 4.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/21e7df469ce84763a0e77a697e86ec07.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "240",
+          "code": "240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32218638,
+      "managed_code": "블랙^240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "240"
+      ]
+    },
+    {
+      "id": 32218639,
+      "managed_code": "블랙^250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "250"
+      ]
+    },
+    {
+      "id": 32218640,
+      "managed_code": "블랙^260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "260"
+      ]
+    },
+    {
+      "id": 32218641,
+      "managed_code": "블랙^270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "270"
+      ]
+    },
+    {
+      "id": 32218642,
+      "managed_code": "블랙^280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 10
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

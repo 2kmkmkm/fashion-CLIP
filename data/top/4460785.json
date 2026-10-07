@@ -1,0 +1,248 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4460785",
+  "product_id": 4460785,
+  "name": "크랙 후드 틸블루 JJHD9176",
+  "name_en": "Crack Hoodie Tealblue JJHD9176",
+  "style_no": "5005991522",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "punchline",
+    "name": "펀치라인",
+    "name_en": "PUNCHLINE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001004",
+    "categoryDepth2Title": "후드 티셔츠",
+    "categoryDepth2Name": "후드 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "가을",
+      "겨울"
+    ],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": null,
+      "source": "inferred_from_season_tags"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 54000,
+    "sale": 40900,
+    "discount_rate": 24,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240925/4460785/4460785_17272276091825_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240925/4460785/detail_4460785_17455493477665_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240925/4460785/detail_4460785_17455493486017_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240925/4460785/detail_4460785_17455493495292_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240925/4460785/detail_4460785_17455493503551_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈",
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "두꺼움"
+    ],
+    "계절": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 64.0,
+          "가슴단면": 63.0,
+          "소매길이": 54.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 73.0,
+          "어깨너비": 66.0,
+          "가슴단면": 65.0,
+          "소매길이": 56.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 76.0,
+          "어깨너비": 68.0,
+          "가슴단면": 67.0,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "2XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 79.0,
+          "어깨너비": 70.0,
+          "가슴단면": 69.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "틸블루",
+          "code": "틸블루",
+          "image_url": "",
+          "color": {
+            "colorCode": "7",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL",
+          "code": "2XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 19380352,
+      "managed_code": "틸블루^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "틸블루",
+        "M"
+      ]
+    },
+    {
+      "id": 19380353,
+      "managed_code": "틸블루^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "틸블루",
+        "L"
+      ]
+    },
+    {
+      "id": 19380354,
+      "managed_code": "틸블루^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "틸블루",
+        "XL"
+      ]
+    },
+    {
+      "id": 19380355,
+      "managed_code": "틸블루^2XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "틸블루",
+        "2XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 52
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

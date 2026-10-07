@@ -1,0 +1,131 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5114638",
+  "product_id": 5114638,
+  "name": "Linking Flower Jacquard Beanie",
+  "name_en": "Linking Flower Jacquard Beanie",
+  "style_no": "9AK25SULBNBK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "9999archive",
+    "name": "9999아카이브",
+    "name_en": "9999ARCHIVE"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120005",
+    "categoryDepth2Title": "비니",
+    "categoryDepth2Name": "비니",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 39000,
+    "sale": 27300,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250515/5114638/5114638_17484130000178_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250515/5114638/detail_5114638_17484130163153_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250515/5114638/detail_5114638_17472856354870_500.jpg"
+  ],
+  "features": {
+    "깊이": [
+      "얕음"
+    ],
+    "챙 넓이": [
+      "보통"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "비니",
+    "type_number": 52,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711465700000088960.png",
+    "measurements": [
+      {
+        "size": "OS",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 58.0,
+          "깊이": 21.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "BLACK",
+          "code": "BLACK",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "OS",
+          "code": "OS",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 23609706,
+      "managed_code": "BLACK^OS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "OS"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 354
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

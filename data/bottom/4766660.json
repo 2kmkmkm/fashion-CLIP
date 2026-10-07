@@ -1,0 +1,435 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4766660",
+  "product_id": 4766660,
+  "name": "핀턱 팬츠 오버 후디 셋업_5colors",
+  "name_en": "핀턱 팬츠 오버 후디 셋업_5colors",
+  "style_no": "5011101591",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "likethemost",
+    "name": "라이크더모스트",
+    "name_en": "LIKE THE MOST"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 62400,
+    "sale": 49900,
+    "discount_rate": 20,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250207/4766660/4766660_17394091977556_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250207/4766660/detail_4766660_17394092030857_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250207/4766660/detail_4766660_17394092066696_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250207/4766660/detail_4766660_17394092102889_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250207/4766660/detail_4766660_17394092134312_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 57.0,
+          "가슴단면": 57.0,
+          "소매길이": 54.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 59.0,
+          "가슴단면": 59.0,
+          "소매길이": 56.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 74.0,
+          "어깨너비": 61.0,
+          "가슴단면": 61.0,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 76.0,
+          "어깨너비": 63.0,
+          "가슴단면": 63.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "멜란지 후드",
+          "code": "멜란지 후드",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "크림 후드",
+          "code": "크림 후드",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "소라 후드",
+          "code": "소라 후드",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "네이비 후드",
+          "code": "네이비 후드",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 후드",
+          "code": "블랙 후드",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "멜란지 팬츠",
+          "code": "멜란지 팬츠",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "크림 팬츠",
+          "code": "크림 팬츠",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "소라 팬츠",
+          "code": "소라 팬츠",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "네이비 팬츠",
+          "code": "네이비 팬츠",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 팬츠",
+          "code": "블랙 팬츠",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 21857984,
+      "managed_code": "멜란지 후드^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "멜란지 후드",
+        "S"
+      ]
+    },
+    {
+      "id": 21857985,
+      "managed_code": "멜란지 후드^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "멜란지 후드",
+        "M"
+      ]
+    },
+    {
+      "id": 21857986,
+      "managed_code": "멜란지 후드^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "멜란지 후드",
+        "L"
+      ]
+    },
+    {
+      "id": 21857987,
+      "managed_code": "멜란지 후드^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "멜란지 후드",
+        "XL"
+      ]
+    },
+    {
+      "id": 21857988,
+      "managed_code": "크림 후드^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림 후드",
+        "S"
+      ]
+    },
+    {
+      "id": 21857989,
+      "managed_code": "크림 후드^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림 후드",
+        "M"
+      ]
+    },
+    {
+      "id": 21857990,
+      "managed_code": "크림 후드^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림 후드",
+        "L"
+      ]
+    },
+    {
+      "id": 21857991,
+      "managed_code": "크림 후드^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림 후드",
+        "XL"
+      ]
+    },
+    {
+      "id": 21857992,
+      "managed_code": "소라 후드^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "소라 후드",
+        "S"
+      ]
+    },
+    {
+      "id": 21857993,
+      "managed_code": "소라 후드^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "소라 후드",
+        "M"
+      ]
+    },
+    {
+      "id": 21857994,
+      "managed_code": "소라 후드^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "소라 후드",
+        "L"
+      ]
+    },
+    {
+      "id": 21857995,
+      "managed_code": "소라 후드^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "소라 후드",
+        "XL"
+      ]
+    },
+    {
+      "id": 21857996,
+      "managed_code": "네이비 후드^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비 후드",
+        "S"
+      ]
+    },
+    {
+      "id": 21857997,
+      "managed_code": "네이비 후드^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비 후드",
+        "M"
+      ]
+    },
+    {
+      "id": 21857998,
+      "managed_code": "네이비 후드^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비 후드",
+        "L"
+      ]
+    },
+    {
+      "id": 21857999,
+      "managed_code": "네이비 후드^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비 후드",
+        "XL"
+      ]
+    },
+    {
+      "id": 21858000,
+      "managed_code": "블랙 후드^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 후드",
+        "S"
+      ]
+    },
+    {
+      "id": 21858001,
+      "managed_code": "블랙 후드^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 후드",
+        "M"
+      ]
+    },
+    {
+      "id": 21858002,
+      "managed_code": "블랙 후드^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 후드",
+        "L"
+      ]
+    },
+    {
+      "id": 21858003,
+      "managed_code": "블랙 후드^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 후드",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 10
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

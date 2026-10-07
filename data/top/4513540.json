@@ -1,0 +1,207 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4513540",
+  "product_id": 4513540,
+  "name": "와플 스티치 롱 슬리브[카키]",
+  "name_en": "WAFFLE STITCH LONG SLEEVE[KHAKI]",
+  "style_no": "24FWMT005",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "hervino",
+    "name": "에르비노",
+    "name_en": "HERVINO"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001010",
+    "categoryDepth2Title": "긴소매 티셔츠",
+    "categoryDepth2Name": "긴소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 59000,
+    "sale": 32000,
+    "discount_rate": 46,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241014/4513540/4513540_17845330811179_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4513540/detail_4513540_17845331065458_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4513540/detail_4513540_17845331040815_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4513540/detail_4513540_17845331052892_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4513540/detail_4513540_17345048170239_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4513540/detail_4513540_17288858425794_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4513540/detail_4513540_17288858416880_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4513540/detail_4513540_17288858458461_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4513540/detail_4513540_17288858446951_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4513540/detail_4513540_17288858436647_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "약간 있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "L",
+        "sequence": 0,
+        "measurements": {
+          "총장": 69.0,
+          "어깨너비": 51.0,
+          "가슴단면": 57.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.5,
+          "어깨너비": 53.0,
+          "가슴단면": 60.0,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "2XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 55.0,
+          "가슴단면": 63.0,
+          "소매길이": 63.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL",
+          "code": "2XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 19651168,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 19651169,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 19651170,
+      "managed_code": "2XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 9
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

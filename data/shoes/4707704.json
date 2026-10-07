@@ -1,0 +1,261 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4707704",
+  "product_id": 4707704,
+  "name": "아토 7cm 키높이 어글리슈즈 화이트",
+  "name_en": "",
+  "style_no": "25-009",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "thenopi",
+    "name": "더노피",
+    "name_en": "THENOPI"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103004",
+    "categoryDepth2Title": "스니커즈",
+    "categoryDepth2Name": "스니커즈",
+    "categoryDepth3Code": "103004004",
+    "categoryDepth3Title": "패션스니커즈화",
+    "categoryDepth3Name": "패션스니커즈화",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 109000,
+    "sale": 56800,
+    "discount_rate": 48,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250109/4707704/4707704_17364007496031_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250109/4707704/detail_4707704_17364007872105_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250109/4707704/detail_4707704_17364007877397_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250109/4707704/detail_4707704_17364007882604_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250109/4707704/detail_4707704_17364007887873_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "225-230",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 26.0,
+          "발볼": 9.5,
+          "발목높이": 11.5,
+          "굽높이": 4.0
+        }
+      },
+      {
+        "size": "235-240",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 27.0,
+          "발볼": 10.0,
+          "발목높이": 12.0,
+          "굽높이": 4.0
+        }
+      },
+      {
+        "size": "245-250",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 28.0,
+          "발볼": 10.5,
+          "발목높이": 12.5,
+          "굽높이": 4.0
+        }
+      },
+      {
+        "size": "255-260",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 29.0,
+          "발볼": 11.0,
+          "발목높이": 13.0,
+          "굽높이": 4.0
+        }
+      },
+      {
+        "size": "265-270",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 30.0,
+          "발볼": 11.5,
+          "발목높이": 13.5,
+          "굽높이": 4.0
+        }
+      },
+      {
+        "size": "275-280",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 31.0,
+          "발볼": 12.0,
+          "발목높이": 14.0,
+          "굽높이": 4.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "화이트",
+          "code": "화이트",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/08/31/d1a3077c6d754659baf9aabef245a733.jpg",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "225-230",
+          "code": "225-230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "235-240",
+          "code": "235-240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "245-250",
+          "code": "245-250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "255-260",
+          "code": "255-260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "265-270",
+          "code": "265-270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "275-280",
+          "code": "275-280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 21260279,
+      "managed_code": "화이트^225-230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "225-230"
+      ]
+    },
+    {
+      "id": 21260280,
+      "managed_code": "화이트^235-240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "235-240"
+      ]
+    },
+    {
+      "id": 21260281,
+      "managed_code": "화이트^245-250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "245-250"
+      ]
+    },
+    {
+      "id": 21260282,
+      "managed_code": "화이트^255-260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "255-260"
+      ]
+    },
+    {
+      "id": 21260283,
+      "managed_code": "화이트^265-270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "265-270"
+      ]
+    },
+    {
+      "id": 21260284,
+      "managed_code": "화이트^275-280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "275-280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 21
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

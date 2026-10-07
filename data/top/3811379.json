@@ -1,0 +1,196 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3811379",
+  "product_id": 3811379,
+  "name": "BLESSED MESH KNIT BEIGE(MG2ESMK601A)",
+  "name_en": "BLESSED MESH KNIT BEIGE(MG2ESMK601A)",
+  "style_no": "MG2ESMK601ABE",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "mahagrid",
+    "name": "마하그리드",
+    "name_en": "MAHAGRID"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001006",
+    "categoryDepth2Title": "니트/스웨터",
+    "categoryDepth2Name": "니트/스웨터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2024,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 89000,
+    "sale": 26700,
+    "discount_rate": 70,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240122/3811379/3811379_17072073035255_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240122/3811379/detail_3811379_17072073287741_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240122/3811379/detail_3811379_17072073293881_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240122/3811379/detail_3811379_17072073301909_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240122/3811379/detail_3811379_17072073309123_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240122/3811379/detail_3811379_17072073316998_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240122/3811379/detail_3811379_17072073324168_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 61.0,
+          "어깨너비": 54.0,
+          "가슴단면": 62.0,
+          "소매길이": 56.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 63.5,
+          "어깨너비": 56.0,
+          "가슴단면": 64.5,
+          "소매길이": 57.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 58.0,
+          "가슴단면": 67.0,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "색상",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "베이지",
+          "code": "베이지",
+          "image_url": "",
+          "color": {
+            "colorCode": "5",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15995148,
+      "managed_code": "베이지^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "L"
+      ]
+    },
+    {
+      "id": 15995149,
+      "managed_code": "베이지^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "M"
+      ]
+    },
+    {
+      "id": 15995150,
+      "managed_code": "베이지^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "S"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 58
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

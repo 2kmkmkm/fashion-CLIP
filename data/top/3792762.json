@@ -1,0 +1,181 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3792762",
+  "product_id": 3792762,
+  "name": "MIL SERIES LONG SLEEVE(74TH FIGHTER SQ)_PIGMENT CHARCOAL",
+  "name_en": "밀리터리 시리즈 롱 슬리브(74TH FIGHTER SQ)_피그먼트 차콜",
+  "style_no": "OS26FWLS04PCH",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "outstanding",
+    "name": "아웃스탠딩",
+    "name_en": "OUTSTANDING"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001010",
+    "categoryDepth2Title": "긴소매 티셔츠",
+    "categoryDepth2Name": "긴소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 74000,
+    "sale": 59200,
+    "discount_rate": 20,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240112/3792762/3792762_17691462522493_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3792762/detail_3792762_17691379776087_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3792762/detail_3792762_17691462597935_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3792762/detail_3792762_17691379729411_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3792762/detail_3792762_17691379740304_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3792762/detail_3792762_17691379767857_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3792762/detail_3792762_17691379750490_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3792762/detail_3792762_17691379759006_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3792762/detail_3792762_17691379784891_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 56.0,
+          "가슴단면": 59.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 58.0,
+          "가슴단면": 61.0,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 60.0,
+          "가슴단면": 63.0,
+          "소매길이": 63.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15919668,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 15919669,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 15919670,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 192
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

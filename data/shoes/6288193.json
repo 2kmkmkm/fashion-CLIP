@@ -1,0 +1,282 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/6288193",
+  "product_id": 6288193,
+  "name": "[SECOND.A] 유니섹스 레트로 데일리 스니커즈 SN5600UX [WRINKLE BLACK]",
+  "name_en": "[SECOND.A] Unisex Retro Daily Sneakers SN5600UX [WRINKLE BLACK]",
+  "style_no": "SN5600UX",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "firenzeatelier",
+    "name": "피렌체 아뜨리에",
+    "name_en": "FIRENZE ATELIER"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103004",
+    "categoryDepth2Title": "스니커즈",
+    "categoryDepth2Name": "스니커즈",
+    "categoryDepth3Code": "103004001",
+    "categoryDepth3Title": "캔버스/단화",
+    "categoryDepth3Name": "캔버스/단화",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2026,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 114000,
+    "sale": 68400,
+    "discount_rate": 40,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260410/6288193/6288193_17761303069106_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288193/detail_6288193_17761303197323_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288193/detail_6288193_17757826785591_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288193/detail_6288193_17757826790397_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288193/detail_6288193_17757826765779_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288193/detail_6288193_17757826770701_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288193/detail_6288193_17757826775411_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288193/detail_6288193_17757826780426_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288193/detail_6288193_17757826795806_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288193/detail_6288193_17757826803376_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288193/detail_6288193_17757826809828_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288193/detail_6288193_17757826816619_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260410/6288193/detail_6288193_17757826822878_500.jpg"
+  ],
+  "features": {
+    "굽 높이": [
+      "낮음"
+    ],
+    "쿠션": [
+      "보통"
+    ],
+    "무게": [
+      "가벼움"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "스니커즈",
+    "type_number": 54,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711445100000068699.png",
+    "measurements": [
+      {
+        "size": "230",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 24.0,
+          "발볼": 0.0,
+          "발목높이": 8.0,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "240",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 25.0,
+          "발볼": 0.0,
+          "발목높이": 8.0,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "250",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 26.5,
+          "발볼": 0.0,
+          "발목높이": 8.5,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 27.5,
+          "발볼": 0.0,
+          "발목높이": 8.5,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 28.5,
+          "발볼": 0.0,
+          "발목높이": 8.5,
+          "굽높이": 1.2
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 29.5,
+          "발볼": 0.0,
+          "발목높이": 8.5,
+          "굽높이": 1.2
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "WRINKLE BLACK",
+          "code": "WRINKLE BLACK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/c75696c9db72486b860f14662fdd223b.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "230",
+          "code": "230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "240",
+          "code": "240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 30131738,
+      "managed_code": "WRINKLE BLACK^230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WRINKLE BLACK",
+        "230"
+      ]
+    },
+    {
+      "id": 30131739,
+      "managed_code": "WRINKLE BLACK^240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WRINKLE BLACK",
+        "240"
+      ]
+    },
+    {
+      "id": 30131740,
+      "managed_code": "WRINKLE BLACK^250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WRINKLE BLACK",
+        "250"
+      ]
+    },
+    {
+      "id": 30131741,
+      "managed_code": "WRINKLE BLACK^260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WRINKLE BLACK",
+        "260"
+      ]
+    },
+    {
+      "id": 30131742,
+      "managed_code": "WRINKLE BLACK^270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WRINKLE BLACK",
+        "270"
+      ]
+    },
+    {
+      "id": 30131743,
+      "managed_code": "WRINKLE BLACK^280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WRINKLE BLACK",
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 30
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

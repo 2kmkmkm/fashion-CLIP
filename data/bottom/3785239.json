@@ -1,0 +1,322 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3785239",
+  "product_id": 3785239,
+  "name": "Cologne Sweat Pants - 4COL",
+  "name_en": "",
+  "style_no": "ZD43PT03",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "avan",
+    "name": "어반드레스",
+    "name_en": "AVANDRESS"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 81000,
+    "sale": 52650,
+    "discount_rate": 35,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240110/3785239/3785239_17174593537471_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240110/3785239/detail_3785239_17174593649136_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240110/3785239/detail_3785239_17174593661889_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240110/3785239/detail_3785239_17174593676914_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "약간 부드러움"
+    ],
+    "신축성": [
+      "약간 있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 33.0,
+          "엉덩이단면": 70.0,
+          "허벅지단면": 43.5,
+          "밑위": 38.0,
+          "밑단단면": 28.5
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 36.5,
+          "엉덩이단면": 72.5,
+          "허벅지단면": 44.5,
+          "밑위": 39.0,
+          "밑단단면": 29.5
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 38.0,
+          "엉덩이단면": 75.0,
+          "허벅지단면": 45.5,
+          "밑위": 40.0,
+          "밑단단면": 31.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "색상",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "BLACK",
+          "code": "BLACK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3785239/20250926174700_option_68d653044fb391.48213640.",
+          "color": null
+        },
+        {
+          "name": "GREY",
+          "code": "GREY",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3785239/20250926174702_option_68d65306282ad4.35567969.",
+          "color": null
+        },
+        {
+          "name": "PIGMENT BLACK",
+          "code": "PIGMENT BLACK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3785239/20250926174703_option_68d65307a2f6f7.09982607.",
+          "color": null
+        },
+        {
+          "name": "PIGMENT PINK",
+          "code": "PIGMENT PINK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3785239/20250926174705_option_68d653095dc5a1.76606842.",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15887463,
+      "managed_code": "BLACK^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "L"
+      ]
+    },
+    {
+      "id": 15887464,
+      "managed_code": "BLACK^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "M"
+      ]
+    },
+    {
+      "id": 15887465,
+      "managed_code": "GREY^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY",
+        "L"
+      ]
+    },
+    {
+      "id": 15887466,
+      "managed_code": "GREY^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY",
+        "M"
+      ]
+    },
+    {
+      "id": 15887467,
+      "managed_code": "PIGMENT BLACK^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PIGMENT BLACK",
+        "L"
+      ]
+    },
+    {
+      "id": 15887468,
+      "managed_code": "PIGMENT BLACK^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PIGMENT BLACK",
+        "M"
+      ]
+    },
+    {
+      "id": 15887469,
+      "managed_code": "PIGMENT PINK^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PIGMENT PINK",
+        "L"
+      ]
+    },
+    {
+      "id": 15887470,
+      "managed_code": "PIGMENT PINK^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PIGMENT PINK",
+        "M"
+      ]
+    },
+    {
+      "id": 20313355,
+      "managed_code": "BLACK^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "S"
+      ]
+    },
+    {
+      "id": 20313356,
+      "managed_code": "GREY^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY",
+        "S"
+      ]
+    },
+    {
+      "id": 20313357,
+      "managed_code": "PIGMENT BLACK^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PIGMENT BLACK",
+        "S"
+      ]
+    },
+    {
+      "id": 20313358,
+      "managed_code": "PIGMENT PINK^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PIGMENT PINK",
+        "S"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 246
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

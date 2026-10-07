@@ -1,0 +1,802 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2723767",
+  "product_id": 2723767,
+  "name": "(XXL 추가) 데일리 라운드 니트 - 12 COLOR",
+  "name_en": "DAILY ROUND KNIT",
+  "style_no": "SBBAWLKN061",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "suare",
+    "name": "수아레",
+    "name_en": "SUARE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001006",
+    "categoryDepth2Title": "니트/스웨터",
+    "categoryDepth2Name": "니트/스웨터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "가을",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 23150,
+    "discount_rate": 53,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220818/2723767/2723767_17292130151891_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_17243809612058_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_16908007568938_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_17243809600130_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_17243809634283_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_17243809621954_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_16908007581783_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_16908007597503_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_16908007617606_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_16908007664703_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_16908007641341_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_16908560453774_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_16908560462883_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_17243809651103_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_17243809664447_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_17243809678133_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_17243809693643_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220818/2723767/detail_2723767_17243809709967_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 48.0,
+          "가슴단면": 56.0,
+          "소매길이": 61.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 50.0,
+          "가슴단면": 58.0,
+          "소매길이": 63.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 52.0,
+          "가슴단면": 60.0,
+          "소매길이": 64.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XXL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 74.0,
+          "어깨너비": 54.0,
+          "가슴단면": 62.0,
+          "소매길이": 66.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "BLACK",
+          "code": "BLACK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2723767/20251105171550_option_690b07b6712977.54924547.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "IVORY",
+          "code": "IVORY",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2723767/20251105171553_option_690b07b9bf3f67.14200977.",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BROWN",
+          "code": "BROWN",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2723767/20251105171559_option_690b07bf7963e8.09599458.",
+          "color": {
+            "colorCode": "4",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "CHARCOAL",
+          "code": "CHARCOAL",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2723767/20251105171603_option_690b07c385a7e6.64192286.",
+          "color": {
+            "colorCode": "25",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "NAVY",
+          "code": "NAVY",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2723767/20251105171609_option_690b07c9f3a402.12280226.",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "OATMEAL",
+          "code": "OATMEAL",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2723767/20251105171739_option_690b0823669002.31664813.",
+          "color": {
+            "colorCode": "77",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "DEEP GREEN",
+          "code": "DEEP GREEN",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2723767/20251105171623_option_690b07d77b1ec8.44813376.",
+          "color": {
+            "colorCode": "35",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BLUE MELANGE",
+          "code": "BLUE MELANGE",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2723767/20251105171720_option_690b0810c35317.33114004.",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "L-GRAY",
+          "code": "L-GRAY",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2723767/20251105171741_option_690b0825c48002.19079076.",
+          "color": {
+            "colorCode": "24",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "KHAKI",
+          "code": "KHAKI",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2723767/20251105171737_option_690b082162bdb6.87505094.",
+          "color": {
+            "colorCode": "30",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "LIGHT BLUE",
+          "code": "LIGHT BLUE",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2723767/20251105171614_option_690b07ce4f7a42.70174423.",
+          "color": {
+            "colorCode": "37",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "PINK",
+          "code": "PINK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2723767/20251105171616_option_690b07d0906737.37154436.",
+          "color": {
+            "colorCode": "10",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 11175869,
+      "managed_code": "BLACK^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "L"
+      ]
+    },
+    {
+      "id": 11175870,
+      "managed_code": "BLACK^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "M"
+      ]
+    },
+    {
+      "id": 11175871,
+      "managed_code": "BLACK^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175872,
+      "managed_code": "BLUE MELANGE^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE MELANGE",
+        "L"
+      ]
+    },
+    {
+      "id": 11175873,
+      "managed_code": "BLUE MELANGE^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE MELANGE",
+        "M"
+      ]
+    },
+    {
+      "id": 11175874,
+      "managed_code": "BLUE MELANGE^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE MELANGE",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175875,
+      "managed_code": "BROWN^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN",
+        "L"
+      ]
+    },
+    {
+      "id": 11175876,
+      "managed_code": "BROWN^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN",
+        "M"
+      ]
+    },
+    {
+      "id": 11175877,
+      "managed_code": "BROWN^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175878,
+      "managed_code": "CHARCOAL^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CHARCOAL",
+        "L"
+      ]
+    },
+    {
+      "id": 11175879,
+      "managed_code": "CHARCOAL^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CHARCOAL",
+        "M"
+      ]
+    },
+    {
+      "id": 11175880,
+      "managed_code": "CHARCOAL^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CHARCOAL",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175881,
+      "managed_code": "DEEP GREEN^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "DEEP GREEN",
+        "L"
+      ]
+    },
+    {
+      "id": 11175882,
+      "managed_code": "DEEP GREEN^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "DEEP GREEN",
+        "M"
+      ]
+    },
+    {
+      "id": 11175883,
+      "managed_code": "DEEP GREEN^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "DEEP GREEN",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175884,
+      "managed_code": "IVORY^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "IVORY",
+        "L"
+      ]
+    },
+    {
+      "id": 11175885,
+      "managed_code": "IVORY^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "IVORY",
+        "M"
+      ]
+    },
+    {
+      "id": 11175886,
+      "managed_code": "IVORY^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "IVORY",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175887,
+      "managed_code": "KHAKI^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI",
+        "L"
+      ]
+    },
+    {
+      "id": 11175888,
+      "managed_code": "KHAKI^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI",
+        "M"
+      ]
+    },
+    {
+      "id": 11175889,
+      "managed_code": "KHAKI^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175890,
+      "managed_code": "L-GRAY^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L-GRAY",
+        "L"
+      ]
+    },
+    {
+      "id": 11175891,
+      "managed_code": "L-GRAY^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L-GRAY",
+        "M"
+      ]
+    },
+    {
+      "id": 11175892,
+      "managed_code": "L-GRAY^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L-GRAY",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175893,
+      "managed_code": "LIGHT BLUE^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LIGHT BLUE",
+        "L"
+      ]
+    },
+    {
+      "id": 11175894,
+      "managed_code": "LIGHT BLUE^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LIGHT BLUE",
+        "M"
+      ]
+    },
+    {
+      "id": 11175895,
+      "managed_code": "LIGHT BLUE^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LIGHT BLUE",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175896,
+      "managed_code": "NAVY^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY",
+        "L"
+      ]
+    },
+    {
+      "id": 11175897,
+      "managed_code": "NAVY^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY",
+        "M"
+      ]
+    },
+    {
+      "id": 11175898,
+      "managed_code": "NAVY^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175899,
+      "managed_code": "OATMEAL^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OATMEAL",
+        "L"
+      ]
+    },
+    {
+      "id": 11175900,
+      "managed_code": "OATMEAL^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OATMEAL",
+        "M"
+      ]
+    },
+    {
+      "id": 11175901,
+      "managed_code": "OATMEAL^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OATMEAL",
+        "XL"
+      ]
+    },
+    {
+      "id": 11175902,
+      "managed_code": "PINK^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PINK",
+        "L"
+      ]
+    },
+    {
+      "id": 11175903,
+      "managed_code": "PINK^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PINK",
+        "M"
+      ]
+    },
+    {
+      "id": 11175904,
+      "managed_code": "PINK^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PINK",
+        "XL"
+      ]
+    },
+    {
+      "id": 32705651,
+      "managed_code": "BLACK^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "XXL"
+      ]
+    },
+    {
+      "id": 32705652,
+      "managed_code": "IVORY^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "IVORY",
+        "XXL"
+      ]
+    },
+    {
+      "id": 32705653,
+      "managed_code": "BROWN^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN",
+        "XXL"
+      ]
+    },
+    {
+      "id": 32705654,
+      "managed_code": "CHARCOAL^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CHARCOAL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 32705655,
+      "managed_code": "NAVY^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY",
+        "XXL"
+      ]
+    },
+    {
+      "id": 32705656,
+      "managed_code": "OATMEAL^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OATMEAL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 32705657,
+      "managed_code": "DEEP GREEN^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "DEEP GREEN",
+        "XXL"
+      ]
+    },
+    {
+      "id": 32705658,
+      "managed_code": "BLUE MELANGE^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE MELANGE",
+        "XXL"
+      ]
+    },
+    {
+      "id": 32705659,
+      "managed_code": "L-GRAY^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L-GRAY",
+        "XXL"
+      ]
+    },
+    {
+      "id": 32705660,
+      "managed_code": "KHAKI^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI",
+        "XXL"
+      ]
+    },
+    {
+      "id": 32705661,
+      "managed_code": "LIGHT BLUE^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LIGHT BLUE",
+        "XXL"
+      ]
+    },
+    {
+      "id": 32705662,
+      "managed_code": "PINK^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PINK",
+        "XXL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 41783
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

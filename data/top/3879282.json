@@ -1,0 +1,323 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3879282",
+  "product_id": 3879282,
+  "name": "TE5-SH06 옥스포드 버튼다운 셔츠 (7co)",
+  "name_en": "TE5-SH06 옥스포드 버튼다운 셔츠 (7co)",
+  "style_no": "TE5-SH06_BUY",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "thomasmore",
+    "name": "토마스모어",
+    "name_en": "THOMASMORE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 63700,
+    "sale": 50960,
+    "discount_rate": 20,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240219/3879282/3879282_17439950180780_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240219/3879282/detail_3879282_17103132869001_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "XS (여성)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 70.5,
+          "어깨너비": 45.5,
+          "가슴단면": 53.0,
+          "소매길이": 55.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "S (여성)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 71.5,
+          "어깨너비": 47.0,
+          "가슴단면": 55.5,
+          "소매길이": 56.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M (95)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 77.0,
+          "어깨너비": 53.0,
+          "가슴단면": 61.5,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L (100)",
+        "sequence": 3,
+        "measurements": {
+          "총장": 78.0,
+          "어깨너비": 55.5,
+          "가슴단면": 64.0,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL (105)",
+        "sequence": 4,
+        "measurements": {
+          "총장": 81.0,
+          "어깨너비": 57.5,
+          "가슴단면": 67.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "White",
+          "code": "White",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "Pacific Blue",
+          "code": "Pacific Blue",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "Amazon Green",
+          "code": "Amazon Green",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "Blue",
+          "code": "Blue",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "Butter Yellow",
+          "code": "Butter Yellow",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "Black Berry",
+          "code": "Black Berry",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "Navy",
+          "code": "Navy",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "XS (여성)",
+          "code": "XS (여성)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S (여성)",
+          "code": "S (여성)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M (95)",
+          "code": "M (95)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L (100)",
+          "code": "L (100)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL (105)",
+          "code": "XL (105)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 16378526,
+      "managed_code": "Amazon Green^L (100)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Amazon Green",
+        "L (100)"
+      ]
+    },
+    {
+      "id": 16378528,
+      "managed_code": "Amazon Green^S (여성)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Amazon Green",
+        "S (여성)"
+      ]
+    },
+    {
+      "id": 16378529,
+      "managed_code": "Amazon Green^XL (105)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Amazon Green",
+        "XL (105)"
+      ]
+    },
+    {
+      "id": 16378530,
+      "managed_code": "Amazon Green^XS (여성)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Amazon Green",
+        "XS (여성)"
+      ]
+    },
+    {
+      "id": 16378531,
+      "managed_code": "Black Berry^L (100)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Black Berry",
+        "L (100)"
+      ]
+    },
+    {
+      "id": 16378532,
+      "managed_code": "Black Berry^M (95)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Black Berry",
+        "M (95)"
+      ]
+    },
+    {
+      "id": 16378553,
+      "managed_code": "Pacific Blue^S (여성)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Pacific Blue",
+        "S (여성)"
+      ]
+    },
+    {
+      "id": 16378554,
+      "managed_code": "Pacific Blue^XL (105)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Pacific Blue",
+        "XL (105)"
+      ]
+    },
+    {
+      "id": 16378555,
+      "managed_code": "Pacific Blue^XS (여성)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Pacific Blue",
+        "XS (여성)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 783
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7304061",
+  "product_id": 7304061,
+  "name": "빅 체이시스 다잉 후드집업 - 블루",
+  "name_en": "Big Chases Dyed Hoodie Zip Up - Blue",
+  "style_no": "OSZ26FHZ01BL",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "ourseaz",
+    "name": "아워시즈",
+    "name_en": "OURSEAZ"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002022",
+    "categoryDepth2Title": "후드 집업",
+    "categoryDepth2Name": "후드 집업",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을"
+    ],
+    "primary": "봄",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 98000,
+    "sale": 73500,
+    "discount_rate": 25,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260910/7304061/7304061_17901270946709_500.jpg",
+    "https://image.msscdn.net/images/goods_img/20260910/7304061/7304061_17894020677975_500.jpg",
+    "https://image.msscdn.net/images/goods_img/20260910/7304061/7304061_17893916812592_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260910/7304061/detail_7304061_17893916818680_500.jpg"
+  ],
+  "features": {
+    "신축성": [
+      "약간 있음"
+    ],
+    "계절": [
+      "봄",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "헤비아우터",
+    "type_number": 8,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711350600000078726.png",
+    "measurements": [
+      {
+        "size": "1",
+        "sequence": 0,
+        "measurements": {
+          "총장": 62.0,
+          "어깨너비": 67.0,
+          "가슴단면": 66.0,
+          "소매길이": 56.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 28.0
+        }
+      },
+      {
+        "size": "2",
+        "sequence": 1,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 68.0,
+          "가슴단면": 67.0,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 29.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "색상",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블루",
+          "code": "블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/11/3e064382258c4961b93ba9939666b42f.jpg",
+          "color": {
+            "colorCode": "37",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "1",
+          "code": "1",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2",
+          "code": "2",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 33136231,
+      "managed_code": "블루^1",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블루",
+        "1"
+      ]
+    },
+    {
+      "id": 33136232,
+      "managed_code": "블루^2",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블루",
+        "2"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3788401",
+  "product_id": 3788401,
+  "name": "피스다이드 디스트레스드 풀오버 니트",
+  "name_en": "Piece Dyed Destroyed Pullover Knit (2 COLOR)",
+  "style_no": "L4AN0013",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "lmood",
+    "name": "엘무드",
+    "name_en": "LMOOD"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001006",
+    "categoryDepth2Title": "니트/스웨터",
+    "categoryDepth2Name": "니트/스웨터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을"
+    ],
+    "primary": "봄",
+    "collection": {
+      "type": "FW",
+      "year": 2023,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 118000,
+    "sale": 47200,
+    "discount_rate": 60,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240111/3788401/3788401_17834150679051_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈",
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "거의 없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "44",
+        "sequence": 0,
+        "measurements": {
+          "총장": 63.0,
+          "어깨너비": 59.0,
+          "가슴단면": 59.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "46",
+        "sequence": 1,
+        "measurements": {
+          "총장": 64.5,
+          "어깨너비": 61.0,
+          "가슴단면": 61.0,
+          "소매길이": 61.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "48",
+        "sequence": 2,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 63.0,
+          "가슴단면": 63.0,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "빈티지 차콜",
+          "code": "빈티지 차콜",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3788401/20251017145602_option_68f1da721b1461.40412057.",
+          "color": {
+            "colorCode": "25",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "그레이쉬 라벤더",
+          "code": "그레이쉬 라벤더",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3788401/20251017145603_option_68f1da73ad78a9.39442146.",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "44",
+          "code": "44",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3788401/20251017145605_option_68f1da7586e403.05726066.",
+          "color": null
+        },
+        {
+          "name": "46",
+          "code": "46",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3788401/20251017145607_option_68f1da772757d8.33326043.",
+          "color": null
+        },
+        {
+          "name": "48",
+          "code": "48",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3788401/20251017145608_option_68f1da78c74c46.96676906.",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15901894,
+      "managed_code": "그레이쉬 라벤더^44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이쉬 라벤더",
+        "44"
+      ]
+    },
+    {
+      "id": 15901895,
+      "managed_code": "그레이쉬 라벤더^46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이쉬 라벤더",
+        "46"
+      ]
+    },
+    {
+      "id": 15901896,
+      "managed_code": "그레이쉬 라벤더^48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이쉬 라벤더",
+        "48"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 91
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

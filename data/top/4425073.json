@@ -1,0 +1,203 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4425073",
+  "product_id": 4425073,
+  "name": "빈티지 오버 듀플린 체크 셔츠 (차콜)",
+  "name_en": "",
+  "style_no": "T24SH056-CH",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "takeasy",
+    "name": "테이크이지",
+    "name_en": "TAKEASY"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 31400,
+    "discount_rate": 36,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240910/4425073/4425073_17273390280319_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240910/4425073/detail_4425073_17273390379521_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240910/4425073/detail_4425073_17294929689362_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240910/4425073/detail_4425073_17294929762339_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240910/4425073/detail_4425073_17273390343928_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240910/4425073/detail_4425073_17273390351740_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240910/4425073/detail_4425073_17273390360568_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240910/4425073/detail_4425073_17273390370118_500.jpg"
+  ],
+  "features": {
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 76.0,
+          "어깨너비": 60.0,
+          "가슴단면": 68.0,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 78.0,
+          "어깨너비": 62.0,
+          "가슴단면": 70.0,
+          "소매길이": 58.0,
+          "밑단단면": 62.0,
+          "소매부리단면": 11.0,
+          "암홀": 27.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 80.0,
+          "어깨너비": 64.0,
+          "가슴단면": 72.0,
+          "소매길이": 59.0,
+          "밑단단면": 65.0,
+          "소매부리단면": 12.0,
+          "암홀": 26.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 19198912,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 19198913,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 19198914,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1855
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

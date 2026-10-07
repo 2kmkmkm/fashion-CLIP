@@ -1,0 +1,366 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7181385",
+  "product_id": 7181385,
+  "name": "NERO BOARD SNEAKERS (BROWN)",
+  "name_en": "NERO BOARD SNEAKERS (BROWN)",
+  "style_no": "Nero Board Sneakers (Brown)",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "6ft",
+    "name": "식스핏",
+    "name_en": "6FT"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103004",
+    "categoryDepth2Title": "스니커즈",
+    "categoryDepth2Name": "스니커즈",
+    "categoryDepth3Code": "103004004",
+    "categoryDepth3Title": "패션스니커즈화",
+    "categoryDepth3Name": "패션스니커즈화",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 109000,
+    "sale": 62900,
+    "discount_rate": 42,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260827/7181385/7181385_17888496533902_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260827/7181385/detail_7181385_17888496539682_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260827/7181385/detail_7181385_17888496540986_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260827/7181385/detail_7181385_17888496542362_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "스니커즈",
+    "type_number": 54,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711445100000068699.png",
+    "measurements": [
+      {
+        "size": "230",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "235",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "240",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 26.3,
+          "발볼": 10.3,
+          "발목높이": 0.0,
+          "굽높이": 1.5
+        }
+      },
+      {
+        "size": "245",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "250",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "255",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 6,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "265",
+        "sequence": 7,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 8,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "275",
+        "sequence": 9,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 10,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "230",
+          "code": "230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "235",
+          "code": "235",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "240",
+          "code": "240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "245",
+          "code": "245",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "255",
+          "code": "255",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "265",
+          "code": "265",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "275",
+          "code": "275",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32776301,
+      "managed_code": "230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "230"
+      ]
+    },
+    {
+      "id": 32776302,
+      "managed_code": "235",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "235"
+      ]
+    },
+    {
+      "id": 32776303,
+      "managed_code": "240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "240"
+      ]
+    },
+    {
+      "id": 32776304,
+      "managed_code": "245",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "245"
+      ]
+    },
+    {
+      "id": 32776305,
+      "managed_code": "250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "250"
+      ]
+    },
+    {
+      "id": 32776306,
+      "managed_code": "255",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "id": 32776307,
+      "managed_code": "260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "260"
+      ]
+    },
+    {
+      "id": 32776308,
+      "managed_code": "265",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "265"
+      ]
+    },
+    {
+      "id": 32776309,
+      "managed_code": "270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "270"
+      ]
+    },
+    {
+      "id": 32776310,
+      "managed_code": "275",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "275"
+      ]
+    },
+    {
+      "id": 32776311,
+      "managed_code": "280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 2
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

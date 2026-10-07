@@ -1,0 +1,143 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4288687",
+  "product_id": 4288687,
+  "name": "cotton fatigue pants regular fit(womens) black",
+  "name_en": "cotton fatigue pants regular fit(womens) black",
+  "style_no": "UB2478PT401MBB",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "uniformbridge",
+    "name": "유니폼브릿지",
+    "name_en": "UNIFORM BRIDGE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 79000,
+    "sale": 15800,
+    "discount_rate": 80,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240801/4288687/4288687_17231907289507_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 34.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 32.0,
+          "밑위": 30.0,
+          "밑단단면": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 33.0,
+          "밑위": 31.0,
+          "밑단단면": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "SIZE",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 18277573,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 18277574,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.3,
+    "count": 7
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

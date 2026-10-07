@@ -1,0 +1,494 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3069977",
+  "product_id": 3069977,
+  "name": "와이드 원턱 스웻팬츠 8 COLOR COOSPT207",
+  "name_en": "Wide One-Tuck Sweatpants 8 Colors COOSPT207",
+  "style_no": "COOSPT207",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "costumeoclock",
+    "name": "커스텀어클락",
+    "name_en": "COSTUME O’CLOCK"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 19900,
+    "discount_rate": 59,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230208/3069977/3069977_17885040275284_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3069977/detail_3069977_17865948579780_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3069977/detail_3069977_17847851696632_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3069977/detail_3069977_17773596935047_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3069977/detail_3069977_17773596926517_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3069977/detail_3069977_17773596905607_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3069977/detail_3069977_17773596891580_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3069977/detail_3069977_17773596919898_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3069977/detail_3069977_17773596913056_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3069977/detail_3069977_17773596942478_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3069977/detail_3069977_17773596949159_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3069977/detail_3069977_17773596955811_500.jpg"
+  ],
+  "features": {
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 99.0,
+          "허리단면": 33.0,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 35.5,
+          "밑위": 32.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 101.0,
+          "허리단면": 35.0,
+          "엉덩이단면": 61.0,
+          "허벅지단면": 36.5,
+          "밑위": 33.0,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 37.0,
+          "엉덩이단면": 63.0,
+          "허벅지단면": 37.5,
+          "밑위": 34.0,
+          "밑단단면": 27.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "(쿨패스)블랙",
+          "code": "(쿨패스)블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3069977/20250527100052_option_68350ec4a35f04.31032066.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(쿨패스)그레이",
+          "code": "(쿨패스)그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3069977/20250527100055_option_68350ec7dc1f25.35570543.",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(쿨패스)라이트그레이",
+          "code": "(쿨패스)라이트그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3069977/20250527100100_option_68350ecca16f76.33399151.",
+          "color": {
+            "colorCode": "24",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(기모버전)블랙",
+          "code": "(기모버전)블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3069977/20250527100036_option_68350eb400dc35.23642366.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(기모버전)그레이",
+          "code": "(기모버전)그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3069977/20250527100039_option_68350eb7934243.78152098.",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(기모버전)더스티블루",
+          "code": "(기모버전)더스티블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3069977/20250527100043_option_68350ebb06f628.30475098.",
+          "color": {
+            "colorCode": "7",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(기모버전)라임",
+          "code": "(기모버전)라임",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3069977/20250527100045_option_68350ebdf31e81.15290206.",
+          "color": {
+            "colorCode": "79",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BK PGWT",
+          "code": "BK PGWT",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3069977/20250527100021_option_68350ea52b3dd9.63180873.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "DGY PGWT",
+          "code": "DGY PGWT",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3069977/20250527100024_option_68350ea8edeb98.52185515.",
+          "color": {
+            "colorCode": "25",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "LGY PGWT",
+          "code": "LGY PGWT",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3069977/20250527100032_option_68350eb077a2d0.03945489.",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(기모버전)라이트그레이",
+          "code": "(기모버전)라이트그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/04/b83d2012a7c941cbabfd678ffdc20b70.jpg",
+          "color": {
+            "colorCode": "24",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(기모버전)네이비",
+          "code": "(기모버전)네이비",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/04/06e9ef65cda247d3884f79aaeaff772f.jpg",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(기모버전)챠콜",
+          "code": "(기모버전)챠콜",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/04/b8b7f793c58c4f0b8894007134d73cf8.jpg",
+          "color": {
+            "colorCode": "25",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(기모버전)오트밀",
+          "code": "(기모버전)오트밀",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/04/6b1340b5e1704b7099ecee6394e3cc63.jpg",
+          "color": {
+            "colorCode": "77",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(기모버전)브라운",
+          "code": "(기모버전)브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/04/7cd741e1186d47c3b7461ced61205262.jpg",
+          "color": {
+            "colorCode": "4",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(기모버전)다크그린",
+          "code": "(기모버전)다크그린",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/04/4188e63a378a48e1b2cff4c1c560c84e.jpg",
+          "color": {
+            "colorCode": "35",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(기모버전)다크핑크",
+          "code": "(기모버전)다크핑크",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/04/6d937a852913482384deebd63d55fc4c.jpg",
+          "color": {
+            "colorCode": "73",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/04/4d4cbca1d07b43a8886c51a1a3962384.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "그레이",
+          "code": "그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/04/73cf105914094ba5b7f052ca3c5d996f.jpg",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(쿨버전)블랙",
+          "code": "(쿨버전)블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/04/d12863d5f5e84e6888679b98c91b5a26.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(쿨버전)그레이",
+          "code": "(쿨버전)그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/04/45156fffedab48798c89eabeba383b79.jpg",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 12802156,
+      "managed_code": "(기모버전)라임^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(기모버전)라임",
+        "L"
+      ]
+    },
+    {
+      "id": 12802157,
+      "managed_code": "(기모버전)라임^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(기모버전)라임",
+        "M"
+      ]
+    },
+    {
+      "id": 12802158,
+      "managed_code": "(기모버전)라임^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(기모버전)라임",
+        "S"
+      ]
+    },
+    {
+      "id": 12802177,
+      "managed_code": "(쿨패스)그레이^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(쿨패스)그레이",
+        "L"
+      ]
+    },
+    {
+      "id": 12802178,
+      "managed_code": "(쿨패스)그레이^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(쿨패스)그레이",
+        "M"
+      ]
+    },
+    {
+      "id": 12802179,
+      "managed_code": "(쿨패스)그레이^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(쿨패스)그레이",
+        "S"
+      ]
+    },
+    {
+      "id": 12802180,
+      "managed_code": "(쿨패스)라이트그레이^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(쿨패스)라이트그레이",
+        "L"
+      ]
+    },
+    {
+      "id": 12802181,
+      "managed_code": "(쿨패스)라이트그레이^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(쿨패스)라이트그레이",
+        "M"
+      ]
+    },
+    {
+      "id": 12802182,
+      "managed_code": "(쿨패스)라이트그레이^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(쿨패스)라이트그레이",
+        "S"
+      ]
+    },
+    {
+      "id": 19048443,
+      "managed_code": "LGY PGWT^S",
+      "price_delta": 5000,
+      "activated": true,
+      "values": [
+        "LGY PGWT",
+        "S"
+      ]
+    },
+    {
+      "id": 19048444,
+      "managed_code": "LGY PGWT^M",
+      "price_delta": 5000,
+      "activated": true,
+      "values": [
+        "LGY PGWT",
+        "M"
+      ]
+    },
+    {
+      "id": 19048445,
+      "managed_code": "LGY PGWT^L",
+      "price_delta": 5000,
+      "activated": true,
+      "values": [
+        "LGY PGWT",
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 746
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4989763",
+  "product_id": 4989763,
+  "name": "에브리데이 버뮤다 데님 쇼츠 [블랙]",
+  "name_en": "Everyday Bermuda Denim Shorts [Black]",
+  "style_no": "L24FWHP00101",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "leire",
+    "name": "르아르",
+    "name_en": "LEIRE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003009",
+    "categoryDepth2Title": "숏 팬츠",
+    "categoryDepth2Name": "숏 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 45000,
+    "sale": 29900,
+    "discount_rate": 34,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250404/4989763/4989763_17496921703038_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250404/4989763/detail_4989763_17496921975849_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250404/4989763/detail_4989763_17496921847544_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250404/4989763/detail_4989763_17496916219679_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250404/4989763/detail_4989763_17454684087141_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250404/4989763/detail_4989763_17454684095505_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반바지",
+    "type_number": 23,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711371500000057711.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 65.5,
+          "허리단면": 40.5,
+          "엉덩이단면": 60.0,
+          "허벅지단면": 39.0,
+          "밑위": 34.0,
+          "밑단단면": 32.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 67.0,
+          "허리단면": 42.5,
+          "엉덩이단면": 62.0,
+          "허벅지단면": 40.0,
+          "밑위": 35.0,
+          "밑단단면": 33.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 68.5,
+          "허리단면": 44.5,
+          "엉덩이단면": 64.0,
+          "허벅지단면": 41.0,
+          "밑위": 36.0,
+          "밑단단면": 34.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 22897554,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 22897555,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 22897556,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 1090
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

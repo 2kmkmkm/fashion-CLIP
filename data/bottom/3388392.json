@@ -1,0 +1,274 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3388392",
+  "product_id": 3388392,
+  "name": "Edition1. 3턱 벌룬핏 버뮤다 트레이닝 숏팬츠(7col)",
+  "name_en": "Edition1. 3-tuck balloon fit Bermuda training shorts(7col)",
+  "style_no": "Edition1_17",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "attentionrow",
+    "name": "어텐션로우",
+    "name_en": "ATTENTIONROW"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003009",
+    "categoryDepth2Title": "숏 팬츠",
+    "categoryDepth2Name": "숏 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 79000,
+    "sale": 55300,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230629/3388392/3388392_16880390314553_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반바지",
+    "type_number": 23,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711371500000057711.png",
+    "measurements": [
+      {
+        "size": "FREE",
+        "sequence": 0,
+        "measurements": {
+          "총장": 69.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 73.0,
+          "허벅지단면": 49.0,
+          "밑위": 46.0,
+          "밑단단면": 39.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "색상",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "01 오트밀멜란지",
+          "code": "01 오트밀멜란지",
+          "image_url": "",
+          "color": {
+            "colorCode": "77",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "02 베이지치노",
+          "code": "02 베이지치노",
+          "image_url": "",
+          "color": {
+            "colorCode": "5",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "03 레드",
+          "code": "03 레드",
+          "image_url": "",
+          "color": {
+            "colorCode": "11",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "4 밀리터리카키",
+          "code": "4 밀리터리카키",
+          "image_url": "",
+          "color": {
+            "colorCode": "30",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "05 그레이멜란지",
+          "code": "05 그레이멜란지",
+          "image_url": "",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "06 블랙",
+          "code": "06 블랙",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "07 다크그레이",
+          "code": "07 다크그레이",
+          "image_url": "",
+          "color": {
+            "colorCode": "25",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 14245022,
+      "managed_code": "01 오트밀멜란지^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "01 오트밀멜란지",
+        "FREE"
+      ]
+    },
+    {
+      "id": 14245023,
+      "managed_code": "02 베이지치노^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "02 베이지치노",
+        "FREE"
+      ]
+    },
+    {
+      "id": 14245024,
+      "managed_code": "03 레드^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "03 레드",
+        "FREE"
+      ]
+    },
+    {
+      "id": 14245025,
+      "managed_code": "05 그레이멜란지^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "05 그레이멜란지",
+        "FREE"
+      ]
+    },
+    {
+      "id": 14245026,
+      "managed_code": "06 블랙^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "06 블랙",
+        "FREE"
+      ]
+    },
+    {
+      "id": 14245027,
+      "managed_code": "07 다크그레이^FREE",
+      "price_delta": 6000,
+      "activated": true,
+      "values": [
+        "07 다크그레이",
+        "FREE"
+      ]
+    },
+    {
+      "id": 14245028,
+      "managed_code": "4 밀리터리카키^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4 밀리터리카키",
+        "FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 2463
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

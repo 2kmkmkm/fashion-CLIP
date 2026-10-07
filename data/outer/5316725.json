@@ -1,0 +1,176 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5316725",
+  "product_id": 5316725,
+  "name": "프렌치 울 블렌드 오피서 자켓 스트라이프",
+  "name_en": "FRENCH Wool Blend Officer Jacket Stripe",
+  "style_no": "L25FWJK020",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "lmood",
+    "name": "엘무드",
+    "name_en": "LMOOD"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002001",
+    "categoryDepth2Title": "블루종/MA-1",
+    "categoryDepth2Name": "블루종/MA-1",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2025,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 358000,
+    "sale": 107400,
+    "discount_rate": 70,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250812/5316725/5316725_17645610239886_500.png",
+    "https://image.msscdn.net/images/prd_img/20250812/5316725/detail_5316725_17645610330214_500.png",
+    "https://image.msscdn.net/images/prd_img/20250812/5316725/detail_5316725_17645610342780_500.png",
+    "https://image.msscdn.net/images/prd_img/20250812/5316725/detail_5316725_17645610355904_500.png",
+    "https://image.msscdn.net/images/prd_img/20250812/5316725/detail_5316725_17645610370561_500.png"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "44",
+        "sequence": 0,
+        "measurements": {
+          "총장": 59.0,
+          "어깨너비": 54.5,
+          "가슴단면": 59.5,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "46",
+        "sequence": 1,
+        "measurements": {
+          "총장": 60.0,
+          "어깨너비": 55.5,
+          "가슴단면": 62.0,
+          "소매길이": 63.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "48",
+        "sequence": 2,
+        "measurements": {
+          "총장": 61.0,
+          "어깨너비": 56.5,
+          "가슴단면": 64.5,
+          "소매길이": 64.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "44",
+          "code": "44",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5316725/20251014202049_option_68ee3211b49535.41592545.",
+          "color": null
+        },
+        {
+          "name": "46",
+          "code": "46",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5316725/20251014202051_option_68ee3213c3abc6.32152353.",
+          "color": null
+        },
+        {
+          "name": "48",
+          "code": "48",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5316725/20251014202053_option_68ee3215699a57.04159704.",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25523748,
+      "managed_code": "44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "44"
+      ]
+    },
+    {
+      "id": 25523749,
+      "managed_code": "46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "46"
+      ]
+    },
+    {
+      "id": 25523750,
+      "managed_code": "48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "48"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 15
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

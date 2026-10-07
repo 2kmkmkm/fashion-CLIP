@@ -1,0 +1,316 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3791988",
+  "product_id": 3791988,
+  "name": "데미지 워시드 데님 팬츠-미디엄 블루",
+  "name_en": "Damage Washed Denim Pants-Medium Blue",
+  "style_no": "Damage Washed Denim Pants-mb",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "filluminate",
+    "name": "필루미네이트",
+    "name_en": "FILLUMINATE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003002",
+    "categoryDepth2Title": "데님 팬츠",
+    "categoryDepth2Name": "데님 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "SS",
+      "year": 2026,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 53000,
+    "sale": 30900,
+    "discount_rate": 42,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240112/3791988/3791988_17894491801613_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3791988/detail_3791988_17466850444267_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3791988/detail_3791988_17466850421850_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3791988/detail_3791988_17466850432939_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3791988/detail_3791988_17466851630523_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3791988/detail_3791988_17466851585863_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3791988/detail_3791988_17466851603156_500.jpg"
+  ],
+  "features": {
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "XS",
+        "sequence": 0,
+        "measurements": {
+          "총장": 102.0,
+          "허리단면": 34.5,
+          "엉덩이단면": 53.0,
+          "허벅지단면": 38.0,
+          "밑위": 35.5,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "S",
+        "sequence": 1,
+        "measurements": {
+          "총장": 103.5,
+          "허리단면": 37.0,
+          "엉덩이단면": 55.0,
+          "허벅지단면": 39.0,
+          "밑위": 36.5,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 2,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 39.5,
+          "엉덩이단면": 57.0,
+          "허벅지단면": 40.0,
+          "밑위": 37.5,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 3,
+        "measurements": {
+          "총장": 106.5,
+          "허리단면": 42.0,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 41.0,
+          "밑위": 38.5,
+          "밑단단면": 29.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 44.5,
+          "엉덩이단면": 61.0,
+          "허벅지단면": 42.0,
+          "밑위": 39.5,
+          "밑단단면": 30.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "XS",
+          "code": "XS",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XS(10oz)",
+          "code": "XS(10oz)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S(10oz)",
+          "code": "S(10oz)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(10oz)",
+          "code": "M(10oz)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(10oz)",
+          "code": "L(10oz)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(10oz)",
+          "code": "XL(10oz)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "(SUMMER)XS",
+          "code": "(SUMMER)XS",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "(SUMMER)S",
+          "code": "(SUMMER)S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "(SUMMER)M",
+          "code": "(SUMMER)M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "(SUMMER)L",
+          "code": "(SUMMER)L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "(SUMMER)XL",
+          "code": "(SUMMER)XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15916773,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 15916774,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 15916775,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 15916776,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 15916777,
+      "managed_code": "XS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XS"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 16924
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5270777",
+  "product_id": 5270777,
+  "name": "아르코 코만도 아웃솔 4홀 더비슈즈 블랙 [245-290mm]",
+  "name_en": "",
+  "style_no": "25-040",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "thenopi",
+    "name": "더노피",
+    "name_en": "THENOPI"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103001",
+    "categoryDepth2Title": "구두",
+    "categoryDepth2Name": "구두",
+    "categoryDepth3Code": "103001001",
+    "categoryDepth3Title": "더비 슈즈",
+    "categoryDepth3Name": "더비 슈즈",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 109000,
+    "sale": 56800,
+    "discount_rate": 48,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250724/5270777/5270777_17538487937054_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250724/5270777/detail_5270777_17533399964224_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250724/5270777/detail_5270777_17533400013464_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250724/5270777/detail_5270777_17533400191600_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250724/5270777/detail_5270777_17533400241898_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250724/5270777/detail_5270777_17533400284200_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "245-250",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 28.0,
+          "발볼": 11.0,
+          "발목높이": 10.5,
+          "굽높이": 3.5
+        }
+      },
+      {
+        "size": "255-260",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 29.0,
+          "발볼": 11.0,
+          "발목높이": 11.0,
+          "굽높이": 3.5
+        }
+      },
+      {
+        "size": "265-270",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 30.0,
+          "발볼": 11.0,
+          "발목높이": 11.5,
+          "굽높이": 3.5
+        }
+      },
+      {
+        "size": "275-280",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 31.0,
+          "발볼": 12.0,
+          "발목높이": 12.0,
+          "굽높이": 3.5
+        }
+      },
+      {
+        "size": "285-290",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 32.0,
+          "발볼": 12.0,
+          "발목높이": 12.5,
+          "굽높이": 3.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "블랙",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/08/31/db092059747d45d5bb6eb7fe7940e22b.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "245-250",
+          "code": "245-250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "255-260",
+          "code": "255-260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "265-270",
+          "code": "265-270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "275-280",
+          "code": "275-280",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "285-290",
+          "code": "285-290",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25258104,
+      "managed_code": "블랙^245-250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "245-250"
+      ]
+    },
+    {
+      "id": 25258105,
+      "managed_code": "블랙^255-260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "255-260"
+      ]
+    },
+    {
+      "id": 25258106,
+      "managed_code": "블랙^265-270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "265-270"
+      ]
+    },
+    {
+      "id": 25258107,
+      "managed_code": "블랙^275-280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "275-280"
+      ]
+    },
+    {
+      "id": 25258108,
+      "managed_code": "블랙^285-290",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "285-290"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 379
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

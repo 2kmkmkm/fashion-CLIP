@@ -1,0 +1,266 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3086668",
+  "product_id": 3086668,
+  "name": "나일론 가디건 자켓 블랙",
+  "name_en": "나일론 가디건 자켓 블랙",
+  "style_no": "CO2301JK04BK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "covernat",
+    "name": "커버낫",
+    "name_en": "COVERNAT"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002006",
+    "categoryDepth2Title": "나일론/코치 재킷",
+    "categoryDepth2Name": "나일론/코치 재킷",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2023,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 119000,
+    "sale": 39000,
+    "discount_rate": 67,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230215/3086668/3086668_16820385869508_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086668/detail_3086668_16820388620772_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086668/detail_3086668_16765138861707_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086668/detail_3086668_16765138872892_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086668/detail_3086668_16765138890674_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086668/detail_3086668_16765138908082_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086668/detail_3086668_16765138933133_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086668/detail_3086668_16765138958114_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086668/detail_3086668_16765138980016_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086668/detail_3086668_16765139001965_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "XS",
+        "sequence": 0,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 48.5,
+          "가슴단면": 52.5,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "S",
+        "sequence": 1,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 50.0,
+          "가슴단면": 55.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 2,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 51.5,
+          "가슴단면": 57.5,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 3,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 53.0,
+          "가슴단면": 60.0,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 74.0,
+          "어깨너비": 54.5,
+          "가슴단면": 62.5,
+          "소매길이": 63.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XXL",
+        "sequence": 5,
+        "measurements": {
+          "총장": 75.0,
+          "어깨너비": 56.0,
+          "가슴단면": 65.0,
+          "소매길이": 64.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "XS",
+          "code": "XS",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 12869232,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 12869233,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 12869234,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 12869235,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 12869236,
+      "managed_code": "XS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XS"
+      ]
+    },
+    {
+      "id": 12869237,
+      "managed_code": "XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XXL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 59
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

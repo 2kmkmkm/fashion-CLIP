@@ -1,0 +1,262 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/1139174",
+  "product_id": 1139174,
+  "name": "화란 세미오버 니트 아보카도",
+  "name_en": "Hwaran Semiover Knit Avocado",
+  "style_no": "LN001AC",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "lmood",
+    "name": "엘무드",
+    "name_en": "LMOOD"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001006",
+    "categoryDepth2Title": "니트/스웨터",
+    "categoryDepth2Name": "니트/스웨터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2022,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 89900,
+    "sale": 26970,
+    "discount_rate": 70,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20190902/1139174/1139174_17255216602785_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20190902/1139174/detail_1139174_17622398640270_500.png",
+    "https://image.msscdn.net/images/prd_img/20190902/1139174/detail_1139174_17622398666417_500.png"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "44",
+        "sequence": 1,
+        "measurements": {
+          "총장": 67.0,
+          "어깨너비": 46.0,
+          "가슴단면": 54.5,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "46",
+        "sequence": 2,
+        "measurements": {
+          "총장": 68.5,
+          "어깨너비": 48.0,
+          "가슴단면": 56.5,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "48",
+        "sequence": 3,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 50.0,
+          "가슴단면": 58.5,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "50",
+        "sequence": 4,
+        "measurements": {
+          "총장": 71.5,
+          "어깨너비": 52.0,
+          "가슴단면": 60.5,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "42",
+        "sequence": 5,
+        "measurements": {
+          "총장": 65.5,
+          "어깨너비": 44.0,
+          "가슴단면": 52.5,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "42 (FOR WOMAN)",
+          "code": "42 (FOR WOMAN)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "44",
+          "code": "44",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "46",
+          "code": "46",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "48",
+          "code": "48",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "50",
+          "code": "50",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "42",
+          "code": "42",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 3709291,
+      "managed_code": "42",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "42"
+      ]
+    },
+    {
+      "id": 3709293,
+      "managed_code": "44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "44"
+      ]
+    },
+    {
+      "id": 3709294,
+      "managed_code": "46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "46"
+      ]
+    },
+    {
+      "id": 3709295,
+      "managed_code": "48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "48"
+      ]
+    },
+    {
+      "id": 3709296,
+      "managed_code": "50",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "50"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 2867
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

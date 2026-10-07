@@ -1,0 +1,232 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4031041",
+  "product_id": 4031041,
+  "name": "이지 세미 와이드 밴딩 슬랙스 [차콜]",
+  "name_en": "EASY SEMI-WIDE BANDING SLACKS [CHARCOAL]",
+  "style_no": "LMPT05",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "lemainsecond",
+    "name": "리메인세컨드",
+    "name_en": "LEMAIN SECOND"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003008",
+    "categoryDepth2Title": "슈트 팬츠/슬랙스",
+    "categoryDepth2Name": "슈트 팬츠/슬랙스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 26000,
+    "sale": 15600,
+    "discount_rate": 40,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240405/4031041/4031041_17847706333810_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240405/4031041/detail_4031041_17847706193715_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240405/4031041/detail_4031041_17847706201766_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240405/4031041/detail_4031041_17490979823087_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240405/4031041/detail_4031041_17325157619554_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240405/4031041/detail_4031041_17325157630402_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240405/4031041/detail_4031041_17325157639676_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러",
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 100.0,
+          "허리단면": 38.0,
+          "엉덩이단면": 50.0,
+          "허벅지단면": 31.0,
+          "밑위": 29.0,
+          "밑단단면": 22.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 101.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 51.5,
+          "허벅지단면": 32.0,
+          "밑위": 30.0,
+          "밑단단면": 23.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 102.0,
+          "허리단면": 42.0,
+          "엉덩이단면": 53.0,
+          "허벅지단면": 33.0,
+          "밑위": 31.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "2XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 44.0,
+          "엉덩이단면": 54.5,
+          "허벅지단면": 34.0,
+          "밑위": 32.0,
+          "밑단단면": 25.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL",
+          "code": "2XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 16978497,
+      "managed_code": "2XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2XL"
+      ]
+    },
+    {
+      "id": 16978498,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 16978499,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 16978500,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 329
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

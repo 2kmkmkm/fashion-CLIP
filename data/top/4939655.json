@@ -1,0 +1,399 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4939655",
+  "product_id": 4939655,
+  "name": "워셔블 쿨 코튼 케이블 반팔 카라 버튼 니트 3Color",
+  "name_en": "Washable Cool Cotton Cable Short-Sleeved Collar Button Knitwear 3 Colors",
+  "style_no": "MUN065",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "untapped",
+    "name": "언탭트 스튜디오",
+    "name_en": "UNTAPPED STUDIO"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001003",
+    "categoryDepth2Title": "피케/카라 티셔츠",
+    "categoryDepth2Name": "피케/카라 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 49860,
+    "sale": 34900,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250325/4939655/4939655_17429762020994_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250325/4939655/detail_4939655_17430392431071_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250325/4939655/detail_4939655_17430392440662_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250325/4939655/detail_4939655_17430392449367_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250325/4939655/detail_4939655_17430392460633_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250325/4939655/detail_4939655_17430392470559_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250325/4939655/detail_4939655_17430392482108_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "보통"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "M(95)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 47.0,
+          "가슴단면": 53.0,
+          "소매길이": 23.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L(100)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 48.5,
+          "가슴단면": 55.0,
+          "소매길이": 24.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL(105)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 50.0,
+          "가슴단면": 57.0,
+          "소매길이": 25.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "2XL(110)",
+        "sequence": 3,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 51.5,
+          "가슴단면": 59.0,
+          "소매길이": 26.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "3XL(115)",
+        "sequence": 4,
+        "measurements": {
+          "총장": 73.0,
+          "어깨너비": 53.0,
+          "가슴단면": 61.0,
+          "소매길이": 27.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "색상",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "네이비",
+          "code": "네이비",
+          "image_url": "",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "아이보리",
+          "code": "아이보리",
+          "image_url": "",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M(95)",
+          "code": "M(95)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(100)",
+          "code": "L(100)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(105)",
+          "code": "XL(105)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL(110)",
+          "code": "2XL(110)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "3XL(115)",
+          "code": "3XL(115)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 22658997,
+      "managed_code": "블랙^M(95)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "M(95)"
+      ]
+    },
+    {
+      "id": 22658998,
+      "managed_code": "블랙^L(100)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L(100)"
+      ]
+    },
+    {
+      "id": 22658999,
+      "managed_code": "블랙^XL(105)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "XL(105)"
+      ]
+    },
+    {
+      "id": 22659000,
+      "managed_code": "블랙^2XL(110)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "2XL(110)"
+      ]
+    },
+    {
+      "id": 22659001,
+      "managed_code": "블랙^3XL(115)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "3XL(115)"
+      ]
+    },
+    {
+      "id": 22659002,
+      "managed_code": "네이비^M(95)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "M(95)"
+      ]
+    },
+    {
+      "id": 22659003,
+      "managed_code": "네이비^L(100)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "L(100)"
+      ]
+    },
+    {
+      "id": 22659004,
+      "managed_code": "네이비^XL(105)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "XL(105)"
+      ]
+    },
+    {
+      "id": 22659005,
+      "managed_code": "네이비^2XL(110)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "2XL(110)"
+      ]
+    },
+    {
+      "id": 22659006,
+      "managed_code": "네이비^3XL(115)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "3XL(115)"
+      ]
+    },
+    {
+      "id": 22708570,
+      "managed_code": "아이보리^M(95)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "M(95)"
+      ]
+    },
+    {
+      "id": 22708571,
+      "managed_code": "아이보리^L(100)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "L(100)"
+      ]
+    },
+    {
+      "id": 22708572,
+      "managed_code": "아이보리^XL(105)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "XL(105)"
+      ]
+    },
+    {
+      "id": 22708573,
+      "managed_code": "아이보리^2XL(110)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "2XL(110)"
+      ]
+    },
+    {
+      "id": 22708574,
+      "managed_code": "아이보리^3XL(115)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "3XL(115)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 205
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

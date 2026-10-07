@@ -1,0 +1,170 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4270622",
+  "product_id": 4270622,
+  "name": "double knee stud pants ecru",
+  "name_en": "double knee stud pants ecru",
+  "style_no": "UB2478PT041MCR",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "uniformbridge",
+    "name": "유니폼브릿지",
+    "name_en": "UNIFORM BRIDGE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 179000,
+    "sale": 39800,
+    "discount_rate": 78,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240724/4270622/4270622_17222307451896_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "M (30)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 34.8,
+          "밑위": 32.5,
+          "밑단단면": 23.0
+        }
+      },
+      {
+        "size": "L (32)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 42.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 36.0,
+          "밑위": 33.5,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "XL (34)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 110.0,
+          "허리단면": 45.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 37.2,
+          "밑위": 34.5,
+          "밑단단면": 23.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "SIZE",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M (30)",
+          "code": "M (30)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L (32)",
+          "code": "L (32)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL (34)",
+          "code": "XL (34)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 18142184,
+      "managed_code": "M (30)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M (30)"
+      ]
+    },
+    {
+      "id": 18142185,
+      "managed_code": "L (32)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L (32)"
+      ]
+    },
+    {
+      "id": 18142186,
+      "managed_code": "XL (34)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL (34)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.4,
+    "count": 17
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

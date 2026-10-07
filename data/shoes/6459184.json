@@ -1,0 +1,246 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/6459184",
+  "product_id": 6459184,
+  "name": "커버라이드 살라 블랙",
+  "name_en": "COVER-RIDE SALA",
+  "style_no": "CO2606SE05BK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "covernat",
+    "name": "커버낫",
+    "name_en": "COVERNAT"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103004",
+    "categoryDepth2Title": "스니커즈",
+    "categoryDepth2Name": "스니커즈",
+    "categoryDepth3Code": "103004002",
+    "categoryDepth3Title": "스니커즈 뮬",
+    "categoryDepth3Name": "스니커즈 뮬",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": 2026,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 69000,
+    "sale": 55200,
+    "discount_rate": 20,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260512/6459184/6459184_17790885056187_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260512/6459184/detail_6459184_17790885062139_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260512/6459184/detail_6459184_17790885063751_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260512/6459184/detail_6459184_17790885065490_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260512/6459184/detail_6459184_17790885067278_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260512/6459184/detail_6459184_17790885068889_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260512/6459184/detail_6459184_17790885070563_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260512/6459184/detail_6459184_17790885072312_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260512/6459184/detail_6459184_17790885073809_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260512/6459184/detail_6459184_17790885075477_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260512/6459184/detail_6459184_17790885077073_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "스니커즈",
+    "type_number": 54,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711445100000068699.png",
+    "measurements": [
+      {
+        "size": "230",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 23.5,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 3.4
+        }
+      },
+      {
+        "size": "240",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 24.5,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 3.4
+        }
+      },
+      {
+        "size": "250",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 25.5,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 3.4
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 26.5,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 3.4
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 27.5,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 3.4
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 28.5,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 3.4
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "230",
+          "code": "230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "240",
+          "code": "240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 30766864,
+      "managed_code": "230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "230"
+      ]
+    },
+    {
+      "id": 30766865,
+      "managed_code": "240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "240"
+      ]
+    },
+    {
+      "id": 30766866,
+      "managed_code": "250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "250"
+      ]
+    },
+    {
+      "id": 30766867,
+      "managed_code": "260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "260"
+      ]
+    },
+    {
+      "id": 30766868,
+      "managed_code": "270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "270"
+      ]
+    },
+    {
+      "id": 30766869,
+      "managed_code": "280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.6,
+    "count": 12
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

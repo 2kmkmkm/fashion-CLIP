@@ -1,0 +1,1402 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3070234",
+  "product_id": 3070234,
+  "name": "세미 와이드 유틸리티 팬츠 15 COLOR COOSPT200",
+  "name_en": "Semi-Wide Utility Pants 15 Color COOSPT200",
+  "style_no": "COOSPT200",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "costumeoclock",
+    "name": "커스텀어클락",
+    "name_en": "COSTUME O’CLOCK"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 55000,
+    "sale": 19900,
+    "discount_rate": 64,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230208/3070234/3070234_17882286126866_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17865974017357_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776049081_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776063137_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776069752_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776078819_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776085600_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776447781_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776092126_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776098776_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776106154_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776114162_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776121434_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776129521_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776137907_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230208/3070234/detail_3070234_17854776146353_500.jpg"
+  ],
+  "features": {
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "보통"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "26",
+        "sequence": 0,
+        "measurements": {
+          "총장": 101.0,
+          "허리단면": 37.0,
+          "엉덩이단면": 56.5,
+          "허벅지단면": 36.0,
+          "밑위": 31.0,
+          "밑단단면": 23.0
+        }
+      },
+      {
+        "size": "28",
+        "sequence": 1,
+        "measurements": {
+          "총장": 102.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 58.5,
+          "허벅지단면": 36.5,
+          "밑위": 31.5,
+          "밑단단면": 23.5
+        }
+      },
+      {
+        "size": "30",
+        "sequence": 2,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 60.5,
+          "허벅지단면": 37.0,
+          "밑위": 32.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "32",
+        "sequence": 3,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 43.5,
+          "엉덩이단면": 63.0,
+          "허벅지단면": 38.0,
+          "밑위": 33.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "34",
+        "sequence": 4,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 46.0,
+          "엉덩이단면": 65.5,
+          "허벅지단면": 39.0,
+          "밑위": 34.0,
+          "밑단단면": 26.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "다크블루",
+          "code": "다크블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/8cdb547d80c242c091b40b690c696770.jpg",
+          "color": {
+            "colorCode": "80",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "CR다크블루",
+          "code": "CR다크블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/59d9d6ba0d664302ab868f05e1a71e1f.jpg",
+          "color": {
+            "colorCode": "81",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(린넨라이크)블랙",
+          "code": "(린넨라이크)블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/6910fcf328484c73b15d3ccb292e9e7e.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(린넨라이크)인디고",
+          "code": "(린넨라이크)인디고",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/2a4ae5aa88cf4d9287f8ee8eb5f3eb81.jpg",
+          "color": {
+            "colorCode": "59",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(린넨라이크)블루",
+          "code": "(린넨라이크)블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/c73e29938bc54d61b4b03d11a822b475.jpg",
+          "color": {
+            "colorCode": "7",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(린넨라이크)라이트블루",
+          "code": "(린넨라이크)라이트블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/a2edac0ba098403cae0a6ffd8113cc76.jpg",
+          "color": {
+            "colorCode": "37",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(린넨라이크)라이트그레이",
+          "code": "(린넨라이크)라이트그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/8902e54ab9414562aeb283c4d8389568.jpg",
+          "color": {
+            "colorCode": "24",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/ccbf9180a0ba4e45bc6be7bcbbc0591d.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "베이지",
+          "code": "베이지",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/ae2c833699944a268639b2b5c44405ba.jpg",
+          "color": {
+            "colorCode": "5",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "라이트그레이",
+          "code": "라이트그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/616fea04543e4267969b6e7fec6aafe0.jpg",
+          "color": {
+            "colorCode": "24",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "아이보리",
+          "code": "아이보리",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/66bed5e932d34ad890c77564705b8d6d.jpg",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "카키",
+          "code": "카키",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/a0808bae276b4c478108fecc388abdb7.jpg",
+          "color": {
+            "colorCode": "30",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "슬랍블랙",
+          "code": "슬랍블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/1a480171da99465ebeb37d0fca7cff1b.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "마일드블루",
+          "code": "마일드블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/53299a5597df4b5d93a8c0fc0f5f86b2.jpg",
+          "color": {
+            "colorCode": "80",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "스톤그레이",
+          "code": "스톤그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/ea66221b91ca46dc8d376882810468f3.jpg",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "로우블랙",
+          "code": "로우블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/c1b630b30e354cb7945000cacc76c5e2.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "로우인디고",
+          "code": "로우인디고",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/efe5640b51144164baa3d58b4311b7f7.jpg",
+          "color": {
+            "colorCode": "58",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "브라운",
+          "code": "브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/0e1597fddc604b909189cf5c7439333a.jpg",
+          "color": {
+            "colorCode": "4",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "빈티지블랙",
+          "code": "빈티지블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/cbab1135481f435a8e5c9b85dcce631f.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "애쉬블루",
+          "code": "애쉬블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/ff63790de03d44c1b8f43cba68b03e97.jpg",
+          "color": {
+            "colorCode": "7",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "26",
+          "code": "26",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "28",
+          "code": "28",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "30",
+          "code": "30",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "32",
+          "code": "32",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "34",
+          "code": "34",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 12806016,
+      "managed_code": "(린넨라이크)라이트그레이^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)라이트그레이",
+        "26"
+      ]
+    },
+    {
+      "id": 12806017,
+      "managed_code": "(린넨라이크)라이트그레이^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)라이트그레이",
+        "28"
+      ]
+    },
+    {
+      "id": 12806018,
+      "managed_code": "(린넨라이크)라이트그레이^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)라이트그레이",
+        "30"
+      ]
+    },
+    {
+      "id": 12806019,
+      "managed_code": "(린넨라이크)라이트그레이^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)라이트그레이",
+        "32"
+      ]
+    },
+    {
+      "id": 12806020,
+      "managed_code": "(린넨라이크)라이트그레이^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)라이트그레이",
+        "34"
+      ]
+    },
+    {
+      "id": 12806021,
+      "managed_code": "(린넨라이크)라이트블루^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)라이트블루",
+        "26"
+      ]
+    },
+    {
+      "id": 12806022,
+      "managed_code": "(린넨라이크)라이트블루^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)라이트블루",
+        "28"
+      ]
+    },
+    {
+      "id": 12806023,
+      "managed_code": "(린넨라이크)라이트블루^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)라이트블루",
+        "30"
+      ]
+    },
+    {
+      "id": 12806024,
+      "managed_code": "(린넨라이크)라이트블루^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)라이트블루",
+        "32"
+      ]
+    },
+    {
+      "id": 12806025,
+      "managed_code": "(린넨라이크)라이트블루^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)라이트블루",
+        "34"
+      ]
+    },
+    {
+      "id": 12806026,
+      "managed_code": "(린넨라이크)블랙^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)블랙",
+        "26"
+      ]
+    },
+    {
+      "id": 12806027,
+      "managed_code": "(린넨라이크)블랙^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)블랙",
+        "28"
+      ]
+    },
+    {
+      "id": 12806028,
+      "managed_code": "(린넨라이크)블랙^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)블랙",
+        "30"
+      ]
+    },
+    {
+      "id": 12806029,
+      "managed_code": "(린넨라이크)블랙^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)블랙",
+        "32"
+      ]
+    },
+    {
+      "id": 12806030,
+      "managed_code": "(린넨라이크)블랙^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)블랙",
+        "34"
+      ]
+    },
+    {
+      "id": 12806031,
+      "managed_code": "(린넨라이크)블루^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)블루",
+        "26"
+      ]
+    },
+    {
+      "id": 12806032,
+      "managed_code": "(린넨라이크)블루^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)블루",
+        "28"
+      ]
+    },
+    {
+      "id": 12806033,
+      "managed_code": "(린넨라이크)블루^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)블루",
+        "30"
+      ]
+    },
+    {
+      "id": 12806034,
+      "managed_code": "(린넨라이크)블루^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)블루",
+        "32"
+      ]
+    },
+    {
+      "id": 12806035,
+      "managed_code": "(린넨라이크)블루^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)블루",
+        "34"
+      ]
+    },
+    {
+      "id": 12806036,
+      "managed_code": "(린넨라이크)인디고^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)인디고",
+        "26"
+      ]
+    },
+    {
+      "id": 12806037,
+      "managed_code": "(린넨라이크)인디고^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)인디고",
+        "28"
+      ]
+    },
+    {
+      "id": 12806038,
+      "managed_code": "(린넨라이크)인디고^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)인디고",
+        "30"
+      ]
+    },
+    {
+      "id": 12806039,
+      "managed_code": "(린넨라이크)인디고^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)인디고",
+        "32"
+      ]
+    },
+    {
+      "id": 12806040,
+      "managed_code": "(린넨라이크)인디고^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(린넨라이크)인디고",
+        "34"
+      ]
+    },
+    {
+      "id": 12806041,
+      "managed_code": "라이트그레이^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트그레이",
+        "26"
+      ]
+    },
+    {
+      "id": 12806042,
+      "managed_code": "라이트그레이^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트그레이",
+        "28"
+      ]
+    },
+    {
+      "id": 12806043,
+      "managed_code": "라이트그레이^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트그레이",
+        "30"
+      ]
+    },
+    {
+      "id": 12806044,
+      "managed_code": "라이트그레이^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트그레이",
+        "32"
+      ]
+    },
+    {
+      "id": 12806045,
+      "managed_code": "라이트그레이^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트그레이",
+        "34"
+      ]
+    },
+    {
+      "id": 12806046,
+      "managed_code": "로우블랙^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "로우블랙",
+        "26"
+      ]
+    },
+    {
+      "id": 12806047,
+      "managed_code": "로우블랙^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "로우블랙",
+        "28"
+      ]
+    },
+    {
+      "id": 12806048,
+      "managed_code": "로우블랙^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "로우블랙",
+        "30"
+      ]
+    },
+    {
+      "id": 12806049,
+      "managed_code": "로우블랙^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "로우블랙",
+        "32"
+      ]
+    },
+    {
+      "id": 12806050,
+      "managed_code": "로우블랙^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "로우블랙",
+        "34"
+      ]
+    },
+    {
+      "id": 12806051,
+      "managed_code": "로우인디고^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "로우인디고",
+        "26"
+      ]
+    },
+    {
+      "id": 12806052,
+      "managed_code": "로우인디고^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "로우인디고",
+        "28"
+      ]
+    },
+    {
+      "id": 12806053,
+      "managed_code": "로우인디고^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "로우인디고",
+        "30"
+      ]
+    },
+    {
+      "id": 12806054,
+      "managed_code": "로우인디고^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "로우인디고",
+        "32"
+      ]
+    },
+    {
+      "id": 12806055,
+      "managed_code": "로우인디고^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "로우인디고",
+        "34"
+      ]
+    },
+    {
+      "id": 12806056,
+      "managed_code": "마일드블루^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "마일드블루",
+        "26"
+      ]
+    },
+    {
+      "id": 12806057,
+      "managed_code": "마일드블루^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "마일드블루",
+        "28"
+      ]
+    },
+    {
+      "id": 12806058,
+      "managed_code": "마일드블루^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "마일드블루",
+        "30"
+      ]
+    },
+    {
+      "id": 12806059,
+      "managed_code": "마일드블루^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "마일드블루",
+        "32"
+      ]
+    },
+    {
+      "id": 12806060,
+      "managed_code": "마일드블루^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "마일드블루",
+        "34"
+      ]
+    },
+    {
+      "id": 12806061,
+      "managed_code": "베이지^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "26"
+      ]
+    },
+    {
+      "id": 12806062,
+      "managed_code": "베이지^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "28"
+      ]
+    },
+    {
+      "id": 12806063,
+      "managed_code": "베이지^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "30"
+      ]
+    },
+    {
+      "id": 12806064,
+      "managed_code": "베이지^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "32"
+      ]
+    },
+    {
+      "id": 12806065,
+      "managed_code": "베이지^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "34"
+      ]
+    },
+    {
+      "id": 12806066,
+      "managed_code": "브라운^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "26"
+      ]
+    },
+    {
+      "id": 12806067,
+      "managed_code": "브라운^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "28"
+      ]
+    },
+    {
+      "id": 12806068,
+      "managed_code": "브라운^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "30"
+      ]
+    },
+    {
+      "id": 12806069,
+      "managed_code": "브라운^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "32"
+      ]
+    },
+    {
+      "id": 12806070,
+      "managed_code": "브라운^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "34"
+      ]
+    },
+    {
+      "id": 12806071,
+      "managed_code": "블랙^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "26"
+      ]
+    },
+    {
+      "id": 12806072,
+      "managed_code": "블랙^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "28"
+      ]
+    },
+    {
+      "id": 12806073,
+      "managed_code": "블랙^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "30"
+      ]
+    },
+    {
+      "id": 12806074,
+      "managed_code": "블랙^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "32"
+      ]
+    },
+    {
+      "id": 12806075,
+      "managed_code": "블랙^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "34"
+      ]
+    },
+    {
+      "id": 12806076,
+      "managed_code": "빈티지블랙^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지블랙",
+        "26"
+      ]
+    },
+    {
+      "id": 12806077,
+      "managed_code": "빈티지블랙^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지블랙",
+        "28"
+      ]
+    },
+    {
+      "id": 12806078,
+      "managed_code": "빈티지블랙^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지블랙",
+        "30"
+      ]
+    },
+    {
+      "id": 12806079,
+      "managed_code": "빈티지블랙^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지블랙",
+        "32"
+      ]
+    },
+    {
+      "id": 12806080,
+      "managed_code": "빈티지블랙^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지블랙",
+        "34"
+      ]
+    },
+    {
+      "id": 12806081,
+      "managed_code": "스톤그레이^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스톤그레이",
+        "26"
+      ]
+    },
+    {
+      "id": 12806082,
+      "managed_code": "스톤그레이^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스톤그레이",
+        "28"
+      ]
+    },
+    {
+      "id": 12806083,
+      "managed_code": "스톤그레이^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스톤그레이",
+        "30"
+      ]
+    },
+    {
+      "id": 12806084,
+      "managed_code": "스톤그레이^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스톤그레이",
+        "32"
+      ]
+    },
+    {
+      "id": 12806085,
+      "managed_code": "스톤그레이^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스톤그레이",
+        "34"
+      ]
+    },
+    {
+      "id": 12806086,
+      "managed_code": "슬랍블랙^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "슬랍블랙",
+        "26"
+      ]
+    },
+    {
+      "id": 12806087,
+      "managed_code": "슬랍블랙^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "슬랍블랙",
+        "28"
+      ]
+    },
+    {
+      "id": 12806088,
+      "managed_code": "슬랍블랙^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "슬랍블랙",
+        "30"
+      ]
+    },
+    {
+      "id": 12806089,
+      "managed_code": "슬랍블랙^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "슬랍블랙",
+        "32"
+      ]
+    },
+    {
+      "id": 12806090,
+      "managed_code": "슬랍블랙^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "슬랍블랙",
+        "34"
+      ]
+    },
+    {
+      "id": 12806091,
+      "managed_code": "아이보리^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "26"
+      ]
+    },
+    {
+      "id": 12806092,
+      "managed_code": "아이보리^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "28"
+      ]
+    },
+    {
+      "id": 12806093,
+      "managed_code": "아이보리^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "30"
+      ]
+    },
+    {
+      "id": 12806094,
+      "managed_code": "아이보리^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "32"
+      ]
+    },
+    {
+      "id": 12806095,
+      "managed_code": "아이보리^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "34"
+      ]
+    },
+    {
+      "id": 12806096,
+      "managed_code": "애쉬블루^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "애쉬블루",
+        "26"
+      ]
+    },
+    {
+      "id": 12806097,
+      "managed_code": "애쉬블루^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "애쉬블루",
+        "28"
+      ]
+    },
+    {
+      "id": 12806098,
+      "managed_code": "애쉬블루^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "애쉬블루",
+        "30"
+      ]
+    },
+    {
+      "id": 12806099,
+      "managed_code": "애쉬블루^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "애쉬블루",
+        "32"
+      ]
+    },
+    {
+      "id": 12806100,
+      "managed_code": "애쉬블루^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "애쉬블루",
+        "34"
+      ]
+    },
+    {
+      "id": 12806101,
+      "managed_code": "카키^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "26"
+      ]
+    },
+    {
+      "id": 12806102,
+      "managed_code": "카키^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "28"
+      ]
+    },
+    {
+      "id": 12806103,
+      "managed_code": "카키^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "30"
+      ]
+    },
+    {
+      "id": 12806104,
+      "managed_code": "카키^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "32"
+      ]
+    },
+    {
+      "id": 12806105,
+      "managed_code": "카키^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "34"
+      ]
+    },
+    {
+      "id": 18800930,
+      "managed_code": "다크블루^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크블루",
+        "26"
+      ]
+    },
+    {
+      "id": 18800931,
+      "managed_code": "다크블루^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크블루",
+        "28"
+      ]
+    },
+    {
+      "id": 18800932,
+      "managed_code": "다크블루^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크블루",
+        "30"
+      ]
+    },
+    {
+      "id": 18800933,
+      "managed_code": "다크블루^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크블루",
+        "32"
+      ]
+    },
+    {
+      "id": 18800934,
+      "managed_code": "다크블루^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다크블루",
+        "34"
+      ]
+    },
+    {
+      "id": 18800935,
+      "managed_code": "CR다크블루^26",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CR다크블루",
+        "26"
+      ]
+    },
+    {
+      "id": 18800936,
+      "managed_code": "CR다크블루^28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CR다크블루",
+        "28"
+      ]
+    },
+    {
+      "id": 18800937,
+      "managed_code": "CR다크블루^30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CR다크블루",
+        "30"
+      ]
+    },
+    {
+      "id": 18800938,
+      "managed_code": "CR다크블루^32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CR다크블루",
+        "32"
+      ]
+    },
+    {
+      "id": 18800939,
+      "managed_code": "CR다크블루^34",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CR다크블루",
+        "34"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 919
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,665 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2396607",
+  "product_id": 2396607,
+  "name": "세미 와이드 치노 팬츠 - 5 COLOR",
+  "name_en": "SEMI-WIDE CHINO PANTS - 5 COLOR",
+  "style_no": "SBBSHLPT160",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "suare",
+    "name": "수아레",
+    "name_en": "SUARE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2022,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 15000,
+    "discount_rate": 69,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220303/2396607/2396607_5_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220303/2396607/detail_2396607_4_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220303/2396607/detail_2396607_5_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220303/2396607/detail_2396607_6_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220303/2396607/detail_2396607_7_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220303/2396607/detail_2396607_8_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220303/2396607/detail_2396607_9_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220303/2396607/detail_2396607_10_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220303/2396607/detail_2396607_11_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220303/2396607/detail_2396607_12_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220303/2396607/detail_2396607_13_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220303/2396607/detail_2396607_14_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220303/2396607/detail_2396607_15_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "GREY_S",
+        "sequence": 4,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 32.0,
+          "밑위": 28.0,
+          "밑단단면": 23.5
+        }
+      },
+      {
+        "size": "GREY_M",
+        "sequence": 5,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 38.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 33.0,
+          "밑위": 29.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "GREY_L",
+        "sequence": 6,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 34.5,
+          "밑위": 30.0,
+          "밑단단면": 24.5
+        }
+      },
+      {
+        "size": "GREY_XL",
+        "sequence": 7,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 43.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 35.5,
+          "밑위": 31.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "BEIGE_S",
+        "sequence": 8,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 32.0,
+          "밑위": 28.0,
+          "밑단단면": 23.5
+        }
+      },
+      {
+        "size": "BEIGE_M",
+        "sequence": 9,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 38.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 33.0,
+          "밑위": 29.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "BEIGE_L",
+        "sequence": 10,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 34.5,
+          "밑위": 30.0,
+          "밑단단면": 24.5
+        }
+      },
+      {
+        "size": "BEIGE_XL",
+        "sequence": 11,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 43.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 35.5,
+          "밑위": 31.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "KHAKI_S",
+        "sequence": 12,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 32.0,
+          "밑위": 28.0,
+          "밑단단면": 23.5
+        }
+      },
+      {
+        "size": "KHAKI_M",
+        "sequence": 13,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 38.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 33.0,
+          "밑위": 29.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "KHAKI_L",
+        "sequence": 14,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 34.5,
+          "밑위": 30.0,
+          "밑단단면": 24.5
+        }
+      },
+      {
+        "size": "KHAKI_XL",
+        "sequence": 15,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 43.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 35.5,
+          "밑위": 31.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "NAVY_S",
+        "sequence": 16,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 32.0,
+          "밑위": 28.0,
+          "밑단단면": 23.5
+        }
+      },
+      {
+        "size": "NAVY_M",
+        "sequence": 17,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 38.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 33.0,
+          "밑위": 29.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "NAVY_L",
+        "sequence": 18,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 34.5,
+          "밑위": 30.0,
+          "밑단단면": 24.5
+        }
+      },
+      {
+        "size": "NAVY_XL",
+        "sequence": 19,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 43.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 35.5,
+          "밑위": 31.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "BLACK_S",
+        "sequence": 20,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 32.0,
+          "밑위": 28.0,
+          "밑단단면": 23.5
+        }
+      },
+      {
+        "size": "BLACK_M",
+        "sequence": 21,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 38.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 33.0,
+          "밑위": 29.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "BLACK_L",
+        "sequence": 22,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 34.5,
+          "밑위": 30.0,
+          "밑단단면": 24.5
+        }
+      },
+      {
+        "size": "BLACK_XL",
+        "sequence": 23,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 43.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 35.5,
+          "밑위": 31.0,
+          "밑단단면": 25.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러/사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "GREY_S",
+          "code": "GREY_S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "GREY_M",
+          "code": "GREY_M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "GREY_L",
+          "code": "GREY_L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "GREY_XL",
+          "code": "GREY_XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BEIGE_S",
+          "code": "BEIGE_S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BEIGE_M",
+          "code": "BEIGE_M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BEIGE_L",
+          "code": "BEIGE_L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BEIGE_XL",
+          "code": "BEIGE_XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "KHAKI_S",
+          "code": "KHAKI_S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "KHAKI_M",
+          "code": "KHAKI_M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "KHAKI_L",
+          "code": "KHAKI_L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "KHAKI_XL",
+          "code": "KHAKI_XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "NAVY_S",
+          "code": "NAVY_S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "NAVY_M",
+          "code": "NAVY_M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "NAVY_L",
+          "code": "NAVY_L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "NAVY_XL",
+          "code": "NAVY_XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BLACK_S",
+          "code": "BLACK_S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BLACK_M",
+          "code": "BLACK_M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BLACK_L",
+          "code": "BLACK_L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BLACK_XL",
+          "code": "BLACK_XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 9815082,
+      "managed_code": "BEIGE_L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE_L"
+      ]
+    },
+    {
+      "id": 9815083,
+      "managed_code": "BEIGE_M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE_M"
+      ]
+    },
+    {
+      "id": 9815084,
+      "managed_code": "BEIGE_S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE_S"
+      ]
+    },
+    {
+      "id": 9815085,
+      "managed_code": "BEIGE_XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE_XL"
+      ]
+    },
+    {
+      "id": 9815086,
+      "managed_code": "BLACK_L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK_L"
+      ]
+    },
+    {
+      "id": 9815087,
+      "managed_code": "BLACK_M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK_M"
+      ]
+    },
+    {
+      "id": 9815088,
+      "managed_code": "BLACK_S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK_S"
+      ]
+    },
+    {
+      "id": 9815089,
+      "managed_code": "BLACK_XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK_XL"
+      ]
+    },
+    {
+      "id": 9815090,
+      "managed_code": "GREY_L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY_L"
+      ]
+    },
+    {
+      "id": 9815091,
+      "managed_code": "GREY_M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY_M"
+      ]
+    },
+    {
+      "id": 9815092,
+      "managed_code": "GREY_S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY_S"
+      ]
+    },
+    {
+      "id": 9815093,
+      "managed_code": "GREY_XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY_XL"
+      ]
+    },
+    {
+      "id": 9815094,
+      "managed_code": "KHAKI_L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI_L"
+      ]
+    },
+    {
+      "id": 9815095,
+      "managed_code": "KHAKI_M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI_M"
+      ]
+    },
+    {
+      "id": 9815096,
+      "managed_code": "KHAKI_S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI_S"
+      ]
+    },
+    {
+      "id": 9815097,
+      "managed_code": "KHAKI_XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI_XL"
+      ]
+    },
+    {
+      "id": 9815100,
+      "managed_code": "NAVY_L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY_L"
+      ]
+    },
+    {
+      "id": 9815101,
+      "managed_code": "NAVY_M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY_M"
+      ]
+    },
+    {
+      "id": 9815102,
+      "managed_code": "NAVY_S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY_S"
+      ]
+    },
+    {
+      "id": 9815103,
+      "managed_code": "NAVY_XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY_XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 4479
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

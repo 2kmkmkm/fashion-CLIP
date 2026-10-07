@@ -1,0 +1,167 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5326384",
+  "product_id": 5326384,
+  "name": "울트라 라이트 러닝캡 (3COLOR)",
+  "name_en": "",
+  "style_no": "PKCCP06",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "urbanplayers",
+    "name": "어반플레이어스",
+    "name_en": "URBAN PLAYERS"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 29000,
+    "sale": 14500,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250814/5326384/5326384_17870343106419_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5326384/detail_5326384_17720921936269_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5326384/detail_5326384_17720921944901_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5326384/detail_5326384_17720921953054_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5326384/detail_5326384_17720921907716_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5326384/detail_5326384_17720921917445_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5326384/detail_5326384_17720921926831_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5326384/detail_5326384_17720921961507_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5326384/detail_5326384_17720921970204_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5326384/detail_5326384_17720921978354_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "FREE",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 57.0,
+          "챙길이": 8.0,
+          "깊이": 11.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5326384/20260226164839_option_699ffad7e4fdc4.41901161.",
+          "color": null
+        },
+        {
+          "name": "그레이",
+          "code": "그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5326384/20260226164842_option_699ffada8dc0d5.57534127.",
+          "color": null
+        },
+        {
+          "name": "화이트",
+          "code": "화이트",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5326384/20260226164845_option_699ffadd1958b4.99862271.",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 29119752,
+      "managed_code": "블랙^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "FREE"
+      ]
+    },
+    {
+      "id": 29119753,
+      "managed_code": "그레이^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "FREE"
+      ]
+    },
+    {
+      "id": 29119754,
+      "managed_code": "화이트^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 72
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

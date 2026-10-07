@@ -1,0 +1,258 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7049152",
+  "product_id": 7049152,
+  "name": "[알레산드로 푼제티] 아비스 후디드 라이트 다운 재킷 [올리브]",
+  "name_en": "[알레산드로 푼제티] 아비스 후디드 라이트 다운 재킷",
+  "style_no": "MMFDJ9A94-OL",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "musinsastandard",
+    "name": "무신사 스탠다드",
+    "name_en": "MUSINSA STANDARD"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002012",
+    "categoryDepth2Title": "숏패딩/헤비 아우터",
+    "categoryDepth2Name": "숏패딩/헤비 아우터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 159900,
+    "sale": 159900,
+    "discount_rate": 0,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260811/7049152/7049152_17913336345982_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049152/detail_7049152_17913336414665_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049152/detail_7049152_17913336423906_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049152/detail_7049152_17913336431810_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049152/detail_7049152_17913336439888_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049152/detail_7049152_17913336447316_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049152/detail_7049152_17913336455045_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049152/detail_7049152_17913336463837_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049152/detail_7049152_17913336472208_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049152/detail_7049152_17913336479956_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260811/7049152/detail_7049152_17913336487776_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "헤비아우터",
+    "type_number": 8,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711350600000078726.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 62.7,
+          "어깨너비": 44.0,
+          "가슴단면": 54.0,
+          "소매길이": 62.6,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 64.6,
+          "어깨너비": 46.0,
+          "가슴단면": 56.5,
+          "소매길이": 63.8,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 66.5,
+          "어깨너비": 48.0,
+          "가슴단면": 59.0,
+          "소매길이": 65.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 68.4,
+          "어깨너비": 50.0,
+          "가슴단면": 61.5,
+          "소매길이": 66.2,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "2XL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 70.3,
+          "어깨너비": 52.0,
+          "가슴단면": 64.0,
+          "소매길이": 67.4,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL",
+          "code": "2XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32433314,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 32433315,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 32433316,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 32433317,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 32433318,
+      "managed_code": "2XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

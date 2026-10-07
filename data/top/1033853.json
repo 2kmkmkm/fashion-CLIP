@@ -1,0 +1,280 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/1033853",
+  "product_id": 1033853,
+  "name": "스테이블 린넨 스탠드 카라 셔츠 [2color]",
+  "name_en": "STABLE LINEN STAND COLLAR SHIRTS [2color]",
+  "style_no": "DFSH6206",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "drawfit",
+    "name": "드로우핏",
+    "name_en": "DRAW FIT"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 55000,
+    "sale": 49500,
+    "discount_rate": 10,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20190503/1033853/1033853_17763934810339_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20190503/1033853/detail_1033853_17763934545356_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20190503/1033853/detail_1033853_17751830408002_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20190503/1033853/detail_1033853_17751830414843_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20190503/1033853/detail_1033853_17751830425402_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20190503/1033853/detail_1033853_17751830434297_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20190503/1033853/detail_1033853_17751830441127_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "BLACK - M",
+        "sequence": 3,
+        "measurements": {
+          "총장": 73.0,
+          "어깨너비": 51.0,
+          "가슴단면": 58.0,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "BLACK - L",
+        "sequence": 4,
+        "measurements": {
+          "총장": 74.5,
+          "어깨너비": 53.0,
+          "가슴단면": 60.5,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "BLACK - XL",
+        "sequence": 5,
+        "measurements": {
+          "총장": 76.0,
+          "어깨너비": 55.0,
+          "가슴단면": 63.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "BLUISH CHARCOAL - M",
+        "sequence": 6,
+        "measurements": {
+          "총장": 73.0,
+          "어깨너비": 51.0,
+          "가슴단면": 58.0,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "BLUISH CHARCOAL - L",
+        "sequence": 7,
+        "measurements": {
+          "총장": 74.5,
+          "어깨너비": 53.0,
+          "가슴단면": 60.5,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "BLUISH CHARCOAL - XL",
+        "sequence": 8,
+        "measurements": {
+          "총장": 76.0,
+          "어깨너비": 55.0,
+          "가슴단면": 63.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BLACK - M",
+          "code": "BLACK - M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BLACK - L",
+          "code": "BLACK - L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BLACK - XL",
+          "code": "BLACK - XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BLUISH CHARCOAL - M",
+          "code": "BLUISH CHARCOAL - M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BLUISH CHARCOAL - L",
+          "code": "BLUISH CHARCOAL - L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BLUISH CHARCOAL - XL",
+          "code": "BLUISH CHARCOAL - XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 29955637,
+      "managed_code": "BLACK - M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK - M"
+      ]
+    },
+    {
+      "id": 29955638,
+      "managed_code": "BLACK - L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK - L"
+      ]
+    },
+    {
+      "id": 29955639,
+      "managed_code": "BLACK - XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK - XL"
+      ]
+    },
+    {
+      "id": 29955640,
+      "managed_code": "BLUISH CHARCOAL - M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUISH CHARCOAL - M"
+      ]
+    },
+    {
+      "id": 29955641,
+      "managed_code": "BLUISH CHARCOAL - L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUISH CHARCOAL - L"
+      ]
+    },
+    {
+      "id": 29955642,
+      "managed_code": "BLUISH CHARCOAL - XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUISH CHARCOAL - XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1893
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

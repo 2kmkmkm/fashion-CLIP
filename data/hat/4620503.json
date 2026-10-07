@@ -1,0 +1,782 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4620503",
+  "product_id": 4620503,
+  "name": "Signature Logo ball cap (16colors)",
+  "name_en": "Signature Logo ball cap (16colors)",
+  "style_no": "SD5AAC102",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "wooalong",
+    "name": "우알롱",
+    "name_en": "WOOALONG"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 37000,
+    "sale": 14430,
+    "discount_rate": 61,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241118/4620503/4620503_17912694168375_500.jpg"
+  ],
+  "features": {
+    "깊이": [
+      "깊음"
+    ],
+    "챙 넓이": [
+      "넒음"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 57.0,
+          "챙길이": 8.0,
+          "깊이": 15.5
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "머리둘레": 62.0,
+          "챙길이": 8.0,
+          "깊이": 16.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "빈티지 브라운",
+          "code": "빈티지 브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/354e838ea39d4a4ba0cb979a28c20c8d.png",
+          "color": {
+            "colorCode": "338",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "빈티지 베이지",
+          "code": "빈티지 베이지",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/87b94e5a8ac74507997778b88750daf5.png",
+          "color": {
+            "colorCode": "77",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "빈티지 차콜",
+          "code": "빈티지 차콜",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/31993a99c3b24ec9987191580992310c.png",
+          "color": {
+            "colorCode": "301",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "빈티지 퍼플",
+          "code": "빈티지 퍼플",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/8d78fb6d15574e038d42cc7a2112a1d1.png",
+          "color": {
+            "colorCode": "331",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "빈티지 모브",
+          "code": "빈티지 모브",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/bcd92816d4f54cd8bed373ffafb715b8.png",
+          "color": {
+            "colorCode": "39",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4620503/20250924162758_option_68d39d7ee55780.14778880.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙 (블랙 로고)",
+          "code": "블랙 (블랙 로고)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4620503/20250924162805_option_68d39d859b6604.10788967.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "네이비",
+          "code": "네이비",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4620503/20250924162750_option_68d39d76dd9b34.34650038.",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "차콜",
+          "code": "차콜",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4620503/20250924162743_option_68d39d6f590eb0.13042625.",
+          "color": {
+            "colorCode": "342",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "더스티 핑크",
+          "code": "더스티 핑크",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4620503/20250924162705_option_68d39d49dd4e86.21147057.",
+          "color": {
+            "colorCode": "311",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "더스티 핑크( 핑크 로고)",
+          "code": "더스티 핑크( 핑크 로고)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4620503/20250924162709_option_68d39d4d7dc5d0.26647862.",
+          "color": {
+            "colorCode": "311",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "와인",
+          "code": "와인",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4620503/20251205131949_option_69325d65a7d6d5.07790493.",
+          "color": {
+            "colorCode": "302",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "웜 베이지",
+          "code": "웜 베이지",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4620503/20251205132005_option_69325d758fb5e3.62213780.",
+          "color": {
+            "colorCode": "77",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "더스티 그린",
+          "code": "더스티 그린",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4620503/20250924162733_option_68d39d65585e41.64278035.",
+          "color": {
+            "colorCode": "321",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "더스티 블루",
+          "code": "더스티 블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4620503/20250924162722_option_68d39d5ad916b2.89467913.",
+          "color": {
+            "colorCode": "327",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "미드 블루",
+          "code": "미드 블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4620503/20251205132031_option_69325d8f2fa389.06063365.",
+          "color": {
+            "colorCode": "323",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "화이트",
+          "code": "화이트",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/4097fc94ceba42088307cd0fe030dfdc.png",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "베이지",
+          "code": "베이지",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/46b8762ae9f349488611261cc6613f0f.png",
+          "color": {
+            "colorCode": "5",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "아이스 블루",
+          "code": "아이스 블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/1e930c4b08fa4db4ad3d43886450e4d2.png",
+          "color": {
+            "colorCode": "334",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "라이트 올리브 그린",
+          "code": "라이트 올리브 그린",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/f16f3ab5e80c4ec980cd588ffcb7eca6.png",
+          "color": {
+            "colorCode": "320",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "라이트 블루",
+          "code": "라이트 블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/bb8a1f39c3244301b2a7ca83829e7a10.png",
+          "color": {
+            "colorCode": "323",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "오렌지",
+          "code": "오렌지",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/8d8ce0b3aeea485a8a1abe318ed3358a.png",
+          "color": {
+            "colorCode": "12",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "그레이쉬 라임",
+          "code": "그레이쉬 라임",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/e40cffd0114e4dd5bad8bbde57de00a5.png",
+          "color": {
+            "colorCode": "313",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "스모크 그레이",
+          "code": "스모크 그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/3a935cf789324fc4a2982d13f1a1ca26.png",
+          "color": {
+            "colorCode": "327",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "포레스트 옐로우",
+          "code": "포레스트 옐로우",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/27cbb3cc105d4c1b9ad92482f3458fc8.png",
+          "color": {
+            "colorCode": "326",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "포레스트 오렌지",
+          "code": "포레스트 오렌지",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/d03651c66c4547a59e45211b05b65f05.png",
+          "color": {
+            "colorCode": "318",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "더스티 브라운",
+          "code": "더스티 브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/23cc771bc14c422fb538bd8e2443caef.png",
+          "color": {
+            "colorCode": "318",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "더스티 브릭레드",
+          "code": "더스티 브릭레드",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/a661a41fe22b44ea8752ad56b0491890.png",
+          "color": {
+            "colorCode": "325",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "포레스트 그린",
+          "code": "포레스트 그린",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/5bdf7d69c9954218af2524d5928e3d4c.png",
+          "color": {
+            "colorCode": "322",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "그린",
+          "code": "그린",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/4679247cf52a41f7b86563b570088076.png",
+          "color": {
+            "colorCode": "6",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블루",
+          "code": "블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/1bae9652bf0f481591b42f197f67a862.png",
+          "color": {
+            "colorCode": "7",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙 (레드 로고)",
+          "code": "블랙 (레드 로고)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/1b1b7cf3cd5a45eebaf11e8aed429b97.png",
+          "color": {
+            "colorCode": "320",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "퍼플",
+          "code": "퍼플",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/a7ff349276c9485f9f02bb2acf17ea0b.png",
+          "color": {
+            "colorCode": "8",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "레드",
+          "code": "레드",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/6a1cc20d8fb5458ea3aec792b06520a0.png",
+          "color": {
+            "colorCode": "11",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "모카",
+          "code": "모카",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/e89430fcaff7407cacf070baa9eed980.png",
+          "color": {
+            "colorCode": "335",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "더스티 코코아",
+          "code": "더스티 코코아",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/e5e7c4d0d01a4342b96b6b6bf2788930.png",
+          "color": {
+            "colorCode": "326",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "더스티 그레이",
+          "code": "더스티 그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/10/06/d517b7245ae14404bd90801ee9305c24.png",
+          "color": {
+            "colorCode": "325",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 20360417,
+      "managed_code": "더스티 핑크^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스티 핑크",
+        "S"
+      ]
+    },
+    {
+      "id": 20360418,
+      "managed_code": "더스티 핑크^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스티 핑크",
+        "M"
+      ]
+    },
+    {
+      "id": 20360423,
+      "managed_code": "웜 베이지^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "웜 베이지",
+        "S"
+      ]
+    },
+    {
+      "id": 20360424,
+      "managed_code": "웜 베이지^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "웜 베이지",
+        "M"
+      ]
+    },
+    {
+      "id": 20360425,
+      "managed_code": "더스티 블루^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스티 블루",
+        "S"
+      ]
+    },
+    {
+      "id": 20360426,
+      "managed_code": "더스티 블루^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스티 블루",
+        "M"
+      ]
+    },
+    {
+      "id": 20360429,
+      "managed_code": "더스티 그린^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스티 그린",
+        "S"
+      ]
+    },
+    {
+      "id": 20360430,
+      "managed_code": "더스티 그린^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스티 그린",
+        "M"
+      ]
+    },
+    {
+      "id": 20360435,
+      "managed_code": "미드 블루^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "미드 블루",
+        "S"
+      ]
+    },
+    {
+      "id": 20360436,
+      "managed_code": "미드 블루^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "미드 블루",
+        "M"
+      ]
+    },
+    {
+      "id": 20360439,
+      "managed_code": "차콜^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "차콜",
+        "S"
+      ]
+    },
+    {
+      "id": 20360440,
+      "managed_code": "차콜^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "차콜",
+        "M"
+      ]
+    },
+    {
+      "id": 20360443,
+      "managed_code": "네이비^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "S"
+      ]
+    },
+    {
+      "id": 20360444,
+      "managed_code": "네이비^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "M"
+      ]
+    },
+    {
+      "id": 20360445,
+      "managed_code": "블랙^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "S"
+      ]
+    },
+    {
+      "id": 20360446,
+      "managed_code": "블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 20360447,
+      "managed_code": "블랙 (블랙 로고)^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 (블랙 로고)",
+        "S"
+      ]
+    },
+    {
+      "id": 20360448,
+      "managed_code": "블랙 (블랙 로고)^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 (블랙 로고)",
+        "M"
+      ]
+    },
+    {
+      "id": 20360455,
+      "managed_code": "와인^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "와인",
+        "S"
+      ]
+    },
+    {
+      "id": 20360456,
+      "managed_code": "와인^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "와인",
+        "M"
+      ]
+    },
+    {
+      "id": 24316139,
+      "managed_code": "더스티 핑크( 핑크 로고)^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스티 핑크( 핑크 로고)",
+        "S"
+      ]
+    },
+    {
+      "id": 24316140,
+      "managed_code": "더스티 핑크( 핑크 로고)^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "더스티 핑크( 핑크 로고)",
+        "M"
+      ]
+    },
+    {
+      "id": 33596136,
+      "managed_code": "빈티지 브라운^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지 브라운",
+        "S"
+      ]
+    },
+    {
+      "id": 33596137,
+      "managed_code": "빈티지 브라운^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지 브라운",
+        "M"
+      ]
+    },
+    {
+      "id": 33596138,
+      "managed_code": "빈티지 베이지^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지 베이지",
+        "S"
+      ]
+    },
+    {
+      "id": 33596139,
+      "managed_code": "빈티지 베이지^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지 베이지",
+        "M"
+      ]
+    },
+    {
+      "id": 33596140,
+      "managed_code": "빈티지 차콜^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지 차콜",
+        "S"
+      ]
+    },
+    {
+      "id": 33596141,
+      "managed_code": "빈티지 차콜^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지 차콜",
+        "M"
+      ]
+    },
+    {
+      "id": 33596142,
+      "managed_code": "빈티지 퍼플^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지 퍼플",
+        "S"
+      ]
+    },
+    {
+      "id": 33596143,
+      "managed_code": "빈티지 퍼플^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지 퍼플",
+        "M"
+      ]
+    },
+    {
+      "id": 33596144,
+      "managed_code": "빈티지 모브^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지 모브",
+        "S"
+      ]
+    },
+    {
+      "id": 33596145,
+      "managed_code": "빈티지 모브^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빈티지 모브",
+        "M"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1303
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

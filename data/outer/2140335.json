@@ -1,0 +1,201 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2140335",
+  "product_id": 2140335,
+  "name": "[리뉴얼] 비건 레더 오버핏 블루종 [블랙]",
+  "name_en": "Vegan Leather Overfit blouson [Black]",
+  "style_no": "23F8870-4500",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "placestudio",
+    "name": "플레이스 스튜디오",
+    "name_en": "PLACE STUDIO"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002002",
+    "categoryDepth2Title": "레더/라이더스 재킷",
+    "categoryDepth2Name": "레더/라이더스 재킷",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "봄",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 66000,
+    "sale": 35500,
+    "discount_rate": 46,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20210917/2140335/2140335_9_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210917/2140335/detail_2140335_5_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210917/2140335/detail_2140335_6_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210917/2140335/detail_2140335_7_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210917/2140335/detail_2140335_8_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210917/2140335/detail_2140335_17725023725913_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210917/2140335/detail_2140335_17725023790530_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210917/2140335/detail_2140335_17731097162037_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "거의 없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 1,
+        "measurements": {
+          "총장": 57.0,
+          "어깨너비": 59.0,
+          "가슴단면": 65.0,
+          "소매길이": 49.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 2,
+        "measurements": {
+          "총장": 67.5,
+          "어깨너비": 63.0,
+          "가슴단면": 68.5,
+          "소매길이": 52.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "BLACK",
+          "code": "BLACK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2140335/20251118143008_option_691c0460759221.03017624.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 28948664,
+      "managed_code": "BLACK^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "S"
+      ]
+    },
+    {
+      "id": 28948665,
+      "managed_code": "BLACK^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "M"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 5359
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

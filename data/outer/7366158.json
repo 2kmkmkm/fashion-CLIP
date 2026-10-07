@@ -1,0 +1,179 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7366158",
+  "product_id": 7366158,
+  "name": "파이어맨 버클 크롭 자켓 - 블랙",
+  "name_en": "Fireman Buckle Crop Jacket - Black",
+  "style_no": "FFHA105-BK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "easynoeasy",
+    "name": "이지노이지",
+    "name_en": "EASY NO EASY"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002017",
+    "categoryDepth2Title": "트러커 재킷",
+    "categoryDepth2Name": "트러커 재킷",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 290000,
+    "sale": 174000,
+    "discount_rate": 40,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260918/7366158/7366158_17901241795778_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7366158/detail_7366158_17901241801959_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7366158/detail_7366158_17901241803540_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7366158/detail_7366158_17901241805032_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7366158/detail_7366158_17901241806804_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7366158/detail_7366158_17901241808369_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7366158/detail_7366158_17901241809845_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7366158/detail_7366158_17901241811723_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7366158/detail_7366158_17901241813464_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7366158/detail_7366158_17901241815135_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7366158/detail_7366158_17901241816701_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러",
+      "루즈"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "1번",
+        "sequence": 0,
+        "measurements": {
+          "총장": 57.5,
+          "어깨너비": 50.0,
+          "가슴단면": 56.0,
+          "소매길이": 64.5,
+          "밑단단면": 43.0,
+          "소매부리단면": 12.5,
+          "암홀": 26.0
+        }
+      },
+      {
+        "size": "2번",
+        "sequence": 1,
+        "measurements": {
+          "총장": 59.0,
+          "어깨너비": 52.0,
+          "가슴단면": 56.5,
+          "소매길이": 65.0,
+          "밑단단면": 43.5,
+          "소매부리단면": 13.0,
+          "암홀": 28.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "1번",
+          "code": "1번",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2번",
+          "code": "2번",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 33317922,
+      "managed_code": "1번",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1번"
+      ]
+    },
+    {
+      "id": 33317923,
+      "managed_code": "2번",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2번"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4272965",
+  "product_id": 4272965,
+  "name": "오버핏 시그니처 LMS 패치 후디 [네이비]",
+  "name_en": "OVERFIT SIGNATURE LMS PATCH HOODIE [NAVY]",
+  "style_no": "YSLMHD03",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "lemainsecond",
+    "name": "리메인세컨드",
+    "name_en": "LEMAIN SECOND"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001004",
+    "categoryDepth2Title": "후드 티셔츠",
+    "categoryDepth2Name": "후드 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 74900,
+    "sale": 37450,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240725/4272965/4272965_17605950992041_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240725/4272965/detail_4272965_17605951084384_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240725/4272965/detail_4272965_17605951094881_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240725/4272965/detail_4272965_17605951175902_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240725/4272965/detail_4272965_17570504291932_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240725/4272965/detail_4272965_17570504283235_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240725/4272965/detail_4272965_17570504226137_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240725/4272965/detail_4272965_17570504236376_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240725/4272965/detail_4272965_17570504247644_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240725/4272965/detail_4272965_17570504256686_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240725/4272965/detail_4272965_17570504265426_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240725/4272965/detail_4272965_17570504275618_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 62.0,
+          "가슴단면": 62.0,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 73.0,
+          "어깨너비": 65.0,
+          "가슴단면": 65.0,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 74.0,
+          "어깨너비": 67.0,
+          "가슴단면": 68.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "논기모",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "논기모",
+          "code": "논기모",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "기모",
+          "code": "기모",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 18690917,
+      "managed_code": "논기모^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "논기모",
+        "S"
+      ]
+    },
+    {
+      "id": 18690918,
+      "managed_code": "논기모^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "논기모",
+        "M"
+      ]
+    },
+    {
+      "id": 18690919,
+      "managed_code": "논기모^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "논기모",
+        "L"
+      ]
+    },
+    {
+      "id": 18690920,
+      "managed_code": "기모^S",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "기모",
+        "S"
+      ]
+    },
+    {
+      "id": 18690921,
+      "managed_code": "기모^M",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "기모",
+        "M"
+      ]
+    },
+    {
+      "id": 18690922,
+      "managed_code": "기모^L",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "기모",
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 1297
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

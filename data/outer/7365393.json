@@ -1,0 +1,175 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7365393",
+  "product_id": 7365393,
+  "name": "데끼 슬라브 핑거홀 후드 집업 - 차콜",
+  "name_en": "Ripped Slub Fingerhole Hoodie Zip-up - Charcoal",
+  "style_no": "FFHZ108-CR",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "easynoeasy",
+    "name": "이지노이지",
+    "name_en": "EASY NO EASY"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002022",
+    "categoryDepth2Title": "후드 집업",
+    "categoryDepth2Name": "후드 집업",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 128000,
+    "sale": 67100,
+    "discount_rate": 48,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260918/7365393/7365393_17901247738806_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7365393/detail_7365393_17901247745261_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7365393/detail_7365393_17901247746787_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7365393/detail_7365393_17901247748362_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7365393/detail_7365393_17901247750171_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7365393/detail_7365393_17901247751614_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7365393/detail_7365393_17901247753136_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7365393/detail_7365393_17901247754716_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7365393/detail_7365393_17901247756628_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260918/7365393/detail_7365393_17901247758414_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "슬림",
+      "레귤러"
+    ],
+    "두께": [
+      "얇음"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "1번",
+        "sequence": 0,
+        "measurements": {
+          "총장": 62.0,
+          "어깨너비": 55.5,
+          "가슴단면": 52.5,
+          "소매길이": 64.0,
+          "밑단단면": 48.0,
+          "소매부리단면": 11.0,
+          "암홀": 26.0
+        }
+      },
+      {
+        "size": "2번",
+        "sequence": 1,
+        "measurements": {
+          "총장": 63.0,
+          "어깨너비": 56.5,
+          "가슴단면": 56.0,
+          "소매길이": 67.0,
+          "밑단단면": 50.5,
+          "소매부리단면": 11.5,
+          "암홀": 27.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "1번",
+          "code": "1번",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2번",
+          "code": "2번",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 33315588,
+      "managed_code": "1번",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1번"
+      ]
+    },
+    {
+      "id": 33315589,
+      "managed_code": "2번",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2번"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

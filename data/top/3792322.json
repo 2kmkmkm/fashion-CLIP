@@ -1,0 +1,201 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3792322",
+  "product_id": 3792322,
+  "name": "나일론 사커 롱슬리브_블랙",
+  "name_en": "나일론 사커 롱슬리브_블랙",
+  "style_no": "PES1LS399ABK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "physicaleducation",
+    "name": "피지컬 디파트먼트",
+    "name_en": "PHYSICAL DEPARTMENT"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001010",
+    "categoryDepth2Title": "긴소매 티셔츠",
+    "categoryDepth2Name": "긴소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2024,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 69000,
+    "sale": 15900,
+    "discount_rate": 77,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240112/3792322/3792322_17512505712717_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3792322/detail_3792322_17059903007083_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3792322/detail_3792322_17059903015086_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3792322/detail_3792322_17059903023787_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240112/3792322/detail_3792322_17059903031985_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매_래글런",
+    "type_number": 22,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711325400000036950.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 64.0,
+          "가슴단면": 61.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 66.0,
+          "가슴단면": 63.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 68.0,
+          "가슴단면": 65.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 70.0,
+          "가슴단면": 67.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3792322/20251106140126_option_690c2ba6e87538.91688804.",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3792322/20251106140126_option_690c2ba6d68fd9.66823215.",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3792322/20251106140127_option_690c2ba78adcb3.04856341.",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3792322/20251106140129_option_690c2ba9283334.85346639.",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15917958,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 15917959,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 15917960,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 15917961,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 42
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

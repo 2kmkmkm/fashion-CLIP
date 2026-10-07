@@ -1,0 +1,161 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5019502",
+  "product_id": 5019502,
+  "name": "(Unisex) Messy Alpha Logo Tee Black",
+  "name_en": "(Unisex) Messy Alpha Logo Tee Black",
+  "style_no": "KIB5MUT509ABK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "kimsfcm",
+    "name": "킴스 프레시 코튼 마켓",
+    "name_en": "KIMS FRESH COTTON MARKET"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001001",
+    "categoryDepth2Title": "반소매 티셔츠",
+    "categoryDepth2Name": "반소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 47000,
+    "sale": 27600,
+    "discount_rate": 41,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250412/5019502/5019502_17548953505624_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17756118672841_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17756118843829_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17756118895810_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17756118869337_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17507261427056_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17507261187759_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17507261321179_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17503088237494_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17503088262656_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17503088286997_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17507261462572_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17503088310801_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17507261263721_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17756118744867_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17756118791213_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250412/5019502/detail_5019502_17756118820388_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "F (female)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 51.0,
+          "어깨너비": 37.0,
+          "가슴단면": 43.0,
+          "소매길이": 17.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M (male)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 53.0,
+          "가슴단면": 56.0,
+          "소매길이": 21.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "F (female)",
+          "code": "F (female)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M (male)",
+          "code": "M (male)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 23042263,
+      "managed_code": "F (female)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "F (female)"
+      ]
+    },
+    {
+      "id": 23042264,
+      "managed_code": "M (male)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M (male)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 248
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4359307",
+  "product_id": 4359307,
+  "name": "GOTHIC SATIN 6PANEL CAP",
+  "name_en": "GOTHIC SATIN 6PANEL CAP",
+  "style_no": "0LM46SCP112-M",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "lmc",
+    "name": "엘엠씨",
+    "name_en": "LMC"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 19900,
+    "discount_rate": 59,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240822/4359307/4359307_17346587131727_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240822/4359307/detail_4359307_17346587277110_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240822/4359307/detail_4359307_17346587315930_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240822/4359307/detail_4359307_17346587456288_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240822/4359307/detail_4359307_17346587512656_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240822/4359307/detail_4359307_17346587673179_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240822/4359307/detail_4359307_17346587717935_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240822/4359307/detail_4359307_17346587775205_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240822/4359307/detail_4359307_17346587836394_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240822/4359307/detail_4359307_17346587887956_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240822/4359307/detail_4359307_17346587947122_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240822/4359307/detail_4359307_17346587995307_500.jpg"
+  ],
+  "features": {
+    "깊이": [
+      "보통"
+    ],
+    "챙 넓이": [
+      "보통"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "NAVY/OS",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 58.0,
+          "챙길이": 7.0,
+          "깊이": 16.5
+        }
+      },
+      {
+        "size": "BLACK/OS",
+        "sequence": 1,
+        "measurements": {
+          "머리둘레": 58.0,
+          "챙길이": 7.0,
+          "깊이": 16.5
+        }
+      },
+      {
+        "size": "PINK/OS",
+        "sequence": 2,
+        "measurements": {
+          "머리둘레": 58.0,
+          "챙길이": 7.0,
+          "깊이": 16.5
+        }
+      },
+      {
+        "size": "SILVER/OS",
+        "sequence": 3,
+        "measurements": {
+          "머리둘레": 58.0,
+          "챙길이": 7.0,
+          "깊이": 16.5
+        }
+      },
+      {
+        "size": "LIGHT BLUE/OS",
+        "sequence": 4,
+        "measurements": {
+          "머리둘레": 58.0,
+          "챙길이": 7.0,
+          "깊이": 16.5
+        }
+      },
+      {
+        "size": "LIGHT GRAY/OS",
+        "sequence": 5,
+        "measurements": {
+          "머리둘레": 58.0,
+          "챙길이": 7.0,
+          "깊이": 16.5
+        }
+      },
+      {
+        "size": "BURGUNDY/OS",
+        "sequence": 6,
+        "measurements": {
+          "머리둘레": 58.0,
+          "챙길이": 7.0,
+          "깊이": 16.5
+        }
+      },
+      {
+        "size": "BROWN/OS",
+        "sequence": 7,
+        "measurements": {
+          "머리둘레": 58.0,
+          "챙길이": 7.0,
+          "깊이": 16.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "NAVY/OS",
+          "code": "NAVY/OS",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4359307/20260205154911_option_69843d67a8e8a2.83904226.",
+          "color": null
+        },
+        {
+          "name": "BLACK/OS",
+          "code": "BLACK/OS",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4359307/20260205154625_option_69843cc1af6f60.60508922.",
+          "color": null
+        },
+        {
+          "name": "PINK/OS",
+          "code": "PINK/OS",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4359307/20260205154919_option_69843d6f256974.81537252.",
+          "color": null
+        },
+        {
+          "name": "SILVER/OS",
+          "code": "SILVER/OS",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4359307/20260205155213_option_69843e1d694ea8.69825348.",
+          "color": null
+        },
+        {
+          "name": "LIGHT BLUE/OS",
+          "code": "LIGHT BLUE/OS",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4359307/20260205154802_option_69843d224577a6.91039951.",
+          "color": null
+        },
+        {
+          "name": "LIGHT GRAY/OS",
+          "code": "LIGHT GRAY/OS",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4359307/20260205154754_option_69843d1af06af4.05783463.",
+          "color": null
+        },
+        {
+          "name": "BURGUNDY/OS",
+          "code": "BURGUNDY/OS",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4359307/20260205154538_option_69843c92994c40.28193254.",
+          "color": null
+        },
+        {
+          "name": "BROWN/OS",
+          "code": "BROWN/OS",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4359307/20260205154656_option_69843ce061b1d9.46794251.",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 18764443,
+      "managed_code": "NAVY/OS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY/OS"
+      ]
+    },
+    {
+      "id": 18764444,
+      "managed_code": "BLACK/OS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK/OS"
+      ]
+    },
+    {
+      "id": 18764445,
+      "managed_code": "PINK/OS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PINK/OS"
+      ]
+    },
+    {
+      "id": 18764446,
+      "managed_code": "SILVER/OS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "SILVER/OS"
+      ]
+    },
+    {
+      "id": 20986371,
+      "managed_code": "LIGHT BLUE/OS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LIGHT BLUE/OS"
+      ]
+    },
+    {
+      "id": 20986372,
+      "managed_code": "LIGHT GRAY/OS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LIGHT GRAY/OS"
+      ]
+    },
+    {
+      "id": 20986373,
+      "managed_code": "BURGUNDY/OS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BURGUNDY/OS"
+      ]
+    },
+    {
+      "id": 20986374,
+      "managed_code": "BROWN/OS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN/OS"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 572
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5215601",
+  "product_id": 5215601,
+  "name": "[빅토리아 울] 미니멀 리브드 크루 넥 니트 [버건디]",
+  "name_en": "[VICTORIA WOOL] MINIMAL RIBBED CREW NECK KNIT [BURGUNDY]",
+  "style_no": "MMEWL5A00-BD",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "musinsastandard",
+    "name": "무신사 스탠다드",
+    "name_en": "MUSINSA STANDARD"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001006",
+    "categoryDepth2Title": "니트/스웨터",
+    "categoryDepth2Name": "니트/스웨터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2025,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 59900,
+    "sale": 56890,
+    "discount_rate": 5,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250701/5215601/5215601_17872899290541_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250701/5215601/detail_5215601_17872899455831_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250701/5215601/detail_5215601_17872899462816_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250701/5215601/detail_5215601_17872899469194_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250701/5215601/detail_5215601_17872899476399_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250701/5215601/detail_5215601_17872899483571_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "거의 없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 64.0,
+          "어깨너비": 44.0,
+          "가슴단면": 52.0,
+          "소매길이": 59.1,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 46.0,
+          "가슴단면": 54.5,
+          "소매길이": 60.3,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 48.0,
+          "가슴단면": 57.0,
+          "소매길이": 61.5,
+          "밑단단면": 48.0,
+          "소매부리단면": 10.5,
+          "암홀": 25.8
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 50.0,
+          "가슴단면": 59.5,
+          "소매길이": 62.7,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "2XL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 52.0,
+          "가슴단면": 62.0,
+          "소매길이": 63.9,
+          "밑단단면": 53.0,
+          "소매부리단면": 11.5,
+          "암홀": 27.4
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL",
+          "code": "2XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 24345162,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 24345163,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 24345164,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 24345165,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 24345166,
+      "managed_code": "2XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 114
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

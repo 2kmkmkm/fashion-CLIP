@@ -1,0 +1,330 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4704016",
+  "product_id": 4704016,
+  "name": "레트로 6cm 키높이 스니커즈 올블랙",
+  "name_en": "",
+  "style_no": "25-003",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "thenopi",
+    "name": "더노피",
+    "name_en": "THENOPI"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103004",
+    "categoryDepth2Title": "스니커즈",
+    "categoryDepth2Name": "스니커즈",
+    "categoryDepth3Code": "103004001",
+    "categoryDepth3Title": "캔버스/단화",
+    "categoryDepth3Name": "캔버스/단화",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 105000,
+    "sale": 54800,
+    "discount_rate": 48,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250108/4704016/4704016_17864941239900_500.jpg",
+    "https://image.msscdn.net/images/goods_img/20250108/4704016/4704016_17839184445453_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4704016/detail_4704016_17839184451102_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4704016/detail_4704016_17839184452622_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4704016/detail_4704016_17839184454270_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4704016/detail_4704016_17839184455778_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4704016/detail_4704016_17839184457325_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4704016/detail_4704016_17839184458695_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "225-230",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "235-240",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "245-250",
+        "sequence": 8,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "255-260",
+        "sequence": 11,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "265-270",
+        "sequence": 14,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "275-280",
+        "sequence": 16,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/08/31/f7a2f0901a344a32a7089fab8dd99ea8.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "230",
+          "code": "230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "235",
+          "code": "235",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "225-230",
+          "code": "225-230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "240",
+          "code": "240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "245",
+          "code": "245",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "235-240",
+          "code": "235-240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "255",
+          "code": "255",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "245-250",
+          "code": "245-250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "265",
+          "code": "265",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "255-260",
+          "code": "255-260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "275",
+          "code": "275",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "265-270",
+          "code": "265-270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "275-280",
+          "code": "275-280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32526654,
+      "managed_code": "블랙^225-230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "225-230"
+      ]
+    },
+    {
+      "id": 32526655,
+      "managed_code": "블랙^235-240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "235-240"
+      ]
+    },
+    {
+      "id": 32526656,
+      "managed_code": "블랙^245-250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "245-250"
+      ]
+    },
+    {
+      "id": 32526657,
+      "managed_code": "블랙^255-260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "255-260"
+      ]
+    },
+    {
+      "id": 32526658,
+      "managed_code": "블랙^265-270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "265-270"
+      ]
+    },
+    {
+      "id": 32526659,
+      "managed_code": "블랙^275-280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "275-280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 22
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

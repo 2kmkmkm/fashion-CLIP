@@ -1,0 +1,225 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5986268",
+  "product_id": 5986268,
+  "name": "4.5cm 빈티지 주름 더비슈즈 로퍼 (OKPL-45LF304)",
+  "name_en": "4.5cm Vintage Crinkled Derby Shoe Loafers (OKPL-45LF304)",
+  "style_no": "OKPL-45LF304",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "okeyplace",
+    "name": "오키플레이스",
+    "name_en": "OKEYPLACE"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103001",
+    "categoryDepth2Title": "구두",
+    "categoryDepth2Name": "구두",
+    "categoryDepth3Code": "103001001",
+    "categoryDepth3Title": "더비 슈즈",
+    "categoryDepth3Name": "더비 슈즈",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 72500,
+    "sale": 61630,
+    "discount_rate": 15,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260205/5986268/5986268_17839275170187_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260205/5986268/detail_5986268_17702740620247_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260205/5986268/detail_5986268_17702740625569_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260205/5986268/detail_5986268_17702740631488_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260205/5986268/detail_5986268_17702740637839_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260205/5986268/detail_5986268_17702740643260_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260205/5986268/detail_5986268_17702740650007_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260205/5986268/detail_5986268_17702740738183_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260205/5986268/detail_5986268_17702740744344_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260205/5986268/detail_5986268_17702740750026_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260205/5986268/detail_5986268_17702740755229_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260205/5986268/detail_5986268_17839065707225_500.jpg"
+  ],
+  "features": {
+    "굽 높이": [
+      "보통"
+    ],
+    "쿠션": [
+      "보통"
+    ],
+    "무게": [
+      "보통"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "250mm",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 28.5,
+          "발볼": 11.3,
+          "발목높이": 10.6,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "260mm",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 29.5,
+          "발볼": 11.5,
+          "발목높이": 10.7,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "270mm",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 30.5,
+          "발볼": 11.9,
+          "발목높이": 10.8,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "280mm",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 31.5,
+          "발볼": 12.1,
+          "발목높이": 11.1,
+          "굽높이": 4.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "신발 사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "250mm",
+          "code": "250mm",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5986268/20260205154155_option_69843bb3da6248.61799909.",
+          "color": null
+        },
+        {
+          "name": "260mm",
+          "code": "260mm",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5986268/20260205154158_option_69843bb66210e8.23018584.",
+          "color": null
+        },
+        {
+          "name": "270mm",
+          "code": "270mm",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5986268/20260205154201_option_69843bb9386075.75986468.",
+          "color": null
+        },
+        {
+          "name": "280mm",
+          "code": "280mm",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5986268/20260205154204_option_69843bbc00b631.64539916.",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 28751472,
+      "managed_code": "블랙^250mm",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "250mm"
+      ]
+    },
+    {
+      "id": 28751473,
+      "managed_code": "블랙^260mm",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "260mm"
+      ]
+    },
+    {
+      "id": 28751474,
+      "managed_code": "블랙^270mm",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "270mm"
+      ]
+    },
+    {
+      "id": 28751475,
+      "managed_code": "블랙^280mm",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "280mm"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 38
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

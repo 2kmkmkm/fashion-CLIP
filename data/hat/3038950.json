@@ -1,0 +1,114 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3038950",
+  "product_id": 3038950,
+  "name": "어센틱 박스 로고 덕캡 블랙",
+  "name_en": "어센틱 박스 로고 덕캡 블랙",
+  "style_no": "CO2300CA15BK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "covernat",
+    "name": "커버낫",
+    "name_en": "COVERNAT"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": 2023,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 45000,
+    "sale": 9000,
+    "discount_rate": 80,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230125/3038950/3038950_16944084210686_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230125/3038950/detail_3038950_16792879390002_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230125/3038950/detail_3038950_16747918869495_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230125/3038950/detail_3038950_16747918885449_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230125/3038950/detail_3038950_16747918902925_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "F",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 58.0,
+          "챙길이": 7.0,
+          "깊이": 16.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "F",
+          "code": "F",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 12670976,
+      "managed_code": "F",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "F"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.5,
+    "count": 22
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

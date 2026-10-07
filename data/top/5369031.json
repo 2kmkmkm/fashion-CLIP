@@ -1,0 +1,384 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5369031",
+  "product_id": 5369031,
+  "name": "와플 헨리넥 데일리 티셔츠 - 4color",
+  "name_en": "Waffle Henley Neck Daily T-Shirt - 4color",
+  "style_no": "MZTS6104",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "mindbridge",
+    "name": "마인드브릿지",
+    "name_en": "MINDBRIDGE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001010",
+    "categoryDepth2Title": "긴소매 티셔츠",
+    "categoryDepth2Name": "긴소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 59900,
+    "sale": 27900,
+    "discount_rate": 53,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250827/5369031/5369031_17754535282278_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17573048902882_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17573048737199_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17573048893447_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17884858598788_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17754535495110_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17652449378727_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17652449386228_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17647455393742_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17574043773195_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17574043784650_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17574043968083_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17574043956704_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17573048747022_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17562733949863_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17573048755411_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17562733957439_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17631003961332_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250827/5369031/detail_5369031_17631003972194_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "095",
+        "sequence": 0,
+        "measurements": {
+          "총장": 69.5,
+          "어깨너비": 50.4,
+          "가슴단면": 53.5,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "100",
+        "sequence": 1,
+        "measurements": {
+          "총장": 71.0,
+          "어깨너비": 52.0,
+          "가슴단면": 56.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "105",
+        "sequence": 2,
+        "measurements": {
+          "총장": 73.5,
+          "어깨너비": 53.6,
+          "가슴단면": 58.5,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "110",
+        "sequence": 3,
+        "measurements": {
+          "총장": 76.0,
+          "어깨너비": 55.6,
+          "가슴단면": 62.0,
+          "소매길이": 62.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "BK",
+          "code": "BK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5369031/20251204175800_option_69314d1859c0b5.08867243.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "GR",
+          "code": "GR",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5369031/20251204175805_option_69314d1d156263.29905637.",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "WH",
+          "code": "WH",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5369031/20251204175808_option_69314d20f20d79.20841557.",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "CG",
+          "code": "CG",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5369031/20260812100406_option_6a7bc68680a890.24361026.",
+          "color": {
+            "colorCode": "25",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "095",
+          "code": "095",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "100",
+          "code": "100",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "105",
+          "code": "105",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "110",
+          "code": "110",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25820772,
+      "managed_code": "BK^095",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "095"
+      ]
+    },
+    {
+      "id": 25820773,
+      "managed_code": "BK^100",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "100"
+      ]
+    },
+    {
+      "id": 25820774,
+      "managed_code": "BK^105",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "105"
+      ]
+    },
+    {
+      "id": 25820775,
+      "managed_code": "BK^110",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "110"
+      ]
+    },
+    {
+      "id": 25820776,
+      "managed_code": "GR^095",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "095"
+      ]
+    },
+    {
+      "id": 25820777,
+      "managed_code": "GR^100",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "100"
+      ]
+    },
+    {
+      "id": 25820778,
+      "managed_code": "GR^105",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "105"
+      ]
+    },
+    {
+      "id": 25820779,
+      "managed_code": "GR^110",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "110"
+      ]
+    },
+    {
+      "id": 27562991,
+      "managed_code": "WH^095",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WH",
+        "095"
+      ]
+    },
+    {
+      "id": 27562992,
+      "managed_code": "WH^100",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WH",
+        "100"
+      ]
+    },
+    {
+      "id": 27562993,
+      "managed_code": "WH^105",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WH",
+        "105"
+      ]
+    },
+    {
+      "id": 27562994,
+      "managed_code": "WH^110",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WH",
+        "110"
+      ]
+    },
+    {
+      "id": 32446242,
+      "managed_code": "CG^095",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CG",
+        "095"
+      ]
+    },
+    {
+      "id": 32446243,
+      "managed_code": "CG^100",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CG",
+        "100"
+      ]
+    },
+    {
+      "id": 32446244,
+      "managed_code": "CG^105",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CG",
+        "105"
+      ]
+    },
+    {
+      "id": 32446245,
+      "managed_code": "CG^110",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CG",
+        "110"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 724
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4045014",
+  "product_id": 4045014,
+  "name": "Aa Pigment Cap - 5COL",
+  "name_en": "",
+  "style_no": "AV40AC05",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "avan",
+    "name": "어반드레스",
+    "name_en": "AVANDRESS"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 38000,
+    "sale": 28500,
+    "discount_rate": 25,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240411/4045014/4045014_17177289219103_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045014/detail_4045014_17516032675501_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045014/detail_4045014_17516032666357_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045014/detail_4045014_17516032487260_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045014/detail_4045014_17516032685079_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045014/detail_4045014_17516032476770_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045014/detail_4045014_17516032935503_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045014/detail_4045014_17169740645950_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045014/detail_4045014_17169740654480_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045014/detail_4045014_17169740662693_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240411/4045014/detail_4045014_17177285924264_500.jpg"
+  ],
+  "features": {
+    "깊이": [
+      "보통"
+    ],
+    "챙 넓이": [
+      "보통"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "FREE",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 59.0,
+          "챙길이": 7.5,
+          "깊이": 16.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "BLUE",
+          "code": "BLUE",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4045014/20250926152021_option_68d630a592db53.79429042.",
+          "color": null
+        },
+        {
+          "name": "CHARCOAL",
+          "code": "CHARCOAL",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4045014/20250926152023_option_68d630a7d4f9c1.59077470.",
+          "color": null
+        },
+        {
+          "name": "GREY",
+          "code": "GREY",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4045014/20250926152025_option_68d630a98ee398.93311287.",
+          "color": null
+        },
+        {
+          "name": "NAVY",
+          "code": "NAVY",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4045014/20250926152027_option_68d630ab29f6f3.71015456.",
+          "color": null
+        },
+        {
+          "name": "PINK",
+          "code": "PINK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4045014/20250926152028_option_68d630aca341f5.51556572.",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 17037216,
+      "managed_code": "BLUE^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLUE",
+        "FREE"
+      ]
+    },
+    {
+      "id": 17037217,
+      "managed_code": "CHARCOAL^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CHARCOAL",
+        "FREE"
+      ]
+    },
+    {
+      "id": 17037218,
+      "managed_code": "GREY^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY",
+        "FREE"
+      ]
+    },
+    {
+      "id": 17037219,
+      "managed_code": "NAVY^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY",
+        "FREE"
+      ]
+    },
+    {
+      "id": 17037220,
+      "managed_code": "PINK^FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "PINK",
+        "FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 911
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

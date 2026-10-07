@@ -1,0 +1,401 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4226034",
+  "product_id": 4226034,
+  "name": "PCB-RUN 피씨비-런 (3colors)",
+  "name_en": "",
+  "style_no": "RBX-KFLS2421",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "rbx",
+    "name": "알비엑스",
+    "name_en": "RBX"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103005",
+    "categoryDepth2Title": "스포츠화",
+    "categoryDepth2Name": "스포츠화",
+    "categoryDepth3Code": "103005006",
+    "categoryDepth3Title": "기타 운동화",
+    "categoryDepth3Name": "기타 운동화",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2024,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 119000,
+    "sale": 39900,
+    "discount_rate": 66,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240701/4226034/4226034_17617893329073_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240701/4226034/detail_4226034_17198124112952_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240701/4226034/detail_4226034_17198124261531_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240701/4226034/detail_4226034_17198124414882_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "230",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 23.0,
+          "발볼": 8.5,
+          "발목높이": 10.5,
+          "굽높이": 3.8
+        }
+      },
+      {
+        "size": "240",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 24.0,
+          "발볼": 8.7,
+          "발목높이": 10.5,
+          "굽높이": 3.8
+        }
+      },
+      {
+        "size": "250",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 25.0,
+          "발볼": 8.9,
+          "발목높이": 10.5,
+          "굽높이": 3.8
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 26.0,
+          "발볼": 9.1,
+          "발목높이": 10.5,
+          "굽높이": 3.8
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 27.0,
+          "발볼": 9.3,
+          "발목높이": 10.5,
+          "굽높이": 3.8
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 28.0,
+          "발볼": 9.5,
+          "발목높이": 10.5,
+          "굽높이": 3.8
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "화이트",
+          "code": "화이트",
+          "image_url": "",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "베이지",
+          "code": "베이지",
+          "image_url": "",
+          "color": {
+            "colorCode": "5",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "실버",
+          "code": "실버",
+          "image_url": "",
+          "color": {
+            "colorCode": "13",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "230",
+          "code": "230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "240",
+          "code": "240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 17838957,
+      "managed_code": "베이지^230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "230"
+      ]
+    },
+    {
+      "id": 17838958,
+      "managed_code": "베이지^240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "240"
+      ]
+    },
+    {
+      "id": 17838959,
+      "managed_code": "베이지^250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "250"
+      ]
+    },
+    {
+      "id": 17838960,
+      "managed_code": "베이지^260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "260"
+      ]
+    },
+    {
+      "id": 17838961,
+      "managed_code": "베이지^270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "270"
+      ]
+    },
+    {
+      "id": 17838962,
+      "managed_code": "베이지^280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "280"
+      ]
+    },
+    {
+      "id": 17838963,
+      "managed_code": "실버^230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "실버",
+        "230"
+      ]
+    },
+    {
+      "id": 17838964,
+      "managed_code": "실버^240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "실버",
+        "240"
+      ]
+    },
+    {
+      "id": 17838965,
+      "managed_code": "실버^250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "실버",
+        "250"
+      ]
+    },
+    {
+      "id": 17838966,
+      "managed_code": "실버^260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "실버",
+        "260"
+      ]
+    },
+    {
+      "id": 17838967,
+      "managed_code": "실버^270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "실버",
+        "270"
+      ]
+    },
+    {
+      "id": 17838968,
+      "managed_code": "실버^280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "실버",
+        "280"
+      ]
+    },
+    {
+      "id": 17838969,
+      "managed_code": "화이트^230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "230"
+      ]
+    },
+    {
+      "id": 17838970,
+      "managed_code": "화이트^240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "240"
+      ]
+    },
+    {
+      "id": 17838971,
+      "managed_code": "화이트^250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "250"
+      ]
+    },
+    {
+      "id": 17838972,
+      "managed_code": "화이트^260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "260"
+      ]
+    },
+    {
+      "id": 17838973,
+      "managed_code": "화이트^270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "270"
+      ]
+    },
+    {
+      "id": 17838974,
+      "managed_code": "화이트^280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 172
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/1571878",
+  "product_id": 1571878,
+  "name": "테크 숏 자켓-블랙BES 셋업",
+  "name_en": "테크 숏 자켓-블랙BES 셋업",
+  "style_no": "CBESUJP100BKCBESUWP100BK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "codegraphy",
+    "name": "코드그라피",
+    "name_en": "CGP"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002006",
+    "categoryDepth2Title": "나일론/코치 재킷",
+    "categoryDepth2Name": "나일론/코치 재킷",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을"
+    ],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 79000,
+    "sale": 55300,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20200831/1571878/1571878_17730339892071_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200831/1571878/detail_1571878_17727780485688_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200831/1571878/detail_1571878_17580033116730_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200831/1571878/detail_1571878_17730342976756_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200831/1571878/detail_1571878_17730342280034_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200831/1571878/detail_1571878_17407023776484_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200831/1571878/detail_1571878_17407023785548_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200831/1571878/detail_1571878_17703636059688_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200831/1571878/detail_1571878_17407023818803_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200831/1571878/detail_1571878_17407023827172_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200831/1571878/detail_1571878_17407023837522_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 64.0,
+          "어깨너비": 52.0,
+          "가슴단면": 67.5,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 54.0,
+          "가슴단면": 70.0,
+          "소매길이": 62.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 56.0,
+          "가슴단면": 72.5,
+          "소매길이": 64.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 58.0,
+          "가슴단면": 75.0,
+          "소매길이": 65.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S(긴바지)",
+          "code": "S(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(긴바지)",
+          "code": "M(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(긴바지)",
+          "code": "L(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(긴바지)",
+          "code": "XL(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S(쇼츠)",
+          "code": "S(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(쇼츠)",
+          "code": "M(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(쇼츠)",
+          "code": "L(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(쇼츠)",
+          "code": "XL(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S:S(긴바지)",
+          "code": "S:S(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S:M(긴바지)",
+          "code": "S:M(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S:L(긴바지)",
+          "code": "S:L(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S:XL(긴바지)",
+          "code": "S:XL(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S:S(쇼츠)",
+          "code": "S:S(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S:M(쇼츠)",
+          "code": "S:M(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S:L(쇼츠)",
+          "code": "S:L(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S:XL(쇼츠)",
+          "code": "S:XL(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M:S(긴바지)",
+          "code": "M:S(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M:M(긴바지)",
+          "code": "M:M(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M:L(긴바지)",
+          "code": "M:L(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M:XL(긴바지)",
+          "code": "M:XL(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M:S(쇼츠)",
+          "code": "M:S(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M:M(쇼츠)",
+          "code": "M:M(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M:L(쇼츠)",
+          "code": "M:L(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M:XL(쇼츠)",
+          "code": "M:XL(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L:S(긴바지)",
+          "code": "L:S(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L:M(긴바지)",
+          "code": "L:M(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L:L(긴바지)",
+          "code": "L:L(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L:XL(긴바지)",
+          "code": "L:XL(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L:S(쇼츠)",
+          "code": "L:S(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L:M(쇼츠)",
+          "code": "L:M(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L:L(쇼츠)",
+          "code": "L:L(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L:XL(쇼츠)",
+          "code": "L:XL(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL:S(긴바지)",
+          "code": "XL:S(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL:M(긴바지)",
+          "code": "XL:M(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL:L(긴바지)",
+          "code": "XL:L(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL:XL(긴바지)",
+          "code": "XL:XL(긴바지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL:S(쇼츠)",
+          "code": "XL:S(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL:M(쇼츠)",
+          "code": "XL:M(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL:L(쇼츠)",
+          "code": "XL:L(쇼츠)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL:XL(쇼츠)",
+          "code": "XL:XL(쇼츠)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 5878669,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 5878670,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 5878671,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 5878672,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 6616
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

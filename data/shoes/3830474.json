@@ -1,0 +1,269 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3830474",
+  "product_id": 3830474,
+  "name": "[무신사단독](255~280)카일 레이스업 키높이 워커 부츠_LM7515",
+  "name_en": "[255~280]Kyle Lace-Up Walker Boots_LM7510",
+  "style_no": "LM7510",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "shoehi",
+    "name": "슈하이",
+    "name_en": "SHOEHI"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103002",
+    "categoryDepth2Title": "부츠/워커",
+    "categoryDepth2Name": "부츠/워커",
+    "categoryDepth3Code": "103002007",
+    "categoryDepth3Title": "워커",
+    "categoryDepth3Name": "워커",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 159900,
+    "sale": 89900,
+    "discount_rate": 44,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240129/3830474/3830474_17071954104563_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240129/3830474/detail_3830474_17071954153745_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240129/3830474/detail_3830474_17071954188039_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240129/3830474/detail_3830474_17071954210660_500.jpg"
+  ],
+  "features": {
+    "굽 높이": [
+      "보통"
+    ],
+    "쿠션": [
+      "있음"
+    ],
+    "무게": [
+      "가벼움"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "255",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 25.5,
+          "발볼": 10.5,
+          "발목높이": 17.0,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 26.0,
+          "발볼": 10.5,
+          "발목높이": 17.0,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "265",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 26.5,
+          "발볼": 10.5,
+          "발목높이": 17.0,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 27.0,
+          "발볼": 10.5,
+          "발목높이": 17.0,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "275",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 27.5,
+          "발볼": 10.5,
+          "발목높이": 17.0,
+          "굽높이": 4.5
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 28.0,
+          "발볼": 10.5,
+          "발목높이": 17.0,
+          "굽높이": 4.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "BLACK",
+          "code": "BLACK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3830474/20250918173150_option_68cbc376f212e7.19594781.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "255",
+          "code": "255",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "265",
+          "code": "265",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "275",
+          "code": "275",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 16078735,
+      "managed_code": "BLACK^255",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "255"
+      ]
+    },
+    {
+      "id": 16078736,
+      "managed_code": "BLACK^260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "260"
+      ]
+    },
+    {
+      "id": 16078737,
+      "managed_code": "BLACK^265",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "265"
+      ]
+    },
+    {
+      "id": 16078738,
+      "managed_code": "BLACK^270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "270"
+      ]
+    },
+    {
+      "id": 16078739,
+      "managed_code": "BLACK^275",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "275"
+      ]
+    },
+    {
+      "id": 16078740,
+      "managed_code": "BLACK^280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 17
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

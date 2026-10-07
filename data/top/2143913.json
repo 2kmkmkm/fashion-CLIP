@@ -1,0 +1,205 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2143913",
+  "product_id": 2143913,
+  "name": "810 스탠다드핏 래더 아이콘 스웨트 셔츠 맨투맨 네이비",
+  "name_en": "",
+  "style_no": "KHR3UTMT810-DNV",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "kulte",
+    "name": "쿨트",
+    "name_en": "KULTE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001005",
+    "categoryDepth2Title": "맨투맨/스웨트",
+    "categoryDepth2Name": "맨투맨/스웨트",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2021,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 39000,
+    "sale": 11000,
+    "discount_rate": 72,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20210924/2143913/2143913_17248124033902_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210924/2143913/detail_2143913_17248124069159_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210924/2143913/detail_2143913_17248124083099_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210924/2143913/detail_2143913_17248124098020_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210924/2143913/detail_2143913_17248124122155_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210924/2143913/detail_2143913_17248124134198_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "95",
+        "sequence": 0,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 42.0,
+          "가슴단면": 51.0,
+          "소매길이": 62.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "100",
+        "sequence": 1,
+        "measurements": {
+          "총장": 68.5,
+          "어깨너비": 43.5,
+          "가슴단면": 52.5,
+          "소매길이": 63.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "105",
+        "sequence": 2,
+        "measurements": {
+          "총장": 71.0,
+          "어깨너비": 45.5,
+          "가슴단면": 54.5,
+          "소매길이": 64.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "110",
+        "sequence": 3,
+        "measurements": {
+          "총장": 73.5,
+          "어깨너비": 47.5,
+          "가슴단면": 56.0,
+          "소매길이": 65.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "95",
+          "code": "95",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "100",
+          "code": "100",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "105",
+          "code": "105",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "110",
+          "code": "110",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 8589297,
+      "managed_code": "100",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "100"
+      ]
+    },
+    {
+      "id": 8589298,
+      "managed_code": "105",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "105"
+      ]
+    },
+    {
+      "id": 8589299,
+      "managed_code": "110",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "110"
+      ]
+    },
+    {
+      "id": 8589300,
+      "managed_code": "95",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "95"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 20
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

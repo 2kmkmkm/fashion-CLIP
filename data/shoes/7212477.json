@@ -1,0 +1,193 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7212477",
+  "product_id": 7212477,
+  "name": "[로맨틱 무브xTNGT] Semi Square Toe Suede Chelsea Boots (Brown) TNSO6F101W2",
+  "name_en": "Semi Square Toe Suede Chelsea Boots (Brown) TNSO6F101W2",
+  "style_no": "TNSO6F101W2",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "tngt",
+    "name": "티엔지티",
+    "name_en": "TNGT"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103002",
+    "categoryDepth2Title": "부츠/워커",
+    "categoryDepth2Name": "부츠/워커",
+    "categoryDepth3Code": "103002001",
+    "categoryDepth3Title": "앵클/숏 부츠",
+    "categoryDepth3Name": "앵클/숏 부츠",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 209000,
+    "sale": 186010,
+    "discount_rate": 11,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260901/7212477/7212477_17896947362310_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260901/7212477/detail_7212477_17896947368691_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260901/7212477/detail_7212477_17896947370085_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260901/7212477/detail_7212477_17896947371530_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260901/7212477/detail_7212477_17896947373211_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260901/7212477/detail_7212477_17896947374696_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "250",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 28.0,
+          "발볼": 8.7,
+          "발목높이": 15.8,
+          "굽높이": 3.5
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 29.0,
+          "발볼": 9.0,
+          "발목높이": 16.0,
+          "굽높이": 3.5
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 30.0,
+          "발볼": 9.3,
+          "발목높이": 16.2,
+          "굽높이": 3.5
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 31.0,
+          "발볼": 9.6,
+          "발목높이": 16.4,
+          "굽높이": 3.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32857943,
+      "managed_code": "250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "250"
+      ]
+    },
+    {
+      "id": 32857944,
+      "managed_code": "260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "260"
+      ]
+    },
+    {
+      "id": 32857945,
+      "managed_code": "270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "270"
+      ]
+    },
+    {
+      "id": 32857946,
+      "managed_code": "280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 4
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

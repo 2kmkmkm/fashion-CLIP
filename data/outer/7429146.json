@@ -1,0 +1,180 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7429146",
+  "product_id": 7429146,
+  "name": "Heritage Crop Fur Hoodie Zip Up Gray",
+  "name_en": "Heritage Crop Fur Hoodie Zip Up Gray",
+  "style_no": "I26FWHZ002-GR",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "idontwannasell",
+    "name": "아이돈워너셀",
+    "name_en": "IDWS"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002022",
+    "categoryDepth2Title": "후드 집업",
+    "categoryDepth2Name": "후드 집업",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 129000,
+    "sale": 109650,
+    "discount_rate": 15,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260930/7429146/7429146_17909133064866_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260930/7429146/detail_7429146_17909133070813_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260930/7429146/detail_7429146_17909133072293_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260930/7429146/detail_7429146_17909133073646_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260930/7429146/detail_7429146_17909133074960_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260930/7429146/detail_7429146_17909133076417_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260930/7429146/detail_7429146_17909133077763_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260930/7429146/detail_7429146_17909133079216_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260930/7429146/detail_7429146_17909133080694_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260930/7429146/detail_7429146_17909133082020_500.jpg"
+  ],
+  "features": {
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "두꺼움"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "1",
+        "sequence": 0,
+        "measurements": {
+          "총장": 63.0,
+          "어깨너비": 55.0,
+          "가슴단면": 62.5,
+          "소매길이": 58.0,
+          "밑단단면": 46.5,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "2",
+        "sequence": 1,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 58.0,
+          "가슴단면": 66.0,
+          "소매길이": 60.5,
+          "밑단단면": 50.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "SIZE",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "1",
+          "code": "1",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2",
+          "code": "2",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 33547217,
+      "managed_code": "1",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "id": 33547218,
+      "managed_code": "2",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

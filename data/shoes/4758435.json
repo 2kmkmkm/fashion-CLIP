@@ -1,0 +1,263 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4758435",
+  "product_id": 4758435,
+  "name": "레티나 럭스 WHITE",
+  "name_en": "RETINA LUX",
+  "style_no": "K5163LCR12WHT",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "kodak",
+    "name": "코닥",
+    "name_en": "KODAK"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103004",
+    "categoryDepth2Title": "스니커즈",
+    "categoryDepth2Name": "스니커즈",
+    "categoryDepth3Code": "103004004",
+    "categoryDepth3Title": "패션스니커즈화",
+    "categoryDepth3Name": "패션스니커즈화",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 139000,
+    "sale": 59000,
+    "discount_rate": 58,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250205/4758435/4758435_17387125367149_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250205/4758435/detail_4758435_17387125373894_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250205/4758435/detail_4758435_17387125375842_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "스니커즈",
+    "type_number": 54,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711445100000068699.png",
+    "measurements": [
+      {
+        "size": "220",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 22.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "230",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 23.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "240",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 24.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "250",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 25.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 26.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 27.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 6,
+        "measurements": {
+          "발길이": 28.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "220",
+          "code": "220",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "230",
+          "code": "230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "240",
+          "code": "240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 21710455,
+      "managed_code": "220",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "220"
+      ]
+    },
+    {
+      "id": 21710456,
+      "managed_code": "230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "230"
+      ]
+    },
+    {
+      "id": 21710457,
+      "managed_code": "240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "240"
+      ]
+    },
+    {
+      "id": 21710458,
+      "managed_code": "250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "250"
+      ]
+    },
+    {
+      "id": 21710459,
+      "managed_code": "260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "260"
+      ]
+    },
+    {
+      "id": 21710460,
+      "managed_code": "270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "270"
+      ]
+    },
+    {
+      "id": 21710461,
+      "managed_code": "280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 11
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

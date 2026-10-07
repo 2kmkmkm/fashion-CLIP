@@ -1,0 +1,238 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3086656",
+  "product_id": 3086656,
+  "name": "오버핏 플랩 포켓 셔츠 자켓 베이지",
+  "name_en": "오버핏 플랩 포켓 셔츠 자켓 베이지",
+  "style_no": "CO2301SH10BE",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "covernat",
+    "name": "커버낫",
+    "name_en": "COVERNAT"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002015",
+    "categoryDepth2Title": "기타 아우터",
+    "categoryDepth2Name": "기타 아우터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2023,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 99000,
+    "sale": 19800,
+    "discount_rate": 80,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230215/3086656/3086656_16787627864335_500.png",
+    "https://image.msscdn.net/images/prd_img/20230215/3086656/detail_3086656_16787708102025_500.png",
+    "https://image.msscdn.net/images/prd_img/20230215/3086656/detail_3086656_16765143540947_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086656/detail_3086656_16765143551004_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086656/detail_3086656_16765143562794_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086656/detail_3086656_16765143577481_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086656/detail_3086656_16765143593673_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086656/detail_3086656_16765143611311_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086656/detail_3086656_16765143630948_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230215/3086656/detail_3086656_16765143655061_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 74.5,
+          "어깨너비": 47.5,
+          "가슴단면": 61.0,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 76.5,
+          "어깨너비": 49.0,
+          "가슴단면": 63.5,
+          "소매길이": 63.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 78.5,
+          "어깨너비": 50.5,
+          "가슴단면": 66.0,
+          "소매길이": 64.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 80.5,
+          "어깨너비": 52.0,
+          "가슴단면": 68.5,
+          "소매길이": 65.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XXL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 83.0,
+          "어깨너비": 53.5,
+          "가슴단면": 71.0,
+          "소매길이": 66.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 12869181,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 12869182,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 12869183,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 12869184,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 12869185,
+      "managed_code": "XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XXL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 19
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

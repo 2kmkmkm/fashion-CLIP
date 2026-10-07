@@ -1,0 +1,442 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2942949",
+  "product_id": 2942949,
+  "name": "데일리 울100 워셔블 니트 - 7 COLOR",
+  "name_en": "",
+  "style_no": "SBBAWLKN251",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "suare",
+    "name": "수아레",
+    "name_en": "SUARE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001006",
+    "categoryDepth2Title": "니트/스웨터",
+    "categoryDepth2Name": "니트/스웨터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2022,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 99000,
+    "sale": 30000,
+    "discount_rate": 70,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20221115/2942949/2942949_17169671340137_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221115/2942949/detail_2942949_17169671183888_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221115/2942949/detail_2942949_1_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221115/2942949/detail_2942949_2_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221115/2942949/detail_2942949_3_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221115/2942949/detail_2942949_4_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221115/2942949/detail_2942949_5_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221115/2942949/detail_2942949_6_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221115/2942949/detail_2942949_7_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221115/2942949/detail_2942949_12_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221115/2942949/detail_2942949_9_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221115/2942949/detail_2942949_10_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221115/2942949/detail_2942949_11_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 63.0,
+          "어깨너비": 42.0,
+          "가슴단면": 50.0,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 48.0,
+          "가슴단면": 55.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 50.0,
+          "가슴단면": 57.0,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 52.0,
+          "가슴단면": 59.0,
+          "소매길이": 64.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "네이비",
+          "code": "네이비",
+          "image_url": "",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "아이보리",
+          "code": "아이보리",
+          "image_url": "",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "엠그레이",
+          "code": "엠그레이",
+          "image_url": "",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "브라운",
+          "code": "브라운",
+          "image_url": "",
+          "color": {
+            "colorCode": "4",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "베이지",
+          "code": "베이지",
+          "image_url": "",
+          "color": {
+            "colorCode": "5",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "카키",
+          "code": "카키",
+          "image_url": "",
+          "color": {
+            "colorCode": "30",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 12133837,
+      "managed_code": "네이비^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "S"
+      ]
+    },
+    {
+      "id": 12133839,
+      "managed_code": "베이지^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "L"
+      ]
+    },
+    {
+      "id": 12133840,
+      "managed_code": "베이지^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "M"
+      ]
+    },
+    {
+      "id": 12133841,
+      "managed_code": "베이지^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "S"
+      ]
+    },
+    {
+      "id": 12133842,
+      "managed_code": "베이지^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "XL"
+      ]
+    },
+    {
+      "id": 12133845,
+      "managed_code": "브라운^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "S"
+      ]
+    },
+    {
+      "id": 12133846,
+      "managed_code": "브라운^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "XL"
+      ]
+    },
+    {
+      "id": 12133847,
+      "managed_code": "블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 12133849,
+      "managed_code": "블랙^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "S"
+      ]
+    },
+    {
+      "id": 12133853,
+      "managed_code": "아이보리^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아이보리",
+        "S"
+      ]
+    },
+    {
+      "id": 12133855,
+      "managed_code": "엠그레이^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "엠그레이",
+        "L"
+      ]
+    },
+    {
+      "id": 12133856,
+      "managed_code": "엠그레이^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "엠그레이",
+        "M"
+      ]
+    },
+    {
+      "id": 12133857,
+      "managed_code": "엠그레이^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "엠그레이",
+        "S"
+      ]
+    },
+    {
+      "id": 12133858,
+      "managed_code": "엠그레이^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "엠그레이",
+        "XL"
+      ]
+    },
+    {
+      "id": 12133859,
+      "managed_code": "카키^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "L"
+      ]
+    },
+    {
+      "id": 12133861,
+      "managed_code": "카키^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "S"
+      ]
+    },
+    {
+      "id": 12133862,
+      "managed_code": "카키^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1817
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

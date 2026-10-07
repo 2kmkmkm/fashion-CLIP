@@ -1,0 +1,265 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5327240",
+  "product_id": 5327240,
+  "name": "와플 헨리넥 롱 슬리브 브라운",
+  "name_en": "Waffle Henley Neck Long Sleeve Brown",
+  "style_no": "SA263ULS04BRN0",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "satur",
+    "name": "세터",
+    "name_en": "SATUR"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001010",
+    "categoryDepth2Title": "긴소매 티셔츠",
+    "categoryDepth2Name": "긴소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을"
+    ],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 89000,
+    "sale": 89000,
+    "discount_rate": 0,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250814/5327240/5327240_17878805116072_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5327240/detail_5327240_17878805213278_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5327240/detail_5327240_17878805255574_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5327240/detail_5327240_17878805288842_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5327240/detail_5327240_17878805320574_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5327240/detail_5327240_17878805516664_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5327240/detail_5327240_17872292403590_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5327240/detail_5327240_17893696473958_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5327240/detail_5327240_17893696475744_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5327240/detail_5327240_17872292488244_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250814/5327240/detail_5327240_17872292510321_500.jpg"
+  ],
+  "features": {
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "보통"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "XS",
+        "sequence": 0,
+        "measurements": {
+          "총장": 60.0,
+          "어깨너비": 46.5,
+          "가슴단면": 49.5,
+          "소매길이": 54.0,
+          "밑단단면": 49.5,
+          "소매부리단면": 0.0,
+          "암홀": 21.5
+        }
+      },
+      {
+        "size": "S",
+        "sequence": 1,
+        "measurements": {
+          "총장": 63.0,
+          "어깨너비": 48.5,
+          "가슴단면": 52.0,
+          "소매길이": 56.0,
+          "밑단단면": 52.0,
+          "소매부리단면": 0.0,
+          "암홀": 22.5
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 2,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 50.5,
+          "가슴단면": 54.5,
+          "소매길이": 58.0,
+          "밑단단면": 54.5,
+          "소매부리단면": 0.0,
+          "암홀": 23.5
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 3,
+        "measurements": {
+          "총장": 69.0,
+          "어깨너비": 52.5,
+          "가슴단면": 57.0,
+          "소매길이": 60.0,
+          "밑단단면": 57.0,
+          "소매부리단면": 0.0,
+          "암홀": 24.5
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 71.0,
+          "어깨너비": 54.5,
+          "가슴단면": 59.5,
+          "소매길이": 61.0,
+          "밑단단면": 59.5,
+          "소매부리단면": 0.0,
+          "암홀": 25.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "XS",
+          "code": "XS",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL",
+          "code": "2XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25575675,
+      "managed_code": "XS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XS"
+      ]
+    },
+    {
+      "id": 25575676,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 25575677,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 25575678,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 25575679,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 22
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

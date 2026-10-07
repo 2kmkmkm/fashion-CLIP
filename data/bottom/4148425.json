@@ -1,0 +1,378 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4148425",
+  "product_id": 4148425,
+  "name": "마드리드 폴리 나일론 와이드 팬츠 남녀공용 (5컬러)",
+  "name_en": "MADRID POLY WIDE PANTS (5Color)",
+  "style_no": "P00000KO",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "mucent",
+    "name": "무센트",
+    "name_en": "MUCENT"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름"
+    ],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": null,
+      "source": "inferred_from_season_tags"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 49900,
+    "sale": 29900,
+    "discount_rate": 40,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240522/4148425/4148425_17212811511365_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240522/4148425/detail_4148425_17459968509196_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240522/4148425/detail_4148425_17212811593025_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240522/4148425/detail_4148425_17163625962770_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240522/4148425/detail_4148425_17163625972182_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240522/4148425/detail_4148425_17163625984479_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240522/4148425/detail_4148425_17163625998139_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240522/4148425/detail_4148425_17163626018585_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240522/4148425/detail_4148425_17163626032902_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240522/4148425/detail_4148425_17163626046690_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240522/4148425/detail_4148425_17479823660043_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240522/4148425/detail_4148425_17479823669156_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "약간 얇음"
+    ],
+    "계절": [
+      "봄",
+      "여름"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "여성용 (밴딩 - S)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 98.0,
+          "허리단면": 30.0,
+          "엉덩이단면": 53.0,
+          "허벅지단면": 32.0,
+          "밑위": 32.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "남녀공용 (밴딩 - L)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 102.0,
+          "허리단면": 32.0,
+          "엉덩이단면": 54.0,
+          "허벅지단면": 33.0,
+          "밑위": 33.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "남성용 (밴딩 - 1)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 34.0,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 34.0,
+          "밑위": 34.0,
+          "밑단단면": 25.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "Purple",
+          "code": "Purple",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4148425/20251125165931_option_692561e3896cf1.11366692.",
+          "color": {
+            "colorCode": "8",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "Blue",
+          "code": "Blue",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4148425/20251125170202_option_6925627a48fa99.18789736.",
+          "color": {
+            "colorCode": "7",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "Charcoal",
+          "code": "Charcoal",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4148425/20251125165939_option_692561ebd0ef49.98067262.",
+          "color": {
+            "colorCode": "25",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "Black",
+          "code": "Black",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4148425/20251125170206_option_6925627e108df5.93391748.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "Ivory",
+          "code": "Ivory",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4148425/20251125170208_option_69256280138ae9.57856737.",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "여성용 (밴딩 - S)",
+          "code": "여성용 (밴딩 - S)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "남녀공용 (밴딩 - L)",
+          "code": "남녀공용 (밴딩 - L)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "남성용 (밴딩 - 1)",
+          "code": "남성용 (밴딩 - 1)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 17500256,
+      "managed_code": "Black^남녀공용 (밴딩 - L)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Black",
+        "남녀공용 (밴딩 - L)"
+      ]
+    },
+    {
+      "id": 17500257,
+      "managed_code": "Black^남성용 (밴딩 - 1)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Black",
+        "남성용 (밴딩 - 1)"
+      ]
+    },
+    {
+      "id": 17500258,
+      "managed_code": "Black^여성용 (밴딩 - S)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Black",
+        "여성용 (밴딩 - S)"
+      ]
+    },
+    {
+      "id": 17500259,
+      "managed_code": "Blue^남녀공용 (밴딩 - L)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Blue",
+        "남녀공용 (밴딩 - L)"
+      ]
+    },
+    {
+      "id": 17500260,
+      "managed_code": "Blue^남성용 (밴딩 - 1)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Blue",
+        "남성용 (밴딩 - 1)"
+      ]
+    },
+    {
+      "id": 17500261,
+      "managed_code": "Blue^여성용 (밴딩 - S)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Blue",
+        "여성용 (밴딩 - S)"
+      ]
+    },
+    {
+      "id": 17500262,
+      "managed_code": "Charcoal^남녀공용 (밴딩 - L)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Charcoal",
+        "남녀공용 (밴딩 - L)"
+      ]
+    },
+    {
+      "id": 17500263,
+      "managed_code": "Charcoal^남성용 (밴딩 - 1)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Charcoal",
+        "남성용 (밴딩 - 1)"
+      ]
+    },
+    {
+      "id": 17500264,
+      "managed_code": "Charcoal^여성용 (밴딩 - S)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Charcoal",
+        "여성용 (밴딩 - S)"
+      ]
+    },
+    {
+      "id": 17500265,
+      "managed_code": "Purple^남녀공용 (밴딩 - L)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Purple",
+        "남녀공용 (밴딩 - L)"
+      ]
+    },
+    {
+      "id": 17500266,
+      "managed_code": "Purple^남성용 (밴딩 - 1)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Purple",
+        "남성용 (밴딩 - 1)"
+      ]
+    },
+    {
+      "id": 17500267,
+      "managed_code": "Purple^여성용 (밴딩 - S)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Purple",
+        "여성용 (밴딩 - S)"
+      ]
+    },
+    {
+      "id": 24068361,
+      "managed_code": "Ivory^여성용 (밴딩 - S)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Ivory",
+        "여성용 (밴딩 - S)"
+      ]
+    },
+    {
+      "id": 24068362,
+      "managed_code": "Ivory^남녀공용 (밴딩 - L)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Ivory",
+        "남녀공용 (밴딩 - L)"
+      ]
+    },
+    {
+      "id": 24068363,
+      "managed_code": "Ivory^남성용 (밴딩 - 1)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Ivory",
+        "남성용 (밴딩 - 1)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.6,
+    "count": 1477
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

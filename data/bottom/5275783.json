@@ -1,0 +1,357 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5275783",
+  "product_id": 5275783,
+  "name": "체크 롤 업 니 다트 와이드 코튼 팬츠_3color",
+  "name_en": "CHECK ROLL UP KNEE DART COTTON PANTS_3color",
+  "style_no": "TRFPT54",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "trillion",
+    "name": "트릴리온",
+    "name_en": "TRILLION"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2025,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 54000,
+    "sale": 25390,
+    "discount_rate": 53,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250728/5275783/5275783_17545511447995_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442403936_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442411998_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442419932_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442491220_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442498753_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442547242_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442555136_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442563772_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442571060_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442579797_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442587552_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442594586_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442602669_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442609531_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442616749_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442624705_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250728/5275783/detail_5275783_17545442633428_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 37.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 34.0,
+          "밑위": 30.0,
+          "밑단단면": 30.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 109.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 36.0,
+          "밑위": 31.0,
+          "밑단단면": 31.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 111.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 38.0,
+          "밑위": 32.0,
+          "밑단단면": 32.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 113.0,
+          "허리단면": 43.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 40.0,
+          "밑위": 33.0,
+          "밑단단면": 33.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "네이비",
+          "code": "네이비",
+          "image_url": "",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "차콜",
+          "code": "차콜",
+          "image_url": "",
+          "color": {
+            "colorCode": "25",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25427462,
+      "managed_code": "블랙^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "S"
+      ]
+    },
+    {
+      "id": 25427463,
+      "managed_code": "블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 25427464,
+      "managed_code": "블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 25427465,
+      "managed_code": "블랙^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "XL"
+      ]
+    },
+    {
+      "id": 25427466,
+      "managed_code": "네이비^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "S"
+      ]
+    },
+    {
+      "id": 25427467,
+      "managed_code": "네이비^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "M"
+      ]
+    },
+    {
+      "id": 25427468,
+      "managed_code": "네이비^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "L"
+      ]
+    },
+    {
+      "id": 25427469,
+      "managed_code": "네이비^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "XL"
+      ]
+    },
+    {
+      "id": 25427470,
+      "managed_code": "차콜^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "차콜",
+        "S"
+      ]
+    },
+    {
+      "id": 25427471,
+      "managed_code": "차콜^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "차콜",
+        "M"
+      ]
+    },
+    {
+      "id": 25427472,
+      "managed_code": "차콜^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "차콜",
+        "L"
+      ]
+    },
+    {
+      "id": 25427473,
+      "managed_code": "차콜^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "차콜",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 70
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/6552455",
+  "product_id": 6552455,
+  "name": "HL-01-Black",
+  "name_en": "HL-01-Black",
+  "style_no": "HL-01-Black",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "yeezy",
+    "name": "이지",
+    "name_en": "YEEZY"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103001",
+    "categoryDepth2Title": "구두",
+    "categoryDepth2Name": "구두",
+    "categoryDepth3Code": "103001006",
+    "categoryDepth3Title": "기타 구두",
+    "categoryDepth3Name": "기타 구두",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": 2026,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 132000,
+    "sale": 132000,
+    "discount_rate": 0,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260527/6552455/6552455_17802986442587_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260527/6552455/detail_6552455_17802986489103_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260527/6552455/detail_6552455_17802986529931_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260527/6552455/detail_6552455_17802986562487_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260527/6552455/detail_6552455_17802986593158_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260527/6552455/detail_6552455_17802986638383_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "4(220)",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 22.0,
+          "발볼": 5.5,
+          "발목높이": 6.5,
+          "굽높이": 7.5
+        }
+      },
+      {
+        "size": "5(230)",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 23.0,
+          "발볼": 6.0,
+          "발목높이": 7.0,
+          "굽높이": 8.0
+        }
+      },
+      {
+        "size": "6(240)",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 24.0,
+          "발볼": 6.5,
+          "발목높이": 7.5,
+          "굽높이": 8.5
+        }
+      },
+      {
+        "size": "7(250)",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 25.0,
+          "발볼": 7.0,
+          "발목높이": 8.0,
+          "굽높이": 9.0
+        }
+      },
+      {
+        "size": "8(260)",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 26.0,
+          "발볼": 7.5,
+          "발목높이": 8.5,
+          "굽높이": 9.5
+        }
+      },
+      {
+        "size": "9(270)",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 27.0,
+          "발볼": 8.0,
+          "발목높이": 9.0,
+          "굽높이": 10.0
+        }
+      },
+      {
+        "size": "10(280)",
+        "sequence": 6,
+        "measurements": {
+          "발길이": 28.0,
+          "발볼": 8.5,
+          "발목높이": 9.5,
+          "굽높이": 10.5
+        }
+      },
+      {
+        "size": "11(290)",
+        "sequence": 7,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      },
+      {
+        "size": "12(300)",
+        "sequence": 8,
+        "measurements": {
+          "발길이": 0.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "4(220)",
+          "code": "4(220)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "5(230)",
+          "code": "5(230)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "6(240)",
+          "code": "6(240)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "7(250)",
+          "code": "7(250)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "8(260)",
+          "code": "8(260)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "9(270)",
+          "code": "9(270)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "10(280)",
+          "code": "10(280)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "11(290)",
+          "code": "11(290)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "12(300)",
+          "code": "12(300)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 31095301,
+      "managed_code": "4(220)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4(220)"
+      ]
+    },
+    {
+      "id": 31095302,
+      "managed_code": "5(230)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "5(230)"
+      ]
+    },
+    {
+      "id": 31095303,
+      "managed_code": "6(240)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "6(240)"
+      ]
+    },
+    {
+      "id": 31095304,
+      "managed_code": "7(250)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "7(250)"
+      ]
+    },
+    {
+      "id": 31095305,
+      "managed_code": "8(260)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "8(260)"
+      ]
+    },
+    {
+      "id": 31095306,
+      "managed_code": "9(270)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "9(270)"
+      ]
+    },
+    {
+      "id": 31095307,
+      "managed_code": "10(280)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "10(280)"
+      ]
+    },
+    {
+      "id": 31095308,
+      "managed_code": "11(290)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "11(290)"
+      ]
+    },
+    {
+      "id": 31095309,
+      "managed_code": "12(300)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "12(300)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 1
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4827829",
+  "product_id": 4827829,
+  "name": "MLB 뉴욕 양키스 나일론 메탈 언스트럭쳐 볼캡 네이비",
+  "name_en": "940UNST METAL NYLON NEYYAN NVY",
+  "style_no": "14561848",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "newera",
+    "name": "뉴에라",
+    "name_en": "NEW ERA"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 46000,
+    "sale": 43700,
+    "discount_rate": 5,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250225/4827829/4827829_17405319768048_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250225/4827829/detail_4827829_17405319827253_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250225/4827829/detail_4827829_17405319838312_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250225/4827829/detail_4827829_17405319847046_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250225/4827829/detail_4827829_17405319856274_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250225/4827829/detail_4827829_17405319865910_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250225/4827829/detail_4827829_17405319875164_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250225/4827829/detail_4827829_17588665311970_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "OSFM",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 61.0,
+          "챙길이": 7.0,
+          "깊이": 15.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "OSFM",
+          "code": "OSFM",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 22050542,
+      "managed_code": "OSFM",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OSFM"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 268
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

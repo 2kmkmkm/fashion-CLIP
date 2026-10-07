@@ -1,0 +1,810 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2092852",
+  "product_id": 2092852,
+  "name": "이지 와이드 데님 팬츠 그레이",
+  "name_en": "Washing wide denim pants",
+  "style_no": "21FLGP20GR",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "goodlifeworks",
+    "name": "굿라이프웍스",
+    "name_en": "GLW"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003002",
+    "categoryDepth2Title": "데님 팬츠",
+    "categoryDepth2Name": "데님 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 49800,
+    "sale": 32370,
+    "discount_rate": 35,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20210826/2092852/2092852_17086532214128_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210826/2092852/detail_2092852_17661143702473_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210826/2092852/detail_2092852_17661143783921_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210826/2092852/detail_2092852_17661143847422_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210826/2092852/detail_2092852_17659431045881_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210826/2092852/detail_2092852_17659431118438_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210826/2092852/detail_2092852_17659431182957_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210826/2092852/detail_2092852_17659431243549_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "거의 없음",
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "XXS",
+        "sequence": 0,
+        "measurements": {
+          "총장": 99.5,
+          "허리단면": 32.5,
+          "엉덩이단면": 50.0,
+          "허벅지단면": 33.0,
+          "밑위": 30.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "XS",
+        "sequence": 1,
+        "measurements": {
+          "총장": 101.0,
+          "허리단면": 35.0,
+          "엉덩이단면": 52.0,
+          "허벅지단면": 34.0,
+          "밑위": 31.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "S",
+        "sequence": 2,
+        "measurements": {
+          "총장": 102.5,
+          "허리단면": 37.5,
+          "엉덩이단면": 54.0,
+          "허벅지단면": 35.0,
+          "밑위": 32.0,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 3,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 56.0,
+          "허벅지단면": 36.0,
+          "밑위": 33.0,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 4,
+        "measurements": {
+          "총장": 105.5,
+          "허리단면": 42.5,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 37.0,
+          "밑위": 34.0,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 5,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 45.0,
+          "엉덩이단면": 60.0,
+          "허벅지단면": 38.0,
+          "밑위": 35.0,
+          "밑단단면": 29.0
+        }
+      },
+      {
+        "size": "XXS( 기모)",
+        "sequence": 6,
+        "measurements": {
+          "총장": 99.5,
+          "허리단면": 32.5,
+          "엉덩이단면": 50.0,
+          "허벅지단면": 33.0,
+          "밑위": 30.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "XS( 기모)",
+        "sequence": 7,
+        "measurements": {
+          "총장": 101.0,
+          "허리단면": 35.0,
+          "엉덩이단면": 52.0,
+          "허벅지단면": 34.0,
+          "밑위": 31.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "S( 기모)",
+        "sequence": 8,
+        "measurements": {
+          "총장": 102.5,
+          "허리단면": 37.5,
+          "엉덩이단면": 54.0,
+          "허벅지단면": 35.0,
+          "밑위": 32.0,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "M( 기모)",
+        "sequence": 9,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 56.0,
+          "허벅지단면": 36.0,
+          "밑위": 33.0,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "L( 기모)",
+        "sequence": 10,
+        "measurements": {
+          "총장": 105.5,
+          "허리단면": 42.5,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 37.0,
+          "밑위": 34.0,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "XL( 기모)",
+        "sequence": 11,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 45.0,
+          "엉덩이단면": 60.0,
+          "허벅지단면": 38.0,
+          "밑위": 35.0,
+          "밑단단면": 29.0
+        }
+      },
+      {
+        "size": "XXS(여름원단)",
+        "sequence": 12,
+        "measurements": {
+          "총장": 99.5,
+          "허리단면": 32.5,
+          "엉덩이단면": 50.0,
+          "허벅지단면": 33.0,
+          "밑위": 30.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "XS(여름원단)",
+        "sequence": 13,
+        "measurements": {
+          "총장": 101.0,
+          "허리단면": 35.0,
+          "엉덩이단면": 52.0,
+          "허벅지단면": 34.0,
+          "밑위": 31.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "S(여름원단)",
+        "sequence": 14,
+        "measurements": {
+          "총장": 102.5,
+          "허리단면": 37.5,
+          "엉덩이단면": 54.0,
+          "허벅지단면": 35.0,
+          "밑위": 32.0,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "M(여름원단)",
+        "sequence": 15,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 56.0,
+          "허벅지단면": 36.0,
+          "밑위": 33.0,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "L(여름원단)",
+        "sequence": 16,
+        "measurements": {
+          "총장": 105.5,
+          "허리단면": 42.5,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 37.0,
+          "밑위": 34.0,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "XL(여름원단)",
+        "sequence": 17,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 45.0,
+          "엉덩이단면": 60.0,
+          "허벅지단면": 38.0,
+          "밑위": 35.0,
+          "밑단단면": 29.0
+        }
+      },
+      {
+        "size": "XXS(여름버전)",
+        "sequence": 24,
+        "measurements": {
+          "총장": 99.5,
+          "허리단면": 32.5,
+          "엉덩이단면": 50.0,
+          "허벅지단면": 33.0,
+          "밑위": 30.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "XS(여름버전)",
+        "sequence": 25,
+        "measurements": {
+          "총장": 101.0,
+          "허리단면": 35.0,
+          "엉덩이단면": 52.0,
+          "허벅지단면": 34.0,
+          "밑위": 31.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "S(여름버전)",
+        "sequence": 26,
+        "measurements": {
+          "총장": 102.5,
+          "허리단면": 37.5,
+          "엉덩이단면": 54.0,
+          "허벅지단면": 35.0,
+          "밑위": 32.0,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "M(여름버전)",
+        "sequence": 27,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 56.0,
+          "허벅지단면": 36.0,
+          "밑위": 33.0,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "L(여름버전)",
+        "sequence": 28,
+        "measurements": {
+          "총장": 105.5,
+          "허리단면": 42.5,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 37.0,
+          "밑위": 34.0,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "XL(여름버전)",
+        "sequence": 29,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 45.0,
+          "엉덩이단면": 60.0,
+          "허벅지단면": 38.0,
+          "밑위": 35.0,
+          "밑단단면": 29.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "XXS",
+          "code": "XXS",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XS",
+          "code": "XS",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXS( 기모)",
+          "code": "XXS( 기모)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XS( 기모)",
+          "code": "XS( 기모)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S( 기모)",
+          "code": "S( 기모)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M( 기모)",
+          "code": "M( 기모)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L( 기모)",
+          "code": "L( 기모)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL( 기모)",
+          "code": "XL( 기모)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXS(여름원단)",
+          "code": "XXS(여름원단)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XS(여름원단)",
+          "code": "XS(여름원단)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S(여름원단)",
+          "code": "S(여름원단)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(여름원단)",
+          "code": "M(여름원단)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(여름원단)",
+          "code": "L(여름원단)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(여름원단)",
+          "code": "XL(여름원단)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXS(린넨버전)",
+          "code": "XXS(린넨버전)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XS(린넨버전)",
+          "code": "XS(린넨버전)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S(린넨버전)",
+          "code": "S(린넨버전)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(린넨버전)",
+          "code": "L(린넨버전)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(린넨버전)",
+          "code": "M(린넨버전)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(린넨버전)",
+          "code": "XL(린넨버전)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXS(여름버전)",
+          "code": "XXS(여름버전)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XS(여름버전)",
+          "code": "XS(여름버전)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S(여름버전)",
+          "code": "S(여름버전)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(여름버전)",
+          "code": "M(여름버전)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(여름버전)",
+          "code": "L(여름버전)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(여름버전)",
+          "code": "XL(여름버전)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 8311310,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 8311311,
+      "managed_code": "L( 기모)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L( 기모)"
+      ]
+    },
+    {
+      "id": 8311313,
+      "managed_code": "L(여름버전)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L(여름버전)"
+      ]
+    },
+    {
+      "id": 8311314,
+      "managed_code": "L(여름원단)",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "L(여름원단)"
+      ]
+    },
+    {
+      "id": 8311315,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 8311316,
+      "managed_code": "M( 기모)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M( 기모)"
+      ]
+    },
+    {
+      "id": 8311318,
+      "managed_code": "M(여름버전)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M(여름버전)"
+      ]
+    },
+    {
+      "id": 8311319,
+      "managed_code": "M(여름원단)",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "M(여름원단)"
+      ]
+    },
+    {
+      "id": 8311320,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 8311321,
+      "managed_code": "S( 기모)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S( 기모)"
+      ]
+    },
+    {
+      "id": 8311323,
+      "managed_code": "S(여름버전)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S(여름버전)"
+      ]
+    },
+    {
+      "id": 8311324,
+      "managed_code": "S(여름원단)",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "S(여름원단)"
+      ]
+    },
+    {
+      "id": 8311325,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 8311326,
+      "managed_code": "XL( 기모)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL( 기모)"
+      ]
+    },
+    {
+      "id": 8311328,
+      "managed_code": "XL(여름버전)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL(여름버전)"
+      ]
+    },
+    {
+      "id": 8311329,
+      "managed_code": "XL(여름원단)",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "XL(여름원단)"
+      ]
+    },
+    {
+      "id": 8311330,
+      "managed_code": "XS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XS"
+      ]
+    },
+    {
+      "id": 8311331,
+      "managed_code": "XS( 기모)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XS( 기모)"
+      ]
+    },
+    {
+      "id": 8311333,
+      "managed_code": "XS(여름버전)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XS(여름버전)"
+      ]
+    },
+    {
+      "id": 8311334,
+      "managed_code": "XS(여름원단)",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "XS(여름원단)"
+      ]
+    },
+    {
+      "id": 8311335,
+      "managed_code": "XXS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XXS"
+      ]
+    },
+    {
+      "id": 8311336,
+      "managed_code": "XXS( 기모)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XXS( 기모)"
+      ]
+    },
+    {
+      "id": 8311338,
+      "managed_code": "XXS(여름버전)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XXS(여름버전)"
+      ]
+    },
+    {
+      "id": 8311339,
+      "managed_code": "XXS(여름원단)",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "XXS(여름원단)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 33536
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

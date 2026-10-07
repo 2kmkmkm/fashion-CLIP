@@ -1,0 +1,244 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3823870",
+  "product_id": 3823870,
+  "name": "더블니 워크 팬츠_베이지",
+  "name_en": "DOUBLE KNEE WORK PANTS_BEIGE",
+  "style_no": "DBD1DP01BE",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "dimitriblack",
+    "name": "디미트리블랙",
+    "name_en": "DIMITRI BLACK"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": null,
+      "year": 2025,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 29900,
+    "discount_rate": 39,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240125/3823870/3823870_17171339061559_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240125/3823870/detail_3823870_17522140628408_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240125/3823870/detail_3823870_17522140671892_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240125/3823870/detail_3823870_17072748054364_500.png",
+    "https://image.msscdn.net/images/prd_img/20240125/3823870/detail_3823870_17072748076989_500.png",
+    "https://image.msscdn.net/images/prd_img/20240125/3823870/detail_3823870_17072748111174_500.png",
+    "https://image.msscdn.net/images/prd_img/20240125/3823870/detail_3823870_17072748137516_500.png",
+    "https://image.msscdn.net/images/prd_img/20240125/3823870/detail_3823870_17072748168984_500.png",
+    "https://image.msscdn.net/images/prd_img/20240125/3823870/detail_3823870_17072748214184_500.png",
+    "https://image.msscdn.net/images/prd_img/20240125/3823870/detail_3823870_17072748326140_500.png",
+    "https://image.msscdn.net/images/prd_img/20240125/3823870/detail_3823870_17072748343929_500.png",
+    "https://image.msscdn.net/images/prd_img/20240125/3823870/detail_3823870_17072748368366_500.png",
+    "https://image.msscdn.net/images/prd_img/20240125/3823870/detail_3823870_17072748400729_500.png"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "0 (S)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 33.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 35.4,
+          "밑위": 30.6,
+          "밑단단면": 25.5
+        }
+      },
+      {
+        "size": "1 (M)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 105.5,
+          "허리단면": 35.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 36.7,
+          "밑위": 31.3,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "2 (L)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 38.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 38.0,
+          "밑위": 32.0,
+          "밑단단면": 26.5
+        }
+      },
+      {
+        "size": "3 (XL)",
+        "sequence": 3,
+        "measurements": {
+          "총장": 108.5,
+          "허리단면": 40.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 39.3,
+          "밑위": 32.7,
+          "밑단단면": 27.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "0 (S)",
+          "code": "0 (S)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "1 (M)",
+          "code": "1 (M)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2 (L)",
+          "code": "2 (L)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "3 (XL)",
+          "code": "3 (XL)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "4 (2XL)",
+          "code": "4 (2XL)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 16047324,
+      "managed_code": "1 (M)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1 (M)"
+      ]
+    },
+    {
+      "id": 16047325,
+      "managed_code": "2 (L)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2 (L)"
+      ]
+    },
+    {
+      "id": 16047326,
+      "managed_code": "3 (XL)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "3 (XL)"
+      ]
+    },
+    {
+      "id": 19514813,
+      "managed_code": "0 (S)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "0 (S)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 807
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

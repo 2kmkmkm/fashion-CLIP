@@ -1,0 +1,340 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4536559",
+  "product_id": 4536559,
+  "name": "원턱 와이드 코듀로이 밴딩 팬츠 3Color",
+  "name_en": "One Tuck Wide Corduroy Banding Pants 3 Colors",
+  "style_no": "MUN035",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "untapped",
+    "name": "언탭트 스튜디오",
+    "name_en": "UNTAPPED STUDIO"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 42400,
+    "sale": 29680,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241019/4536559/4536559_17295088864882_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241019/4536559/detail_4536559_17295088987613_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241019/4536559/detail_4536559_17295088994648_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241019/4536559/detail_4536559_17295089001307_500.jpg"
+  ],
+  "features": {
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "M(28-30)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 104.5,
+          "허리단면": 37.0,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 34.0,
+          "밑위": 35.0,
+          "밑단단면": 25.5
+        }
+      },
+      {
+        "size": "L(31-33)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 105.5,
+          "허리단면": 39.0,
+          "엉덩이단면": 60.0,
+          "허벅지단면": 35.0,
+          "밑위": 36.0,
+          "밑단단면": 26.5
+        }
+      },
+      {
+        "size": "XL(34-35)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 106.5,
+          "허리단면": 41.0,
+          "엉덩이단면": 62.0,
+          "허벅지단면": 36.0,
+          "밑위": 37.0,
+          "밑단단면": 27.5
+        }
+      },
+      {
+        "size": "2XL(36-38)",
+        "sequence": 3,
+        "measurements": {
+          "총장": 107.5,
+          "허리단면": 43.0,
+          "엉덩이단면": 64.0,
+          "허벅지단면": 37.0,
+          "밑위": 38.0,
+          "밑단단면": 28.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/21/6104fd90cfe94e8b98af8fd4755759da.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "크림",
+          "code": "크림",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/21/ed53f62a6b774bdb9be4a6a5a6d0ffe6.jpg",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "브라운",
+          "code": "브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/21/35bc4596ac9f4bdba29e0ac91f75af31.jpg",
+          "color": {
+            "colorCode": "4",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M(28-30)",
+          "code": "M(28-30)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(31-33)",
+          "code": "L(31-33)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(34-35)",
+          "code": "XL(34-35)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL(36-38)",
+          "code": "2XL(36-38)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 19795966,
+      "managed_code": "블랙^M(28-30)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "M(28-30)"
+      ]
+    },
+    {
+      "id": 19795971,
+      "managed_code": "크림^M(28-30)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림",
+        "M(28-30)"
+      ]
+    },
+    {
+      "id": 19795976,
+      "managed_code": "브라운^M(28-30)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "M(28-30)"
+      ]
+    },
+    {
+      "id": 19795981,
+      "managed_code": "블랙^L(31-33)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L(31-33)"
+      ]
+    },
+    {
+      "id": 19795982,
+      "managed_code": "블랙^XL(34-35)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "XL(34-35)"
+      ]
+    },
+    {
+      "id": 19795983,
+      "managed_code": "블랙^2XL(36-38)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "2XL(36-38)"
+      ]
+    },
+    {
+      "id": 19795984,
+      "managed_code": "크림^L(31-33)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림",
+        "L(31-33)"
+      ]
+    },
+    {
+      "id": 19795985,
+      "managed_code": "크림^XL(34-35)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림",
+        "XL(34-35)"
+      ]
+    },
+    {
+      "id": 19795986,
+      "managed_code": "크림^2XL(36-38)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림",
+        "2XL(36-38)"
+      ]
+    },
+    {
+      "id": 19795987,
+      "managed_code": "브라운^L(31-33)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "L(31-33)"
+      ]
+    },
+    {
+      "id": 19795988,
+      "managed_code": "브라운^XL(34-35)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "XL(34-35)"
+      ]
+    },
+    {
+      "id": 19795989,
+      "managed_code": "브라운^2XL(36-38)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운",
+        "2XL(36-38)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.6,
+    "count": 827
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

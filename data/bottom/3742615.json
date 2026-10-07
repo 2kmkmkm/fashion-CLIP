@@ -1,0 +1,411 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3742615",
+  "product_id": 3742615,
+  "name": "코드스 와이드 스트라이프 워싱 데님 팬츠 2 Color [DIFD_8019]",
+  "name_en": "Codes wide striped washed denim pants 2 Color [DIFD_8019]",
+  "style_no": "3742615",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "diiff",
+    "name": "디프",
+    "name_en": "DIIFF"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "가을",
+    "collection": {
+      "type": null,
+      "year": 2026,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 56000,
+    "sale": 39200,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20231204/3742615/3742615_17797790243587_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231204/3742615/detail_3742615_17782090688742_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231204/3742615/detail_3742615_17782090701102_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231204/3742615/detail_3742615_17782090749275_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "XS",
+        "sequence": 0,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 34.0,
+          "엉덩이단면": 50.0,
+          "허벅지단면": 31.5,
+          "밑위": 29.0,
+          "밑단단면": 20.0
+        }
+      },
+      {
+        "size": "S",
+        "sequence": 1,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 53.0,
+          "허벅지단면": 33.0,
+          "밑위": 31.0,
+          "밑단단면": 21.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 2,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 38.0,
+          "엉덩이단면": 55.0,
+          "허벅지단면": 35.0,
+          "밑위": 32.0,
+          "밑단단면": 23.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 3,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 57.0,
+          "허벅지단면": 36.0,
+          "밑위": 33.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 43.0,
+          "엉덩이단면": 60.0,
+          "허벅지단면": 37.0,
+          "밑위": 34.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "XXL",
+        "sequence": 5,
+        "measurements": {
+          "총장": 109.0,
+          "허리단면": 46.0,
+          "엉덩이단면": 63.0,
+          "허벅지단면": 38.0,
+          "밑위": 36.0,
+          "밑단단면": 27.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "그레이_DTX_0028",
+          "code": "그레이_DTX_0028",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙_DTX_0028",
+          "code": "블랙_DTX_0028",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "그레이_DTX_0028 [기모]",
+          "code": "그레이_DTX_0028 [기모]",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙_DTX_0028 [기모]",
+          "code": "블랙_DTX_0028 [기모]",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "중청_DIFD_8019",
+          "code": "중청_DIFD_8019",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3742615/20260508115912_option_69fd51802aea75.32456239.",
+          "color": null
+        },
+        {
+          "name": "흑청_DIFD_8019",
+          "code": "흑청_DIFD_8019",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3742615/20260508115915_option_69fd51838655e3.15494947.",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "XS",
+          "code": "XS",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "1",
+          "code": "1",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2",
+          "code": "2",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "3",
+          "code": "3",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "4",
+          "code": "4",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 30703839,
+      "managed_code": "중청_DIFD_8019^XS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "중청_DIFD_8019",
+        "XS"
+      ]
+    },
+    {
+      "id": 30703840,
+      "managed_code": "중청_DIFD_8019^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "중청_DIFD_8019",
+        "S"
+      ]
+    },
+    {
+      "id": 30703841,
+      "managed_code": "중청_DIFD_8019^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "중청_DIFD_8019",
+        "M"
+      ]
+    },
+    {
+      "id": 30703842,
+      "managed_code": "중청_DIFD_8019^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "중청_DIFD_8019",
+        "L"
+      ]
+    },
+    {
+      "id": 30703843,
+      "managed_code": "중청_DIFD_8019^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "중청_DIFD_8019",
+        "XL"
+      ]
+    },
+    {
+      "id": 30703844,
+      "managed_code": "중청_DIFD_8019^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "중청_DIFD_8019",
+        "XXL"
+      ]
+    },
+    {
+      "id": 30703849,
+      "managed_code": "흑청_DIFD_8019^XS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "흑청_DIFD_8019",
+        "XS"
+      ]
+    },
+    {
+      "id": 30703850,
+      "managed_code": "흑청_DIFD_8019^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "흑청_DIFD_8019",
+        "S"
+      ]
+    },
+    {
+      "id": 30703851,
+      "managed_code": "흑청_DIFD_8019^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "흑청_DIFD_8019",
+        "M"
+      ]
+    },
+    {
+      "id": 30703852,
+      "managed_code": "흑청_DIFD_8019^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "흑청_DIFD_8019",
+        "L"
+      ]
+    },
+    {
+      "id": 30703853,
+      "managed_code": "흑청_DIFD_8019^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "흑청_DIFD_8019",
+        "XL"
+      ]
+    },
+    {
+      "id": 30703854,
+      "managed_code": "흑청_DIFD_8019^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "흑청_DIFD_8019",
+        "XXL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 8
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

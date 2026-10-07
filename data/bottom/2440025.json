@@ -1,0 +1,406 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2440025",
+  "product_id": 2440025,
+  "name": "Corduroy Shorts (U25BBPT511)",
+  "name_en": "Corduroy Shorts (U25BBPT511)",
+  "style_no": "2703549",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "unlimit",
+    "name": "언리미트",
+    "name_en": "UNLIMIT"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003009",
+    "categoryDepth2Title": "숏 팬츠",
+    "categoryDepth2Name": "숏 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2022,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 55000,
+    "sale": 19990,
+    "discount_rate": 64,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220323/2440025/2440025_17413274575469_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220323/2440025/detail_2440025_17413274649885_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220323/2440025/detail_2440025_17413274657521_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220323/2440025/detail_2440025_17763024585434_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220323/2440025/detail_2440025_17763024622392_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "거의 없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반바지",
+    "type_number": 23,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711371500000057711.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 43.5,
+          "허리단면": 35.0,
+          "엉덩이단면": 54.0,
+          "허벅지단면": 35.0,
+          "밑위": 26.5,
+          "밑단단면": 31.5
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 44.5,
+          "허리단면": 37.5,
+          "엉덩이단면": 56.5,
+          "허벅지단면": 37.5,
+          "밑위": 27.5,
+          "밑단단면": 32.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 45.5,
+          "허리단면": 40.0,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 40.0,
+          "밑위": 28.5,
+          "밑단단면": 32.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "BLACK",
+          "code": "BLACK",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "IVORY",
+          "code": "IVORY",
+          "image_url": "",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BROWN",
+          "code": "BROWN",
+          "image_url": "",
+          "color": {
+            "colorCode": "4",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "MINT",
+          "code": "MINT",
+          "image_url": "",
+          "color": {
+            "colorCode": "32",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "ORANGE",
+          "code": "ORANGE",
+          "image_url": "",
+          "color": {
+            "colorCode": "12",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "WHITE",
+          "code": "WHITE",
+          "image_url": "",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BLUE",
+          "code": "BLUE",
+          "image_url": "",
+          "color": {
+            "colorCode": "7",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "OLIVE",
+          "code": "OLIVE",
+          "image_url": "",
+          "color": {
+            "colorCode": "34",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "NAVY",
+          "code": "NAVY",
+          "image_url": "",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 9991961,
+      "managed_code": "BLACK^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "L"
+      ]
+    },
+    {
+      "id": 9991962,
+      "managed_code": "BLACK^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "M"
+      ]
+    },
+    {
+      "id": 9991963,
+      "managed_code": "BLACK^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "S"
+      ]
+    },
+    {
+      "id": 22278025,
+      "managed_code": "IVORY^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "IVORY",
+        "S"
+      ]
+    },
+    {
+      "id": 22278026,
+      "managed_code": "IVORY^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "IVORY",
+        "M"
+      ]
+    },
+    {
+      "id": 22278027,
+      "managed_code": "IVORY^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "IVORY",
+        "L"
+      ]
+    },
+    {
+      "id": 22278028,
+      "managed_code": "BROWN^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN",
+        "S"
+      ]
+    },
+    {
+      "id": 22278029,
+      "managed_code": "BROWN^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN",
+        "M"
+      ]
+    },
+    {
+      "id": 22278030,
+      "managed_code": "BROWN^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BROWN",
+        "L"
+      ]
+    },
+    {
+      "id": 30267370,
+      "managed_code": "OLIVE^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OLIVE",
+        "S"
+      ]
+    },
+    {
+      "id": 30267371,
+      "managed_code": "OLIVE^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OLIVE",
+        "M"
+      ]
+    },
+    {
+      "id": 30267372,
+      "managed_code": "OLIVE^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OLIVE",
+        "L"
+      ]
+    },
+    {
+      "id": 30267373,
+      "managed_code": "NAVY^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY",
+        "S"
+      ]
+    },
+    {
+      "id": 30267374,
+      "managed_code": "NAVY^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY",
+        "M"
+      ]
+    },
+    {
+      "id": 30267375,
+      "managed_code": "NAVY^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY",
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 185
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

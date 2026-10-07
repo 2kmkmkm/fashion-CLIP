@@ -1,0 +1,198 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4128696",
+  "product_id": 4128696,
+  "name": "뉴로고 코튼 볼캡 / 네이비",
+  "name_en": "New Logo Cotton Ball Cap / Navy",
+  "style_no": "5000848220",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "vabeu",
+    "name": "노밍",
+    "name_en": "NOMING"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": 2024,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 39900,
+    "sale": 9900,
+    "discount_rate": 75,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240514/4128696/4128696_17156556910833_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240514/4128696/detail_4128696_17156556977014_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240514/4128696/detail_4128696_17156556986179_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240514/4128696/detail_4128696_17156557008597_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240514/4128696/detail_4128696_17156556995787_500.jpg"
+  ],
+  "features": {
+    "깊이": [
+      "깊음"
+    ],
+    "챙 넓이": [
+      "넒음"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "NAVY-FREE",
+        "sequence": 1,
+        "measurements": {
+          "머리둘레": 60.0,
+          "챙길이": 7.5,
+          "깊이": 17.0
+        }
+      },
+      {
+        "size": "SKY-FREE",
+        "sequence": 2,
+        "measurements": {
+          "머리둘레": 60.0,
+          "챙길이": 7.5,
+          "깊이": 17.0
+        }
+      },
+      {
+        "size": "BLACK-FREE",
+        "sequence": 3,
+        "measurements": {
+          "머리둘레": 60.0,
+          "챙길이": 7.5,
+          "깊이": 17.0
+        }
+      },
+      {
+        "size": "BEIGE-FREE",
+        "sequence": 4,
+        "measurements": {
+          "머리둘레": 60.0,
+          "챙길이": 7.5,
+          "깊이": 17.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "NAVY-FREE",
+          "code": "NAVY-FREE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "SKY-FREE",
+          "code": "SKY-FREE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BLACK-FREE",
+          "code": "BLACK-FREE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BEIGE-FREE",
+          "code": "BEIGE-FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 17417459,
+      "managed_code": "BEIGE-FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE-FREE"
+      ]
+    },
+    {
+      "id": 17417460,
+      "managed_code": "BLACK-FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK-FREE"
+      ]
+    },
+    {
+      "id": 17417462,
+      "managed_code": "NAVY-FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY-FREE"
+      ]
+    },
+    {
+      "id": 17417463,
+      "managed_code": "SKY-FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "SKY-FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 188
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

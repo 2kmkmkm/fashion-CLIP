@@ -1,0 +1,221 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4089809",
+  "product_id": 4089809,
+  "name": "플랍 블랙",
+  "name_en": "Lee-flop Black",
+  "style_no": "LE2401SE02BK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "lee",
+    "name": "리",
+    "name_en": "LEE"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103003",
+    "categoryDepth2Title": "샌들/슬리퍼",
+    "categoryDepth2Name": "샌들/슬리퍼",
+    "categoryDepth3Code": "103003010",
+    "categoryDepth3Title": "쪼리/플립플랍",
+    "categoryDepth3Name": "쪼리/플립플랍",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2024,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 12000,
+    "discount_rate": 76,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240426/4089809/4089809_17141005681110_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240426/4089809/detail_4089809_17141005690596_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240426/4089809/detail_4089809_17141005692923_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240426/4089809/detail_4089809_17141005695564_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240426/4089809/detail_4089809_17141005698506_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240426/4089809/detail_4089809_17141005701147_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240426/4089809/detail_4089809_17141005704191_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240426/4089809/detail_4089809_17141005706601_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "230",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 245.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 43.0
+        }
+      },
+      {
+        "size": "240",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 255.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 43.0
+        }
+      },
+      {
+        "size": "250",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 265.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 44.0
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 275.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 44.0
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 285.0,
+          "발볼": 0.0,
+          "발목높이": 0.0,
+          "굽높이": 45.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "230",
+          "code": "230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "240",
+          "code": "240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 17228317,
+      "managed_code": "230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "230"
+      ]
+    },
+    {
+      "id": 17228318,
+      "managed_code": "240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "240"
+      ]
+    },
+    {
+      "id": 17228319,
+      "managed_code": "250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "250"
+      ]
+    },
+    {
+      "id": 17228320,
+      "managed_code": "260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "260"
+      ]
+    },
+    {
+      "id": 17228321,
+      "managed_code": "270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "270"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.4,
+    "count": 45
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

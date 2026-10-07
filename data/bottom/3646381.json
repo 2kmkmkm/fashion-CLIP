@@ -1,0 +1,360 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3646381",
+  "product_id": 3646381,
+  "name": "컴피 인버티드 플리츠 스웻 팬츠 [BROWN]",
+  "name_en": "Comfy inverted pleat sweat pants [BROWN]",
+  "style_no": "ARPT3301",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "arrayed1",
+    "name": "어레이드",
+    "name_en": "ARRAYED"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 69000,
+    "sale": 46200,
+    "discount_rate": 33,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20231020/3646381/3646381_16978087727547_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "라이트 웨이트 M (여름Ver)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 100.0,
+          "허리단면": 35.0,
+          "엉덩이단면": 70.5,
+          "허벅지단면": 43.5,
+          "밑위": 34.0,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "라이트 웨이트 L (여름Ver)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 102.0,
+          "허리단면": 37.0,
+          "엉덩이단면": 72.5,
+          "허벅지단면": 45.0,
+          "밑위": 35.5,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "라이트 웨이트 XL (여름Ver)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 74.5,
+          "허벅지단면": 46.5,
+          "밑위": 37.0,
+          "밑단단면": 29.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 3,
+        "measurements": {
+          "총장": 100.0,
+          "허리단면": 35.0,
+          "엉덩이단면": 70.5,
+          "허벅지단면": 43.5,
+          "밑위": 34.0,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 4,
+        "measurements": {
+          "총장": 102.0,
+          "허리단면": 37.0,
+          "엉덩이단면": 72.5,
+          "허벅지단면": 45.0,
+          "밑위": 35.5,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 5,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 74.5,
+          "허벅지단면": 46.5,
+          "밑위": 37.0,
+          "밑단단면": 29.0
+        }
+      },
+      {
+        "size": "기모 M",
+        "sequence": 6,
+        "measurements": {
+          "총장": 100.0,
+          "허리단면": 35.0,
+          "엉덩이단면": 70.5,
+          "허벅지단면": 43.5,
+          "밑위": 34.0,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "기모 L",
+        "sequence": 7,
+        "measurements": {
+          "총장": 102.0,
+          "허리단면": 37.0,
+          "엉덩이단면": 72.5,
+          "허벅지단면": 45.0,
+          "밑위": 35.5,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "기모 XL",
+        "sequence": 8,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 74.5,
+          "허벅지단면": 46.5,
+          "밑위": 37.0,
+          "밑단단면": 29.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "BROWN",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "라이트 웨이트 M (여름Ver)",
+          "code": "라이트 웨이트 M (여름Ver)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "라이트 웨이트 L (여름Ver)",
+          "code": "라이트 웨이트 L (여름Ver)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "라이트 웨이트 XL (여름Ver)",
+          "code": "라이트 웨이트 XL (여름Ver)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "기모 M",
+          "code": "기모 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "기모 L",
+          "code": "기모 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "기모 XL",
+          "code": "기모 XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15293294,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 15293295,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 15293296,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 20503003,
+      "managed_code": "기모 M",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "기모 M"
+      ]
+    },
+    {
+      "id": 20503004,
+      "managed_code": "기모 L",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "기모 L"
+      ]
+    },
+    {
+      "id": 20503005,
+      "managed_code": "기모 XL",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "기모 XL"
+      ]
+    },
+    {
+      "id": 30505944,
+      "managed_code": "라이트 웨이트 M (여름Ver)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트 웨이트 M (여름Ver)"
+      ]
+    },
+    {
+      "id": 30505945,
+      "managed_code": "라이트 웨이트 L (여름Ver)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트 웨이트 L (여름Ver)"
+      ]
+    },
+    {
+      "id": 30505946,
+      "managed_code": "라이트 웨이트 XL (여름Ver)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트 웨이트 XL (여름Ver)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 718
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

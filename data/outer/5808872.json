@@ -1,0 +1,120 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5808872",
+  "product_id": 5808872,
+  "name": "트랙 세미 벨로아 집업 자켓 (네이비)",
+  "name_en": "RACK SEMI BELOA ZIP-UP JACKET (NAVY)",
+  "style_no": "AN25FW2301",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "analogmood",
+    "name": "아날로그무드",
+    "name_en": "ANALOG MOOD"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002018",
+    "categoryDepth2Title": "트레이닝 재킷",
+    "categoryDepth2Name": "트레이닝 재킷",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 135000,
+    "sale": 82000,
+    "discount_rate": 39,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20251205/5808872/5808872_17719185926052_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251205/5808872/detail_5808872_17649172266702_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251205/5808872/detail_5808872_17649172269110_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251205/5808872/detail_5808872_17649172270665_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251205/5808872/detail_5808872_17649172273398_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "FREE",
+        "sequence": 0,
+        "measurements": {
+          "총장": 79.0,
+          "어깨너비": 58.0,
+          "가슴단면": 62.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 27864099,
+      "managed_code": "FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 18
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

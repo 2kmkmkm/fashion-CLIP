@@ -1,0 +1,197 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2039021",
+  "product_id": 2039021,
+  "name": "UNISEX 세미오버 핀스트라이프 포켓자수 셔츠 라이트블루(FCB3SH305M)",
+  "name_en": "UNISEX 세미오버 핀스트라이프 포켓자수 셔츠 라이트블루(FCB3SH305M)",
+  "style_no": "FCB3SH305M_LBL",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "fabulousarchive",
+    "name": "라 메종 스튜디오",
+    "name_en": "LA MAISON STUDIO"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2021,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 67000,
+    "sale": 9900,
+    "discount_rate": 85,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20210723/2039021/2039021_2_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210723/2039021/detail_2039021_1_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210723/2039021/detail_2039021_2_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210723/2039021/detail_2039021_3_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210723/2039021/detail_2039021_4_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210723/2039021/detail_2039021_5_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210723/2039021/detail_2039021_6_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 76.0,
+          "어깨너비": 50.0,
+          "가슴단면": 58.5,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 78.0,
+          "어깨너비": 52.0,
+          "가슴단면": 61.0,
+          "소매길이": 60.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 80.0,
+          "어깨너비": 54.0,
+          "가슴단면": 63.5,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "라이트블루",
+          "code": "라이트블루",
+          "image_url": "",
+          "color": {
+            "colorCode": "37",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 8089299,
+      "managed_code": "라이트블루^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트블루",
+        "L"
+      ]
+    },
+    {
+      "id": 8089300,
+      "managed_code": "라이트블루^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트블루",
+        "M"
+      ]
+    },
+    {
+      "id": 8089301,
+      "managed_code": "라이트블루^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트블루",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 15
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2005542",
+  "product_id": 2005542,
+  "name": "10.5 oz Cotton Tank Top 3 Color",
+  "name_en": "10.5 oz Cotton Tank Top 3 Color",
+  "style_no": "N-0016-NON",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "bronson",
+    "name": "브론슨",
+    "name_en": "BRONSON"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001011",
+    "categoryDepth2Title": "민소매 티셔츠",
+    "categoryDepth2Name": "민소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": null,
+      "year": 2025,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 25000,
+    "sale": 22500,
+    "discount_rate": 10,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20210622/2005542/2005542_17761449719794_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210622/2005542/detail_2005542_17761450497092_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210622/2005542/detail_2005542_17761450509150_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210622/2005542/detail_2005542_17761450503366_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210622/2005542/detail_2005542_17703405399319_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210622/2005542/detail_2005542_17703405390001_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210622/2005542/detail_2005542_17703405381507_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210622/2005542/detail_2005542_17557372678525_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210622/2005542/detail_2005542_17557372686906_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210622/2005542/detail_2005542_17557372695614_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "거의 없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "민소매",
+    "type_number": 24,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711320700000086421.png",
+    "measurements": [
+      {
+        "size": "S(36)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 69.0,
+          "가슴단면": 37.5,
+          "어깨너비": 28.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M(38)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.5,
+          "가슴단면": 40.0,
+          "어깨너비": 29.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L(40)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.0,
+          "가슴단면": 42.5,
+          "어깨너비": 30.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL(42)",
+        "sequence": 3,
+        "measurements": {
+          "총장": 73.5,
+          "가슴단면": 45.0,
+          "어깨너비": 31.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XXL(44)",
+        "sequence": 4,
+        "measurements": {
+          "총장": 75.0,
+          "가슴단면": 47.5,
+          "어깨너비": 32.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "WHITE",
+          "code": "WHITE",
+          "image_url": "",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "GREY",
+          "code": "GREY",
+          "image_url": "",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BLACK",
+          "code": "BLACK",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S(36)",
+          "code": "S(36)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(38)",
+          "code": "M(38)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(40)",
+          "code": "L(40)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(42)",
+          "code": "XL(42)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL(44)",
+          "code": "XXL(44)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 7891014,
+      "managed_code": "WHITE^L(40)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE",
+        "L(40)"
+      ]
+    },
+    {
+      "id": 7891015,
+      "managed_code": "WHITE^M(38)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE",
+        "M(38)"
+      ]
+    },
+    {
+      "id": 7891016,
+      "managed_code": "WHITE^S(36)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE",
+        "S(36)"
+      ]
+    },
+    {
+      "id": 7891017,
+      "managed_code": "WHITE^XL(42)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE",
+        "XL(42)"
+      ]
+    },
+    {
+      "id": 7891018,
+      "managed_code": "WHITE^XXL(44)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE",
+        "XXL(44)"
+      ]
+    },
+    {
+      "id": 23696627,
+      "managed_code": "GREY^S(36)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY",
+        "S(36)"
+      ]
+    },
+    {
+      "id": 23696628,
+      "managed_code": "GREY^M(38)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY",
+        "M(38)"
+      ]
+    },
+    {
+      "id": 23696629,
+      "managed_code": "GREY^L(40)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY",
+        "L(40)"
+      ]
+    },
+    {
+      "id": 23696630,
+      "managed_code": "GREY^XL(42)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY",
+        "XL(42)"
+      ]
+    },
+    {
+      "id": 23696631,
+      "managed_code": "GREY^XXL(44)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY",
+        "XXL(44)"
+      ]
+    },
+    {
+      "id": 23696632,
+      "managed_code": "BLACK^S(36)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "S(36)"
+      ]
+    },
+    {
+      "id": 23696633,
+      "managed_code": "BLACK^M(38)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "M(38)"
+      ]
+    },
+    {
+      "id": 23696634,
+      "managed_code": "BLACK^L(40)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "L(40)"
+      ]
+    },
+    {
+      "id": 23696635,
+      "managed_code": "BLACK^XL(42)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "XL(42)"
+      ]
+    },
+    {
+      "id": 23696636,
+      "managed_code": "BLACK^XXL(44)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "XXL(44)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 7126
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

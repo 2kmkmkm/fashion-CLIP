@@ -1,0 +1,292 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3609843",
+  "product_id": 3609843,
+  "name": "남성 로우 트레킹화 카너 EVT (Black)",
+  "name_en": "",
+  "style_no": "130411A2",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "humtto",
+    "name": "험토",
+    "name_en": "HUMTTO"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103005",
+    "categoryDepth2Title": "스포츠화",
+    "categoryDepth2Name": "스포츠화",
+    "categoryDepth3Code": "103005003",
+    "categoryDepth3Title": "등산화",
+    "categoryDepth3Name": "등산화",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 219000,
+    "sale": 127000,
+    "discount_rate": 42,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20231006/3609843/3609843_17760487589711_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231006/3609843/detail_3609843_17760487148156_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231006/3609843/detail_3609843_17760487921123_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231006/3609843/detail_3609843_17760487986383_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231006/3609843/detail_3609843_17760487418686_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231006/3609843/detail_3609843_17276818168198_500.png",
+    "https://image.msscdn.net/images/prd_img/20231006/3609843/detail_3609843_17276818173942_500.png",
+    "https://image.msscdn.net/images/prd_img/20231006/3609843/detail_3609843_17276818181244_500.png",
+    "https://image.msscdn.net/images/prd_img/20231006/3609843/detail_3609843_17276818187113_500.png",
+    "https://image.msscdn.net/images/prd_img/20231006/3609843/detail_3609843_17658593916913_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231006/3609843/detail_3609843_17658593972762_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231006/3609843/detail_3609843_17658594005692_500.jpg"
+  ],
+  "features": {
+    "굽 높이": [
+      "보통"
+    ],
+    "쿠션": [
+      "있음"
+    ],
+    "무게": [
+      "가벼움"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "A-2 / 250",
+        "sequence": 6,
+        "measurements": {
+          "발길이": 28.3,
+          "발볼": 11.0,
+          "발목높이": 11.5,
+          "굽높이": 4.0
+        }
+      },
+      {
+        "size": "A-2 / 255",
+        "sequence": 7,
+        "measurements": {
+          "발길이": 29.0,
+          "발볼": 11.0,
+          "발목높이": 11.5,
+          "굽높이": 4.0
+        }
+      },
+      {
+        "size": "A-2 / 260",
+        "sequence": 8,
+        "measurements": {
+          "발길이": 29.5,
+          "발볼": 11.3,
+          "발목높이": 11.5,
+          "굽높이": 4.0
+        }
+      },
+      {
+        "size": "A-2 / 265",
+        "sequence": 9,
+        "measurements": {
+          "발길이": 30.5,
+          "발볼": 11.3,
+          "발목높이": 12.0,
+          "굽높이": 4.0
+        }
+      },
+      {
+        "size": "A-2 / 270",
+        "sequence": 10,
+        "measurements": {
+          "발길이": 31.5,
+          "발볼": 11.5,
+          "발목높이": 12.0,
+          "굽높이": 4.0
+        }
+      },
+      {
+        "size": "A-2 / 275",
+        "sequence": 11,
+        "measurements": {
+          "발길이": 32.0,
+          "발볼": 11.8,
+          "발목높이": 12.0,
+          "굽높이": 4.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "BLACK",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "255",
+          "code": "255",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "265",
+          "code": "265",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "275",
+          "code": "275",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "A-2 / 250",
+          "code": "A-2 / 250",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3609843/20250520132838_option_682c04f6719d49.45275186.",
+          "color": null
+        },
+        {
+          "name": "A-2 / 255",
+          "code": "A-2 / 255",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3609843/20250520132842_option_682c04fa6fa3b2.42407692.",
+          "color": null
+        },
+        {
+          "name": "A-2 / 260",
+          "code": "A-2 / 260",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3609843/20250520132845_option_682c04fd4bde24.50401700.",
+          "color": null
+        },
+        {
+          "name": "A-2 / 265",
+          "code": "A-2 / 265",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3609843/20250520132848_option_682c050054fa46.37364103.",
+          "color": null
+        },
+        {
+          "name": "A-2 / 270",
+          "code": "A-2 / 270",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3609843/20250520132851_option_682c05031527d1.45990089.",
+          "color": null
+        },
+        {
+          "name": "A-2 / 275",
+          "code": "A-2 / 275",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3609843/20250520132853_option_682c0505ab61b4.34256555.",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 18341690,
+      "managed_code": "A-2 / 250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "A-2 / 250"
+      ]
+    },
+    {
+      "id": 18341691,
+      "managed_code": "A-2 / 255",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "A-2 / 255"
+      ]
+    },
+    {
+      "id": 18341692,
+      "managed_code": "A-2 / 260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "A-2 / 260"
+      ]
+    },
+    {
+      "id": 18341693,
+      "managed_code": "A-2 / 265",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "A-2 / 265"
+      ]
+    },
+    {
+      "id": 18341694,
+      "managed_code": "A-2 / 270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "A-2 / 270"
+      ]
+    },
+    {
+      "id": 18341695,
+      "managed_code": "A-2 / 275",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "A-2 / 275"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 74
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

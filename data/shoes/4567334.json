@@ -1,0 +1,272 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4567334",
+  "product_id": 4567334,
+  "name": "플렉스 포스 (2color)",
+  "name_en": "Flex force (2color)",
+  "style_no": "M51001SFF11",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "musinsastandardsp",
+    "name": "무신사 스탠다드 스포츠",
+    "name_en": "MUSINSA STANDARD SPORTS"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103005",
+    "categoryDepth2Title": "스포츠화",
+    "categoryDepth2Name": "스포츠화",
+    "categoryDepth3Code": "103005012",
+    "categoryDepth3Title": "피트니스화",
+    "categoryDepth3Name": "피트니스화",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 109900,
+    "sale": 66650,
+    "discount_rate": 39,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241029/4567334/4567334_17840107570400_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17839989341682_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17840107141138_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17839989490906_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17839986211372_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17839986220415_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17839986224948_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17839986216118_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17839989496764_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17839980190968_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17375235353400_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17375235359311_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17375235366284_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17375235373096_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17522008232474_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17375235283231_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17375235288770_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17375235294412_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241029/4567334/detail_4567334_17375235300824_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "250",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 25.0,
+          "발볼": 8.5,
+          "발목높이": 6.8,
+          "굽높이": 4.2
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 26.0,
+          "발볼": 9.0,
+          "발목높이": 7.2,
+          "굽높이": 4.2
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 27.0,
+          "발볼": 9.5,
+          "발목높이": 7.6,
+          "굽높이": 4.2
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 28.0,
+          "발볼": 10.0,
+          "발목높이": 8.0,
+          "굽높이": 4.2
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "화이트",
+          "code": "화이트",
+          "image_url": "",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 20054563,
+      "managed_code": "블랙^250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "250"
+      ]
+    },
+    {
+      "id": 20054564,
+      "managed_code": "블랙^260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "260"
+      ]
+    },
+    {
+      "id": 20054565,
+      "managed_code": "블랙^270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "270"
+      ]
+    },
+    {
+      "id": 20054566,
+      "managed_code": "블랙^280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "280"
+      ]
+    },
+    {
+      "id": 20054567,
+      "managed_code": "화이트^250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "250"
+      ]
+    },
+    {
+      "id": 20054568,
+      "managed_code": "화이트^260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "260"
+      ]
+    },
+    {
+      "id": 20054569,
+      "managed_code": "화이트^270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "270"
+      ]
+    },
+    {
+      "id": 20054570,
+      "managed_code": "화이트^280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트",
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 84
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

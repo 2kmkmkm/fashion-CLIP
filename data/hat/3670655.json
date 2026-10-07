@@ -1,0 +1,119 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3670655",
+  "product_id": 3670655,
+  "name": "Basic Short Beanie (Black)",
+  "name_en": "Basic Short Beanie (Black)",
+  "style_no": "BSB-01",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "bornslippy",
+    "name": "본슬리피",
+    "name_en": "BORN SLIPPY"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120005",
+    "categoryDepth2Title": "비니",
+    "categoryDepth2Name": "비니",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": 2023,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 25000,
+    "sale": 14130,
+    "discount_rate": 43,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20231031/3670655/3670655_17893652049436_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231031/3670655/detail_3670655_17893652055315_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231031/3670655/detail_3670655_17893652056689_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231031/3670655/detail_3670655_17893652058098_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231031/3670655/detail_3670655_17893652059525_500.jpg"
+  ],
+  "features": {
+    "깊이": [
+      "보통"
+    ],
+    "챙 넓이": [
+      "보통"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "비니",
+    "type_number": 52,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711465700000088960.png",
+    "measurements": [
+      {
+        "size": "FREE",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 39.5,
+          "깊이": 23.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15379804,
+      "managed_code": "FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 226
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

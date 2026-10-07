@@ -1,0 +1,249 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3788328",
+  "product_id": 3788328,
+  "name": "톤온톤 트위드 라운드 니트 가디건 (2 COLOR)",
+  "name_en": "Tone-on-tone tweed round knit cardigan (2 COLOR)",
+  "style_no": "L4AN0007",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "lmood",
+    "name": "엘무드",
+    "name_en": "LMOOD"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002020",
+    "categoryDepth2Title": "카디건",
+    "categoryDepth2Name": "카디건",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을"
+    ],
+    "primary": "봄",
+    "collection": {
+      "type": "FW",
+      "year": 2023,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 128000,
+    "sale": 25600,
+    "discount_rate": 80,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240111/3788328/3788328_17612839905234_500.png",
+    "https://image.msscdn.net/images/prd_img/20240111/3788328/detail_3788328_17612980166522_500.png",
+    "https://image.msscdn.net/images/prd_img/20240111/3788328/detail_3788328_17612839963325_500.png",
+    "https://image.msscdn.net/images/prd_img/20240111/3788328/detail_3788328_17612980179853_500.png"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "약간 부드러움"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "44",
+        "sequence": 0,
+        "measurements": {
+          "총장": 63.5,
+          "어깨너비": 52.0,
+          "가슴단면": 59.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "46",
+        "sequence": 1,
+        "measurements": {
+          "총장": 65.0,
+          "어깨너비": 54.0,
+          "가슴단면": 61.0,
+          "소매길이": 60.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "48",
+        "sequence": 2,
+        "measurements": {
+          "총장": 66.5,
+          "어깨너비": 56.0,
+          "가슴단면": 63.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "모히또",
+          "code": "모히또",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3788328/20251017150421_option_68f1dc653beb91.27374094.",
+          "color": null
+        },
+        {
+          "name": "진저",
+          "code": "진저",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3788328/20251017150422_option_68f1dc66a0f7c7.77815724.",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "44",
+          "code": "44",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3788328/20251017150424_option_68f1dc683d7980.86884927.",
+          "color": null
+        },
+        {
+          "name": "46",
+          "code": "46",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3788328/20251017150425_option_68f1dc69cd3dd7.79180329.",
+          "color": null
+        },
+        {
+          "name": "48",
+          "code": "48",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3788328/20251017150428_option_68f1dc6c6a5900.80578522.",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15901723,
+      "managed_code": "모히또^44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "모히또",
+        "44"
+      ]
+    },
+    {
+      "id": 15901724,
+      "managed_code": "모히또^46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "모히또",
+        "46"
+      ]
+    },
+    {
+      "id": 15901725,
+      "managed_code": "모히또^48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "모히또",
+        "48"
+      ]
+    },
+    {
+      "id": 15901726,
+      "managed_code": "진저^44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "진저",
+        "44"
+      ]
+    },
+    {
+      "id": 15901727,
+      "managed_code": "진저^46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "진저",
+        "46"
+      ]
+    },
+    {
+      "id": 15901728,
+      "managed_code": "진저^48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "진저",
+        "48"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 41
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

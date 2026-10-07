@@ -1,0 +1,113 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4453828",
+  "product_id": 4453828,
+  "name": "(공용) 오클리 택티컬 비니 - 블랙아웃 / 911421-001",
+  "name_en": "(U) OAKLEY TACTICAL BEANIE - BLACK / 911421-001",
+  "style_no": "911421-001",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "oakley",
+    "name": "오클리",
+    "name_en": "OAKLEY"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120005",
+    "categoryDepth2Title": "비니",
+    "categoryDepth2Name": "비니",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 37000,
+    "sale": 37000,
+    "discount_rate": 0,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240923/4453828/4453828_17294787144225_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240923/4453828/detail_4453828_17294787196963_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "비니",
+    "type_number": 52,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711465700000088960.png",
+    "measurements": [
+      {
+        "size": "FREE",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 46.0,
+          "깊이": 21.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 19346208,
+      "managed_code": "FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 193
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

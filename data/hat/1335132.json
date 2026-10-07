@@ -1,0 +1,1172 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/1335132",
+  "product_id": 1335132,
+  "name": "빅사이즈 볼캡 시리즈 60호 62호",
+  "name_en": "Bigsized Baseball Cap 60cm 62cm",
+  "style_no": "BIGBALL",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "chaptereight",
+    "name": "챕터에잇",
+    "name_en": "CHAPTER EIGHT"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2020,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 29000,
+    "sale": 26100,
+    "discount_rate": 10,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20200304/1335132/1335132_17186740247440_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200304/1335132/detail_1335132_17187049133468_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200304/1335132/detail_1335132_17187050372863_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200304/1335132/detail_1335132_17187050474710_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200304/1335132/detail_1335132_17187051448075_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200304/1335132/detail_1335132_17187052507460_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200304/1335132/detail_1335132_17187054136404_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200304/1335132/detail_1335132_17187054183688_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200304/1335132/detail_1335132_17187054233877_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200304/1335132/detail_1335132_17261108762704_500.jpg"
+  ],
+  "features": {
+    "깊이": [
+      "깊음"
+    ],
+    "챙 넓이": [
+      "넒음"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "60호",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 60.0,
+          "챙길이": 7.0,
+          "깊이": 17.8
+        }
+      },
+      {
+        "size": "62호",
+        "sequence": 1,
+        "measurements": {
+          "머리둘레": 62.0,
+          "챙길이": 7.0,
+          "깊이": 18.3
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "모델",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "면트윌",
+          "code": "면트윌",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "TR 발수방오염",
+          "code": "TR 발수방오염",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "데님",
+          "code": "데님",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "피그먼트",
+          "code": "피그먼트",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "메탈립스탑",
+          "code": "메탈립스탑",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "워시드나일론",
+          "code": "워시드나일론",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "나일론트윌",
+          "code": "나일론트윌",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "가죽",
+          "code": "가죽",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "1.면트윌(무지블랙)",
+          "code": "1.면트윌(무지블랙)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "1.면트윌(블랙라벨)",
+          "code": "1.면트윌(블랙라벨)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "1.면트윌(네이비라벨)",
+          "code": "1.면트윌(네이비라벨)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "1.면트윌(카키라벨)",
+          "code": "1.면트윌(카키라벨)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2.면트윌(베이지로고)",
+          "code": "2.면트윌(베이지로고)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2.면트윌(블루로고)",
+          "code": "2.면트윌(블루로고)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2.면트윌(차콜로고)",
+          "code": "2.면트윌(차콜로고)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "3.TR발수방오염(블랙)",
+          "code": "3.TR발수방오염(블랙)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "4.워시드나일론(블랙)",
+          "code": "4.워시드나일론(블랙)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "4.워시드나일론(네이비)",
+          "code": "4.워시드나일론(네이비)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "4.워시드나일론(카키)",
+          "code": "4.워시드나일론(카키)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "6.메탈립스탑",
+          "code": "6.메탈립스탑",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "7.나일론트윌",
+          "code": "7.나일론트윌",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "8.코듀라볼캡(블랙)",
+          "code": "8.코듀라볼캡(블랙)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "코듀라볼캡(브라운)",
+          "code": "코듀라볼캡(브라운)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "0.3d자수 면트윌(블랙)",
+          "code": "0.3d자수 면트윌(블랙)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "0.3d자수 면트윌(네이비)",
+          "code": "0.3d자수 면트윌(네이비)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "0.3d자수 면트윌(오렌지)",
+          "code": "0.3d자수 면트윌(오렌지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "0.3d자수 면트윌(베이지)",
+          "code": "0.3d자수 면트윌(베이지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "EIGHT LOGO(블랙)",
+          "code": "EIGHT LOGO(블랙)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "EIGHT LOGO(화이트)",
+          "code": "EIGHT LOGO(화이트)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BIG LOGO(블랙)",
+          "code": "BIG LOGO(블랙)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BIG LOGO(화이트)",
+          "code": "BIG LOGO(화이트)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "SKULL(블랙)",
+          "code": "SKULL(블랙)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "SKULL(화이트)",
+          "code": "SKULL(화이트)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "빅밴드고주파-화이트 로고",
+          "code": "빅밴드고주파-화이트 로고",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "빅밴드고주파-그레이 로고",
+          "code": "빅밴드고주파-그레이 로고",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "CE에로스(블랙)",
+          "code": "CE에로스(블랙)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "CE에로스(그레이)",
+          "code": "CE에로스(그레이)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "CE에로스(화이트)",
+          "code": "CE에로스(화이트)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "면트윌 Dark blue",
+          "code": "면트윌 Dark blue",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "면트윌 Light gray",
+          "code": "면트윌 Light gray",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "면트윌 Navy",
+          "code": "면트윌 Navy",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "레터링베이직(다크그레이)",
+          "code": "레터링베이직(다크그레이)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "레터링베이직(블랙)",
+          "code": "레터링베이직(블랙)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "레터링베이직(네이비)",
+          "code": "레터링베이직(네이비)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "레터링베이직(베이지)",
+          "code": "레터링베이직(베이지)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "레터링베이직(와인)",
+          "code": "레터링베이직(와인)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "아르커스노 그린",
+          "code": "아르커스노 그린",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "아르커스노 블루",
+          "code": "아르커스노 블루",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "아르커스노 블랙",
+          "code": "아르커스노 블랙",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "5.코듀라볼캡(블랙)",
+          "code": "5.코듀라볼캡(블랙)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "5.코듀라볼캡(브라운)",
+          "code": "5.코듀라볼캡(브라운)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "피드락 블랙",
+          "code": "피드락 블랙",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "피드락 그레이",
+          "code": "피드락 그레이",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "피드락 카키",
+          "code": "피드락 카키",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "1-1.면트윌(무지블랙)",
+          "code": "1-1.면트윌(무지블랙)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "윈드맥스 블랙",
+          "code": "윈드맥스 블랙",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "윈드맥스 차콜",
+          "code": "윈드맥스 차콜",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "60호",
+          "code": "60호",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "62호",
+          "code": "62호",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 4422376,
+      "managed_code": "0.3d자수 면트윌(네이비)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "0.3d자수 면트윌(네이비)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422377,
+      "managed_code": "0.3d자수 면트윌(네이비)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "0.3d자수 면트윌(네이비)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422378,
+      "managed_code": "0.3d자수 면트윌(베이지)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "0.3d자수 면트윌(베이지)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422379,
+      "managed_code": "0.3d자수 면트윌(베이지)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "0.3d자수 면트윌(베이지)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422380,
+      "managed_code": "0.3d자수 면트윌(블랙)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "0.3d자수 면트윌(블랙)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422381,
+      "managed_code": "0.3d자수 면트윌(블랙)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "0.3d자수 면트윌(블랙)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422382,
+      "managed_code": "0.3d자수 면트윌(오렌지)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "0.3d자수 면트윌(오렌지)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422383,
+      "managed_code": "0.3d자수 면트윌(오렌지)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "0.3d자수 면트윌(오렌지)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422384,
+      "managed_code": "1-1.면트윌(무지블랙)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1-1.면트윌(무지블랙)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422385,
+      "managed_code": "1-1.면트윌(무지블랙)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1-1.면트윌(무지블랙)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422386,
+      "managed_code": "1.면트윌(네이비라벨)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1.면트윌(네이비라벨)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422389,
+      "managed_code": "1.면트윌(블랙라벨)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1.면트윌(블랙라벨)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422390,
+      "managed_code": "1.면트윌(카키라벨)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1.면트윌(카키라벨)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422392,
+      "managed_code": "2.면트윌(베이지로고)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2.면트윌(베이지로고)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422396,
+      "managed_code": "2.면트윌(차콜로고)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2.면트윌(차콜로고)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422397,
+      "managed_code": "3.TR발수방오염(블랙)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "3.TR발수방오염(블랙)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422398,
+      "managed_code": "3.TR발수방오염(블랙)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "3.TR발수방오염(블랙)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422399,
+      "managed_code": "4.워시드나일론(네이비)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4.워시드나일론(네이비)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422400,
+      "managed_code": "4.워시드나일론(네이비)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4.워시드나일론(네이비)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422401,
+      "managed_code": "4.워시드나일론(블랙)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4.워시드나일론(블랙)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422402,
+      "managed_code": "4.워시드나일론(블랙)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4.워시드나일론(블랙)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422403,
+      "managed_code": "4.워시드나일론(카키)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4.워시드나일론(카키)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422404,
+      "managed_code": "4.워시드나일론(카키)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4.워시드나일론(카키)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422405,
+      "managed_code": "5.코듀라볼캡(브라운)^60호",
+      "price_delta": 10000,
+      "activated": true,
+      "values": [
+        "5.코듀라볼캡(브라운)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422406,
+      "managed_code": "5.코듀라볼캡(브라운)^62호",
+      "price_delta": 10000,
+      "activated": true,
+      "values": [
+        "5.코듀라볼캡(브라운)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422407,
+      "managed_code": "5.코듀라볼캡(블랙)^60호",
+      "price_delta": 10000,
+      "activated": true,
+      "values": [
+        "5.코듀라볼캡(블랙)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422408,
+      "managed_code": "5.코듀라볼캡(블랙)^62호",
+      "price_delta": 10000,
+      "activated": true,
+      "values": [
+        "5.코듀라볼캡(블랙)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422409,
+      "managed_code": "6.메탈립스탑^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "6.메탈립스탑",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422410,
+      "managed_code": "6.메탈립스탑^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "6.메탈립스탑",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422417,
+      "managed_code": "CE에로스(그레이)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CE에로스(그레이)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422418,
+      "managed_code": "CE에로스(그레이)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CE에로스(그레이)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422419,
+      "managed_code": "CE에로스(블랙)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CE에로스(블랙)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422420,
+      "managed_code": "CE에로스(블랙)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CE에로스(블랙)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422421,
+      "managed_code": "CE에로스(화이트)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CE에로스(화이트)",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422422,
+      "managed_code": "EIGHT LOGO(블랙)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "EIGHT LOGO(블랙)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422423,
+      "managed_code": "EIGHT LOGO(화이트)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "EIGHT LOGO(화이트)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422431,
+      "managed_code": "나일론트윌^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "나일론트윌",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422434,
+      "managed_code": "레터링베이직(네이비)^62호",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "레터링베이직(네이비)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422435,
+      "managed_code": "레터링베이직(다크그레이)^62호",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "레터링베이직(다크그레이)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422436,
+      "managed_code": "레터링베이직(블랙)^62호",
+      "price_delta": 3000,
+      "activated": true,
+      "values": [
+        "레터링베이직(블랙)",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422437,
+      "managed_code": "메탈립스탑^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "메탈립스탑",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422438,
+      "managed_code": "메탈립스탑^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "메탈립스탑",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422439,
+      "managed_code": "면트윌 Dark blue^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "면트윌 Dark blue",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422440,
+      "managed_code": "면트윌 Light gray^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "면트윌 Light gray",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422441,
+      "managed_code": "면트윌 Navy^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "면트윌 Navy",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422444,
+      "managed_code": "빅밴드고주파-그레이 로고^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빅밴드고주파-그레이 로고",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422445,
+      "managed_code": "빅밴드고주파-화이트 로고^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빅밴드고주파-화이트 로고",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422446,
+      "managed_code": "아르커스노 그린^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아르커스노 그린",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422447,
+      "managed_code": "아르커스노 블랙^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아르커스노 블랙",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422448,
+      "managed_code": "아르커스노 블루^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "아르커스노 블루",
+        "62호"
+      ]
+    },
+    {
+      "id": 4422449,
+      "managed_code": "워시드나일론^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "워시드나일론",
+        "60호"
+      ]
+    },
+    {
+      "id": 4422450,
+      "managed_code": "워시드나일론^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "워시드나일론",
+        "62호"
+      ]
+    },
+    {
+      "id": 23417388,
+      "managed_code": "1.면트윌(블랙라벨)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1.면트윌(블랙라벨)",
+        "60호"
+      ]
+    },
+    {
+      "id": 23417389,
+      "managed_code": "1.면트윌(네이비라벨)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1.면트윌(네이비라벨)",
+        "60호"
+      ]
+    },
+    {
+      "id": 23417390,
+      "managed_code": "1.면트윌(카키라벨)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1.면트윌(카키라벨)",
+        "60호"
+      ]
+    },
+    {
+      "id": 23417391,
+      "managed_code": "EIGHT LOGO(블랙)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "EIGHT LOGO(블랙)",
+        "60호"
+      ]
+    },
+    {
+      "id": 23417392,
+      "managed_code": "EIGHT LOGO(화이트)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "EIGHT LOGO(화이트)",
+        "60호"
+      ]
+    },
+    {
+      "id": 23417393,
+      "managed_code": "BIG LOGO(블랙)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BIG LOGO(블랙)",
+        "60호"
+      ]
+    },
+    {
+      "id": 23417394,
+      "managed_code": "BIG LOGO(화이트)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BIG LOGO(화이트)",
+        "60호"
+      ]
+    },
+    {
+      "id": 23417395,
+      "managed_code": "SKULL(블랙)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "SKULL(블랙)",
+        "60호"
+      ]
+    },
+    {
+      "id": 23417396,
+      "managed_code": "SKULL(화이트)^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "SKULL(화이트)",
+        "60호"
+      ]
+    },
+    {
+      "id": 23417397,
+      "managed_code": "빅밴드고주파-화이트 로고^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빅밴드고주파-화이트 로고",
+        "60호"
+      ]
+    },
+    {
+      "id": 23417398,
+      "managed_code": "빅밴드고주파-그레이 로고^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "빅밴드고주파-그레이 로고",
+        "60호"
+      ]
+    },
+    {
+      "id": 23417399,
+      "managed_code": "CE에로스(화이트)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CE에로스(화이트)",
+        "62호"
+      ]
+    },
+    {
+      "id": 23417400,
+      "managed_code": "면트윌 Dark blue^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "면트윌 Dark blue",
+        "60호"
+      ]
+    },
+    {
+      "id": 23417401,
+      "managed_code": "면트윌 Light gray^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "면트윌 Light gray",
+        "60호"
+      ]
+    },
+    {
+      "id": 23417402,
+      "managed_code": "면트윌 Navy^60호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "면트윌 Navy",
+        "60호"
+      ]
+    },
+    {
+      "id": 23539506,
+      "managed_code": "레터링베이직(베이지)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "레터링베이직(베이지)",
+        "62호"
+      ]
+    },
+    {
+      "id": 23539508,
+      "managed_code": "레터링베이직(와인)^62호",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "레터링베이직(와인)",
+        "62호"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 2577
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

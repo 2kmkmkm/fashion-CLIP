@@ -1,0 +1,250 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3902775",
+  "product_id": 3902775,
+  "name": "87-STAN047 벌룬핏 워싱 와이드 데님팬츠 빈티지 블루",
+  "name_en": "87-STAN047 Balloon Washing Wide Denim Pants Vintage Blue",
+  "style_no": "87-047",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "standarderror",
+    "name": "스탠다드에러",
+    "name_en": "STANDARDERROR"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003002",
+    "categoryDepth2Title": "데님 팬츠",
+    "categoryDepth2Name": "데님 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2025,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 54000,
+    "sale": 14500,
+    "discount_rate": 73,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240227/3902775/3902775_17743239715936_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17591125012301_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17259472904383_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17259472886892_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17259472835605_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17259472871788_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17738913687195_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17738913727798_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17738913694366_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17738913701330_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17738913707715_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17738913715274_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17738913721639_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17738913734709_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17738913742267_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17738913749130_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17738913755440_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240227/3902775/detail_3902775_17738913762797_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "XS",
+        "sequence": 0,
+        "measurements": {
+          "총장": 112.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 38.0,
+          "밑위": 36.0,
+          "밑단단면": 20.0
+        }
+      },
+      {
+        "size": "S",
+        "sequence": 1,
+        "measurements": {
+          "총장": 113.0,
+          "허리단면": 38.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 39.0,
+          "밑위": 37.0,
+          "밑단단면": 21.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 2,
+        "measurements": {
+          "총장": 114.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 40.0,
+          "밑위": 38.0,
+          "밑단단면": 22.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 3,
+        "measurements": {
+          "총장": 115.0,
+          "허리단면": 43.5,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 41.0,
+          "밑위": 39.0,
+          "밑단단면": 23.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "XS",
+          "code": "XS",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "빈티지 블랙 - S",
+          "code": "빈티지 블랙 - S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "빈티지 블랙 - M",
+          "code": "빈티지 블랙 - M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "빈티지 블랙 - L",
+          "code": "빈티지 블랙 - L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "빈티지 옐로우 - S",
+          "code": "빈티지 옐로우 - S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "빈티지 옐로우 - M",
+          "code": "빈티지 옐로우 - M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "빈티지 옐로우 - L",
+          "code": "빈티지 옐로우 - L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 16468060,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 16468061,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 16468062,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 21832702,
+      "managed_code": "XS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XS"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1241
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

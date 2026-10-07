@@ -1,0 +1,312 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4990088",
+  "product_id": 4990088,
+  "name": "페이토 샌들 v2(FS262SD03X004013)",
+  "name_en": "페이토 샌들 v2(FS262SD03X004013)",
+  "style_no": "1100FS262SD03X004013",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "fila",
+    "name": "휠라",
+    "name_en": "FILA"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103003",
+    "categoryDepth2Title": "샌들/슬리퍼",
+    "categoryDepth2Name": "샌들/슬리퍼",
+    "categoryDepth3Code": "103003002",
+    "categoryDepth3Title": "스포츠/캐주얼 샌들",
+    "categoryDepth3Name": "스포츠/캐주얼 샌들",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 89900,
+    "sale": 71900,
+    "discount_rate": 20,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250404/4990088/4990088_17744999649267_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250404/4990088/detail_4990088_17744999768091_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250404/4990088/detail_4990088_17744999762516_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250404/4990088/detail_4990088_17744999757067_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250404/4990088/detail_4990088_17744999750963_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250404/4990088/detail_4990088_17744999745480_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250404/4990088/detail_4990088_17744999739912_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "BLACK/BLACK/WHITE",
+        "sequence": 0,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "BLACK/BLACK/WHITE",
+          "code": "Black/Black/White",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "220",
+          "code": "220",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "225",
+          "code": "225",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "230",
+          "code": "230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "235",
+          "code": "235",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "240",
+          "code": "240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "245",
+          "code": "245",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "255",
+          "code": "255",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "290",
+          "code": "290",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 22899834,
+      "managed_code": "Black/Black/White^220",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK/BLACK/WHITE",
+        "220"
+      ]
+    },
+    {
+      "id": 22899835,
+      "managed_code": "Black/Black/White^230",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK/BLACK/WHITE",
+        "230"
+      ]
+    },
+    {
+      "id": 22899836,
+      "managed_code": "Black/Black/White^240",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK/BLACK/WHITE",
+        "240"
+      ]
+    },
+    {
+      "id": 22899837,
+      "managed_code": "Black/Black/White^250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK/BLACK/WHITE",
+        "250"
+      ]
+    },
+    {
+      "id": 22899838,
+      "managed_code": "Black/Black/White^260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK/BLACK/WHITE",
+        "260"
+      ]
+    },
+    {
+      "id": 22899839,
+      "managed_code": "Black/Black/White^270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK/BLACK/WHITE",
+        "270"
+      ]
+    },
+    {
+      "id": 22899840,
+      "managed_code": "Black/Black/White^280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK/BLACK/WHITE",
+        "280"
+      ]
+    },
+    {
+      "id": 22899841,
+      "managed_code": "Black/Black/White^290",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK/BLACK/WHITE",
+        "290"
+      ]
+    },
+    {
+      "id": 29754774,
+      "managed_code": "Black/Black/White^225",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK/BLACK/WHITE",
+        "225"
+      ]
+    },
+    {
+      "id": 29754775,
+      "managed_code": "Black/Black/White^235",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK/BLACK/WHITE",
+        "235"
+      ]
+    },
+    {
+      "id": 29754776,
+      "managed_code": "Black/Black/White^245",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK/BLACK/WHITE",
+        "245"
+      ]
+    },
+    {
+      "id": 29754777,
+      "managed_code": "Black/Black/White^255",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK/BLACK/WHITE",
+        "255"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 322
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

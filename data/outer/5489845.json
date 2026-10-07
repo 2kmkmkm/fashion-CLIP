@@ -1,0 +1,234 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5489845",
+  "product_id": 5489845,
+  "name": "[COUTURE]헤링본 오버핏 자켓",
+  "name_en": "[COUTURE]Herringbone Oversized-Fit Jacket",
+  "style_no": "MZJK7171",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "mindbridge",
+    "name": "마인드브릿지",
+    "name_en": "MINDBRIDGE"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002003",
+    "categoryDepth2Title": "슈트/블레이저 재킷",
+    "categoryDepth2Name": "슈트/블레이저 재킷",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 239000,
+    "sale": 119500,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250918/5489845/5489845_17639506491608_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250918/5489845/detail_5489845_17639506605548_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250918/5489845/detail_5489845_17639506613798_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250918/5489845/detail_5489845_17639506623335_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250918/5489845/detail_5489845_17588583300005_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250918/5489845/detail_5489845_17588583290380_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250918/5489845/detail_5489845_17588583282328_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250918/5489845/detail_5489845_17588583272929_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250918/5489845/detail_5489845_17588583254043_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250918/5489845/detail_5489845_17588583242798_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250918/5489845/detail_5489845_17588583263706_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "블레이져",
+    "type_number": 9,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711353500000001166.png",
+    "measurements": [
+      {
+        "size": "095",
+        "sequence": 0,
+        "measurements": {
+          "총장": 72.5,
+          "어깨너비": 48.4,
+          "가슴단면": 55.5,
+          "소매길이": 60.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0,
+          "허리단면": 0.0
+        }
+      },
+      {
+        "size": "100",
+        "sequence": 1,
+        "measurements": {
+          "총장": 74.0,
+          "어깨너비": 50.0,
+          "가슴단면": 58.0,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0,
+          "허리단면": 0.0
+        }
+      },
+      {
+        "size": "105",
+        "sequence": 2,
+        "measurements": {
+          "총장": 75.5,
+          "어깨너비": 51.6,
+          "가슴단면": 60.5,
+          "소매길이": 63.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0,
+          "허리단면": 0.0
+        }
+      },
+      {
+        "size": "110",
+        "sequence": 3,
+        "measurements": {
+          "총장": 76.5,
+          "어깨너비": 53.2,
+          "가슴단면": 63.0,
+          "소매길이": 64.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0,
+          "허리단면": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "BE",
+          "code": "BE",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5489845/20251208184229_option_69369d852a3301.14991741.",
+          "color": {
+            "colorCode": "5",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "095",
+          "code": "095",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "100",
+          "code": "100",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "105",
+          "code": "105",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "110",
+          "code": "110",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 26408386,
+      "managed_code": "BE^095",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BE",
+        "095"
+      ]
+    },
+    {
+      "id": 26408387,
+      "managed_code": "BE^100",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BE",
+        "100"
+      ]
+    },
+    {
+      "id": 26408388,
+      "managed_code": "BE^105",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BE",
+        "105"
+      ]
+    },
+    {
+      "id": 26408389,
+      "managed_code": "BE^110",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BE",
+        "110"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 19
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

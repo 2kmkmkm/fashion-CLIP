@@ -1,0 +1,117 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5607749",
+  "product_id": 5607749,
+  "name": "빅 C로고 워시드 볼캡 Navy",
+  "name_en": "빅 C로고 워시드 볼캡 Navy",
+  "style_no": "CHPU252KBHA029NV",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "champion",
+    "name": "챔피온",
+    "name_en": "CHAMPION"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2025,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 45000,
+    "sale": 27000,
+    "discount_rate": 40,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20251017/5607749/5607749_17610198691862_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251017/5607749/detail_5607749_17610241914242_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251017/5607749/detail_5607749_17610241920723_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251017/5607749/detail_5607749_17610241927235_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251017/5607749/detail_5607749_17610241934311_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251017/5607749/detail_5607749_17610241941438_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "FREE",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 0.0,
+          "챙길이": 0.0,
+          "깊이": 17.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "FREE",
+          "code": "FREE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 26897089,
+      "managed_code": "FREE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "FREE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 33
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

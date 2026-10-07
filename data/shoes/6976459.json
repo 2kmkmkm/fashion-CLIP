@@ -1,0 +1,234 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/6976459",
+  "product_id": 6976459,
+  "name": "[6.5CM UP] 논슬립 러기드 스웨이드 뮬_브라운",
+  "name_en": "[6.5CM UP] NON SLIP RUGGED SUEDE MULE_BROWN",
+  "style_no": "TRFSN01BR",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "trillion",
+    "name": "트릴리온",
+    "name_en": "TRILLION"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103004",
+    "categoryDepth2Title": "스니커즈",
+    "categoryDepth2Name": "스니커즈",
+    "categoryDepth3Code": "103004004",
+    "categoryDepth3Title": "패션스니커즈화",
+    "categoryDepth3Name": "패션스니커즈화",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 96000,
+    "sale": 39990,
+    "discount_rate": 58,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260802/6976459/6976459_17859010788931_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260802/6976459/detail_6976459_17859010917926_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260802/6976459/detail_6976459_17859010924033_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260802/6976459/detail_6976459_17859010930262_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260802/6976459/detail_6976459_17859010935825_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260802/6976459/detail_6976459_17859010941659_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260802/6976459/detail_6976459_17859010947757_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260802/6976459/detail_6976459_17859010953986_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260802/6976459/detail_6976459_17859010960012_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260802/6976459/detail_6976459_17859010965955_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260802/6976459/detail_6976459_17859010971674_500.jpg"
+  ],
+  "features": {
+    "굽 높이": [
+      "높음"
+    ],
+    "쿠션": [
+      "있음"
+    ],
+    "무게": [
+      "가벼움"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "240 (235-240)",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 27.6,
+          "발볼": 10.5,
+          "발목높이": 11.0,
+          "굽높이": 6.5
+        }
+      },
+      {
+        "size": "250 (245-250)",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 28.6,
+          "발볼": 10.8,
+          "발목높이": 11.5,
+          "굽높이": 6.5
+        }
+      },
+      {
+        "size": "260 (255-260)",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 29.6,
+          "발볼": 11.2,
+          "발목높이": 11.8,
+          "굽높이": 6.5
+        }
+      },
+      {
+        "size": "270 (265-270)",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 30.6,
+          "발볼": 11.5,
+          "발목높이": 12.2,
+          "굽높이": 6.5
+        }
+      },
+      {
+        "size": "280 (275-280)",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 31.6,
+          "발볼": 12.0,
+          "발목높이": 12.5,
+          "굽높이": 6.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "240 (235-240)",
+          "code": "240 (235-240)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250 (245-250)",
+          "code": "250 (245-250)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260 (255-260)",
+          "code": "260 (255-260)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270 (265-270)",
+          "code": "270 (265-270)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280 (275-280)",
+          "code": "280 (275-280)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32557975,
+      "managed_code": "240 (235-240)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "240 (235-240)"
+      ]
+    },
+    {
+      "id": 32557976,
+      "managed_code": "250 (245-250)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "250 (245-250)"
+      ]
+    },
+    {
+      "id": 32557977,
+      "managed_code": "260 (255-260)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "260 (255-260)"
+      ]
+    },
+    {
+      "id": 32557978,
+      "managed_code": "270 (265-270)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "270 (265-270)"
+      ]
+    },
+    {
+      "id": 32557979,
+      "managed_code": "280 (275-280)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "280 (275-280)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 68
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

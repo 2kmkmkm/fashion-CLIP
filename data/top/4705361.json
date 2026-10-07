@@ -1,0 +1,174 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4705361",
+  "product_id": 4705361,
+  "name": "빅보이 체크 셔츠 베이지",
+  "name_en": "BIGBOY Check Shirt Beige",
+  "style_no": "LSSSH030BE",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "lmood",
+    "name": "엘무드",
+    "name_en": "LMOOD"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 98000,
+    "sale": 29400,
+    "discount_rate": 70,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250108/4705361/4705361_17466746428891_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4705361/detail_4705361_17466746471905_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250108/4705361/detail_4705361_17466746500477_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "44",
+        "sequence": 0,
+        "measurements": {
+          "총장": 77.0,
+          "어깨너비": 57.6,
+          "가슴단면": 65.5,
+          "소매길이": 59.8,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "46",
+        "sequence": 1,
+        "measurements": {
+          "총장": 78.0,
+          "어깨너비": 58.8,
+          "가슴단면": 68.0,
+          "소매길이": 60.4,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "48",
+        "sequence": 2,
+        "measurements": {
+          "총장": 79.0,
+          "어깨너비": 60.0,
+          "가슴단면": 70.5,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "44",
+          "code": "44",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4705361/20251016120704_option_68f061586d3da2.35179683.",
+          "color": null
+        },
+        {
+          "name": "46",
+          "code": "46",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4705361/20251016120706_option_68f0615a6bfc73.91203164.",
+          "color": null
+        },
+        {
+          "name": "48",
+          "code": "48",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4705361/20251016120708_option_68f0615c175a96.19016103.",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 21247408,
+      "managed_code": "44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "44"
+      ]
+    },
+    {
+      "id": 21247409,
+      "managed_code": "46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "46"
+      ]
+    },
+    {
+      "id": 21247410,
+      "managed_code": "48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "48"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 39
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4425038",
+  "product_id": 4425038,
+  "name": "빅 스크립트 로고 크루넥 스웨트셔츠 Normal Navy",
+  "name_en": "빅 스크립트 로고 크루넥 스웨트셔츠 Normal Navy",
+  "style_no": "CKTS5ES43N2",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "champion",
+    "name": "챔피온",
+    "name_en": "CHAMPION"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001005",
+    "categoryDepth2Title": "맨투맨/스웨트",
+    "categoryDepth2Name": "맨투맨/스웨트",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 59000,
+    "sale": 20000,
+    "discount_rate": 66,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240910/4425038/4425038_17429700084189_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240910/4425038/detail_4425038_17429700188165_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240910/4425038/detail_4425038_17429700195935_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240910/4425038/detail_4425038_17429700204876_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240910/4425038/detail_4425038_17429700214732_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240910/4425038/detail_4425038_17429700225086_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240910/4425038/detail_4425038_17429700237813_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 5,
+        "measurements": {
+          "총장": 71.5,
+          "어깨너비": 45.5,
+          "가슴단면": 53.5,
+          "소매길이": 67.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 6,
+        "measurements": {
+          "총장": 72.5,
+          "어깨너비": 47.0,
+          "가슴단면": 56.0,
+          "소매길이": 69.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 7,
+        "measurements": {
+          "총장": 74.5,
+          "어깨너비": 48.5,
+          "가슴단면": 60.0,
+          "소매길이": 69.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 8,
+        "measurements": {
+          "총장": 76.5,
+          "어깨너비": 50.0,
+          "가슴단면": 64.0,
+          "소매길이": 69.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "2XL",
+        "sequence": 9,
+        "measurements": {
+          "총장": 78.5,
+          "어깨너비": 51.5,
+          "가슴단면": 68.0,
+          "소매길이": 69.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "00S",
+          "code": "00S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "00M",
+          "code": "00M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "00L",
+          "code": "00L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "0XL",
+          "code": "0XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL",
+          "code": "2XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 21419727,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 21419728,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 21419729,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 21419730,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 21419731,
+      "managed_code": "2XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 66
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

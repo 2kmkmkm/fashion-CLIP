@@ -1,0 +1,116 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2891608",
+  "product_id": 2891608,
+  "name": "goggles short beanie",
+  "name_en": "고글 숏 비니",
+  "style_no": "goggles short beanie",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "respect",
+    "name": "리스펙트",
+    "name_en": "RESPECT"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120005",
+    "categoryDepth2Title": "비니",
+    "categoryDepth2Name": "비니",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": 2022,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 78000,
+    "sale": 35100,
+    "discount_rate": 55,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20221025/2891608/2891608_2_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221025/2891608/detail_2891608_17167921989679_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221025/2891608/detail_2891608_17167921997890_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221025/2891608/detail_2891608_17167922007111_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20221025/2891608/detail_2891608_17167922013046_500.jpg"
+  ],
+  "features": {
+    "깊이": [
+      "보통"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "비니",
+    "type_number": 52,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711465700000088960.png",
+    "measurements": [
+      {
+        "size": "ONE SIZE",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 40.0,
+          "깊이": 18.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "ONE SIZE",
+          "code": "ONE SIZE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 11899514,
+      "managed_code": "ONE SIZE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "ONE SIZE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.6,
+    "count": 253
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

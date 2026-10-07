@@ -1,0 +1,346 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5152458",
+  "product_id": 5152458,
+  "name": "두굿_와이드 원턱 쿨맥스 밴딩 슬랙스 - 2color",
+  "name_en": "Do Good_Wide One Tuck Coolmax Banding Slacks - 2color",
+  "style_no": "MAPT31A4",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "mindbridge",
+    "name": "마인드브릿지",
+    "name_en": "MINDBRIDGE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003008",
+    "categoryDepth2Title": "슈트 팬츠/슬랙스",
+    "categoryDepth2Name": "슈트 팬츠/슬랙스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 79900,
+    "sale": 39900,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250528/5152458/5152458_17497883296560_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250528/5152458/detail_5152458_17497883206966_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250528/5152458/detail_5152458_17497883382423_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250528/5152458/detail_5152458_17484073091013_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250528/5152458/detail_5152458_17484073116375_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250528/5152458/detail_5152458_17484073098428_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250528/5152458/detail_5152458_17484073109343_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "029",
+        "sequence": 0,
+        "measurements": {
+          "총장": 105.5,
+          "허리단면": 37.25,
+          "엉덩이단면": 52.75,
+          "허벅지단면": 32.55,
+          "밑위": 26.5,
+          "밑단단면": 24.8
+        }
+      },
+      {
+        "size": "030",
+        "sequence": 1,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 38.5,
+          "엉덩이단면": 54.0,
+          "허벅지단면": 33.2,
+          "밑위": 27.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "032",
+        "sequence": 2,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 56.5,
+          "허벅지단면": 34.5,
+          "밑위": 28.0,
+          "밑단단면": 25.5
+        }
+      },
+      {
+        "size": "034",
+        "sequence": 3,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 43.5,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 35.8,
+          "밑위": 29.0,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "036",
+        "sequence": 4,
+        "measurements": {
+          "총장": 109.0,
+          "허리단면": 46.0,
+          "엉덩이단면": 61.5,
+          "허벅지단면": 37.1,
+          "밑위": 30.0,
+          "밑단단면": 26.5
+        }
+      },
+      {
+        "size": "038",
+        "sequence": 5,
+        "measurements": {
+          "총장": 110.0,
+          "허리단면": 48.5,
+          "엉덩이단면": 63.5,
+          "허벅지단면": 38.4,
+          "밑위": 31.0,
+          "밑단단면": 27.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "BK",
+          "code": "BK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5152458/20260331094414_option_69cb18dee5e618.65669486.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "GR",
+          "code": "GR",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5152458/20260331094423_option_69cb18e7985dc8.13274998.",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "029",
+          "code": "029",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "030",
+          "code": "030",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "032",
+          "code": "032",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "034",
+          "code": "034",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "036",
+          "code": "036",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "038",
+          "code": "038",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 23829572,
+      "managed_code": "BK^029",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "029"
+      ]
+    },
+    {
+      "id": 23829573,
+      "managed_code": "BK^030",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "030"
+      ]
+    },
+    {
+      "id": 23829574,
+      "managed_code": "BK^032",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "032"
+      ]
+    },
+    {
+      "id": 23829575,
+      "managed_code": "BK^034",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "034"
+      ]
+    },
+    {
+      "id": 23829576,
+      "managed_code": "BK^036",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "036"
+      ]
+    },
+    {
+      "id": 23829577,
+      "managed_code": "BK^038",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "038"
+      ]
+    },
+    {
+      "id": 23829578,
+      "managed_code": "GR^029",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "029"
+      ]
+    },
+    {
+      "id": 23829579,
+      "managed_code": "GR^030",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "030"
+      ]
+    },
+    {
+      "id": 23829580,
+      "managed_code": "GR^032",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "032"
+      ]
+    },
+    {
+      "id": 23829581,
+      "managed_code": "GR^034",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "034"
+      ]
+    },
+    {
+      "id": 23829582,
+      "managed_code": "GR^036",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "036"
+      ]
+    },
+    {
+      "id": 23829583,
+      "managed_code": "GR^038",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "038"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 85
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

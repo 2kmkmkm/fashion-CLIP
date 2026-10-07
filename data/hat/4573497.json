@@ -1,0 +1,118 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4573497",
+  "product_id": 4573497,
+  "name": "코듀로이 C 로고 컬러 블럭 볼캡 민트",
+  "name_en": "CORDUROY C LOGO COLOR BLOCK BALL CAP",
+  "style_no": "CO2404CA58MI",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "covernat",
+    "name": "커버낫",
+    "name_en": "COVERNAT"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 45000,
+    "sale": 11200,
+    "discount_rate": 75,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241030/4573497/4573497_17306863707523_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241030/4573497/detail_4573497_17306863714912_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241030/4573497/detail_4573497_17306863756422_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241030/4573497/detail_4573497_17306863759210_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241030/4573497/detail_4573497_17306863761426_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241030/4573497/detail_4573497_17306863762977_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "F",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 58.0,
+          "챙길이": 6.8,
+          "깊이": 16.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "F",
+          "code": "F",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 20092690,
+      "managed_code": "F",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "F"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 6
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

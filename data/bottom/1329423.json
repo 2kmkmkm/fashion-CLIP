@@ -1,0 +1,201 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/1329423",
+  "product_id": 1329423,
+  "name": "[나일론] 세미 와이드 스트링 카고팬츠 [베이지]",
+  "name_en": "[Nylon ver] 세미 와이드 스트링 카고팬츠 [베이지]",
+  "style_no": "m20ss346",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "moderment",
+    "name": "모더먼트",
+    "name_en": "MODERMENT"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": null,
+      "year": 2025,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 65000,
+    "sale": 32500,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20200302/1329423/1329423_17193827686692_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200302/1329423/detail_1329423_17193827877615_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200302/1329423/detail_1329423_17193827886434_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200302/1329423/detail_1329423_17193827894914_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200302/1329423/detail_1329423_17193827863868_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20200302/1329423/detail_1329423_17193827871666_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "약간 얇음"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 57.0,
+          "허벅지단면": 34.0,
+          "밑위": 32.0,
+          "밑단단면": 23.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 38.0,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 36.0,
+          "밑위": 33.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 61.0,
+          "허벅지단면": 38.0,
+          "밑위": 34.0,
+          "밑단단면": 25.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 4404852,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 4404853,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 4404854,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 2096
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

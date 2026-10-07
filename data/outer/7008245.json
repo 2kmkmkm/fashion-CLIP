@@ -1,0 +1,186 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7008245",
+  "product_id": 7008245,
+  "name": "GHD050 GLK 스폰서드 404 아플리케 레귤러핏 워시드 후드 집업 (NAVY)",
+  "name_en": "",
+  "style_no": "GHD050NV",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "glack",
+    "name": "글랙",
+    "name_en": "GLACK"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002022",
+    "categoryDepth2Title": "후드 집업",
+    "categoryDepth2Name": "후드 집업",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 129000,
+    "sale": 96750,
+    "discount_rate": 25,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260806/7008245/7008245_17899525947967_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260806/7008245/detail_7008245_17883254815496_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260806/7008245/detail_7008245_17883254810443_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260806/7008245/detail_7008245_17883254808608_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260806/7008245/detail_7008245_17883254813518_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260806/7008245/detail_7008245_17883254811966_500.jpg",
+    "https://image.msscdn.net/images/goods_img/20260806/7008245/7008245_17859946517025_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260806/7008245/detail_7008245_17883254817118_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260806/7008245/detail_7008245_17883254818664_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260806/7008245/detail_7008245_17906519935131_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260806/7008245/detail_7008245_17906519937177_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260806/7008245/detail_7008245_17906519938691_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러",
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 61.0,
+          "어깨너비": 55.0,
+          "가슴단면": 57.0,
+          "소매길이": 67.0,
+          "밑단단면": 45.0,
+          "소매부리단면": 24.0,
+          "암홀": 26.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 64.0,
+          "어깨너비": 58.0,
+          "가슴단면": 60.0,
+          "소매길이": 68.0,
+          "밑단단면": 48.0,
+          "소매부리단면": 25.0,
+          "암홀": 27.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32344954,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 32344955,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

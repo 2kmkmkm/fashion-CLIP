@@ -1,0 +1,168 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7400776",
+  "product_id": 7400776,
+  "name": "[xYASE] braided moc boots (grunge taupe)",
+  "name_en": "",
+  "style_no": "YY26FWSH01TP",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "yeomim",
+    "name": "여밈",
+    "name_en": "YEOMIM"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103002",
+    "categoryDepth2Title": "부츠/워커",
+    "categoryDepth2Name": "부츠/워커",
+    "categoryDepth3Code": "103002002",
+    "categoryDepth3Title": "미들/하프 부츠",
+    "categoryDepth3Name": "미들/하프 부츠",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 198000,
+    "sale": 178200,
+    "discount_rate": 10,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260923/7400776/7400776_17908461736141_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260923/7400776/detail_7400776_17908461741869_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260923/7400776/detail_7400776_17908461743274_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260923/7400776/detail_7400776_17908461744677_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260923/7400776/detail_7400776_17908461746073_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "230 (230-235)",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 25.3,
+          "발볼": 8.0,
+          "발목높이": 35.0,
+          "굽높이": 2.0
+        }
+      },
+      {
+        "size": "240 (240-245)",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 26.3,
+          "발볼": 8.3,
+          "발목높이": 36.0,
+          "굽높이": 2.0
+        }
+      },
+      {
+        "size": "250 (250-255)",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 27.3,
+          "발볼": 8.6,
+          "발목높이": 37.0,
+          "굽높이": 2.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "230 (230-235)",
+          "code": "230 (230-235)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "240 (240-245)",
+          "code": "240 (240-245)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250 (250-255)",
+          "code": "250 (250-255)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 33408363,
+      "managed_code": "230 (230-235)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "230 (230-235)"
+      ]
+    },
+    {
+      "id": 33408364,
+      "managed_code": "240 (240-245)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "240 (240-245)"
+      ]
+    },
+    {
+      "id": 33408365,
+      "managed_code": "250 (250-255)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "250 (250-255)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

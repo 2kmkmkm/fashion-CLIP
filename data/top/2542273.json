@@ -1,0 +1,435 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2542273",
+  "product_id": 2542273,
+  "name": "쿨링 데님 루즈 반팔 셔츠 - 3COL",
+  "name_en": "",
+  "style_no": "AV42SH10",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "avan",
+    "name": "어반드레스",
+    "name_en": "AVANDRESS"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "여름"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": null,
+      "source": "inferred_from_season_tags"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 42000,
+    "sale": 24900,
+    "discount_rate": 41,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220504/2542273/2542273_16885178708848_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220504/2542273/detail_2542273_1_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220504/2542273/detail_2542273_2_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220504/2542273/detail_2542273_16885178544226_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "약간 부드러움"
+    ],
+    "신축성": [
+      "약간 있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "여름"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "블랙 1(M)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 76.5,
+          "어깨너비": 54.0,
+          "가슴단면": 66.0,
+          "소매길이": 25.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블랙 2(L)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 79.0,
+          "어깨너비": 56.0,
+          "가슴단면": 68.5,
+          "소매길이": 26.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블랙 3(XL)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 80.5,
+          "어깨너비": 58.0,
+          "가슴단면": 71.0,
+          "소매길이": 27.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "인디고 1(M)",
+        "sequence": 3,
+        "measurements": {
+          "총장": 76.5,
+          "어깨너비": 54.0,
+          "가슴단면": 66.0,
+          "소매길이": 25.0,
+          "밑단단면": 62.0,
+          "소매부리단면": 20.0,
+          "암홀": 21.0
+        }
+      },
+      {
+        "size": "인디고 2(L)",
+        "sequence": 4,
+        "measurements": {
+          "총장": 79.0,
+          "어깨너비": 56.0,
+          "가슴단면": 68.5,
+          "소매길이": 26.0,
+          "밑단단면": 62.0,
+          "소매부리단면": 25.0,
+          "암홀": 23.0
+        }
+      },
+      {
+        "size": "인디고 3(XL)",
+        "sequence": 5,
+        "measurements": {
+          "총장": 80.5,
+          "어깨너비": 58.0,
+          "가슴단면": 71.0,
+          "소매길이": 27.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블루 1(M)",
+        "sequence": 6,
+        "measurements": {
+          "총장": 76.5,
+          "어깨너비": 54.0,
+          "가슴단면": 66.0,
+          "소매길이": 25.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블루 2(L)",
+        "sequence": 7,
+        "measurements": {
+          "총장": 79.0,
+          "어깨너비": 56.0,
+          "가슴단면": 68.5,
+          "소매길이": 26.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블루 3(XL)",
+        "sequence": 8,
+        "measurements": {
+          "총장": 80.5,
+          "어깨너비": 58.0,
+          "가슴단면": 71.0,
+          "소매길이": 27.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "옵션 선택",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "블랙 1(M)",
+          "code": "블랙 1(M)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 2(L)",
+          "code": "블랙 2(L)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 3(XL)",
+          "code": "블랙 3(XL)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "인디고 1(M)",
+          "code": "인디고 1(M)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "인디고 2(L)",
+          "code": "인디고 2(L)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "인디고 3(XL)",
+          "code": "인디고 3(XL)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블루 1(M)",
+          "code": "블루 1(M)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블루 2(L)",
+          "code": "블루 2(L)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블루 3(XL)",
+          "code": "블루 3(XL)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 1(S)",
+          "code": "블랙 1(S)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 2(M)",
+          "code": "블랙 2(M)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 3(L)",
+          "code": "블랙 3(L)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블루 1(S)",
+          "code": "블루 1(S)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블루 2(M)",
+          "code": "블루 2(M)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블루 3(L)",
+          "code": "블루 3(L)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "인디고 1(S)",
+          "code": "인디고 1(S)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "인디고 2(M)",
+          "code": "인디고 2(M)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "인디고 3(L)",
+          "code": "인디고 3(L)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "1",
+          "code": "1",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2",
+          "code": "2",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "3",
+          "code": "3",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 10408285,
+      "managed_code": "블랙 1(M)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 1(M)"
+      ]
+    },
+    {
+      "id": 10408287,
+      "managed_code": "블랙 2(L)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 2(L)"
+      ]
+    },
+    {
+      "id": 10408290,
+      "managed_code": "블랙 3(XL)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 3(XL)"
+      ]
+    },
+    {
+      "id": 10408291,
+      "managed_code": "블루 1(M)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블루 1(M)"
+      ]
+    },
+    {
+      "id": 10408293,
+      "managed_code": "블루 2(L)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블루 2(L)"
+      ]
+    },
+    {
+      "id": 10408296,
+      "managed_code": "블루 3(XL)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블루 3(XL)"
+      ]
+    },
+    {
+      "id": 10408297,
+      "managed_code": "인디고 1(M)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "인디고 1(M)"
+      ]
+    },
+    {
+      "id": 10408299,
+      "managed_code": "인디고 2(L)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "인디고 2(L)"
+      ]
+    },
+    {
+      "id": 10408302,
+      "managed_code": "인디고 3(XL)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "인디고 3(XL)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 3117
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

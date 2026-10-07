@@ -1,0 +1,258 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3805601",
+  "product_id": 3805601,
+  "name": "OMBRE 체크 오버핏 긴팔셔츠 2Color GLS-704",
+  "name_en": "OMBRE Check Oversized Fit Long Sleeve Shirts 2Color GLS-704",
+  "style_no": "GLS-704navy",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "ghostrepublic",
+    "name": "고스트리퍼블릭",
+    "name_en": "GHOST REPUBLIC"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2023,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 50000,
+    "sale": 19900,
+    "discount_rate": 60,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240118/3805601/3805601_17852010509094_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240118/3805601/detail_3805601_17852010556969_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240118/3805601/detail_3805601_17835873789339_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240118/3805601/detail_3805601_17180932001573_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240118/3805601/detail_3805601_17542746394555_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240118/3805601/detail_3805601_17835873802227_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240118/3805601/detail_3805601_17835873795235_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "신축성": [
+      "거의 없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "L",
+        "sequence": 0,
+        "measurements": {
+          "총장": 79.0,
+          "어깨너비": 57.0,
+          "가슴단면": 57.0,
+          "소매길이": 65.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 1,
+        "measurements": {
+          "총장": 80.0,
+          "어깨너비": 58.0,
+          "가슴단면": 61.0,
+          "소매길이": 66.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XXL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 81.0,
+          "어깨너비": 60.0,
+          "가슴단면": 65.0,
+          "소매길이": 67.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "네이비",
+          "code": "네이비",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3805601/20250319164438_option_67da75e6c63495.27268046.",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3805601/20250319164442_option_67da75ea514890.62291445.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15973212,
+      "managed_code": "네이비^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "L"
+      ]
+    },
+    {
+      "id": 15973213,
+      "managed_code": "네이비^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "XL"
+      ]
+    },
+    {
+      "id": 15973214,
+      "managed_code": "네이비^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비",
+        "XXL"
+      ]
+    },
+    {
+      "id": 15973215,
+      "managed_code": "블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 15973216,
+      "managed_code": "블랙^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "XL"
+      ]
+    },
+    {
+      "id": 15973217,
+      "managed_code": "블랙^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "XXL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 410
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

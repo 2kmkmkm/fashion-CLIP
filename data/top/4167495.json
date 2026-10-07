@@ -1,0 +1,248 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4167495",
+  "product_id": 4167495,
+  "name": "오버핏 크루넥 브루클린 반팔 티셔츠 화이트블루",
+  "name_en": "오버핏 크루넥 브루클린 반팔 티셔츠 화이트블루",
+  "style_no": "UT69-WHITEBLUE",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "nmx",
+    "name": "언더오프",
+    "name_en": "UNDEROFF"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001001",
+    "categoryDepth2Title": "반소매 티셔츠",
+    "categoryDepth2Name": "반소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2024,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 37800,
+    "sale": 18900,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240530/4167495/4167495_17170523780813_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240530/4167495/detail_4167495_17170523789712_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240530/4167495/detail_4167495_17170523792147_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240530/4167495/detail_4167495_17170523794469_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 51.0,
+          "가슴단면": 55.0,
+          "소매길이": 19.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 53.0,
+          "가슴단면": 57.0,
+          "소매길이": 21.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 55.0,
+          "가슴단면": 59.0,
+          "소매길이": 23.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 75.0,
+          "어깨너비": 57.0,
+          "가슴단면": 61.0,
+          "소매길이": 25.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "색상",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "화이트블루",
+          "code": "화이트블루",
+          "image_url": "",
+          "color": {
+            "colorCode": "1",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 17581815,
+      "managed_code": "화이트블루^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트블루",
+        "L"
+      ]
+    },
+    {
+      "id": 17581816,
+      "managed_code": "화이트블루^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트블루",
+        "M"
+      ]
+    },
+    {
+      "id": 17581817,
+      "managed_code": "화이트블루^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트블루",
+        "S"
+      ]
+    },
+    {
+      "id": 17581818,
+      "managed_code": "화이트블루^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트블루",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 1101
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

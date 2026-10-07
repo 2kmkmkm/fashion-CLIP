@@ -1,0 +1,235 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4794912",
+  "product_id": 4794912,
+  "name": "워시드 퍼티그 프론트 카고 팬츠[블랙]",
+  "name_en": "워시드 퍼티그 프론트 카고 팬츠[블랙]",
+  "style_no": "25SSFFCP-001",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "scallywag",
+    "name": "스켈리웩",
+    "name_en": "SCALLYWAG"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 79900,
+    "sale": 59900,
+    "discount_rate": 25,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250217/4794912/4794912_17406440485037_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250217/4794912/detail_4794912_17872037993872_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250217/4794912/detail_4794912_17872038014377_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250217/4794912/detail_4794912_17872038022053_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250217/4794912/detail_4794912_17872038030781_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250217/4794912/detail_4794912_17872038037736_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250217/4794912/detail_4794912_17872038044793_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250217/4794912/detail_4794912_17872038052146_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250217/4794912/detail_4794912_17872038059257_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250217/4794912/detail_4794912_17872038065980_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250217/4794912/detail_4794912_17872038073392_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈",
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통",
+      "약간 뻣뻣함"
+    ],
+    "신축성": [
+      "없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 111.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 53.5,
+          "허벅지단면": 37.0,
+          "밑위": 36.0,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 112.0,
+          "허리단면": 38.5,
+          "엉덩이단면": 55.0,
+          "허벅지단면": 38.5,
+          "밑위": 37.0,
+          "밑단단면": 27.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 113.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 57.5,
+          "허벅지단면": 40.0,
+          "밑위": 38.0,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 114.0,
+          "허리단면": 43.5,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 41.5,
+          "밑위": 39.0,
+          "밑단단면": 29.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 21916481,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 21916482,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 21916483,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 21916484,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 129
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

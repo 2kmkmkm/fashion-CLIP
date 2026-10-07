@@ -1,0 +1,397 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4511712",
+  "product_id": 4511712,
+  "name": "데일리 코듀로이 스판 와이드 팬츠_4컬러",
+  "name_en": "DAILY CORDUROY SPAN WIDE PANTS_4 COLORS",
+  "style_no": "MA-TFPT003",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "makeitto",
+    "name": "메이킷투",
+    "name_en": "MAKEITTO"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 79000,
+    "sale": 31600,
+    "discount_rate": 60,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241014/4511712/4511712_17288683328264_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683803724_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683810736_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683817041_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683823465_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683829843_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683837826_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683844629_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683851709_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683771303_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683777613_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683786014_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683795079_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683720788_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683727748_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683734943_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683741616_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683747224_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683753258_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683759012_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241014/4511712/detail_4511712_17288683764876_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈",
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "약간 부드러움"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 30.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 34.0,
+          "밑위": 30.0,
+          "밑단단면": 23.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 31.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 35.0,
+          "밑위": 31.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 32.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 36.0,
+          "밑위": 32.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 34.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 38.0,
+          "밑위": 33.0,
+          "밑단단면": 27.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "CREAM",
+          "code": "CREAM",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "DARK MOSSY",
+          "code": "DARK MOSSY",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BEIGE",
+          "code": "BEIGE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "KHAKI",
+          "code": "KHAKI",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 19640782,
+      "managed_code": "CREAM^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CREAM",
+        "S"
+      ]
+    },
+    {
+      "id": 19640783,
+      "managed_code": "CREAM^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CREAM",
+        "M"
+      ]
+    },
+    {
+      "id": 19640784,
+      "managed_code": "CREAM^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CREAM",
+        "L"
+      ]
+    },
+    {
+      "id": 19640785,
+      "managed_code": "CREAM^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CREAM",
+        "XL"
+      ]
+    },
+    {
+      "id": 19640786,
+      "managed_code": "DARK MOSSY^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "DARK MOSSY",
+        "S"
+      ]
+    },
+    {
+      "id": 19640787,
+      "managed_code": "DARK MOSSY^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "DARK MOSSY",
+        "M"
+      ]
+    },
+    {
+      "id": 19640788,
+      "managed_code": "DARK MOSSY^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "DARK MOSSY",
+        "L"
+      ]
+    },
+    {
+      "id": 19640789,
+      "managed_code": "DARK MOSSY^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "DARK MOSSY",
+        "XL"
+      ]
+    },
+    {
+      "id": 19640790,
+      "managed_code": "BEIGE^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE",
+        "S"
+      ]
+    },
+    {
+      "id": 19640791,
+      "managed_code": "BEIGE^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE",
+        "M"
+      ]
+    },
+    {
+      "id": 19640792,
+      "managed_code": "BEIGE^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE",
+        "L"
+      ]
+    },
+    {
+      "id": 19640793,
+      "managed_code": "BEIGE^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE",
+        "XL"
+      ]
+    },
+    {
+      "id": 19640794,
+      "managed_code": "KHAKI^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI",
+        "S"
+      ]
+    },
+    {
+      "id": 19640795,
+      "managed_code": "KHAKI^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI",
+        "M"
+      ]
+    },
+    {
+      "id": 19640796,
+      "managed_code": "KHAKI^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI",
+        "L"
+      ]
+    },
+    {
+      "id": 19640797,
+      "managed_code": "KHAKI^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.6,
+    "count": 57
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

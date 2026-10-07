@@ -1,0 +1,258 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3887843",
+  "product_id": 3887843,
+  "name": "린넨 세미와이드 버클 팬츠 블랙",
+  "name_en": "린넨 세미와이드 버클 팬츠 블랙",
+  "style_no": "CO2401PT14BK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "covernat",
+    "name": "커버낫",
+    "name_en": "COVERNAT"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2024,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 99000,
+    "sale": 23700,
+    "discount_rate": 76,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240221/3887843/3887843_17089118184754_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240221/3887843/detail_3887843_17089118216121_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240221/3887843/detail_3887843_17089118222337_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240221/3887843/detail_3887843_17089118229599_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240221/3887843/detail_3887843_17089118235847_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240221/3887843/detail_3887843_17089118241765_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240221/3887843/detail_3887843_17089118249100_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240221/3887843/detail_3887843_17089118255176_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "XS",
+        "sequence": 0,
+        "measurements": {
+          "총장": 98.5,
+          "허리단면": 32.5,
+          "엉덩이단면": 48.0,
+          "허벅지단면": 33.1,
+          "밑위": 26.6,
+          "밑단단면": 21.5
+        }
+      },
+      {
+        "size": "S",
+        "sequence": 1,
+        "measurements": {
+          "총장": 100.0,
+          "허리단면": 35.0,
+          "엉덩이단면": 50.5,
+          "허벅지단면": 34.4,
+          "밑위": 27.4,
+          "밑단단면": 22.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 2,
+        "measurements": {
+          "총장": 101.5,
+          "허리단면": 37.5,
+          "엉덩이단면": 53.0,
+          "허벅지단면": 35.7,
+          "밑위": 28.2,
+          "밑단단면": 22.5
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 3,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 55.5,
+          "허벅지단면": 37.0,
+          "밑위": 29.0,
+          "밑단단면": 23.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 104.5,
+          "허리단면": 42.5,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 29.9,
+          "밑위": 29.8,
+          "밑단단면": 23.5
+        }
+      },
+      {
+        "size": "XXL",
+        "sequence": 5,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 45.0,
+          "엉덩이단면": 60.5,
+          "허벅지단면": 37.0,
+          "밑위": 30.6,
+          "밑단단면": 24.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "XS",
+          "code": "XS",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 16409656,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 16409657,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 16409658,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 16409659,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 16409660,
+      "managed_code": "XS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XS"
+      ]
+    },
+    {
+      "id": 16409661,
+      "managed_code": "XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XXL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.5,
+    "count": 11
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

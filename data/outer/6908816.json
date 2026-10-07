@@ -1,0 +1,223 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/6908816",
+  "product_id": 6908816,
+  "name": "[사일런트 펑션] 후디드 패딩 재킷 [그레이]",
+  "name_en": "[사일런트 펑션] 후디드 패딩 재킷",
+  "style_no": "MMFJPAB01-GR",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "musinsastandard",
+    "name": "무신사 스탠다드",
+    "name_en": "MUSINSA STANDARD"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002015",
+    "categoryDepth2Title": "기타 아우터",
+    "categoryDepth2Name": "기타 아우터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 159900,
+    "sale": 159900,
+    "discount_rate": 0,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260723/6908816/6908816_17907531608272_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260723/6908816/detail_6908816_17907530764624_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260723/6908816/detail_6908816_17907530772045_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260723/6908816/detail_6908816_17907530779253_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260723/6908816/detail_6908816_17907530785976_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260723/6908816/detail_6908816_17907530792343_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260723/6908816/detail_6908816_17907530799086_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260723/6908816/detail_6908816_17907530805942_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "두꺼움"
+    ],
+    "계절": [
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "점퍼_래글런",
+    "type_number": 31,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711342800000057654.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 67.1,
+          "가슴단면": 64.5,
+          "소매부리단면": 0.0,
+          "전체소매길이": 89.8,
+          "밑단 단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 69.0,
+          "가슴단면": 67.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 92.0,
+          "밑단 단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 70.9,
+          "가슴단면": 69.5,
+          "소매부리단면": 0.0,
+          "전체소매길이": 94.2,
+          "밑단 단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "2XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 72.8,
+          "가슴단면": 72.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 96.4,
+          "밑단 단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL",
+          "code": "2XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32112091,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 32112092,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 32112093,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 32112094,
+      "managed_code": "2XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

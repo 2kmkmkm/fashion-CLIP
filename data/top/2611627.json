@@ -1,0 +1,390 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2611627",
+  "product_id": 2611627,
+  "name": "[3COLOR] BASIC U NECK",
+  "name_en": "[3COLOR] BASIC U NECK",
+  "style_no": "FMSSCTA317M",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "maisonmined",
+    "name": "메종미네드",
+    "name_en": "MAISON MINED"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001001",
+    "categoryDepth2Title": "반소매 티셔츠",
+    "categoryDepth2Name": "반소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 34300,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220613/2611627/2611627_17558381877539_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17165165735155_500.png",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17165165745701_500.png",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17165179659401_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17165179665961_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17165179672117_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17165179678565_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17165179686901_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17165179694303_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17165179700691_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17165179707678_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17165213417638_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17443368175750_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17443368184444_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220613/2611627/detail_2611627_17443368204399_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "WHITE - S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 50.0,
+          "가슴단면": 57.5,
+          "소매길이": 23.0,
+          "밑단단면": 55.0,
+          "소매부리단면": 20.0,
+          "암홀": 23.0
+        }
+      },
+      {
+        "size": "WHITE - M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 52.0,
+          "가슴단면": 60.0,
+          "소매길이": 24.0,
+          "밑단단면": 57.0,
+          "소매부리단면": 21.0,
+          "암홀": 25.0
+        }
+      },
+      {
+        "size": "WHITE - L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 54.0,
+          "가슴단면": 62.5,
+          "소매길이": 25.0,
+          "밑단단면": 61.0,
+          "소매부리단면": 22.0,
+          "암홀": 56.0
+        }
+      },
+      {
+        "size": "BLACK- S",
+        "sequence": 3,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 50.0,
+          "가슴단면": 57.5,
+          "소매길이": 23.0,
+          "밑단단면": 56.0,
+          "소매부리단면": 21.0,
+          "암홀": 25.0
+        }
+      },
+      {
+        "size": "BLACK- M",
+        "sequence": 4,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 52.0,
+          "가슴단면": 60.0,
+          "소매길이": 24.0,
+          "밑단단면": 58.0,
+          "소매부리단면": 21.5,
+          "암홀": 52.5
+        }
+      },
+      {
+        "size": "BLACK- L",
+        "sequence": 5,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 54.0,
+          "가슴단면": 62.5,
+          "소매길이": 25.0,
+          "밑단단면": 60.0,
+          "소매부리단면": 21.0,
+          "암홀": 24.0
+        }
+      },
+      {
+        "size": "MELANGE GREY - S",
+        "sequence": 6,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 50.0,
+          "가슴단면": 57.5,
+          "소매길이": 23.0,
+          "밑단단면": 54.0,
+          "소매부리단면": 22.0,
+          "암홀": 25.0
+        }
+      },
+      {
+        "size": "MELANGE GREY - M",
+        "sequence": 7,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 52.0,
+          "가슴단면": 60.0,
+          "소매길이": 24.0,
+          "밑단단면": 59.0,
+          "소매부리단면": 22.0,
+          "암홀": 25.0
+        }
+      },
+      {
+        "size": "MELANGE GREY - L",
+        "sequence": 8,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 54.0,
+          "가슴단면": 62.5,
+          "소매길이": 25.0,
+          "밑단단면": 60.0,
+          "소매부리단면": 22.0,
+          "암홀": 26.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "WHITE - S",
+          "code": "WHITE - S",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2611627/20250326153219_option_67e39f73773af3.13958261.",
+          "color": null
+        },
+        {
+          "name": "WHITE - M",
+          "code": "WHITE - M",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2611627/20250326153221_option_67e39f75d79488.93407566.",
+          "color": null
+        },
+        {
+          "name": "WHITE - L",
+          "code": "WHITE - L",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2611627/20250326153224_option_67e39f7807a475.28555443.",
+          "color": null
+        },
+        {
+          "name": "BLACK- S",
+          "code": "BLACK- S",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2611627/20250326153227_option_67e39f7b0cc024.99189747.",
+          "color": null
+        },
+        {
+          "name": "BLACK- M",
+          "code": "BLACK- M",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2611627/20250326153229_option_67e39f7d6d3bd6.33472739.",
+          "color": null
+        },
+        {
+          "name": "BLACK- L",
+          "code": "BLACK- L",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2611627/20250326153231_option_67e39f7fbc6207.24190652.",
+          "color": null
+        },
+        {
+          "name": "MELANGE GREY - S",
+          "code": "MELANGE GREY - S",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2611627/20250326153245_option_67e39f8d0c38d9.79200461.",
+          "color": null
+        },
+        {
+          "name": "MELANGE GREY - M",
+          "code": "MELANGE GREY - M",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2611627/20250326153247_option_67e39f8f88a1d9.30604045.",
+          "color": null
+        },
+        {
+          "name": "MELANGE GREY - L",
+          "code": "MELANGE GREY - L",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2611627/20250326153250_option_67e39f92622911.52880294.",
+          "color": null
+        },
+        {
+          "name": "CHARCOAL - S",
+          "code": "CHARCOAL - S",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2611627/20250411105911_option_67f8776fcbaa87.09140633.",
+          "color": null
+        },
+        {
+          "name": "CHARCOAL - M",
+          "code": "CHARCOAL - M",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2611627/20250411105915_option_67f87773123c27.85008291.",
+          "color": null
+        },
+        {
+          "name": "CHARCOAL - L",
+          "code": "CHARCOAL - L",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2611627/20250411105917_option_67f87775e45fd7.80358988.",
+          "color": null
+        },
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 10699373,
+      "managed_code": "BLACK- L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK- L"
+      ]
+    },
+    {
+      "id": 10699374,
+      "managed_code": "BLACK- M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK- M"
+      ]
+    },
+    {
+      "id": 10699375,
+      "managed_code": "BLACK- S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK- S"
+      ]
+    },
+    {
+      "id": 10699378,
+      "managed_code": "MELANGE GREY - L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "MELANGE GREY - L"
+      ]
+    },
+    {
+      "id": 10699379,
+      "managed_code": "MELANGE GREY - M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "MELANGE GREY - M"
+      ]
+    },
+    {
+      "id": 10699380,
+      "managed_code": "MELANGE GREY - S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "MELANGE GREY - S"
+      ]
+    },
+    {
+      "id": 10699382,
+      "managed_code": "WHITE - L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE - L"
+      ]
+    },
+    {
+      "id": 10699383,
+      "managed_code": "WHITE - M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE - M"
+      ]
+    },
+    {
+      "id": 10699384,
+      "managed_code": "WHITE - S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "WHITE - S"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 1690
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

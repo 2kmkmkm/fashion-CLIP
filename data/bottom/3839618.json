@@ -1,0 +1,176 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3839618",
+  "product_id": 3839618,
+  "name": "클래식 스트레이트 데님 팬츠 (미들블루)",
+  "name_en": "CLASSIC STRAIGHT DENIM PANTS (MID BLUE)",
+  "style_no": "N24SDN01-MBL",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "noirer",
+    "name": "노이어",
+    "name_en": "NOIRER"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003002",
+    "categoryDepth2Title": "데님 팬츠",
+    "categoryDepth2Name": "데님 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2024,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 109000,
+    "sale": 81700,
+    "discount_rate": 25,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240201/3839618/3839618_17169597255173_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240201/3839618/detail_3839618_17080592915554_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240201/3839618/detail_3839618_17080592920886_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240201/3839618/detail_3839618_17080592926542_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240201/3839618/detail_3839618_17080592934355_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240201/3839618/detail_3839618_17080592942179_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240201/3839618/detail_3839618_17080592951992_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240201/3839618/detail_3839618_17080592961185_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "48",
+        "sequence": 0,
+        "measurements": {
+          "총장": 105.4,
+          "허리단면": 39.4,
+          "엉덩이단면": 50.8,
+          "허벅지단면": 31.8,
+          "밑위": 34.3,
+          "밑단단면": 24.1
+        }
+      },
+      {
+        "size": "50",
+        "sequence": 1,
+        "measurements": {
+          "총장": 106.7,
+          "허리단면": 41.9,
+          "엉덩이단면": 53.3,
+          "허벅지단면": 33.0,
+          "밑위": 34.9,
+          "밑단단면": 24.8
+        }
+      },
+      {
+        "size": "52",
+        "sequence": 2,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 44.5,
+          "엉덩이단면": 55.9,
+          "허벅지단면": 34.3,
+          "밑위": 35.4,
+          "밑단단면": 25.4
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "48",
+          "code": "48",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "50",
+          "code": "50",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "52",
+          "code": "52",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 16119717,
+      "managed_code": "48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "48"
+      ]
+    },
+    {
+      "id": 16119718,
+      "managed_code": "50",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "50"
+      ]
+    },
+    {
+      "id": 16119719,
+      "managed_code": "52",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "52"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 80
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

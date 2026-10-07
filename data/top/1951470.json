@@ -1,0 +1,936 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/1951470",
+  "product_id": 1951470,
+  "name": "시티보이 보트자수 옥스포드 오버핏 셔츠_7color",
+  "name_en": "CITYBOY BOAT OXFORD OVERFIT SHIRT_7color",
+  "style_no": "TRSSH004-02",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "trillion",
+    "name": "트릴리온",
+    "name_en": "TRILLION"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2025,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 19600,
+    "discount_rate": 60,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20210514/1951470/1951470_17588630662120_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210514/1951470/detail_1951470_17588630945315_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210514/1951470/detail_1951470_17588630988223_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210514/1951470/detail_1951470_17588631025495_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210514/1951470/detail_1951470_17588631079362_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210514/1951470/detail_1951470_17588631136681_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210514/1951470/detail_1951470_17588631183082_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210514/1951470/detail_1951470_17588631229799_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210514/1951470/detail_1951470_17588631269278_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210514/1951470/detail_1951470_17588631324503_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210514/1951470/detail_1951470_17588631368989_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "없음"
+    ],
+    "비침": [
+      "거의 없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "화이트 S",
+        "sequence": 4,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 53.0,
+          "가슴단면": 61.0,
+          "소매길이": 54.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "화이트 M",
+        "sequence": 5,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 58.0,
+          "가슴단면": 68.0,
+          "소매길이": 55.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "화이트 L",
+        "sequence": 6,
+        "measurements": {
+          "총장": 75.0,
+          "어깨너비": 60.0,
+          "가슴단면": 70.0,
+          "소매길이": 56.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "화이트 XL",
+        "sequence": 7,
+        "measurements": {
+          "총장": 77.0,
+          "어깨너비": 62.0,
+          "가슴단면": 72.0,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "스카이 블루 S",
+        "sequence": 8,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "스카이 블루 M",
+        "sequence": 9,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "스카이 블루 L",
+        "sequence": 10,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "스카이 블루 XL",
+        "sequence": 11,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블랙 S",
+        "sequence": 12,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블랙 M",
+        "sequence": 13,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블랙 L",
+        "sequence": 14,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블랙 XL",
+        "sequence": 15,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "스트라이프 S",
+        "sequence": 16,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "스트라이프 M",
+        "sequence": 17,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "스트라이프 L",
+        "sequence": 18,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "스트라이프 XL",
+        "sequence": 19,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "브라운 스트라이프 S",
+        "sequence": 20,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "브라운 스트라이프 M",
+        "sequence": 21,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "브라운 스트라이프 L",
+        "sequence": 22,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "브라운 스트라이프 XL",
+        "sequence": 23,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블랙 스트라이프 S",
+        "sequence": 24,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블랙 스트라이프 M",
+        "sequence": 25,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블랙 스트라이프 L",
+        "sequence": 26,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "블랙 스트라이프 XL",
+        "sequence": 27,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "린넨 네이비 S",
+        "sequence": 28,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "린넨 네이비 M",
+        "sequence": 29,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "린넨 네이비 L",
+        "sequence": 30,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "린넨 네이비 XL",
+        "sequence": 31,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러 / 사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "화이트 S",
+          "code": "화이트 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "화이트 M",
+          "code": "화이트 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "화이트 L",
+          "code": "화이트 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "화이트 XL",
+          "code": "화이트 XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "스카이 블루 S",
+          "code": "스카이 블루 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "스카이 블루 M",
+          "code": "스카이 블루 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "스카이 블루 L",
+          "code": "스카이 블루 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "스카이 블루 XL",
+          "code": "스카이 블루 XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 S",
+          "code": "블랙 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 M",
+          "code": "블랙 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 L",
+          "code": "블랙 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 XL",
+          "code": "블랙 XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "스트라이프 S",
+          "code": "스트라이프 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "스트라이프 M",
+          "code": "스트라이프 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "스트라이프 L",
+          "code": "스트라이프 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "스트라이프 XL",
+          "code": "스트라이프 XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "브라운 스트라이프 S",
+          "code": "브라운 스트라이프 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "브라운 스트라이프 M",
+          "code": "브라운 스트라이프 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "브라운 스트라이프 L",
+          "code": "브라운 스트라이프 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "브라운 스트라이프 XL",
+          "code": "브라운 스트라이프 XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 스트라이프 S",
+          "code": "블랙 스트라이프 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 스트라이프 M",
+          "code": "블랙 스트라이프 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 스트라이프 L",
+          "code": "블랙 스트라이프 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "블랙 스트라이프 XL",
+          "code": "블랙 스트라이프 XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "린넨 네이비 S",
+          "code": "린넨 네이비 S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "린넨 네이비 M",
+          "code": "린넨 네이비 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "린넨 네이비 L",
+          "code": "린넨 네이비 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "린넨 네이비 XL",
+          "code": "린넨 네이비 XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 26595723,
+      "managed_code": "화이트 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트 M"
+      ]
+    },
+    {
+      "id": 26595724,
+      "managed_code": "화이트 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트 L"
+      ]
+    },
+    {
+      "id": 26595725,
+      "managed_code": "화이트 XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트 XL"
+      ]
+    },
+    {
+      "id": 26595726,
+      "managed_code": "스카이 블루 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스카이 블루 M"
+      ]
+    },
+    {
+      "id": 26595727,
+      "managed_code": "스카이 블루 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스카이 블루 L"
+      ]
+    },
+    {
+      "id": 26595728,
+      "managed_code": "스카이 블루 XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스카이 블루 XL"
+      ]
+    },
+    {
+      "id": 26595729,
+      "managed_code": "블랙 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 M"
+      ]
+    },
+    {
+      "id": 26595730,
+      "managed_code": "블랙 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 L"
+      ]
+    },
+    {
+      "id": 26595731,
+      "managed_code": "블랙 XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 XL"
+      ]
+    },
+    {
+      "id": 26595732,
+      "managed_code": "스트라이프 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스트라이프 M"
+      ]
+    },
+    {
+      "id": 26595733,
+      "managed_code": "스트라이프 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스트라이프 L"
+      ]
+    },
+    {
+      "id": 26595734,
+      "managed_code": "스트라이프 XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스트라이프 XL"
+      ]
+    },
+    {
+      "id": 26595735,
+      "managed_code": "브라운 스트라이프 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운 스트라이프 M"
+      ]
+    },
+    {
+      "id": 26595736,
+      "managed_code": "브라운 스트라이프 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운 스트라이프 L"
+      ]
+    },
+    {
+      "id": 26595737,
+      "managed_code": "브라운 스트라이프 XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운 스트라이프 XL"
+      ]
+    },
+    {
+      "id": 26595738,
+      "managed_code": "블랙 스트라이프 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 스트라이프 M"
+      ]
+    },
+    {
+      "id": 26595739,
+      "managed_code": "블랙 스트라이프 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 스트라이프 L"
+      ]
+    },
+    {
+      "id": 26595740,
+      "managed_code": "블랙 스트라이프 XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 스트라이프 XL"
+      ]
+    },
+    {
+      "id": 26595741,
+      "managed_code": "린넨 네이비 M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "린넨 네이비 M"
+      ]
+    },
+    {
+      "id": 26595742,
+      "managed_code": "린넨 네이비 L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "린넨 네이비 L"
+      ]
+    },
+    {
+      "id": 26595743,
+      "managed_code": "린넨 네이비 XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "린넨 네이비 XL"
+      ]
+    },
+    {
+      "id": 26596006,
+      "managed_code": "화이트 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "화이트 S"
+      ]
+    },
+    {
+      "id": 26596007,
+      "managed_code": "스카이 블루 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스카이 블루 S"
+      ]
+    },
+    {
+      "id": 26596008,
+      "managed_code": "블랙 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 S"
+      ]
+    },
+    {
+      "id": 26596009,
+      "managed_code": "스트라이프 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "스트라이프 S"
+      ]
+    },
+    {
+      "id": 26596010,
+      "managed_code": "브라운 스트라이프 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운 스트라이프 S"
+      ]
+    },
+    {
+      "id": 26596011,
+      "managed_code": "블랙 스트라이프 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙 스트라이프 S"
+      ]
+    },
+    {
+      "id": 26596012,
+      "managed_code": "린넨 네이비 S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "린넨 네이비 S"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 2245
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

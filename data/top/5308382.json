@@ -1,0 +1,306 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5308382",
+  "product_id": 5308382,
+  "name": "베이직 럭비 카라 맨투맨 3Color GMT-162",
+  "name_en": "베이직 럭비 카라 맨투맨 3Color GMT-162",
+  "style_no": "gmt-162",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "ghostrepublic",
+    "name": "고스트리퍼블릭",
+    "name_en": "GHOST REPUBLIC"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001005",
+    "categoryDepth2Title": "맨투맨/스웨트",
+    "categoryDepth2Name": "맨투맨/스웨트",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 59900,
+    "sale": 29900,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250811/5308382/5308382_17847037710578_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308382/detail_5308382_17852024021387_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308382/detail_5308382_17847037760612_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308382/detail_5308382_17835876787970_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308382/detail_5308382_17835876767592_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308382/detail_5308382_17655055897589_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308382/detail_5308382_17655055903151_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308382/detail_5308382_17835876793992_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308382/detail_5308382_17835876801165_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308382/detail_5308382_17835876773859_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250811/5308382/detail_5308382_17835876781217_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈",
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "약간 부드러움"
+    ],
+    "신축성": [
+      "약간 있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "L",
+        "sequence": 0,
+        "measurements": {
+          "총장": 67.0,
+          "어깨너비": 60.0,
+          "가슴단면": 59.0,
+          "소매길이": 56.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 1,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 64.0,
+          "가슴단면": 64.0,
+          "소매길이": 58.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XXL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 75.0,
+          "어깨너비": 67.0,
+          "가슴단면": 67.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "네이비_쭈리",
+          "code": "네이비_쭈리",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5308382/20250811142659_option_68997f23755315.52693034.",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "그레이_쭈리",
+          "code": "그레이_쭈리",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5308382/20260709180208_option_6a4f6390a6acf5.90966384.",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙_쭈리",
+          "code": "블랙_쭈리",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5308382/20260709180211_option_6a4f6393118362.29466357.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25479029,
+      "managed_code": "네이비_쭈리^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비_쭈리",
+        "L"
+      ]
+    },
+    {
+      "id": 25479030,
+      "managed_code": "네이비_쭈리^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비_쭈리",
+        "XL"
+      ]
+    },
+    {
+      "id": 25479031,
+      "managed_code": "네이비_쭈리^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비_쭈리",
+        "XXL"
+      ]
+    },
+    {
+      "id": 31881619,
+      "managed_code": "그레이_쭈리^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이_쭈리",
+        "L"
+      ]
+    },
+    {
+      "id": 31881620,
+      "managed_code": "그레이_쭈리^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이_쭈리",
+        "XL"
+      ]
+    },
+    {
+      "id": 31881621,
+      "managed_code": "그레이_쭈리^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이_쭈리",
+        "XXL"
+      ]
+    },
+    {
+      "id": 31881622,
+      "managed_code": "블랙_쭈리^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙_쭈리",
+        "L"
+      ]
+    },
+    {
+      "id": 31881623,
+      "managed_code": "블랙_쭈리^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙_쭈리",
+        "XL"
+      ]
+    },
+    {
+      "id": 31881624,
+      "managed_code": "블랙_쭈리^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙_쭈리",
+        "XXL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 202
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3758807",
+  "product_id": 3758807,
+  "name": "Wide Cotton Nylon Cargo Pants (U) / WHTAG3811U",
+  "name_en": "Wide Cotton Nylon Cargo Pants (U) / WHTAG3811U",
+  "style_no": "WHTAG3811U",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "whoau",
+    "name": "후아유",
+    "name_en": "WHO.A.U"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 69900,
+    "sale": 62910,
+    "discount_rate": 10,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/prd_img/20231218/3758807/detail_3758807_17882404999735_500.jpg",
+    "https://image.msscdn.net/images/goods_img/20231218/3758807/3758807_17848795552285_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231218/3758807/detail_3758807_17882405001735_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231218/3758807/detail_3758807_17882405003347_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231218/3758807/detail_3758807_17900630161633_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231218/3758807/detail_3758807_17848793925626_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231218/3758807/detail_3758807_17846197299090_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231218/3758807/detail_3758807_17846197293812_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231218/3758807/detail_3758807_17846197288626_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S(070)",
+        "sequence": 4,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 36.5,
+          "엉덩이단면": 54.0,
+          "허벅지단면": 34.8,
+          "밑위": 31.5,
+          "밑단단면": 24.6
+        }
+      },
+      {
+        "size": "M(075)",
+        "sequence": 5,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 56.5,
+          "허벅지단면": 36.1,
+          "밑위": 32.5,
+          "밑단단면": 25.3
+        }
+      },
+      {
+        "size": "L(080)",
+        "sequence": 6,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 41.5,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 37.4,
+          "밑위": 33.5,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "XL(085)",
+        "sequence": 7,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 44.0,
+          "엉덩이단면": 61.5,
+          "허벅지단면": 38.7,
+          "밑위": 34.5,
+          "밑단단면": 26.7
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "(16)LIGHT GRAY",
+          "code": "(16)LIGHT GRAY",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/ffc265e6823b40feb3d4d8c388fa21cf.jpg",
+          "color": {
+            "colorCode": "24",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(19)BLACK",
+          "code": "(19)BLACK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/d36d14261de7402bad5d3f04980c72c2.jpg",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(49)KHAKI",
+          "code": "(49)KHAKI",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/2f696e4f1b3d4d3ba902efb780422701.jpg",
+          "color": {
+            "colorCode": "30",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(15)GRAY",
+          "code": "(15)GRAY",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/cdb31cd5b468459684f4d2d8337bc57f.jpg",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "(59)NAVY",
+          "code": "(59)NAVY",
+          "image_url": "https://image.msscdn.net/thumbnails/images/2026/09/01/49692ca5cf0d40b2b02cd9cac4ac4310.jpg",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S_075",
+          "code": "S_075",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M_080",
+          "code": "M_080",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L_085",
+          "code": "L_085",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL_090",
+          "code": "XL_090",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S(070)",
+          "code": "S(070)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(075)",
+          "code": "M(075)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(080)",
+          "code": "L(080)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(085)",
+          "code": "XL(085)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32059029,
+      "managed_code": "(16)LIGHT GRAY^S(070)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(16)LIGHT GRAY",
+        "S(070)"
+      ]
+    },
+    {
+      "id": 32059030,
+      "managed_code": "(16)LIGHT GRAY^M(075)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(16)LIGHT GRAY",
+        "M(075)"
+      ]
+    },
+    {
+      "id": 32059031,
+      "managed_code": "(16)LIGHT GRAY^L(080)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(16)LIGHT GRAY",
+        "L(080)"
+      ]
+    },
+    {
+      "id": 32059032,
+      "managed_code": "(16)LIGHT GRAY^XL(085)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(16)LIGHT GRAY",
+        "XL(085)"
+      ]
+    },
+    {
+      "id": 32059033,
+      "managed_code": "(19)BLACK^S(070)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(19)BLACK",
+        "S(070)"
+      ]
+    },
+    {
+      "id": 32059034,
+      "managed_code": "(19)BLACK^M(075)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(19)BLACK",
+        "M(075)"
+      ]
+    },
+    {
+      "id": 32059035,
+      "managed_code": "(19)BLACK^L(080)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(19)BLACK",
+        "L(080)"
+      ]
+    },
+    {
+      "id": 32059036,
+      "managed_code": "(19)BLACK^XL(085)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(19)BLACK",
+        "XL(085)"
+      ]
+    },
+    {
+      "id": 32059037,
+      "managed_code": "(49)KHAKI^S(070)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(49)KHAKI",
+        "S(070)"
+      ]
+    },
+    {
+      "id": 32059038,
+      "managed_code": "(49)KHAKI^M(075)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(49)KHAKI",
+        "M(075)"
+      ]
+    },
+    {
+      "id": 32059039,
+      "managed_code": "(49)KHAKI^L(080)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(49)KHAKI",
+        "L(080)"
+      ]
+    },
+    {
+      "id": 32059040,
+      "managed_code": "(49)KHAKI^XL(085)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "(49)KHAKI",
+        "XL(085)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 217
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

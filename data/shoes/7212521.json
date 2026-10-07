@@ -1,0 +1,193 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7212521",
+  "product_id": 7212521,
+  "name": "[로맨틱 무브xTNGT] Shirring Banding Loafer (Black) TNSO6F100BK",
+  "name_en": "Shirring Banding Loafer (Black) TNSO6F100BK",
+  "style_no": "TNSO6F100BK",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "tngt",
+    "name": "티엔지티",
+    "name_en": "TNGT"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103001",
+    "categoryDepth2Title": "구두",
+    "categoryDepth2Name": "구두",
+    "categoryDepth3Code": "103001007",
+    "categoryDepth3Title": "로퍼",
+    "categoryDepth3Name": "로퍼",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 219000,
+    "sale": 194910,
+    "discount_rate": 11,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260901/7212521/7212521_17884197415489_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260901/7212521/detail_7212521_17884197421802_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260901/7212521/detail_7212521_17896946670956_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260901/7212521/detail_7212521_17896946672876_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260901/7212521/detail_7212521_17896946674430_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260901/7212521/detail_7212521_17896946675890_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "250",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 28.0,
+          "발볼": 8.8,
+          "발목높이": 5.5,
+          "굽높이": 2.0
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 29.0,
+          "발볼": 9.1,
+          "발목높이": 6.5,
+          "굽높이": 2.0
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 30.0,
+          "발볼": 9.4,
+          "발목높이": 7.5,
+          "굽높이": 2.0
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 31.0,
+          "발볼": 9.7,
+          "발목높이": 8.5,
+          "굽높이": 2.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32858073,
+      "managed_code": "250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "250"
+      ]
+    },
+    {
+      "id": 32858074,
+      "managed_code": "260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "260"
+      ]
+    },
+    {
+      "id": 32858075,
+      "managed_code": "270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "270"
+      ]
+    },
+    {
+      "id": 32858076,
+      "managed_code": "280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "280"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4,
+    "count": 7
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

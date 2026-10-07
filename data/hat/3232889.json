@@ -1,0 +1,448 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3232889",
+  "product_id": 3232889,
+  "name": "시그니처 볼캡 (14컬러)",
+  "name_en": "Signature ball cap (14Color)",
+  "style_no": "P00000GD",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "mucent",
+    "name": "무센트",
+    "name_en": "MUCENT"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 49900,
+    "sale": 29900,
+    "discount_rate": 40,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230413/3232889/3232889_16940492864390_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230413/3232889/detail_3232889_16940493192072_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230413/3232889/detail_3232889_16940493996994_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230413/3232889/detail_3232889_17322594803494_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230413/3232889/detail_3232889_17322594975600_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230413/3232889/detail_3232889_17247439670069_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230413/3232889/detail_3232889_17247439615071_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230413/3232889/detail_3232889_17322594665575_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230413/3232889/detail_3232889_17247439440834_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230413/3232889/detail_3232889_17247439525959_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230413/3232889/detail_3232889_17322594384191_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230413/3232889/detail_3232889_17388254994471_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230413/3232889/detail_3232889_17388255168967_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230413/3232889/detail_3232889_17388255181077_500.jpg"
+  ],
+  "features": {
+    "깊이": [
+      "깊음"
+    ],
+    "챙 넓이": [
+      "보통"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "블랙",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      },
+      {
+        "size": "네이비",
+        "sequence": 1,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      },
+      {
+        "size": "그린",
+        "sequence": 2,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      },
+      {
+        "size": "버건디",
+        "sequence": 3,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      },
+      {
+        "size": "데님",
+        "sequence": 4,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      },
+      {
+        "size": "라이트 데님",
+        "sequence": 5,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      },
+      {
+        "size": "다잉 카키",
+        "sequence": 6,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      },
+      {
+        "size": "다잉 그레이 데님",
+        "sequence": 7,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      },
+      {
+        "size": "차콜",
+        "sequence": 8,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      },
+      {
+        "size": "크림",
+        "sequence": 9,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      },
+      {
+        "size": "브라운",
+        "sequence": 10,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      },
+      {
+        "size": "퓨어 화이트",
+        "sequence": 11,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      },
+      {
+        "size": "카모 카키 - 베이비 핑크",
+        "sequence": 13,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      },
+      {
+        "size": "카모 그레이",
+        "sequence": 14,
+        "measurements": {
+          "머리둘레": 65.0,
+          "챙길이": 7.0,
+          "깊이": 12.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120233_option_69154a49413248.71518830.",
+          "color": null
+        },
+        {
+          "name": "네이비",
+          "code": "네이비",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120244_option_69154a541dfa21.66240150.",
+          "color": null
+        },
+        {
+          "name": "그린",
+          "code": "그린",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120307_option_69154a6bb60166.65561585.",
+          "color": null
+        },
+        {
+          "name": "버건디",
+          "code": "버건디",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120315_option_69154a73cf45a8.87038596.",
+          "color": null
+        },
+        {
+          "name": "데님",
+          "code": "데님",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120810_option_69154b9abd6c19.96407022.",
+          "color": null
+        },
+        {
+          "name": "라이트 데님",
+          "code": "라이트 데님",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120401_option_69154aa1ac9cf6.01035772.",
+          "color": null
+        },
+        {
+          "name": "다잉 카키",
+          "code": "다잉 카키",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120414_option_69154aaebe0481.03629275.",
+          "color": null
+        },
+        {
+          "name": "다잉 그레이 데님",
+          "code": "다잉 그레이 데님",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120431_option_69154abf162b74.71650011.",
+          "color": null
+        },
+        {
+          "name": "차콜",
+          "code": "차콜",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120438_option_69154ac6b2e526.91107967.",
+          "color": null
+        },
+        {
+          "name": "크림",
+          "code": "크림",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120449_option_69154ad11bb610.66142328.",
+          "color": null
+        },
+        {
+          "name": "브라운",
+          "code": "브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120453_option_69154ad5410952.66763383.",
+          "color": null
+        },
+        {
+          "name": "퓨어 화이트",
+          "code": "퓨어 화이트",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120512_option_69154ae8e85514.17299283.",
+          "color": null
+        },
+        {
+          "name": "[단독] 퓨어 화이트",
+          "code": "[단독] 퓨어 화이트",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120529_option_69154af9ab6d71.32192230.",
+          "color": null
+        },
+        {
+          "name": "카모 카키 - 베이비 핑크",
+          "code": "카모 카키 - 베이비 핑크",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120615_option_69154b27d3c4e0.70046517.",
+          "color": null
+        },
+        {
+          "name": "카모 그레이",
+          "code": "카모 그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3232889/20251113120618_option_69154b2a9cc0d6.71249084.",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 13539838,
+      "managed_code": "그린",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그린"
+      ]
+    },
+    {
+      "id": 13539839,
+      "managed_code": "네이비",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "네이비"
+      ]
+    },
+    {
+      "id": 13539840,
+      "managed_code": "버건디",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "버건디"
+      ]
+    },
+    {
+      "id": 13539841,
+      "managed_code": "블랙",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙"
+      ]
+    },
+    {
+      "id": 18882827,
+      "managed_code": "데님",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "데님"
+      ]
+    },
+    {
+      "id": 18882828,
+      "managed_code": "라이트 데님",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "라이트 데님"
+      ]
+    },
+    {
+      "id": 18882829,
+      "managed_code": "다잉 카키",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다잉 카키"
+      ]
+    },
+    {
+      "id": 18882830,
+      "managed_code": "다잉 그레이 데님",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "다잉 그레이 데님"
+      ]
+    },
+    {
+      "id": 20513729,
+      "managed_code": "차콜",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "차콜"
+      ]
+    },
+    {
+      "id": 20513730,
+      "managed_code": "크림",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림"
+      ]
+    },
+    {
+      "id": 20513731,
+      "managed_code": "브라운",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브라운"
+      ]
+    },
+    {
+      "id": 21748686,
+      "managed_code": "퓨어 화이트",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "퓨어 화이트"
+      ]
+    },
+    {
+      "id": 21748687,
+      "managed_code": "카모 카키 - 베이비 핑크",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카모 카키 - 베이비 핑크"
+      ]
+    },
+    {
+      "id": 21748688,
+      "managed_code": "카모 그레이",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카모 그레이"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 8562
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

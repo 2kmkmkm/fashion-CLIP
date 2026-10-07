@@ -1,0 +1,219 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3599530",
+  "product_id": 3599530,
+  "name": "Semi Bootscut Slacks 102 BLACK",
+  "name_en": "",
+  "style_no": "AV43PT45BK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "avan",
+    "name": "어반드레스",
+    "name_en": "AVANDRESS"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003008",
+    "categoryDepth2Title": "슈트 팬츠/슬랙스",
+    "categoryDepth2Name": "슈트 팬츠/슬랙스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "가을",
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 51000,
+    "sale": 23370,
+    "discount_rate": 54,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230927/3599530/3599530_17206812446519_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230927/3599530/detail_3599530_17206812499796_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230927/3599530/detail_3599530_17206812508540_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230927/3599530/detail_3599530_17206812534268_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230927/3599530/detail_3599530_17206812516627_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230927/3599530/detail_3599530_17206812524540_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "약간 부드러움"
+    ],
+    "신축성": [
+      "약간 있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 33.5,
+          "엉덩이단면": 45.0,
+          "허벅지단면": 26.0,
+          "밑위": 27.0,
+          "밑단단면": 24.5
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 36.0,
+          "엉덩이단면": 48.0,
+          "허벅지단면": 28.0,
+          "밑위": 27.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 38.5,
+          "엉덩이단면": 50.0,
+          "허벅지단면": 30.0,
+          "밑위": 28.0,
+          "밑단단면": 26.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "색상",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "BLACK",
+          "code": "BLACK",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15110248,
+      "managed_code": "BLACK^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "L"
+      ]
+    },
+    {
+      "id": 15110249,
+      "managed_code": "BLACK^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "M"
+      ]
+    },
+    {
+      "id": 15110250,
+      "managed_code": "BLACK^S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "S"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.4,
+    "count": 102
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

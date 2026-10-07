@@ -1,0 +1,241 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5190806",
+  "product_id": 5190806,
+  "name": "Graychill 피그먼트 워싱 반팔 티셔츠",
+  "name_en": "Graychill 피그먼트 워싱 반팔 티셔츠",
+  "style_no": "VIVALAVIDA",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "vivalavida",
+    "name": "비바라비다",
+    "name_en": "VIVA LA VIDA"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001001",
+    "categoryDepth2Title": "반소매 티셔츠",
+    "categoryDepth2Name": "반소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "여름"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 49900,
+    "sale": 36430,
+    "discount_rate": 27,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250617/5190806/5190806_17501458480730_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250617/5190806/detail_5190806_17501458490293_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "약간 부드러움"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "보통"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "여름"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 51.0,
+          "가슴단면": 54.0,
+          "소매길이": 22.0,
+          "밑단단면": 54.3,
+          "소매부리단면": 28.5,
+          "암홀": 23.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 73.0,
+          "어깨너비": 52.0,
+          "가슴단면": 57.0,
+          "소매길이": 23.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 75.0,
+          "어깨너비": 54.0,
+          "가슴단면": 60.5,
+          "소매길이": 24.0,
+          "밑단단면": 60.0,
+          "소매부리단면": 20.0,
+          "암홀": 24.0
+        }
+      },
+      {
+        "size": "2XL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 77.0,
+          "어깨너비": 58.0,
+          "가슴단면": 66.0,
+          "소매길이": 25.0,
+          "밑단단면": 65.0,
+          "소매부리단면": 22.0,
+          "암홀": 30.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "Charcoal",
+          "code": "Charcoal",
+          "image_url": "",
+          "color": {
+            "colorCode": "25",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2XL",
+          "code": "2XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 24150013,
+      "managed_code": "Charcoal^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Charcoal",
+        "M"
+      ]
+    },
+    {
+      "id": 24150014,
+      "managed_code": "Charcoal^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Charcoal",
+        "L"
+      ]
+    },
+    {
+      "id": 24150015,
+      "managed_code": "Charcoal^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Charcoal",
+        "XL"
+      ]
+    },
+    {
+      "id": 24150016,
+      "managed_code": "Charcoal^2XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "Charcoal",
+        "2XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 448
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

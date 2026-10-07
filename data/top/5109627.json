@@ -1,0 +1,227 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5109627",
+  "product_id": 5109627,
+  "name": "(UNISEX) 피그먼트 팜트리 그래픽 티셔츠 CHARCOAL",
+  "name_en": "(UNISEX) Pigment Palm Tree Graphic T-Shirt CHARCOAL",
+  "style_no": "K25SSUT07CC",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "knitted",
+    "name": "니티드",
+    "name_en": "KNITTED"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001001",
+    "categoryDepth2Title": "반소매 티셔츠",
+    "categoryDepth2Name": "반소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": null,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 57000,
+    "sale": 32800,
+    "discount_rate": 42,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250514/5109627/5109627_17791533755221_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250514/5109627/detail_5109627_17782070051877_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250514/5109627/detail_5109627_17794246137595_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250514/5109627/detail_5109627_17473637657125_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250514/5109627/detail_5109627_17473637666743_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250514/5109627/detail_5109627_17473637675709_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250514/5109627/detail_5109627_17473637695072_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250514/5109627/detail_5109627_17473637706593_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250514/5109627/detail_5109627_17782078717810_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250514/5109627/detail_5109627_17782081071714_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250514/5109627/detail_5109627_17782081188690_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250514/5109627/detail_5109627_17782081253212_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250514/5109627/detail_5109627_17782081863400_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250514/5109627/detail_5109627_17782082345982_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 71.0,
+          "어깨너비": 52.0,
+          "가슴단면": 56.0,
+          "소매길이": 24.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 73.0,
+          "어깨너비": 54.0,
+          "가슴단면": 58.0,
+          "소매길이": 25.0,
+          "밑단단면": 60.0,
+          "소매부리단면": 20.0,
+          "암홀": 26.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 75.0,
+          "어깨너비": 56.0,
+          "가슴단면": 60.0,
+          "소매길이": 26.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "크롭 M",
+          "code": "크롭 M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "크롭 L",
+          "code": "크롭 L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "크롭 XL",
+          "code": "크롭 XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 23566211,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 23566212,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 23566213,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 248
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

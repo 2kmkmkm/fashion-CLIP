@@ -1,0 +1,117 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5268033",
+  "product_id": 5268033,
+  "name": "OCE Logo Vintage Cap Black",
+  "name_en": "OCE Logo Vintage Cap Black",
+  "style_no": "20250818-01",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "espionage",
+    "name": "에스피오나지",
+    "name_en": "ESPIONAGE"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 46000,
+    "sale": 39100,
+    "discount_rate": 15,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250723/5268033/5268033_17551328266990_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250723/5268033/detail_5268033_17551328407707_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250723/5268033/detail_5268033_17551328363383_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250723/5268033/detail_5268033_17551328373459_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250723/5268033/detail_5268033_17551328383843_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250723/5268033/detail_5268033_17551328392304_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250723/5268033/detail_5268033_17551328399879_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250723/5268033/detail_5268033_17570528480666_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250723/5268033/detail_5268033_17551328699482_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "OS",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 62.0,
+          "챙길이": 7.5,
+          "깊이": 17.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "OS",
+          "code": "OS",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25245960,
+      "managed_code": "OS",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "OS"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 77
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

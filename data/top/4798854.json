@@ -1,0 +1,242 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4798854",
+  "product_id": 4798854,
+  "name": "Knight Motorcycle Short Sleeve Tee Navy",
+  "name_en": "Knight Motorcycle Short Sleeve Tee Navy",
+  "style_no": "N-TOP-0030-NAVY",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "bronson",
+    "name": "브론슨",
+    "name_en": "BRONSON"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001001",
+    "categoryDepth2Title": "반소매 티셔츠",
+    "categoryDepth2Name": "반소매 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2026,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 42000,
+    "sale": 35700,
+    "discount_rate": 15,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250218/4798854/4798854_17780472490125_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4798854/detail_4798854_17780472302469_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4798854/detail_4798854_17733084454584_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4798854/detail_4798854_17733084435523_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4798854/detail_4798854_17733084461362_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4798854/detail_4798854_17733084468563_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4798854/detail_4798854_17733084475426_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4798854/detail_4798854_17733084484557_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4798854/detail_4798854_17733084492483_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4798854/detail_4798854_17733084500939_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4798854/detail_4798854_17764076923169_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4798854/detail_4798854_17764076929063_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4798854/detail_4798854_17764076911494_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4798854/detail_4798854_17764076917241_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "반소매티셔츠",
+    "type_number": 5,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711311300000073160.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 68.0,
+          "어깨너비": 46.0,
+          "가슴단면": 51.0,
+          "소매길이": 20.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 48.0,
+          "가슴단면": 53.0,
+          "소매길이": 21.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 50.0,
+          "가슴단면": 55.0,
+          "소매길이": 22.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XXL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 74.0,
+          "어깨너비": 52.0,
+          "가슴단면": 57.0,
+          "소매길이": 23.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XXXL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 76.0,
+          "어깨너비": 54.0,
+          "가슴단면": 59.0,
+          "소매길이": 24.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXXL",
+          "code": "XXXL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 21937445,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 21937446,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 21937447,
+      "managed_code": "XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XXL"
+      ]
+    },
+    {
+      "id": 22331055,
+      "managed_code": "XXXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XXXL"
+      ]
+    },
+    {
+      "id": 29425803,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 480
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2766962",
+  "product_id": 2766962,
+  "name": "에센셜 시그니쳐 반집업 맨투맨_검정",
+  "name_en": "",
+  "style_no": "TSH7520006",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "anotherarchive",
+    "name": "어나더 아카이브",
+    "name_en": "ANOTHER ARCHIVE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001005",
+    "categoryDepth2Title": "맨투맨/스웨트",
+    "categoryDepth2Name": "맨투맨/스웨트",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "SS",
+      "year": 2022,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 59800,
+    "sale": 27900,
+    "discount_rate": 53,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220902/2766962/2766962_1_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220902/2766962/detail_2766962_1_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220902/2766962/detail_2766962_2_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220902/2766962/detail_2766962_3_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220902/2766962/detail_2766962_4_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "M(95~100)",
+        "sequence": 0,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 61.0,
+          "가슴단면": 61.0,
+          "소매길이": 59.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L(100~105)",
+        "sequence": 1,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 64.5,
+          "가슴단면": 62.5,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M(95~100)",
+          "code": "M(95~100)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(100~105)",
+          "code": "L(100~105)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 11372381,
+      "managed_code": "L(100~105)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L(100~105)"
+      ]
+    },
+    {
+      "id": 11372382,
+      "managed_code": "M(95~100)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M(95~100)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 907
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5862870",
+  "product_id": 5862870,
+  "name": "스웨이드 클래식 페니 로퍼 [다크 브라운]",
+  "name_en": "SUEDE CLASSIC PENNY LOAFER [DARK BROWN]",
+  "style_no": "MEFFL0D03-DR",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "musinsastandard",
+    "name": "무신사 스탠다드",
+    "name_en": "MUSINSA STANDARD"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103001",
+    "categoryDepth2Title": "구두",
+    "categoryDepth2Name": "구두",
+    "categoryDepth3Code": "103001007",
+    "categoryDepth3Title": "로퍼",
+    "categoryDepth3Name": "로퍼",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2026,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 109900,
+    "sale": 98990,
+    "discount_rate": 10,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20251231/5862870/5862870_17701040143553_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251231/5862870/detail_5862870_17701040204694_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251231/5862870/detail_5862870_17701040211422_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251231/5862870/detail_5862870_17701040218659_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251231/5862870/detail_5862870_17701040226217_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20251231/5862870/detail_5862870_17701040232849_500.jpg"
+  ],
+  "features": {
+    "굽 높이": [
+      "보통"
+    ],
+    "쿠션": [
+      "보통"
+    ],
+    "무게": [
+      "보통"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "250",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 26.2,
+          "발볼": 9.0,
+          "발목높이": 7.0,
+          "굽높이": 2.5
+        }
+      },
+      {
+        "size": "255",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 26.7,
+          "발볼": 9.1,
+          "발목높이": 7.0,
+          "굽높이": 2.5
+        }
+      },
+      {
+        "size": "260",
+        "sequence": 6,
+        "measurements": {
+          "발길이": 27.2,
+          "발볼": 9.2,
+          "발목높이": 7.0,
+          "굽높이": 2.5
+        }
+      },
+      {
+        "size": "265",
+        "sequence": 7,
+        "measurements": {
+          "발길이": 27.7,
+          "발볼": 9.3,
+          "발목높이": 7.0,
+          "굽높이": 2.5
+        }
+      },
+      {
+        "size": "270",
+        "sequence": 8,
+        "measurements": {
+          "발길이": 28.2,
+          "발볼": 9.4,
+          "발목높이": 7.0,
+          "굽높이": 2.5
+        }
+      },
+      {
+        "size": "275",
+        "sequence": 9,
+        "measurements": {
+          "발길이": 28.7,
+          "발볼": 9.5,
+          "발목높이": 7.0,
+          "굽높이": 2.5
+        }
+      },
+      {
+        "size": "280",
+        "sequence": 10,
+        "measurements": {
+          "발길이": 29.2,
+          "발볼": 9.6,
+          "발목높이": 7.0,
+          "굽높이": 2.5
+        }
+      },
+      {
+        "size": "285",
+        "sequence": 11,
+        "measurements": {
+          "발길이": 29.7,
+          "발볼": 9.7,
+          "발목높이": 7.0,
+          "굽높이": 2.5
+        }
+      },
+      {
+        "size": "290",
+        "sequence": 12,
+        "measurements": {
+          "발길이": 30.2,
+          "발볼": 9.8,
+          "발목높이": 7.0,
+          "굽높이": 2.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "230",
+          "code": "230",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "235",
+          "code": "235",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "240",
+          "code": "240",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "245",
+          "code": "245",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "250",
+          "code": "250",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "255",
+          "code": "255",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "260",
+          "code": "260",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "265",
+          "code": "265",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "270",
+          "code": "270",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "275",
+          "code": "275",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "280",
+          "code": "280",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "285",
+          "code": "285",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "290",
+          "code": "290",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 28153154,
+      "managed_code": "250",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "250"
+      ]
+    },
+    {
+      "id": 28153155,
+      "managed_code": "255",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "id": 28153156,
+      "managed_code": "260",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "260"
+      ]
+    },
+    {
+      "id": 28153157,
+      "managed_code": "265",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "265"
+      ]
+    },
+    {
+      "id": 28153158,
+      "managed_code": "270",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "270"
+      ]
+    },
+    {
+      "id": 28153159,
+      "managed_code": "275",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "275"
+      ]
+    },
+    {
+      "id": 28153160,
+      "managed_code": "280",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "280"
+      ]
+    },
+    {
+      "id": 28153161,
+      "managed_code": "285",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "285"
+      ]
+    },
+    {
+      "id": 28153162,
+      "managed_code": "290",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "290"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 34
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

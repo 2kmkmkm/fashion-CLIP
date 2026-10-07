@@ -1,0 +1,152 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/7173018",
+  "product_id": 7173018,
+  "name": "커브드 지퍼 푸퍼 자켓_[LIGHT GRAY]",
+  "name_en": "",
+  "style_no": "NM6DPB1103-LG",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "noise",
+    "name": "노이즈",
+    "name_en": "NOISE"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002012",
+    "categoryDepth2Title": "숏패딩/헤비 아우터",
+    "categoryDepth2Name": "숏패딩/헤비 아우터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 178000,
+    "sale": 160200,
+    "discount_rate": 10,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260826/7173018/7173018_17913401877431_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260826/7173018/detail_7173018_17913401883559_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260826/7173018/detail_7173018_17913401885046_500.jpg"
+  ],
+  "features": {
+    "계절": [
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "헤비아우터",
+    "type_number": 8,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711350600000078726.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 61.0,
+          "어깨너비": 49.0,
+          "가슴단면": 62.0,
+          "소매길이": 66.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 63.0,
+          "어깨너비": 51.0,
+          "가슴단면": 64.0,
+          "소매길이": 67.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32752616,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 32752617,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

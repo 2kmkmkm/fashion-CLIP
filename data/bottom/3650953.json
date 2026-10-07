@@ -1,0 +1,303 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3650953",
+  "product_id": 3650953,
+  "name": "에센셜 세미 와이드 슬랙스 (BROWN)",
+  "name_en": "ESSENTIAL SEMI WIDE SLACKS (BROWN)",
+  "style_no": "TRFPT24BR",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "trillion",
+    "name": "트릴리온",
+    "name_en": "TRILLION"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003008",
+    "categoryDepth2Title": "슈트 팬츠/슬랙스",
+    "categoryDepth2Name": "슈트 팬츠/슬랙스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 45000,
+    "sale": 29900,
+    "discount_rate": 34,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20231023/3650953/3650953_17170489297941_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231023/3650953/detail_3650953_16993361592838_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231023/3650953/detail_3650953_16993361599225_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231023/3650953/detail_3650953_16993361606464_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231023/3650953/detail_3650953_16993361614764_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231023/3650953/detail_3650953_16993361622121_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231023/3650953/detail_3650953_16993361631431_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231023/3650953/detail_3650953_16993361643827_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231023/3650953/detail_3650953_16993361656270_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20231023/3650953/detail_3650953_16993361667746_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "신축성": [
+      "약간 있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 101.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 52.0,
+          "허벅지단면": 32.0,
+          "밑위": 35.5,
+          "밑단단면": 23.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 54.0,
+          "허벅지단면": 34.0,
+          "밑위": 36.5,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 43.0,
+          "엉덩이단면": 56.0,
+          "허벅지단면": 36.0,
+          "밑위": 37.5,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "M(겨울원단)",
+        "sequence": 6,
+        "measurements": {
+          "총장": 101.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 52.0,
+          "허벅지단면": 32.0,
+          "밑위": 35.5,
+          "밑단단면": 23.0
+        }
+      },
+      {
+        "size": "L(겨울원단)",
+        "sequence": 7,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 54.0,
+          "허벅지단면": 34.0,
+          "밑위": 36.5,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "XL(겨울원단)",
+        "sequence": 8,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 43.0,
+          "엉덩이단면": 56.0,
+          "허벅지단면": 36.0,
+          "밑위": 37.5,
+          "밑단단면": 25.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(기모)",
+          "code": "M(기모)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(기모)",
+          "code": "L(기모)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(기모)",
+          "code": "XL(기모)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(겨울원단)",
+          "code": "M(겨울원단)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(겨울원단)",
+          "code": "L(겨울원단)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL(겨울원단)",
+          "code": "XL(겨울원단)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15309821,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    },
+    {
+      "id": 15309822,
+      "managed_code": "L(겨울원단)",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "L(겨울원단)"
+      ]
+    },
+    {
+      "id": 15309824,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 15309825,
+      "managed_code": "M(겨울원단)",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "M(겨울원단)"
+      ]
+    },
+    {
+      "id": 15309827,
+      "managed_code": "XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "XL"
+      ]
+    },
+    {
+      "id": 15309828,
+      "managed_code": "XL(겨울원단)",
+      "price_delta": 2000,
+      "activated": true,
+      "values": [
+        "XL(겨울원단)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 802
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

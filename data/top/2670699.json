@@ -1,0 +1,443 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2670699",
+  "product_id": 2670699,
+  "name": "팔레트 풀오버 레글런 니트 (8 COLOR)",
+  "name_en": "Palette Pullover Knit (8 COLOR)",
+  "style_no": "LMDM38",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "lmood",
+    "name": "엘무드",
+    "name_en": "LMOOD"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001006",
+    "categoryDepth2Title": "니트/스웨터",
+    "categoryDepth2Name": "니트/스웨터",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2022,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 89900,
+    "sale": 17980,
+    "discount_rate": 80,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220719/2670699/2670699_17791817592604_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220719/2670699/detail_2670699_17791817731707_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220719/2670699/detail_2670699_17791817757151_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220719/2670699/detail_2670699_17791817779836_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220719/2670699/detail_2670699_17791817813235_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220719/2670699/detail_2670699_17791817850090_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220719/2670699/detail_2670699_17791817875598_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220719/2670699/detail_2670699_17791817902114_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매_래글런",
+    "type_number": 22,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711325400000036950.png",
+    "measurements": [
+      {
+        "size": "44",
+        "sequence": 0,
+        "measurements": {
+          "총장": 66.0,
+          "가슴단면": 56.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "46",
+        "sequence": 1,
+        "measurements": {
+          "총장": 67.5,
+          "가슴단면": 58.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "48",
+        "sequence": 2,
+        "measurements": {
+          "총장": 69.0,
+          "가슴단면": 60.0,
+          "소매부리단면": 0.0,
+          "전체소매길이": 0.0,
+          "밑단단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2670699/20251017154656_option_68f1e6602dcea5.40073609.",
+          "color": null
+        },
+        {
+          "name": "클라우드",
+          "code": "클라우드",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2670699/20251017154659_option_68f1e663bdd576.08173324.",
+          "color": null
+        },
+        {
+          "name": "에그플랜트",
+          "code": "에그플랜트",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2670699/20251017154702_option_68f1e666da8364.07794173.",
+          "color": null
+        },
+        {
+          "name": "돌핀 블루",
+          "code": "돌핀 블루",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2670699/20251017154704_option_68f1e6688318a9.43249780.",
+          "color": null
+        },
+        {
+          "name": "새들 브라운",
+          "code": "새들 브라운",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2670699/20251017154707_option_68f1e66be26d55.05911740.",
+          "color": null
+        },
+        {
+          "name": "브릭 레드",
+          "code": "브릭 레드",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2670699/20251017154709_option_68f1e66d7d5466.68853737.",
+          "color": null
+        },
+        {
+          "name": "탠저린",
+          "code": "탠저린",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2670699/20251017154712_option_68f1e6708d15e7.14256104.",
+          "color": null
+        },
+        {
+          "name": "에버그린",
+          "code": "에버그린",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/2670699/20251017154715_option_68f1e6737ad6d1.35004043.",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "44",
+          "code": "44",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "46",
+          "code": "46",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "48",
+          "code": "48",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 10954487,
+      "managed_code": "돌핀 블루^44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "돌핀 블루",
+        "44"
+      ]
+    },
+    {
+      "id": 10954488,
+      "managed_code": "돌핀 블루^46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "돌핀 블루",
+        "46"
+      ]
+    },
+    {
+      "id": 10954489,
+      "managed_code": "돌핀 블루^48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "돌핀 블루",
+        "48"
+      ]
+    },
+    {
+      "id": 10954490,
+      "managed_code": "브릭 레드^44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브릭 레드",
+        "44"
+      ]
+    },
+    {
+      "id": 10954491,
+      "managed_code": "브릭 레드^46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브릭 레드",
+        "46"
+      ]
+    },
+    {
+      "id": 10954492,
+      "managed_code": "브릭 레드^48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "브릭 레드",
+        "48"
+      ]
+    },
+    {
+      "id": 10954493,
+      "managed_code": "블랙^44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "44"
+      ]
+    },
+    {
+      "id": 10954494,
+      "managed_code": "블랙^46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "46"
+      ]
+    },
+    {
+      "id": 10954495,
+      "managed_code": "블랙^48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "48"
+      ]
+    },
+    {
+      "id": 10954496,
+      "managed_code": "새들 브라운^44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "새들 브라운",
+        "44"
+      ]
+    },
+    {
+      "id": 10954497,
+      "managed_code": "새들 브라운^46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "새들 브라운",
+        "46"
+      ]
+    },
+    {
+      "id": 10954498,
+      "managed_code": "새들 브라운^48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "새들 브라운",
+        "48"
+      ]
+    },
+    {
+      "id": 10954499,
+      "managed_code": "에그플랜트^44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "에그플랜트",
+        "44"
+      ]
+    },
+    {
+      "id": 10954500,
+      "managed_code": "에그플랜트^46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "에그플랜트",
+        "46"
+      ]
+    },
+    {
+      "id": 10954501,
+      "managed_code": "에그플랜트^48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "에그플랜트",
+        "48"
+      ]
+    },
+    {
+      "id": 10954502,
+      "managed_code": "에버그린^44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "에버그린",
+        "44"
+      ]
+    },
+    {
+      "id": 10954503,
+      "managed_code": "에버그린^46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "에버그린",
+        "46"
+      ]
+    },
+    {
+      "id": 10954504,
+      "managed_code": "에버그린^48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "에버그린",
+        "48"
+      ]
+    },
+    {
+      "id": 10954505,
+      "managed_code": "클라우드^44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "클라우드",
+        "44"
+      ]
+    },
+    {
+      "id": 10954506,
+      "managed_code": "클라우드^46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "클라우드",
+        "46"
+      ]
+    },
+    {
+      "id": 10954507,
+      "managed_code": "클라우드^48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "클라우드",
+        "48"
+      ]
+    },
+    {
+      "id": 10954508,
+      "managed_code": "탠저린^44",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "탠저린",
+        "44"
+      ]
+    },
+    {
+      "id": 10954509,
+      "managed_code": "탠저린^46",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "탠저린",
+        "46"
+      ]
+    },
+    {
+      "id": 10954510,
+      "managed_code": "탠저린^48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "탠저린",
+        "48"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 622
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

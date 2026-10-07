@@ -1,0 +1,346 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5289769",
+  "product_id": 5289769,
+  "name": "[ON]스트라이프 오버핏 셔츠 - 3color",
+  "name_en": "[ON]Stripe Overfit Shirt - 3color",
+  "style_no": "MZWS61A2MZWS61A3",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "mindbridge",
+    "name": "마인드브릿지",
+    "name_en": "MINDBRIDGE"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001002",
+    "categoryDepth2Title": "셔츠/블라우스",
+    "categoryDepth2Name": "셔츠/블라우스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 79900,
+    "sale": 39900,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250804/5289769/5289769_17726775493842_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17726775287003_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17726775108810_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17726775097575_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17726775293791_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17557579972051_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17557579962228_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17562694131308_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17630854286841_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17575732281833_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17630854274880_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17630854295475_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17557579951449_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17557579941829_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17555780110158_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17555788953037_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17555788941373_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17557580001444_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17557579982529_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17557579991856_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17555780415756_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17548751955744_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17548751927750_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17548751917755_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17548751937782_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17548751945769_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17548751888033_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17548751908405_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17548751880394_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250804/5289769/detail_5289769_17548751899596_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "셔츠",
+    "type_number": 20,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711285100000081122.png",
+    "measurements": [
+      {
+        "size": "095",
+        "sequence": 0,
+        "measurements": {
+          "총장": 75.5,
+          "어깨너비": 50.4,
+          "가슴단면": 60.5,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "100",
+        "sequence": 1,
+        "measurements": {
+          "총장": 77.0,
+          "어깨너비": 52.0,
+          "가슴단면": 63.0,
+          "소매길이": 61.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "105",
+        "sequence": 2,
+        "measurements": {
+          "총장": 78.5,
+          "어깨너비": 53.6,
+          "가슴단면": 65.5,
+          "소매길이": 63.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "110",
+        "sequence": 3,
+        "measurements": {
+          "총장": 79.5,
+          "어깨너비": 56.6,
+          "가슴단면": 70.0,
+          "소매길이": 64.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블루(멀티스트라이프)",
+          "code": "블루(멀티스트라이프)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5289769/20260327183522_option_69c64f5ac96843.40172378.",
+          "color": {
+            "colorCode": "7",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "그레이(멀티스트라이프)",
+          "code": "그레이(멀티스트라이프)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5289769/20260327183534_option_69c64f66a3e512.72179934.",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "크림(스트라이프)",
+          "code": "크림(스트라이프)",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5289769/20260327183541_option_69c64f6d844f77.71114230.",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "095",
+          "code": "095",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "100",
+          "code": "100",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "105",
+          "code": "105",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "110",
+          "code": "110",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25480713,
+      "managed_code": "블루(멀티스트라이프)^095",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블루(멀티스트라이프)",
+        "095"
+      ]
+    },
+    {
+      "id": 25480714,
+      "managed_code": "블루(멀티스트라이프)^100",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블루(멀티스트라이프)",
+        "100"
+      ]
+    },
+    {
+      "id": 25480715,
+      "managed_code": "블루(멀티스트라이프)^105",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블루(멀티스트라이프)",
+        "105"
+      ]
+    },
+    {
+      "id": 25480716,
+      "managed_code": "블루(멀티스트라이프)^110",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블루(멀티스트라이프)",
+        "110"
+      ]
+    },
+    {
+      "id": 25480717,
+      "managed_code": "그레이(멀티스트라이프)^095",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이(멀티스트라이프)",
+        "095"
+      ]
+    },
+    {
+      "id": 25480718,
+      "managed_code": "그레이(멀티스트라이프)^100",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이(멀티스트라이프)",
+        "100"
+      ]
+    },
+    {
+      "id": 25480719,
+      "managed_code": "그레이(멀티스트라이프)^105",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이(멀티스트라이프)",
+        "105"
+      ]
+    },
+    {
+      "id": 25480720,
+      "managed_code": "그레이(멀티스트라이프)^110",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이(멀티스트라이프)",
+        "110"
+      ]
+    },
+    {
+      "id": 25480721,
+      "managed_code": "크림(스트라이프)^095",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림(스트라이프)",
+        "095"
+      ]
+    },
+    {
+      "id": 25480722,
+      "managed_code": "크림(스트라이프)^100",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림(스트라이프)",
+        "100"
+      ]
+    },
+    {
+      "id": 25480723,
+      "managed_code": "크림(스트라이프)^105",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림(스트라이프)",
+        "105"
+      ]
+    },
+    {
+      "id": 25480724,
+      "managed_code": "크림(스트라이프)^110",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림(스트라이프)",
+        "110"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 282
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

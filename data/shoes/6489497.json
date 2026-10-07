@@ -1,0 +1,224 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/6489497",
+  "product_id": 6489497,
+  "name": "올블랙 빈티지 레더 주름 독일군 스니커즈(OKPL-30SN103)",
+  "name_en": "All-Black Vintage Wrinkled German Army Sneakers(OKPL-30SN103)",
+  "style_no": "OKPL-30SN103",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "okeyplace",
+    "name": "오키플레이스",
+    "name_en": "OKEYPLACE"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103004",
+    "categoryDepth2Title": "스니커즈",
+    "categoryDepth2Name": "스니커즈",
+    "categoryDepth3Code": "103004004",
+    "categoryDepth3Title": "패션스니커즈화",
+    "categoryDepth3Name": "패션스니커즈화",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": null,
+    "collection": {
+      "type": null,
+      "year": null,
+      "raw_code": null,
+      "source": null
+    },
+    "primary_source": "not_available",
+    "primary_candidates": []
+  },
+  "price": {
+    "normal": 74500,
+    "sale": 63330,
+    "discount_rate": 15,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260515/6489497/6489497_17788231724497_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260515/6489497/detail_6489497_17788214642319_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260515/6489497/detail_6489497_17788214650802_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260515/6489497/detail_6489497_17788214659406_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260515/6489497/detail_6489497_17788214667647_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260515/6489497/detail_6489497_17788214675432_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260515/6489497/detail_6489497_17788214683049_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260515/6489497/detail_6489497_17788232273664_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260515/6489497/detail_6489497_17788232279753_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260515/6489497/detail_6489497_17788232286983_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260515/6489497/detail_6489497_17788232293254_500.jpg"
+  ],
+  "features": {
+    "굽 높이": [
+      "보통"
+    ],
+    "쿠션": [
+      "보통"
+    ],
+    "무게": [
+      "보통"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "신발",
+    "type_number": 17,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711452700000040310.png",
+    "measurements": [
+      {
+        "size": "250mm",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 28.0,
+          "발볼": 10.3,
+          "발목높이": 9.1,
+          "굽높이": 3.0
+        }
+      },
+      {
+        "size": "260mm",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 29.0,
+          "발볼": 10.6,
+          "발목높이": 9.5,
+          "굽높이": 3.0
+        }
+      },
+      {
+        "size": "270mm",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 30.0,
+          "발볼": 10.7,
+          "발목높이": 9.6,
+          "굽높이": 3.0
+        }
+      },
+      {
+        "size": "280mm",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 31.0,
+          "발볼": 11.0,
+          "발목높이": 9.8,
+          "굽높이": 3.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/6489497/20260515135302_option_6a06a6ae128ac5.42810449.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "신발 사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "250mm",
+          "code": "250mm",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/6489497/20260515135326_option_6a06a6c62e2629.52037420.",
+          "color": null
+        },
+        {
+          "name": "260mm",
+          "code": "260mm",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/6489497/20260515135327_option_6a06a6c7cf2a53.21853332.",
+          "color": null
+        },
+        {
+          "name": "270mm",
+          "code": "270mm",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/6489497/20260515135329_option_6a06a6c9ceffe2.09253219.",
+          "color": null
+        },
+        {
+          "name": "280mm",
+          "code": "280mm",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/6489497/20260515135331_option_6a06a6cb9f7fe3.02334127.",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 30879648,
+      "managed_code": "블랙^250mm",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "250mm"
+      ]
+    },
+    {
+      "id": 30879649,
+      "managed_code": "블랙^260mm",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "260mm"
+      ]
+    },
+    {
+      "id": 30879650,
+      "managed_code": "블랙^270mm",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "270mm"
+      ]
+    },
+    {
+      "id": 30879651,
+      "managed_code": "블랙^280mm",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "280mm"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.6,
+    "count": 10
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": null,
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

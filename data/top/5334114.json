@@ -1,0 +1,191 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5334114",
+  "product_id": 5334114,
+  "name": "컬러블록 자수 후드티 (그레이)",
+  "name_en": "COLOR BLOCK Embroidery Gray Hoodie",
+  "style_no": "P0000FTG",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "slades",
+    "name": "슬레이즈",
+    "name_en": "SLDS"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001004",
+    "categoryDepth2Title": "후드 티셔츠",
+    "categoryDepth2Name": "후드 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2025,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 162000,
+    "sale": 162000,
+    "discount_rate": 0,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250818/5334114/5334114_17555278497457_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250818/5334114/detail_5334114_17555278581320_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250818/5334114/detail_5334114_17555278613029_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250818/5334114/detail_5334114_17555278671602_500.png",
+    "https://image.msscdn.net/images/prd_img/20250818/5334114/detail_5334114_17555278727241_500.png"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "두꺼움"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "L",
+        "sequence": 0,
+        "measurements": {
+          "총장": 69.0,
+          "어깨너비": 0.0,
+          "가슴단면": 63.0,
+          "소매길이": 62.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 1,
+        "measurements": {
+          "총장": 72.5,
+          "어깨너비": 0.0,
+          "가슴단면": 68.0,
+          "소매길이": 64.5,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "그레이",
+          "code": "그레이",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5334114/20250818233600_option_68a33a5090b230.38990652.",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 25612922,
+      "managed_code": "그레이^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "L"
+      ]
+    },
+    {
+      "id": 25612923,
+      "managed_code": "그레이^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "그레이",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 12
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

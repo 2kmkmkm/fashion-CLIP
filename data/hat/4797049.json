@@ -1,0 +1,121 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4797049",
+  "product_id": 4797049,
+  "name": "[코지 핏] 아치 로고 빈티지 아플리케 트러커 캡 Black",
+  "name_en": "[COZY FIT] ARCH LOGO VINTAGE APPLIQUE TRUCKER CAP",
+  "style_no": "CO2506CA32BK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "covernat",
+    "name": "커버낫",
+    "name_en": "COVERNAT"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120001",
+    "categoryDepth2Title": "캡/야구모자",
+    "categoryDepth2Name": "캡/야구모자",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 9800,
+    "discount_rate": 80,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250218/4797049/4797049_17439934464964_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4797049/detail_4797049_17439934473277_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4797049/detail_4797049_17439934475683_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4797049/detail_4797049_17439934478712_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4797049/detail_4797049_17439934481839_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4797049/detail_4797049_17439934486360_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4797049/detail_4797049_17439934489227_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4797049/detail_4797049_17439934491405_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250218/4797049/detail_4797049_17403748254581_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "캡/야구모자",
+    "type_number": 15,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711463200000000138.png",
+    "measurements": [
+      {
+        "size": "F",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 58.0,
+          "챙길이": 7.5,
+          "깊이": 16.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "F",
+          "code": "F",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 21928185,
+      "managed_code": "F",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "F"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.5,
+    "count": 13
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

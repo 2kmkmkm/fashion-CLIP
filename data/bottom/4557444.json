@@ -1,0 +1,295 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4557444",
+  "product_id": 4557444,
+  "name": "카고 스트링 와이드 코튼 팬츠 3 Color [ULZP_0001]",
+  "name_en": "Cargo String Wide Cotton Pants 3 Color [ULZP_0001]",
+  "style_no": "4557444",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "ulifezip",
+    "name": "유라이프지",
+    "name_en": "ULIFEZIP"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "겨울",
+    "collection": {
+      "type": null,
+      "year": 2026,
+      "raw_code": "0",
+      "source": null
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 56000,
+    "sale": 39200,
+    "discount_rate": 30,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241025/4557444/4557444_17798591179152_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241025/4557444/detail_4557444_17298165403381_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241025/4557444/detail_4557444_17298165406419_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241025/4557444/detail_4557444_17298165408836_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈",
+      "오버 사이즈"
+    ],
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "거의 없음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 56.0,
+          "허벅지단면": 35.0,
+          "밑위": 32.0,
+          "밑단단면": 28.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 57.0,
+          "허벅지단면": 36.0,
+          "밑위": 33.0,
+          "밑단단면": 29.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 43.0,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 37.0,
+          "밑위": 34.0,
+          "밑단단면": 30.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "베이지_ULZP_0001",
+          "code": "베이지_ULZP_0001",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4557444/20250703092657_option_6865ce514e9849.25862646.",
+          "color": {
+            "colorCode": "5",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "카키_ULZP_0001",
+          "code": "카키_ULZP_0001",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4557444/20250703092702_option_6865ce56600856.92978562.",
+          "color": {
+            "colorCode": "30",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙_ULZP_0001",
+          "code": "블랙_ULZP_0001",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/4557444/20250703092705_option_6865ce597eab59.53447200.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 19996528,
+      "managed_code": "베이지_ULZP_0001^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지_ULZP_0001",
+        "M"
+      ]
+    },
+    {
+      "id": 19996529,
+      "managed_code": "베이지_ULZP_0001^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지_ULZP_0001",
+        "L"
+      ]
+    },
+    {
+      "id": 19996530,
+      "managed_code": "베이지_ULZP_0001^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지_ULZP_0001",
+        "XL"
+      ]
+    },
+    {
+      "id": 19996531,
+      "managed_code": "카키_ULZP_0001^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키_ULZP_0001",
+        "M"
+      ]
+    },
+    {
+      "id": 19996532,
+      "managed_code": "카키_ULZP_0001^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키_ULZP_0001",
+        "L"
+      ]
+    },
+    {
+      "id": 19996533,
+      "managed_code": "카키_ULZP_0001^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키_ULZP_0001",
+        "XL"
+      ]
+    },
+    {
+      "id": 19996534,
+      "managed_code": "블랙_ULZP_0001^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙_ULZP_0001",
+        "M"
+      ]
+    },
+    {
+      "id": 19996535,
+      "managed_code": "블랙_ULZP_0001^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙_ULZP_0001",
+        "L"
+      ]
+    },
+    {
+      "id": 19996536,
+      "managed_code": "블랙_ULZP_0001^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙_ULZP_0001",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 160
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

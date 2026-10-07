@@ -1,0 +1,362 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4163350",
+  "product_id": 4163350,
+  "name": "섬머 내츄럴 와이드 밴딩 슬랙스 (5 COLOURS)",
+  "name_en": "SUMMER NATURAL WIDE BANDING SLACKS (5 COLOURS)",
+  "style_no": "T3S-SNWBSL508",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "toffee",
+    "name": "토피",
+    "name_en": "TOFFEE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003008",
+    "categoryDepth2Title": "슈트 팬츠/슬랙스",
+    "categoryDepth2Name": "슈트 팬츠/슬랙스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2023,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 49000,
+    "sale": 25900,
+    "discount_rate": 47,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240529/4163350/4163350_17169624361130_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240529/4163350/detail_4163350_17169621453540_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240529/4163350/detail_4163350_17169623584989_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240529/4163350/detail_4163350_17169621464439_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240529/4163350/detail_4163350_17169621486571_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240529/4163350/detail_4163350_17169621475593_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240529/4163350/detail_4163350_17169621578344_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240529/4163350/detail_4163350_17169621605440_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240529/4163350/detail_4163350_17169621589602_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240529/4163350/detail_4163350_17169621597804_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240529/4163350/detail_4163350_17169621569096_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 103.0,
+          "허리단면": 35.0,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 36.5,
+          "밑위": 30.5,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 37.0,
+          "엉덩이단면": 60.0,
+          "허벅지단면": 38.0,
+          "밑위": 32.5,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 62.0,
+          "허벅지단면": 39.5,
+          "밑위": 34.5,
+          "밑단단면": 27.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "LIGHT GREY",
+          "code": "LIGHT GREY",
+          "image_url": "",
+          "color": {
+            "colorCode": "24",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "GREY",
+          "code": "GREY",
+          "image_url": "",
+          "color": {
+            "colorCode": "3",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BEIGE",
+          "code": "BEIGE",
+          "image_url": "",
+          "color": {
+            "colorCode": "5",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "DEEP BLUE",
+          "code": "DEEP BLUE",
+          "image_url": "",
+          "color": {
+            "colorCode": "80",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "CHARCOAL",
+          "code": "CHARCOAL",
+          "image_url": "",
+          "color": {
+            "colorCode": "25",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "BLACK",
+          "code": "BLACK",
+          "image_url": "",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 17561019,
+      "managed_code": "BEIGE^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE",
+        "L"
+      ]
+    },
+    {
+      "id": 17561020,
+      "managed_code": "BEIGE^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE",
+        "M"
+      ]
+    },
+    {
+      "id": 17561021,
+      "managed_code": "BEIGE^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BEIGE",
+        "XL"
+      ]
+    },
+    {
+      "id": 17561022,
+      "managed_code": "BLACK^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "L"
+      ]
+    },
+    {
+      "id": 17561023,
+      "managed_code": "BLACK^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "M"
+      ]
+    },
+    {
+      "id": 17561024,
+      "managed_code": "BLACK^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK",
+        "XL"
+      ]
+    },
+    {
+      "id": 17561025,
+      "managed_code": "CHARCOAL^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CHARCOAL",
+        "L"
+      ]
+    },
+    {
+      "id": 17561026,
+      "managed_code": "CHARCOAL^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CHARCOAL",
+        "M"
+      ]
+    },
+    {
+      "id": 17561027,
+      "managed_code": "CHARCOAL^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "CHARCOAL",
+        "XL"
+      ]
+    },
+    {
+      "id": 17561028,
+      "managed_code": "DEEP BLUE^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "DEEP BLUE",
+        "L"
+      ]
+    },
+    {
+      "id": 17561029,
+      "managed_code": "DEEP BLUE^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "DEEP BLUE",
+        "M"
+      ]
+    },
+    {
+      "id": 17561030,
+      "managed_code": "DEEP BLUE^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "DEEP BLUE",
+        "XL"
+      ]
+    },
+    {
+      "id": 17561031,
+      "managed_code": "GREY^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY",
+        "L"
+      ]
+    },
+    {
+      "id": 17561032,
+      "managed_code": "GREY^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY",
+        "M"
+      ]
+    },
+    {
+      "id": 17561033,
+      "managed_code": "GREY^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GREY",
+        "XL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 773
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,684 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3796553",
+  "product_id": 3796553,
+  "name": "두굿_세미와이드 밴딩 슬랙스 - 5color MAPT01A3",
+  "name_en": "Dogood_Tapered Banding Slacks - 5 color MAPT01A3",
+  "style_no": "MAPT01A3",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "mindbridge",
+    "name": "마인드브릿지",
+    "name_en": "MINDBRIDGE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003008",
+    "categoryDepth2Title": "슈트 팬츠/슬랙스",
+    "categoryDepth2Name": "슈트 팬츠/슬랙스",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 79900,
+    "sale": 39900,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240116/3796553/3796553_17718245564224_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17726789875427_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17718245330215_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17718245321801_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17726789705171_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17718245468658_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17053952658034_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17053952621577_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17053952553370_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17053952603961_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17053952543465_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17053952590100_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17053952533826_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17053952524406_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17053952638649_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17053952577452_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240116/3796553/detail_3796553_17053952564517_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "029",
+        "sequence": 0,
+        "measurements": {
+          "총장": 103.5,
+          "허리단면": 37.25,
+          "엉덩이단면": 48.0,
+          "허벅지단면": 30.8,
+          "밑위": 26.5,
+          "밑단단면": 21.75
+        }
+      },
+      {
+        "size": "030",
+        "sequence": 1,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 38.5,
+          "엉덩이단면": 49.25,
+          "허벅지단면": 31.45,
+          "밑위": 27.0,
+          "밑단단면": 22.0
+        }
+      },
+      {
+        "size": "031",
+        "sequence": 2,
+        "measurements": {
+          "총장": 104.5,
+          "허리단면": 39.75,
+          "엉덩이단면": 50.5,
+          "허벅지단면": 32.1,
+          "밑위": 27.5,
+          "밑단단면": 22.25
+        }
+      },
+      {
+        "size": "032",
+        "sequence": 3,
+        "measurements": {
+          "총장": 105.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 51.75,
+          "허벅지단면": 32.75,
+          "밑위": 28.0,
+          "밑단단면": 22.5
+        }
+      },
+      {
+        "size": "033",
+        "sequence": 4,
+        "measurements": {
+          "총장": 105.5,
+          "허리단면": 42.25,
+          "엉덩이단면": 53.0,
+          "허벅지단면": 33.4,
+          "밑위": 28.5,
+          "밑단단면": 22.75
+        }
+      },
+      {
+        "size": "034",
+        "sequence": 5,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 43.5,
+          "엉덩이단면": 54.25,
+          "허벅지단면": 34.05,
+          "밑위": 29.0,
+          "밑단단면": 23.0
+        }
+      },
+      {
+        "size": "036",
+        "sequence": 6,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 46.0,
+          "엉덩이단면": 56.75,
+          "허벅지단면": 35.35,
+          "밑위": 30.0,
+          "밑단단면": 23.5
+        }
+      },
+      {
+        "size": "038",
+        "sequence": 7,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 48.5,
+          "엉덩이단면": 58.75,
+          "허벅지단면": 36.65,
+          "밑위": 31.0,
+          "밑단단면": 24.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "BK",
+          "code": "BK",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3796553/20260330115237_option_69c9e5753a5ac0.23616913.",
+          "color": null
+        },
+        {
+          "name": "GR",
+          "code": "GR",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3796553/20260330115242_option_69c9e57a60f237.97577760.",
+          "color": null
+        },
+        {
+          "name": "KH",
+          "code": "KH",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3796553/20260330115246_option_69c9e57e6ee005.83612638.",
+          "color": null
+        },
+        {
+          "name": "LB",
+          "code": "LB",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3796553/20260330115251_option_69c9e5830b55a9.36798189.",
+          "color": null
+        },
+        {
+          "name": "NA",
+          "code": "NA",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3796553/20260330115255_option_69c9e58792dd40.77492872.",
+          "color": null
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "029",
+          "code": "029",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "030",
+          "code": "030",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "031",
+          "code": "031",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "032",
+          "code": "032",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "033",
+          "code": "033",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "034",
+          "code": "034",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "036",
+          "code": "036",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "038",
+          "code": "038",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 15934580,
+      "managed_code": "BK^029",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "029"
+      ]
+    },
+    {
+      "id": 15934581,
+      "managed_code": "BK^030",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "030"
+      ]
+    },
+    {
+      "id": 15934582,
+      "managed_code": "BK^031",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "031"
+      ]
+    },
+    {
+      "id": 15934583,
+      "managed_code": "BK^032",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "032"
+      ]
+    },
+    {
+      "id": 15934584,
+      "managed_code": "BK^033",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "033"
+      ]
+    },
+    {
+      "id": 15934585,
+      "managed_code": "BK^034",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "034"
+      ]
+    },
+    {
+      "id": 15934586,
+      "managed_code": "BK^036",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "036"
+      ]
+    },
+    {
+      "id": 15934587,
+      "managed_code": "BK^038",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BK",
+        "038"
+      ]
+    },
+    {
+      "id": 15934588,
+      "managed_code": "GR^029",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "029"
+      ]
+    },
+    {
+      "id": 15934589,
+      "managed_code": "GR^030",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "030"
+      ]
+    },
+    {
+      "id": 15934590,
+      "managed_code": "GR^031",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "031"
+      ]
+    },
+    {
+      "id": 15934591,
+      "managed_code": "GR^032",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "032"
+      ]
+    },
+    {
+      "id": 15934592,
+      "managed_code": "GR^033",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "033"
+      ]
+    },
+    {
+      "id": 15934593,
+      "managed_code": "GR^034",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "034"
+      ]
+    },
+    {
+      "id": 15934594,
+      "managed_code": "GR^036",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "036"
+      ]
+    },
+    {
+      "id": 15934595,
+      "managed_code": "GR^038",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "GR",
+        "038"
+      ]
+    },
+    {
+      "id": 15934596,
+      "managed_code": "KH^029",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KH",
+        "029"
+      ]
+    },
+    {
+      "id": 15934597,
+      "managed_code": "KH^030",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KH",
+        "030"
+      ]
+    },
+    {
+      "id": 15934598,
+      "managed_code": "KH^031",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KH",
+        "031"
+      ]
+    },
+    {
+      "id": 15934599,
+      "managed_code": "KH^032",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KH",
+        "032"
+      ]
+    },
+    {
+      "id": 15934600,
+      "managed_code": "KH^033",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KH",
+        "033"
+      ]
+    },
+    {
+      "id": 15934601,
+      "managed_code": "KH^034",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KH",
+        "034"
+      ]
+    },
+    {
+      "id": 15934602,
+      "managed_code": "KH^036",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KH",
+        "036"
+      ]
+    },
+    {
+      "id": 15934603,
+      "managed_code": "KH^038",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KH",
+        "038"
+      ]
+    },
+    {
+      "id": 15934604,
+      "managed_code": "LB^029",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LB",
+        "029"
+      ]
+    },
+    {
+      "id": 15934605,
+      "managed_code": "LB^030",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LB",
+        "030"
+      ]
+    },
+    {
+      "id": 15934606,
+      "managed_code": "LB^031",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LB",
+        "031"
+      ]
+    },
+    {
+      "id": 15934607,
+      "managed_code": "LB^032",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LB",
+        "032"
+      ]
+    },
+    {
+      "id": 15934608,
+      "managed_code": "LB^033",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LB",
+        "033"
+      ]
+    },
+    {
+      "id": 15934609,
+      "managed_code": "LB^034",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LB",
+        "034"
+      ]
+    },
+    {
+      "id": 15934610,
+      "managed_code": "LB^036",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LB",
+        "036"
+      ]
+    },
+    {
+      "id": 15934611,
+      "managed_code": "LB^038",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LB",
+        "038"
+      ]
+    },
+    {
+      "id": 15934612,
+      "managed_code": "NA^029",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NA",
+        "029"
+      ]
+    },
+    {
+      "id": 15934613,
+      "managed_code": "NA^030",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NA",
+        "030"
+      ]
+    },
+    {
+      "id": 15934614,
+      "managed_code": "NA^031",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NA",
+        "031"
+      ]
+    },
+    {
+      "id": 15934615,
+      "managed_code": "NA^032",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NA",
+        "032"
+      ]
+    },
+    {
+      "id": 15934616,
+      "managed_code": "NA^033",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NA",
+        "033"
+      ]
+    },
+    {
+      "id": 15934617,
+      "managed_code": "NA^034",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NA",
+        "034"
+      ]
+    },
+    {
+      "id": 15934618,
+      "managed_code": "NA^036",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NA",
+        "036"
+      ]
+    },
+    {
+      "id": 15934619,
+      "managed_code": "NA^038",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NA",
+        "038"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 341
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

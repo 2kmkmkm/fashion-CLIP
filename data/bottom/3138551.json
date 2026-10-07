@@ -1,0 +1,286 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/3138551",
+  "product_id": 3138551,
+  "name": "린넨라이크 세미와이드 밴딩 팬츠_4 COLOR",
+  "name_en": "Linen-like semi-wide banding pants",
+  "style_no": "KBDUUWP001",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "kiimuir",
+    "name": "키뮤어",
+    "name_en": "KIIMUIR"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름",
+      "가을"
+    ],
+    "primary": "여름",
+    "collection": {
+      "type": "SS",
+      "year": 2024,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 44000,
+    "sale": 13200,
+    "discount_rate": 70,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20230310/3138551/3138551_17664576819747_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230310/3138551/detail_3138551_17664571203610_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230310/3138551/detail_3138551_17664571387009_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230310/3138551/detail_3138551_17664571441107_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20230310/3138551/detail_3138551_17664571499268_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "루즈"
+    ],
+    "촉감": [
+      "약간 부드러움"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "보통"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 36.5,
+          "엉덩이단면": 53.5,
+          "허벅지단면": 35.7,
+          "밑위": 32.8,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 56.0,
+          "허벅지단면": 37.0,
+          "밑위": 33.8,
+          "밑단단면": 27.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "크림",
+          "code": "크림",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3138551/20251223113955_option_694a00fbacc1e5.59899581.",
+          "color": {
+            "colorCode": "23",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "카키",
+          "code": "카키",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3138551/20251223113958_option_694a00fece1483.69582146.",
+          "color": {
+            "colorCode": "30",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3138551/20251223114002_option_694a010273fd52.68168774.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "베이지",
+          "code": "베이지",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3138551/20251223114005_option_694a01054033d7.83382678.",
+          "color": {
+            "colorCode": "5",
+            "colorType": "MUSINSA"
+          }
+        },
+        {
+          "name": "네이비",
+          "code": "네이비",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/3138551/20251223114007_option_694a0107cbf970.16025234.",
+          "color": {
+            "colorCode": "36",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 13119645,
+      "managed_code": "베이지^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "L"
+      ]
+    },
+    {
+      "id": 13119646,
+      "managed_code": "베이지^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "베이지",
+        "M"
+      ]
+    },
+    {
+      "id": 13119647,
+      "managed_code": "블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 13119648,
+      "managed_code": "블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 13119649,
+      "managed_code": "카키^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "L"
+      ]
+    },
+    {
+      "id": 13119650,
+      "managed_code": "카키^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "카키",
+        "M"
+      ]
+    },
+    {
+      "id": 13119651,
+      "managed_code": "크림^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림",
+        "L"
+      ]
+    },
+    {
+      "id": 13119652,
+      "managed_code": "크림^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "크림",
+        "M"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 663
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "여름",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

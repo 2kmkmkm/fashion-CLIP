@@ -1,0 +1,212 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4303963",
+  "product_id": 4303963,
+  "name": "베니 비니[5컬러]",
+  "name_en": "BENNY BEANIE[5COLOR]",
+  "style_no": "L24W315",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "ledept",
+    "name": "르뎁트",
+    "name_en": "LEDEPT"
+  },
+  "category": {
+    "categoryDepth1Code": "120",
+    "categoryDepth1Title": "모자",
+    "categoryDepth1Name": "모자",
+    "categoryDepth2Code": "120005",
+    "categoryDepth2Title": "비니",
+    "categoryDepth2Name": "비니",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 19000,
+    "sale": 18900,
+    "discount_rate": 1,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240807/4303963/4303963_17236022211477_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4303963/detail_4303963_17235974852439_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4303963/detail_4303963_17235975036281_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4303963/detail_4303963_17235974868191_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4303963/detail_4303963_17235974879463_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4303963/detail_4303963_17235975109833_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4303963/detail_4303963_17235975123347_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4303963/detail_4303963_17235975135307_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4303963/detail_4303963_17235975151459_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240807/4303963/detail_4303963_17235975167899_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "비니",
+    "type_number": 52,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711465700000088960.png",
+    "measurements": [
+      {
+        "size": "IVORY",
+        "sequence": 0,
+        "measurements": {
+          "머리둘레": 24.5,
+          "깊이": 22.0
+        }
+      },
+      {
+        "size": "BLACK",
+        "sequence": 1,
+        "measurements": {
+          "머리둘레": 24.5,
+          "깊이": 22.0
+        }
+      },
+      {
+        "size": "MELANGE GRAY",
+        "sequence": 2,
+        "measurements": {
+          "머리둘레": 24.5,
+          "깊이": 22.0
+        }
+      },
+      {
+        "size": "NAVY",
+        "sequence": 3,
+        "measurements": {
+          "머리둘레": 24.5,
+          "깊이": 22.0
+        }
+      },
+      {
+        "size": "KHAKI",
+        "sequence": 4,
+        "measurements": {
+          "머리둘레": 24.5,
+          "깊이": 22.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "IVORY",
+          "code": "IVORY",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "BLACK",
+          "code": "BLACK",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "MELANGE GRAY",
+          "code": "MELANGE GRAY",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "NAVY",
+          "code": "NAVY",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "KHAKI",
+          "code": "KHAKI",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 18414363,
+      "managed_code": "IVORY",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "IVORY"
+      ]
+    },
+    {
+      "id": 18414364,
+      "managed_code": "BLACK",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "BLACK"
+      ]
+    },
+    {
+      "id": 18414365,
+      "managed_code": "MELANGE GRAY",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "MELANGE GRAY"
+      ]
+    },
+    {
+      "id": 18414366,
+      "managed_code": "NAVY",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "NAVY"
+      ]
+    },
+    {
+      "id": 18414367,
+      "managed_code": "KHAKI",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "KHAKI"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 148
+  },
+  "dataset": {
+    "logical_category": "모자",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

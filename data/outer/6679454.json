@@ -1,0 +1,178 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/6679454",
+  "product_id": 6679454,
+  "name": "오버핏 울 헤링턴 자켓 (블랙)",
+  "name_en": "오버핏 울 헤링턴 자켓 (블랙)",
+  "style_no": "N24SJK01-BK",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "noirer",
+    "name": "노이어",
+    "name_en": "NOIRER"
+  },
+  "category": {
+    "categoryDepth1Code": "002",
+    "categoryDepth1Title": "아우터",
+    "categoryDepth1Name": "아우터",
+    "categoryDepth2Code": "002001",
+    "categoryDepth2Title": "블루종/MA-1",
+    "categoryDepth2Name": "블루종/MA-1",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2024,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 175000,
+    "sale": 87500,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260616/6679454/6679454_17816639487697_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260616/6679454/detail_6679454_17817701308872_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260616/6679454/detail_6679454_17817701313736_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260616/6679454/detail_6679454_17817701318685_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260616/6679454/detail_6679454_17817701323637_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260616/6679454/detail_6679454_17817701329033_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260616/6679454/detail_6679454_17817701334369_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "점퍼",
+    "type_number": 7,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711340900000003694.png",
+    "measurements": [
+      {
+        "size": "48",
+        "sequence": 0,
+        "measurements": {
+          "총장": 62.2,
+          "어깨너비": 51.4,
+          "가슴단면": 61.0,
+          "소매길이": 64.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "50",
+        "sequence": 1,
+        "measurements": {
+          "총장": 63.5,
+          "어깨너비": 52.7,
+          "가슴단면": 63.5,
+          "소매길이": 64.8,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "52",
+        "sequence": 2,
+        "measurements": {
+          "총장": 64.8,
+          "어깨너비": 54.0,
+          "가슴단면": 66.0,
+          "소매길이": 66.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "S",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "48",
+          "code": "48",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "50",
+          "code": "50",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "52",
+          "code": "52",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 31498581,
+      "managed_code": "48",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "48"
+      ]
+    },
+    {
+      "id": 31498582,
+      "managed_code": "50",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "50"
+      ]
+    },
+    {
+      "id": 31498583,
+      "managed_code": "52",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "52"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 5,
+    "count": 3
+  },
+  "dataset": {
+    "logical_category": "아우터",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

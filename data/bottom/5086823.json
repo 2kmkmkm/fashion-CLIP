@@ -1,0 +1,243 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/5086823",
+  "product_id": 5086823,
+  "name": "핀턱 카펜터 버뮤다 스웨트 팬츠 블랙 YP-501",
+  "name_en": "핀턱 카펜터 버뮤다 스웨트 팬츠 블랙 YP-501",
+  "style_no": "YP-501black",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "yosemite",
+    "name": "요세미티",
+    "name_en": "YOSEMITE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003009",
+    "categoryDepth2Title": "숏 팬츠",
+    "categoryDepth2Name": "숏 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "여름"
+    ],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2025,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 42200,
+    "sale": 28900,
+    "discount_rate": 32,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20250502/5086823/5086823_17461700029379_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250502/5086823/detail_5086823_17465783896398_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250502/5086823/detail_5086823_17473706242041_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250502/5086823/detail_5086823_17473706230763_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20250502/5086823/detail_5086823_17473706222275_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "보통"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "여름"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "반바지",
+    "type_number": 23,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711371500000057711.png",
+    "measurements": [
+      {
+        "size": "M",
+        "sequence": 0,
+        "measurements": {
+          "총장": 55.0,
+          "허리단면": 33.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 35.0,
+          "밑위": 34.0,
+          "밑단단면": 35.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 1,
+        "measurements": {
+          "총장": 61.0,
+          "허리단면": 35.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 39.0,
+          "밑위": 36.0,
+          "밑단단면": 36.0
+        }
+      },
+      {
+        "size": "XL",
+        "sequence": 2,
+        "measurements": {
+          "총장": 63.0,
+          "허리단면": 37.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 40.0,
+          "밑위": 37.0,
+          "밑단단면": 37.0
+        }
+      },
+      {
+        "size": "XXL",
+        "sequence": 3,
+        "measurements": {
+          "총장": 63.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 41.0,
+          "밑위": 38.0,
+          "밑단단면": 38.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "컬러",
+      "display_type": "COLOR_CHIP",
+      "values": [
+        {
+          "name": "블랙",
+          "code": "블랙",
+          "image_url": "https://image.msscdn.net/thumbnails/images/goods/option-value/5086823/20251113173808_option_691598f0b54d54.77837228.",
+          "color": {
+            "colorCode": "2",
+            "colorType": "MUSINSA"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XL",
+          "code": "XL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "XXL",
+          "code": "XXL",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 23384898,
+      "managed_code": "블랙^M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "M"
+      ]
+    },
+    {
+      "id": 23384899,
+      "managed_code": "블랙^L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "L"
+      ]
+    },
+    {
+      "id": 23384900,
+      "managed_code": "블랙^XL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "XL"
+      ]
+    },
+    {
+      "id": 23384901,
+      "managed_code": "블랙^XXL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "블랙",
+        "XXL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 746
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

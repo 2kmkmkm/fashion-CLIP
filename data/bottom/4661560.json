@@ -1,0 +1,221 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4661560",
+  "product_id": 4661560,
+  "name": "여름원단추가) 오비 배색 썬더 로고 팬츠 블랙/핑크",
+  "name_en": "오비 배색 썬더 로고 팬츠 블랙/핑크",
+  "style_no": "001",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "dxoh",
+    "name": "디쏘에이치",
+    "name_en": "D.XO.H"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003004",
+    "categoryDepth2Title": "트레이닝/조거 팬츠",
+    "categoryDepth2Name": "트레이닝/조거 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을"
+    ],
+    "primary": "봄",
+    "collection": {
+      "type": "FW",
+      "year": 2024,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을"
+    ]
+  },
+  "price": {
+    "normal": 81000,
+    "sale": 52650,
+    "discount_rate": 35,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20241211/4661560/4661560_17755360231832_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20241211/4661560/detail_4661560_17345308131338_500.jpg"
+  ],
+  "features": {
+    "핏": [
+      "레귤러"
+    ],
+    "촉감": [
+      "보통"
+    ],
+    "신축성": [
+      "있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "1",
+        "sequence": 0,
+        "measurements": {
+          "총장": 104.0,
+          "허리단면": 31.0,
+          "엉덩이단면": 58.0,
+          "허벅지단면": 37.0,
+          "밑위": 38.5,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "2",
+        "sequence": 1,
+        "measurements": {
+          "총장": 109.0,
+          "허리단면": 32.0,
+          "엉덩이단면": 61.0,
+          "허벅지단면": 38.0,
+          "밑위": 38.5,
+          "밑단단면": 26.0
+        }
+      },
+      {
+        "size": "봄여름용(얇은 원단) 1 SIZE",
+        "sequence": 2,
+        "measurements": {
+          "총장": 0.0,
+          "허리단면": 0.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 0.0,
+          "밑위": 0.0,
+          "밑단단면": 0.0
+        }
+      },
+      {
+        "size": "봄여름용(얇은 원단) 2 SIZE",
+        "sequence": 3,
+        "measurements": {
+          "총장": 0.0,
+          "허리단면": 0.0,
+          "엉덩이단면": 0.0,
+          "허벅지단면": 0.0,
+          "밑위": 0.0,
+          "밑단단면": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "1",
+          "code": "1",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "2",
+          "code": "2",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "봄여름용(얇은 원단) 1 SIZE",
+          "code": "봄여름용(얇은 원단) 1 SIZE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "봄여름용(얇은 원단) 2 SIZE",
+          "code": "봄여름용(얇은 원단) 2 SIZE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 20949436,
+      "managed_code": "1",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "id": 20949437,
+      "managed_code": "2",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "2"
+      ]
+    },
+    {
+      "id": 30165722,
+      "managed_code": "봄여름용(얇은 원단) 1 SIZE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "봄여름용(얇은 원단) 1 SIZE"
+      ]
+    },
+    {
+      "id": 30165723,
+      "managed_code": "봄여름용(얇은 원단) 2 SIZE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "봄여름용(얇은 원단) 2 SIZE"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 95
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

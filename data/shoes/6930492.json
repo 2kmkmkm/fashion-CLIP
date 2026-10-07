@@ -1,0 +1,272 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/6930492",
+  "product_id": 6930492,
+  "name": "(U) 스탠 스미스 로우 프로 오프화이트 Y-3 STAN SMITH LO PRO BLACK/BLACK/OFF WHITE",
+  "name_en": "",
+  "style_no": "YY3U262PSSN170BK",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "y3",
+    "name": "와이쓰리",
+    "name_en": "Y-3"
+  },
+  "category": {
+    "categoryDepth1Code": "103",
+    "categoryDepth1Title": "신발",
+    "categoryDepth1Name": "신발",
+    "categoryDepth2Code": "103004",
+    "categoryDepth2Title": "스니커즈",
+    "categoryDepth2Name": "스니커즈",
+    "categoryDepth3Code": "103004004",
+    "categoryDepth3Title": "패션스니커즈화",
+    "categoryDepth3Name": "패션스니커즈화",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": "sneaker"
+  },
+  "season": {
+    "original": [],
+    "primary": "겨울",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 439000,
+    "sale": 439000,
+    "discount_rate": 0,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20260727/6930492/6930492_17899798046741_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260727/6930492/detail_6930492_17899798137734_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260727/6930492/detail_6930492_17899798143125_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260727/6930492/detail_6930492_17899798148822_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260727/6930492/detail_6930492_17899798154471_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260727/6930492/detail_6930492_17899798160302_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260727/6930492/detail_6930492_17899798166120_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260727/6930492/detail_6930492_17899798171858_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20260727/6930492/detail_6930492_17899798178025_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "스니커즈",
+    "type_number": 54,
+    "unit": "cm",
+    "description": "",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711445100000068699.png",
+    "measurements": [
+      {
+        "size": "4.5",
+        "sequence": 0,
+        "measurements": {
+          "발길이": 23.0,
+          "발볼": 9.0,
+          "발목높이": 7.5,
+          "굽높이": 1.0
+        }
+      },
+      {
+        "size": "5.5",
+        "sequence": 1,
+        "measurements": {
+          "발길이": 24.0,
+          "발볼": 9.5,
+          "발목높이": 8.0,
+          "굽높이": 1.0
+        }
+      },
+      {
+        "size": "6.5",
+        "sequence": 2,
+        "measurements": {
+          "발길이": 25.0,
+          "발볼": 9.5,
+          "발목높이": 8.0,
+          "굽높이": 1.0
+        }
+      },
+      {
+        "size": "7.5",
+        "sequence": 3,
+        "measurements": {
+          "발길이": 26.0,
+          "발볼": 9.5,
+          "발목높이": 8.0,
+          "굽높이": 1.0
+        }
+      },
+      {
+        "size": "8.5",
+        "sequence": 4,
+        "measurements": {
+          "발길이": 27.0,
+          "발볼": 10.0,
+          "발목높이": 8.0,
+          "굽높이": 1.0
+        }
+      },
+      {
+        "size": "9.5",
+        "sequence": 5,
+        "measurements": {
+          "발길이": 28.0,
+          "발볼": 10.0,
+          "발목높이": 8.0,
+          "굽높이": 1.0
+        }
+      },
+      {
+        "size": "10.5",
+        "sequence": 6,
+        "measurements": {
+          "발길이": 29.0,
+          "발볼": 10.0,
+          "발목높이": 8.0,
+          "굽높이": 1.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "4.5",
+          "code": "4.5",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "5.5",
+          "code": "5.5",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "6.5",
+          "code": "6.5",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "7.5",
+          "code": "7.5",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "8.5",
+          "code": "8.5",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "9.5",
+          "code": "9.5",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "10.5",
+          "code": "10.5",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 32163115,
+      "managed_code": "4.5",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "4.5"
+      ]
+    },
+    {
+      "id": 32163116,
+      "managed_code": "5.5",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "5.5"
+      ]
+    },
+    {
+      "id": 32163117,
+      "managed_code": "6.5",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "6.5"
+      ]
+    },
+    {
+      "id": 32163118,
+      "managed_code": "7.5",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "7.5"
+      ]
+    },
+    {
+      "id": 32163119,
+      "managed_code": "8.5",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "8.5"
+      ]
+    },
+    {
+      "id": 32163120,
+      "managed_code": "9.5",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "9.5"
+      ]
+    },
+    {
+      "id": 32163121,
+      "managed_code": "10.5",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "10.5"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 0,
+    "count": 0
+  },
+  "dataset": {
+    "logical_category": "신발",
+    "primary_season": "겨울",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/4261735",
+  "product_id": 4261735,
+  "name": "BACK SATIN FATIGUE PANTS(ORIGINAL FIT)_WASHED OLIVE",
+  "name_en": "",
+  "style_no": "OS00ALPT06WO",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "outstanding",
+    "name": "아웃스탠딩",
+    "name_en": "OUTSTANDING"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003007",
+    "categoryDepth2Title": "코튼 팬츠",
+    "categoryDepth2Name": "코튼 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": 2026,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 108000,
+    "sale": 97200,
+    "discount_rate": 10,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20240719/4261735/4261735_17870185813047_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240719/4261735/detail_4261735_17870185948797_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240719/4261735/detail_4261735_17870185900379_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240719/4261735/detail_4261735_17870185912912_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240719/4261735/detail_4261735_17870185926316_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240719/4261735/detail_4261735_17870185939298_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240719/4261735/detail_4261735_17870185957366_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20240719/4261735/detail_4261735_17870185891137_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "S",
+        "sequence": 0,
+        "measurements": {
+          "총장": 106.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 55.0,
+          "허벅지단면": 35.0,
+          "밑위": 33.0,
+          "밑단단면": 24.0
+        }
+      },
+      {
+        "size": "M",
+        "sequence": 1,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 42.0,
+          "엉덩이단면": 57.0,
+          "허벅지단면": 36.0,
+          "밑위": 34.0,
+          "밑단단면": 25.0
+        }
+      },
+      {
+        "size": "L",
+        "sequence": 2,
+        "measurements": {
+          "총장": 110.0,
+          "허리단면": 44.0,
+          "엉덩이단면": 59.0,
+          "허벅지단면": 37.0,
+          "밑위": 35.0,
+          "밑단단면": 26.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "S",
+          "code": "S",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 18101964,
+      "managed_code": "S",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "id": 18101965,
+      "managed_code": "M",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M"
+      ]
+    },
+    {
+      "id": 18101966,
+      "managed_code": "L",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 281
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

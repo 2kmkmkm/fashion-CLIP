@@ -1,0 +1,293 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2109937",
+  "product_id": 2109937,
+  "name": "피치스킨 벌룬오버 후드 - 블랙",
+  "name_en": "peach skin ballon over hood black",
+  "style_no": "MOO_21T3BLACK",
+  "gender": {
+    "raw": [
+      "남성"
+    ],
+    "normalized": "MALE"
+  },
+  "brand": {
+    "id": "moo",
+    "name": "엠오오",
+    "name_en": "MOO"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001004",
+    "categoryDepth2Title": "후드 티셔츠",
+    "categoryDepth2Name": "후드 티셔츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [
+      "봄",
+      "가을",
+      "겨울"
+    ],
+    "primary": "가을",
+    "collection": {
+      "type": "FW",
+      "year": null,
+      "raw_code": "2",
+      "source": "official"
+    },
+    "primary_source": "musinsa_season_tags",
+    "primary_candidates": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "price": {
+    "normal": 68000,
+    "sale": 34000,
+    "discount_rate": 50,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20210906/2109937/2109937_1_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210906/2109937/detail_2109937_17133176607111_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20210906/2109937/detail_2109937_17133176596602_500.jpg"
+  ],
+  "features": {
+    "촉감": [
+      "부드러움"
+    ],
+    "신축성": [
+      "약간 있음"
+    ],
+    "비침": [
+      "없음"
+    ],
+    "두께": [
+      "보통"
+    ],
+    "계절": [
+      "봄",
+      "가을",
+      "겨울"
+    ]
+  },
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "S(쭈리)",
+        "sequence": 2,
+        "measurements": {
+          "총장": 63.0,
+          "어깨너비": 59.0,
+          "가슴단면": 62.0,
+          "소매길이": 59.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "S(기모)",
+        "sequence": 3,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M(쭈리)",
+        "sequence": 4,
+        "measurements": {
+          "총장": 67.0,
+          "어깨너비": 62.0,
+          "가슴단면": 66.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "M(기모)",
+        "sequence": 5,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L(쭈리)",
+        "sequence": 6,
+        "measurements": {
+          "총장": 71.0,
+          "어깨너비": 65.0,
+          "가슴단면": 70.0,
+          "소매길이": 61.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "L(기모)",
+        "sequence": 7,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "M",
+          "code": "M",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L",
+          "code": "L",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S(쭈리)",
+          "code": "S(쭈리)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "S(기모)",
+          "code": "S(기모)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(쭈리)",
+          "code": "M(쭈리)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "M(기모)",
+          "code": "M(기모)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(쭈리)",
+          "code": "L(쭈리)",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "L(기모)",
+          "code": "L(기모)",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 8470358,
+      "managed_code": "L(기모)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L(기모)"
+      ]
+    },
+    {
+      "id": 8470359,
+      "managed_code": "L(쭈리)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "L(쭈리)"
+      ]
+    },
+    {
+      "id": 8470361,
+      "managed_code": "M(기모)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M(기모)"
+      ]
+    },
+    {
+      "id": 8470362,
+      "managed_code": "M(쭈리)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "M(쭈리)"
+      ]
+    },
+    {
+      "id": 8470363,
+      "managed_code": "S(기모)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S(기모)"
+      ]
+    },
+    {
+      "id": 8470364,
+      "managed_code": "S(쭈리)",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "S(쭈리)"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.8,
+    "count": 3420
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "가을",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

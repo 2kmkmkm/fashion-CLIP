@@ -1,0 +1,313 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/1817394",
+  "product_id": 1817394,
+  "name": "[3-PACK]베이직 트래블러 피그먼트 스웨트셔츠",
+  "name_en": "[3-PACK]BASIC TRAVELER PIGMENT SWEATSHIRT",
+  "style_no": "TRTOAWCR92U",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "travel",
+    "name": "트래블",
+    "name_en": "TRAVEL"
+  },
+  "category": {
+    "categoryDepth1Code": "001",
+    "categoryDepth1Title": "상의",
+    "categoryDepth1Name": "상의",
+    "categoryDepth2Code": "001005",
+    "categoryDepth2Title": "맨투맨/스웨트",
+    "categoryDepth2Name": "맨투맨/스웨트",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2021,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 150000,
+    "sale": 60000,
+    "discount_rate": 60,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20210226/1817394/1817394_17152436181527_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "긴소매티셔츠",
+    "type_number": 21,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090711323100000052223.png",
+    "measurements": [
+      {
+        "size": "SMALL",
+        "sequence": 0,
+        "measurements": {
+          "총장": 66.0,
+          "어깨너비": 56.0,
+          "가슴단면": 56.0,
+          "소매길이": 57.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "MEDIUM",
+        "sequence": 1,
+        "measurements": {
+          "총장": 70.0,
+          "어깨너비": 59.0,
+          "가슴단면": 60.0,
+          "소매길이": 60.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "LARGE",
+        "sequence": 2,
+        "measurements": {
+          "총장": 72.0,
+          "어깨너비": 62.0,
+          "가슴단면": 62.5,
+          "소매길이": 62.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "EXTRA LARGE",
+        "sequence": 3,
+        "measurements": {
+          "총장": 74.0,
+          "어깨너비": 64.0,
+          "가슴단면": 64.0,
+          "소매길이": 64.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "[NO기모]SMALL",
+        "sequence": 4,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "[NO기모]MEDIUM",
+        "sequence": 5,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "[NO기모]LARGE",
+        "sequence": 6,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      },
+      {
+        "size": "[NO기모]EXTRA LARGE",
+        "sequence": 7,
+        "measurements": {
+          "총장": 0.0,
+          "어깨너비": 0.0,
+          "가슴단면": 0.0,
+          "소매길이": 0.0,
+          "밑단단면": 0.0,
+          "소매부리단면": 0.0,
+          "암홀": 0.0
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "SMALL",
+          "code": "SMALL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "MEDIUM",
+          "code": "MEDIUM",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "LARGE",
+          "code": "LARGE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "EXTRA LARGE",
+          "code": "EXTRA LARGE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "[NO기모]SMALL",
+          "code": "[NO기모]SMALL",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "[NO기모]MEDIUM",
+          "code": "[NO기모]MEDIUM",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "[NO기모]LARGE",
+          "code": "[NO기모]LARGE",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "[NO기모]EXTRA LARGE",
+          "code": "[NO기모]EXTRA LARGE",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 7032070,
+      "managed_code": "EXTRA LARGE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "EXTRA LARGE"
+      ]
+    },
+    {
+      "id": 7032071,
+      "managed_code": "LARGE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "LARGE"
+      ]
+    },
+    {
+      "id": 7032072,
+      "managed_code": "MEDIUM",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "MEDIUM"
+      ]
+    },
+    {
+      "id": 7032073,
+      "managed_code": "SMALL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "SMALL"
+      ]
+    },
+    {
+      "id": 7032074,
+      "managed_code": "[NO기모]EXTRA LARGE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "[NO기모]EXTRA LARGE"
+      ]
+    },
+    {
+      "id": 7032075,
+      "managed_code": "[NO기모]LARGE",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "[NO기모]LARGE"
+      ]
+    },
+    {
+      "id": 7032076,
+      "managed_code": "[NO기모]MEDIUM",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "[NO기모]MEDIUM"
+      ]
+    },
+    {
+      "id": 7032077,
+      "managed_code": "[NO기모]SMALL",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "[NO기모]SMALL"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.7,
+    "count": 11996
+  },
+  "dataset": {
+    "logical_category": "상의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}

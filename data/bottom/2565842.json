@@ -1,0 +1,258 @@
+{
+  "source": "musinsa",
+  "source_url": "https://www.musinsa.com/products/2565842",
+  "product_id": 2565842,
+  "name": "Sandman - MOD7",
+  "name_en": "Sandman - MOD7",
+  "style_no": "Sandman - MOD7",
+  "gender": {
+    "raw": [
+      "남성",
+      "여성"
+    ],
+    "normalized": "UNISEX"
+  },
+  "brand": {
+    "id": "modnine",
+    "name": "모드나인",
+    "name_en": "MODNINE"
+  },
+  "category": {
+    "categoryDepth1Code": "003",
+    "categoryDepth1Title": "바지",
+    "categoryDepth1Name": "바지",
+    "categoryDepth2Code": "003002",
+    "categoryDepth2Title": "데님 팬츠",
+    "categoryDepth2Name": "데님 팬츠",
+    "categoryDepth3Code": "",
+    "categoryDepth3Title": "",
+    "categoryDepth3Name": "",
+    "categoryDepth4Code": "",
+    "categoryDepth4Title": "",
+    "categoryDepth4Name": "",
+    "storeCode": ""
+  },
+  "season": {
+    "original": [],
+    "primary": "봄",
+    "collection": {
+      "type": "SS",
+      "year": 2022,
+      "raw_code": "1",
+      "source": "official"
+    },
+    "primary_source": "collection_fallback",
+    "primary_candidates": [
+      "봄",
+      "여름"
+    ]
+  },
+  "price": {
+    "normal": 138000,
+    "sale": 55200,
+    "discount_rate": 60,
+    "currency": "KRW"
+  },
+  "images": [
+    "https://image.msscdn.net/images/goods_img/20220517/2565842/2565842_16932822799439_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220517/2565842/detail_2565842_1_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220517/2565842/detail_2565842_2_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220517/2565842/detail_2565842_3_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220517/2565842/detail_2565842_5_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220517/2565842/detail_2565842_8_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220517/2565842/detail_2565842_6_500.jpg",
+    "https://image.msscdn.net/images/prd_img/20220517/2565842/detail_2565842_7_500.jpg"
+  ],
+  "features": {},
+  "size": {
+    "available": true,
+    "type_name": "바지",
+    "type_number": 6,
+    "unit": "cm",
+    "description": "측정 방법에 따라 약 2cm 정도의 오차가 있을 수 있습니다.",
+    "guide_image": "https://image.musinsa.com/images/size_type/detail_img/2026090720245200000055810.png",
+    "measurements": [
+      {
+        "size": "28",
+        "sequence": 0,
+        "measurements": {
+          "총장": 107.0,
+          "허리단면": 38.0,
+          "엉덩이단면": 47.5,
+          "허벅지단면": 31.0,
+          "밑위": 29.0,
+          "밑단단면": 21.0
+        }
+      },
+      {
+        "size": "29",
+        "sequence": 1,
+        "measurements": {
+          "총장": 108.0,
+          "허리단면": 39.0,
+          "엉덩이단면": 48.5,
+          "허벅지단면": 31.5,
+          "밑위": 29.5,
+          "밑단단면": 21.5
+        }
+      },
+      {
+        "size": "30",
+        "sequence": 2,
+        "measurements": {
+          "총장": 109.0,
+          "허리단면": 40.0,
+          "엉덩이단면": 49.5,
+          "허벅지단면": 32.0,
+          "밑위": 30.0,
+          "밑단단면": 22.0
+        }
+      },
+      {
+        "size": "31",
+        "sequence": 3,
+        "measurements": {
+          "총장": 110.0,
+          "허리단면": 41.0,
+          "엉덩이단면": 50.5,
+          "허벅지단면": 32.5,
+          "밑위": 30.5,
+          "밑단단면": 22.5
+        }
+      },
+      {
+        "size": "32",
+        "sequence": 4,
+        "measurements": {
+          "총장": 111.0,
+          "허리단면": 42.0,
+          "엉덩이단면": 51.5,
+          "허벅지단면": 33.0,
+          "밑위": 31.0,
+          "밑단단면": 23.0
+        }
+      },
+      {
+        "size": "33",
+        "sequence": 5,
+        "measurements": {
+          "총장": 112.0,
+          "허리단면": 43.0,
+          "엉덩이단면": 52.5,
+          "허벅지단면": 33.5,
+          "밑위": 31.5,
+          "밑단단면": 23.5
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "name": "사이즈",
+      "display_type": "DROPDOWN",
+      "values": [
+        {
+          "name": "28",
+          "code": "28",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "29",
+          "code": "29",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "30",
+          "code": "30",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "31",
+          "code": "31",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "32",
+          "code": "32",
+          "image_url": "",
+          "color": null
+        },
+        {
+          "name": "33",
+          "code": "33",
+          "image_url": "",
+          "color": null
+        }
+      ]
+    }
+  ],
+  "option_items": [
+    {
+      "id": 10515228,
+      "managed_code": "28",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "28"
+      ]
+    },
+    {
+      "id": 10515229,
+      "managed_code": "29",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "29"
+      ]
+    },
+    {
+      "id": 10515230,
+      "managed_code": "30",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "30"
+      ]
+    },
+    {
+      "id": 10515231,
+      "managed_code": "31",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "31"
+      ]
+    },
+    {
+      "id": 10515232,
+      "managed_code": "32",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "32"
+      ]
+    },
+    {
+      "id": 10515233,
+      "managed_code": "33",
+      "price_delta": 0,
+      "activated": true,
+      "values": [
+        "33"
+      ]
+    }
+  ],
+  "review": {
+    "rating": 4.9,
+    "count": 373
+  },
+  "dataset": {
+    "logical_category": "하의",
+    "primary_season": "봄",
+    "gender_scope": "MALE_AND_UNISEX"
+  }
+}
