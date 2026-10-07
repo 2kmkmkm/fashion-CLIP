@@ -1,6 +1,7 @@
 .env
 cache/
 __pycache__/
+data/
 outputs/
 pipeline/
 config.json
