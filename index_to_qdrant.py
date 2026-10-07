@@ -35,6 +35,54 @@ class FashionCLIPRunner:
                 embeddings.extend(feats.cpu().numpy())
         return np.array(embeddings)
 
+# 상품 실측에 따른 정규화 함수
+def normalize_measurements(category_name: str, raw_measurements: dict) -> dict:
+    mapped = {}
+    if category_name in ["상의", "아우터"]:
+        key_map = {
+            "총장": "top_length", 
+            "어깨너비": "shoulder", 
+            "가슴단면": "chest", 
+            "소매길이": "sleeve", 
+            "밑단단면": "top_hem", 
+            "소매부리단면": "cuff", 
+            "암홀": "armhole"
+        }
+    elif category_name == "하의":
+        key_map = {
+            "총장": "bottom_length", 
+            "허리단면": "waist", 
+            "엉덩이단면": "hip", 
+            "허벅지단면": "thigh", 
+            "밑위": "rise", 
+            "밑단단면": "bottom_hem"
+        }
+    elif category_name == "신발":
+        key_map = {
+            "발길이": "foot_length", 
+            "발볼": "foot_width", 
+            "발목높이": "ankle_height", 
+            "굽높이": "heel_height"
+        }
+    elif category_name == "모자":
+        key_map = {
+            "머리둘레": "head_circumference", 
+            "챙길이": "brim_length", 
+            "깊이": "depth"
+        }
+    else:
+        key_map = {}
+        
+    for k, v in raw_measurements.items():
+        en_key = key_map.get(k)
+        if en_key is not None:
+            try:
+                val = float(v)
+                if val > 0.0:
+                    mapped[en_key] = val
+            except (ValueError, TypeError):
+                pass
+    return mapped
 
 QDRANT_URL = "http://localhost:6333"
 COLLECTION_NAME = "musinsa_products"
@@ -52,23 +100,25 @@ qdrant.create_collection(
 )
 print(f">> 신규 컬렉션 '{COLLECTION_NAME}' 생성 완료")
 
-
-DATASET_PATH = "outputs/products_dataset_completed_v2.jsonl" 
-if not os.path.exists(DATASET_PATH):
-    # 만약 v2 파일이 없다면 v1 등으로 변경 가능
-    DATASET_PATH = "data/products_dataset_completed_v1.jsonl"
-
-if not os.path.exists(DATASET_PATH):
-    raise FileNotFoundError(f"🚨 데이터셋 파일을 찾을 수 없습니다: {DATASET_PATH}")
+# data 폴더의 하위 디렉토리 순회하며 JSON 로드
+DATA_ROOT = "data"
+if not os.path.exists(DATA_ROOT):
+    raise FileNotFoundError(f"🚨 'data' 폴더를 찾을 수 없습니다. 경로를 확인해주세요.")
 
 products = []
-with open(DATASET_PATH, "r", encoding="utf-8") as f:
-    for line in f:
-        if line.strip():
-            products.append(json.loads(line))
+print(f">> '{DATA_ROOT}' 폴더 내 JSON 파일 탐색 시작...")
+for root, dirs, files in os.walk(DATA_ROOT):
+    for file in files:
+        if file.endswith(".json"):
+            file_path = os.path.join(root, file)
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    products.append(data)
+            except Exception as e:
+                print(f"[에러] 파일 읽기 실패 ({file_path}): {e}")
 
-print(f">> 데이터셋 파일 로드 완료: 총 {len(products)}개 상품")
-
+print(f">> 총 {len(products)}개의 상품 JSON 파일 로드 완료.")
 
 valid_records = []
 pil_images_to_embed = []
@@ -77,29 +127,15 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/91.0.
 for p in tqdm(products, desc="상품 이미지 안전 로딩 중"):
     p_id = str(p.get("product_id"))
     image_url = ""
-    local_path = ""
     
-    # 1순위: selected_images 안의 front local_path나 image_url 확인
-    selected_front = (p.get("selected_images") or {}).get("front") or {}
-    local_path = selected_front.get("local_path")
-    image_url = selected_front.get("image_url")
-    
-    # 2순위: 만약 위 정보가 없으면 images 배열의 첫 번째 항목(썸네일 등) 활용
-    if not image_url:
-        images_list = p.get("images", [])
-        if images_list:
-            image_url = images_list[0].get("image_url", "")
+    # 대표 이미지 URL 추출
+    images_list = p.get("images", [])
+    if images_list:
+        image_url = images_list[0] if isinstance(images_list[0], str) else images_list[0].get("image_url", "")
 
+    # 이미지 다운로드 및 파싱 시도
     img = None
-    # 로컬 캐시에 파일이 존재하면 즉시 로드
-    if local_path and os.path.exists(local_path):
-        try:
-            img = Image.open(local_path).convert("RGB")
-        except Exception:
-            pass
-
-    # 로컬에 없으면 원본 URL을 통해 다운로드 시도
-    if img is None and image_url:
+    if image_url:
         try:
             response = requests.get(image_url, headers=headers, timeout=5)
             if response.status_code == 200:
@@ -107,6 +143,7 @@ for p in tqdm(products, desc="상품 이미지 안전 로딩 중"):
         except Exception:
             pass
 
+    # 유효성 검증 및 리스트 적재
     if img is not None:
         valid_records.append((p, image_url))
         pil_images_to_embed.append(img)
@@ -116,7 +153,7 @@ for p in tqdm(products, desc="상품 이미지 안전 로딩 중"):
 print(f">> 최종 유효 이미지 로드 성공: {len(pil_images_to_embed)} / {len(products)} 건")
 
 if not pil_images_to_embed:
-    print(">> 🚨 임베딩할 이미지가 0건입니다. 데이터셋 경로를 확인해주세요.")
+    print(">> 🚨 임베딩할 이미지가 0건입니다. 이미지 URL을 확인해주세요.")
     exit()
 
 fclip = FashionCLIPRunner()
@@ -129,20 +166,58 @@ for i in tqdm(range(0, len(pil_images_to_embed), BATCH_SIZE), desc="Fashion-CLIP
 
 points = []
 for idx, (p, img_url) in enumerate(valid_records):
-    price_val = int(p.get("price") or p.get("sale_price") or 0)
+    p_id = p.get("product_id")
     
+    # 가격
+    price_info = p.get("price", {})
+    price_val = int(price_info.get("normal", 0))
+
+    # 카테고리
+    logical_cat = p.get("dataset", {}).get("logical_category")
+    if not logical_cat or logical_cat not in ["상의", "하의", "아우터", "모자", "신발"]:
+        print(f"\n[스킵] 상품 ID {p_id}: 유효하지 않거나 누락된 카테고리입니다. (값: {logical_cat})")
+        continue
+
+    # 서브 카테고리
+    subcat_title = p.get("category", {}).get("categoryDepth2Title", "")
+
+    # 계절감
+    season_info = p.get("season", {})
+    primary_season = season_info.get("primary", "ALL")
+    season_candidates = season_info.get("primary_candidates", [primary_season] if primary_season else [])
+
+    # 상품 실측
+    size_info = p.get("size", {})
+    raw_measurements_list = size_info.get("measurements", [])
+    normalized_measurements_list = []
+
+    for size_item in raw_measurements_list:
+        size_label = size_item.get("size")
+        raw_m = size_item.get("measurements", {})
+        norm_m = normalize_measurements(logical_cat, raw_m)
+        
+        if norm_m:
+            normalized_measurements_list.append({
+                "size": size_label,
+                "sequence": size_item.get("sequence", 0),
+                "measurements": norm_m
+            })
+    
+    # Qdrant Payload 구성 (색상 필드는 빈 배열 처리)
     payload = {
         "product_id": int(p["product_id"]),
-        "product_name": p.get("product_name", ""),
-        "brand_name": "brand_name" in p and p["brand_name"] or "",
-        "category": p.get("category") or p.get("source_category", ""),
-        "subcategory": p.get("subcategory", ""),
+        "product_name": p.get("name", ""),
+        "brand_name": p.get("brand", {}).get("name", ""),
+        "category": logical_cat,
+        "subcategory": subcat_title,
         "price": price_val,
-        "season": p.get("season", "ALL"),
-        "color_normalized": p.get("color_normalized", []),
-        "fit_normalized": p.get("fit_normalized", []),
+        "season": primary_season,
+        "season_candidates": season_candidates,
+        "color_normalized": [],
+        "features": p.get("features", {}),
+        "sizes": normalized_measurements_list,
         "image_url": img_url,
-        "product_url": p.get("product_url", "")
+        "product_url": p.get("source_url", "")
     }
 
     points.append(
