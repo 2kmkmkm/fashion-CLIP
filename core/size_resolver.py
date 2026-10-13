@@ -19,7 +19,7 @@ class SizeProfileResolver:
                 "recommendation": None
             }
         
-        # 확보한 베이스라인의 알맹이 데이터("data")와 카테고리 타입을 SizeCalculator에 전달
+        # 확보한 베이스라인의 데이터와 카테고리 타입을 SizeCalculator에 전달
         recommended_result = SizeCalculator.evaluate(candidate_products, baseline_spec["data"], category_type)
         
         return {
@@ -33,7 +33,7 @@ class SizeProfileResolver:
         [2. 우선순위 체인 (Fallback Chain) 라우팅]
         유저의 데이터 성숙도에 따라 1순위부터 3순위까지 차례대로 탐색합니다.
         """
-        # 1순위: 본인의 "맞다"로 학습된 선호 실측 (user_fit_preferences)
+        # 1순위: 본인의 "맞다"로 학습된 선호 실측
         learned_pref = self._fetch_user_fit_preferences(user_id, subcategory, fit_type)
         if learned_pref:
             return {
@@ -213,16 +213,18 @@ class SizeCalculator:
                         valid_fields_count += 1
 
                 # 비교할 수 있는 유효한 데이터가 하나도 없다면 이 사이즈 옵션은 스킵
-                if valid_fields_count == 0:
-                    continue
+                if penalty > 15.0:
+                    fit_score = 0.0
+                else:
+                    fit_score = max(0.0, 1.0 - (penalty / 15.0))  # 15cm 기준 마진 점수화
 
-                # 3. 최소 오차 갱신 및 15cm 마진 기준 점수화
+                # 최소 오차 갱신 및 최적 사이즈 산출
                 if penalty < min_penalty:
                     min_penalty = penalty
                     best_match = {
                         "product_id": product.get("product_id"),
                         "size_label": size_option.get("size", "Unknown"),
-                        "predicted_fit_score": max(0.0, 1.0 - (min_penalty / 15.0))  # 15cm 기준 마진
+                        "predicted_fit_score": fit_score
                     }
                     
         return best_match

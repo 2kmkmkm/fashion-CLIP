@@ -28,7 +28,7 @@ class FashionPipelineCoordinator:
         print(f"\n🤖 LLM 파싱 분석 결과:")
         print(f"  - 검색 타입 : {intent.search_type}")
         print(f"  - 총 예산   : {intent.total_budget:,}원" if intent.total_budget else "  - 총 예산 (Total Budget)   : None")
-        print(f"  - 계절감          : {intent.season}")
+        print(f"  - 계절 우선순위 배열 : {intent.season_preferences}")
         print(f"  - TPO 및 무드        : {intent.tpo_summary}")
         print(f"  - 추출된 슬롯 개수         : {len(intent.slots)}개")
         
@@ -52,9 +52,10 @@ class FashionPipelineCoordinator:
             items = self.engine.search(
                 query_text=slot.clip_query_en,
                 category=slot.category,
-                season=intent.season,
+                season_preferences=intent.season_preferences,
                 max_price=slot.max_price,
                 color=slot.color,
+                fit_type=slot.fit_type,
                 top_k=10
             )            
 
@@ -101,9 +102,10 @@ class FashionPipelineCoordinator:
                 items = self.engine.search(
                     query_text=slot.clip_query_en,
                     category=slot.category,
-                    season=intent.season,
+                    season_preferences=intent.season_preferences,
                     max_price=slot.max_price,
                     color=slot.color,
+                    fit_type=slot.fit_type,
                     top_k=5
                 )
 
