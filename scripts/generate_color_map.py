@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-DATA_ROOT = "data"
+DATA_ROOT = "./data"
 
 def extract_unique_colors():
     print(">> 데이터셋에서 고유 색상 추출 중...")
@@ -55,7 +55,7 @@ if __name__ == "__main__":
         color_map_json = generate_color_mapping(raw_color_list)
         
         # 파일로 저장
-        with open("color_map.json", "w", encoding="utf-8") as f:
+        with open("./config/color_map.json", "w", encoding="utf-8") as f:
             json.dump(color_map_json, f, ensure_ascii=False, indent=4)
         print(">> 🎉 'color_map.json' 파일 생성 완료!")
     else:
