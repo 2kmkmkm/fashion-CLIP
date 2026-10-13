@@ -1,4 +1,5 @@
 import os
+import datetime
 from openai import OpenAI
 from pydantic import BaseModel, Field
 from typing import List, Optional, Literal
@@ -16,7 +17,7 @@ class SlotQuery(BaseModel):
     clip_query_en: str = Field(description="Fashion-CLIP 검색용 패션 영문 시각 묘사")
     max_price: Optional[int] = Field(description="Soft-Margin 버퍼(1.3배)가 곱해진 해당 슬롯의 가격 상한선")
     color: Optional[str] = Field(description="질의에서 언급된 색상 (예: black, blue, white, gray, navy, red 등, 없으면 null)")
-    fit_type: Optional[str] = Field(description="질의에서 언급된 핏 성향 (예: slim, regular, relaxed, oversized 등, 없으면 null)")
+    fit_type: Optional[Literal["slim", "regular", "relaxed", "oversized"]] = Field(description="질의에서 언급된 핏 (slim, regular, relaxed, oversized 중 택 1. 없으면 null)")
 
 # 전체 질의의 거시적인 맥락과 공통 조건을 담는 최상위 컨테이너
 # 단품/코디, 전체 예산, 계절감, TPO

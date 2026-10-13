@@ -192,7 +192,7 @@ for idx, (p, img_url, norm_color) in enumerate(valid_records):
     fit_type = normalize_fit(p.get("features", {}).get("핏", []))
 
     # 계절감
-   season_candidates = p.get("season", {}).get("primary_candidates", [])
+    season_candidates = p.get("season", {}).get("primary_candidates", [])
     if not season_candidates:
         season_candidates = ["봄", "여름", "가을", "겨울"]
 
