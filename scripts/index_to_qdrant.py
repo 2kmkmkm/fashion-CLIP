@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 import torch
 import numpy as np
@@ -9,6 +10,24 @@ from tqdm import tqdm
 from transformers import CLIPModel, CLIPProcessor
 from qdrant_client import QdrantClient
 from qdrant_client.http import models
+import uuid
+
+# 사전 생성된 color_map.json 메모리 로드
+COLOR_MAP_FILE = "./config/color_map.json"
+if os.path.exists(COLOR_MAP_FILE):
+    with open(COLOR_MAP_FILE, "r", encoding="utf-8") as f:
+        COLOR_MAP_DB = json.load(f)
+else:
+    print("🚨 경고: color_map.json 파일이 없습니다. generate_color_map.py를 먼저 실행하세요.")
+    sys.exit(1)
+
+def normalize_color(raw_color: str) -> str:
+    return COLOR_MAP_DB.get(raw_color.lower().strip(), "etc")
+
+def normalize_fit(raw_fit_list: list) -> str:
+    if not raw_fit_list: return None
+    fit_map = {"슬림": "slim", "레귤러": "regular", "보통": "regular", "루즈": "relaxed", "오버 사이즈": "oversized", "오버핏": "oversized"}
+    return fit_map.get(raw_fit_list[0].strip(), None)
 
 class FashionCLIPRunner:
     def __init__(self, model_name="patrickjohncyh/fashion-clip"):
@@ -128,27 +147,27 @@ for p in tqdm(products, desc="상품 이미지 안전 로딩 중"):
     p_id = str(p.get("product_id"))
     image_url = ""
     
-    # 대표 이미지 URL 추출
-    images_list = p.get("images", [])
-    if images_list:
-        image_url = images_list[0] if isinstance(images_list[0], str) else images_list[0].get("image_url", "")
-
-    # 이미지 다운로드 및 파싱 시도
-    img = None
-    if image_url:
-        try:
-            response = requests.get(image_url, headers=headers, timeout=5)
-            if response.status_code == 200:
-                img = Image.open(BytesIO(response.content)).convert("RGB")
-        except Exception:
-            pass
-
-    # 유효성 검증 및 리스트 적재
-    if img is not None:
-        valid_records.append((p, image_url))
-        pil_images_to_embed.append(img)
-    else:
-        print(f"\n[스킵] 상품 ID {p_id}: 이미지를 로드할 수 없습니다.")
+    # color_image_mappings 기반 다중 벡터 포인트 생성
+    color_mappings = p.get("color_image_mappings", [])
+    if not color_mappings:
+        color_mappings = [{"color_raw": "etc", "image_url": p.get("images", [""])[0]}]
+        
+    for mapping in color_mappings:
+        raw_color = mapping.get("color_raw", "")
+        norm_color = normalize_color(raw_color)
+        specific_img_url = mapping.get("image_url", p.get("images", [""])[0])
+        
+        img = None
+        if specific_img_url:
+            try:
+                response = requests.get(specific_img_url, headers=headers, timeout=5)
+                if response.status_code == 200:
+                    img = Image.open(BytesIO(response.content)).convert("RGB")
+            except Exception: pass
+                
+        if img is not None:
+            valid_records.append((p, specific_img_url, norm_color))
+            pil_images_to_embed.append(img)
 
 print(f">> 최종 유효 이미지 로드 성공: {len(pil_images_to_embed)} / {len(products)} 건")
 
@@ -161,79 +180,53 @@ BATCH_SIZE = 16
 all_embeddings = []
 for i in tqdm(range(0, len(pil_images_to_embed), BATCH_SIZE), desc="Fashion-CLIP 임베딩 추출"):
     batch_imgs = pil_images_to_embed[i:i + BATCH_SIZE]
-    batch_vecs = fclip.encode_images(batch_imgs, batch_size=len(batch_imgs))
-    all_embeddings.extend(batch_vecs)
+    all_embeddings.extend(fclip.encode_images(batch_imgs, batch_size=len(batch_imgs)))
 
 points = []
-for idx, (p, img_url) in enumerate(valid_records):
-    p_id = p.get("product_id")
-    
-    # 가격
-    price_info = p.get("price", {})
-    price_val = int(price_info.get("normal", 0))
-
+for idx, (p, img_url, norm_color) in enumerate(valid_records):
     # 카테고리
     logical_cat = p.get("dataset", {}).get("logical_category")
-    if not logical_cat or logical_cat not in ["상의", "하의", "아우터", "모자", "신발"]:
-        print(f"\n[스킵] 상품 ID {p_id}: 유효하지 않거나 누락된 카테고리입니다. (값: {logical_cat})")
-        continue
+    if not logical_cat or logical_cat not in ["상의", "하의", "아우터", "모자", "신발"]: continue
 
-    # 서브 카테고리
-    subcat_title = p.get("category", {}).get("categoryDepth2Title", "")
+    # 핏 유형
+    fit_type = normalize_fit(p.get("features", {}).get("핏", []))
 
     # 계절감
-    season_info = p.get("season", {})
-    primary_season = season_info.get("primary", "ALL")
-    season_candidates = season_info.get("primary_candidates", [primary_season] if primary_season else [])
+    season_candidates = p.get("season", {}).get("primary_candidates", [])
+    if not season_candidates:
+        season_candidates = ["ALL"]
 
     # 상품 실측
-    size_info = p.get("size", {})
-    raw_measurements_list = size_info.get("measurements", [])
-    normalized_measurements_list = []
-
+    raw_measurements_list = p.get("size", {}).get("measurements", [])
+    normalized_sizes = []
     for size_item in raw_measurements_list:
-        size_label = size_item.get("size")
-        raw_m = size_item.get("measurements", {})
-        norm_m = normalize_measurements(logical_cat, raw_m)
-        
+        norm_m = normalize_measurements(logical_cat, size_item.get("measurements", {}))
         if norm_m:
-            normalized_measurements_list.append({
-                "size": size_label,
-                "sequence": size_item.get("sequence", 0),
-                "measurements": norm_m
-            })
-    
-    # Qdrant Payload 구성 (색상 필드는 빈 배열 처리)
+            normalized_sizes.append({"size": size_item.get("size"), "sequence": size_item.get("sequence", 0), "measurements": norm_m})
+
     payload = {
         "product_id": int(p["product_id"]),
         "product_name": p.get("name", ""),
         "brand_name": p.get("brand", {}).get("name", ""),
         "category": logical_cat,
-        "subcategory": subcat_title,
-        "price": price_val,
-        "season": primary_season,
+        "subcategory": p.get("category", {}).get("categoryDepth2Title", ""),
+        "price": int(p.get("price", {}).get("normal", 0)),
         "season_candidates": season_candidates,
-        "color_normalized": [],
+        "color_normalized": [norm_color],
+        "fit_type": fit_type,
         "features": p.get("features", {}),
-        "sizes": normalized_measurements_list,
+        "sizes": normalized_sizes,
         "image_url": img_url,
         "product_url": p.get("source_url", "")
     }
 
-    points.append(
-        models.PointStruct(
-            id=int(p["product_id"]),
-            vector=all_embeddings[idx].tolist(),
-            payload=payload
-        )
-    )
+    # UUID를 활용한 고유 Point 식별자 생성
+    unique_point_id = str(uuid.uuid5(uuid.NAMESPACE_URL, f"{p['product_id']}_{norm_color}"))
 
-print(">> Qdrant DB에 포인트 배치 업서트 시작...")
+    points.append(models.PointStruct(id=unique_point_id, vector=all_embeddings[idx].tolist(), payload=payload))
+
 UPSERT_BATCH_SIZE = 100
 for i in range(0, len(points), UPSERT_BATCH_SIZE):
-    qdrant.upsert(
-        collection_name=COLLECTION_NAME,
-        points=points[i:i + UPSERT_BATCH_SIZE]
-    )
+    qdrant.upsert(collection_name=COLLECTION_NAME, points=points[i:i + UPSERT_BATCH_SIZE])
 
 print(f"🎉 인덱싱 성공! 총 {len(points)}건 적재 완료.")
