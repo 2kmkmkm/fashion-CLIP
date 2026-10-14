@@ -1,0 +1,12 @@
+{
+    "_설명": "Jev 결과보다 우선하는 사람이 정한 값. 키는 color_raw를 소문자로 바꾼 값, 값은 core/color_palette.py의 색상 중 하나. config/color_map_review.csv와 상품 사진을 보고 채운다.",
+    "gr": "gray",
+    "lb": "beige",
+    "na": "navy",
+    "merange": "gray",
+    "진저": "beige",
+    "dgy pgwt": "charcoal",
+    "cr다크블루": "blue",
+    "다크블루": "blue",
+    "다잉 그레이 데님": "gray"
+}
