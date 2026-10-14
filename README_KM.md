@@ -45,3 +45,22 @@ fitzza_poc/
 ├── index_to_qdrant.py         # 500개 상품 이미지 Fashion-CLIP 임베딩 및 Qdrant 적재
 ├── test_search.py             # 단품 및 조합 검색 기능/지연 시간 검증 단위 테스트
 └── README.md                  # 프로젝트 안내 및 가이드 문서
+```
+
+---
+
+## 3. 색상 매핑표 만들기 (Jev)
+
+`index_to_qdrant.py`는 `config/color_map.json`으로 각 상품의 `color_image_mappings[].color_raw`를 기본 색상으로 바꿔 `color_normalized`에 저장합니다. 이 매핑표는 TypeSafe의 Jev로 만듭니다(이전 GPT-4o-mini 버전 대체).
+
+```bash
+# .env 또는 환경 변수에 TYPESAFE_API_KEY 필요 (키는 출력하지 않음)
+python scripts/generate_color_map.py            # 새로 생긴 color_raw만 물어봄
+python scripts/generate_color_map.py --fresh    # 색상 목록·지시문을 바꿨을 때 전부 다시
+python scripts/index_to_qdrant.py
+```
+
+- 색상 목록은 `core/color_palette.py` 한 곳에서 관리합니다: black, white, ivory, beige, gray, charcoal, navy, blue, green, khaki, brown, red, pink, purple, yellow, orange, multi(여러 색), etc(판단 불가). 사용자 질문에서 뽑는 색상도 이 목록(`FILTERABLE_COLORS`)과 같아야 필터가 맞습니다.
+- color_raw마다 Jev에 보기 고르기 질문을 한 번 보냅니다(같은 이름은 한 번, 기본 8개 동시 요청). 응답은 `config/color_map_jev_results.jsonl`에 남아 다시 실행할 때 재사용합니다.
+- 확신이 0.6(`--threshold`) 미만이면 매핑표에는 `etc`로 넣고 `config/color_map_review.csv`에 모읍니다. 사람이 보고 정한 값은 `scripts/color_map_overrides.json`에 넣으면 Jev 결과보다 우선합니다(예: `"na": "navy"`처럼 약어).
+- 파일럿 100개 상품(고유 color_raw 193개) 기준: 직접 만든 정답표와 비교해 Jev 192/193, 같은 조건의 GPT-4o-mini 158/193, 기존 GPT 프롬프트 171/193(목록 밖 값 `light gray` 등 11개). 정답표와 지시문을 Jev 결과를 보며 다듬었으므로 참고용 수치입니다.
