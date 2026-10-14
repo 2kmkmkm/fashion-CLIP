@@ -1,3 +1,4 @@
+import time
 from coordinator import FashionPipelineCoordinator
 
 def main():
@@ -24,10 +25,22 @@ def main():
         print(f"사용자 질의: \"{q}\"")
         print("="*80)
 
+        # 파이프라인 실행 시간 측정 시작
+        start_time = time.perf_counter()
+        elapsed_time = None
+
         try:
             # 3. 코디네이터 실행
             output = coordinator.run(q)
-            intent = output["intent"]
+
+            # 파이프라인이 최종 결과를 반환한 시점에 측정 종료
+            elapsed_time = time.perf_counter() - start_time
+
+            print("\n" + "-" * 60)
+            print(f"[응답 시간] {elapsed_time:.3f}초")
+            print("-" * 60)
+
+            intent = output["intent"]   
 
             print(f">> [TPO 분석]: {output['tpo']}")
             print(f">> [추출된 슬롯 및 영문 키워드]")
@@ -75,6 +88,12 @@ def main():
         except Exception as e:
             print(f"\n❌ 실행 중 오류가 발생했습니다: {e}")
             print("다시 입력해주세요.")
+
+        finally:
+            # 파이프라인 실행 중 오류가 발생한 경우에도 소요 시간 출력
+            if elapsed_time is None:
+                elapsed_time = time.perf_counter() - start_time
+                print(f"[오류 발생 시점까지의 소요 시간] {elapsed_time:.3f}초")
 
 if __name__ == "__main__":
     main()
