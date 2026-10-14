@@ -167,7 +167,9 @@ def main():
         with open(results_path, encoding="utf-8") as file:
             previous = {r["key"]: r for r in (json.loads(line) for line in file if line.strip())}
     todo = [k for k in sorted(contexts) if k not in previous and k not in overrides]
-    print(f">> 고유 color_raw {len(contexts)}개 · 이전 응답 재사용 {len(contexts) - len(todo)}개 · 새로 물어볼 것 {len(todo)}개")
+    overridden = sum(1 for k in contexts if k in overrides)
+    reused = sum(1 for k in contexts if k in previous and k not in overrides)
+    print(f">> 고유 color_raw {len(contexts)}개 · 사람이 정한 값 {overridden}개 · 이전 응답 재사용 {reused}개 · 새로 물어볼 것 {len(todo)}개")
 
     started = time.time()
     tokens = Counter()
@@ -209,7 +211,7 @@ def main():
         print(f">> 새로 물어본 것 {len(todo)}개, {time.time() - started:.1f}초, "
               f"토큰 입력 {tokens['input']} / 출력 {tokens['output']}")
     print(">> 색상별 개수: " + ", ".join(f"{c} {n}" for c, n in counts.most_common()))
-    print(f">> 사람이 정한 값 {sum(1 for k in contexts if k in overrides)}개 적용 ({os.path.relpath(OVERRIDES_FILE)})")
+    print(f">> 사람이 정한 값 {overridden}개 적용 ({os.path.relpath(OVERRIDES_FILE)})")
     print(f">> 매핑표: {map_path}")
     print(f">> 확인 필요 {len(review)}개(확신 {args.threshold} 미만 또는 etc·multi): {review_path}")
     for record in sorted(review, key=lambda r: r["confidence"])[:15]:
