@@ -27,7 +27,7 @@ class ParsedIntent(BaseModel):
     season_preferences: List[Literal["봄", "여름", "가을", "겨울"]] = Field(
         description="사용자 질의에서 파악된 계절감 우선순위 배열 (가장 핵심이 되는 계절을 첫 번째(index 0)로 배치)"
     )
-    tpo_summary: str = Field(descri11ption="TPO 및 무드 요약")
+    tpo_summary: str = Field(description="TPO 및 무드 요약")
     slots: List[SlotQuery]
 
 class QueryParser:
