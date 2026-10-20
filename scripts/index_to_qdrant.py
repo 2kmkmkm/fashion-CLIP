@@ -166,7 +166,7 @@ for p in tqdm(products, desc="상품 이미지 안전 로딩 중"):
             except Exception: pass
                 
         if img is not None:
-            valid_records.append((p, specific_img_url, norm_color))
+            valid_records.append((p, specific_img_url, raw_color, norm_color))
             pil_images_to_embed.append(img)
 
 print(f">> 최종 유효 이미지 로드 성공: {len(pil_images_to_embed)} / {len(products)} 건")
@@ -183,18 +183,13 @@ for i in tqdm(range(0, len(pil_images_to_embed), BATCH_SIZE), desc="Fashion-CLIP
     all_embeddings.extend(fclip.encode_images(batch_imgs, batch_size=len(batch_imgs)))
 
 points = []
-for idx, (p, img_url, norm_color) in enumerate(valid_records):
+for idx, (p, img_url, raw_color, norm_color) in enumerate(valid_records):
     # 카테고리
     logical_cat = p.get("dataset", {}).get("logical_category")
     if not logical_cat or logical_cat not in ["상의", "하의", "아우터", "모자", "신발"]: continue
 
-    # 핏 유형
-    fit_type = normalize_fit(p.get("features", {}).get("핏", []))
-
     # 계절감
     season_candidates = p.get("season", {}).get("primary_candidates", [])
-    if not season_candidates:
-        season_candidates = ["봄", "여름", "가을", "겨울"]
 
     # 상품 실측
     raw_measurements_list = p.get("size", {}).get("measurements", [])
@@ -212,8 +207,8 @@ for idx, (p, img_url, norm_color) in enumerate(valid_records):
         "subcategory": p.get("category", {}).get("categoryDepth2Title", ""),
         "price": int(p.get("price", {}).get("normal", 0)),
         "season_candidates": season_candidates,
+        "color_raw": raw_color,
         "color_normalized": [norm_color],
-        "fit_type": fit_type,
         "features": p.get("features", {}),
         "sizes": normalized_sizes,
         "image_url": img_url,
@@ -221,7 +216,7 @@ for idx, (p, img_url, norm_color) in enumerate(valid_records):
     }
 
     # UUID를 활용한 고유 Point 식별자 생성
-    unique_point_id = str(uuid.uuid5(uuid.NAMESPACE_URL, f"{p['product_id']}_{norm_color}"))
+    unique_point_id = str(uuid.uuid5(uuid.NAMESPACE_URL, f"{p['product_id']}_{raw_color.strip().lower()}_{img_url}"))
 
     points.append(models.PointStruct(id=unique_point_id, vector=all_embeddings[idx].tolist(), payload=payload))
 
