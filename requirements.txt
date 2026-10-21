@@ -1,0 +1,23 @@
+# ==========================================
+# FITzza POC Requirements
+# ==========================================
+
+# Qdrant Vector DB Client
+qdrant-client>=1.9.0
+
+# LLM & OpenAI API
+openai>=1.12.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# Image Processing & Utilities
+requests>=2.28.0
+pillow>=9.5.0
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# Vision & Multimodal Model (Fashion-CLIP)
+# ※ CUDA 환경에 따라 torch 설치 명령어가 달라질 수 있습니다 (https://pytorch.org)
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0

@@ -1,4 +1,5 @@
 .env
+.idea/
 cache/
 __pycache__/
 data/
@@ -6,7 +7,8 @@ outputs/
 pipeline/
 config.json
 README_V2_2.md
-README.md
-requirements.txt
 *.pyc
-config/
+config/*
+!config/color_map.json
+docker/qdrant_storage/
+*.log
