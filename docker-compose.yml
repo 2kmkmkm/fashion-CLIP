@@ -2,10 +2,11 @@ version: '3.8'
 
 services:
   qdrant:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    image: fitzza-qdrant:latest
+    image: 02dlrudals/fitzza-qdrant:latest
+    # 로컬에서 직접 빌드하려면 아래 build 주석을 해제하세요.
+    # build:
+    #   context: .
+    #   dockerfile: Dockerfile
     container_name: fitzza_qdrant
     restart: unless-stopped
     ports:

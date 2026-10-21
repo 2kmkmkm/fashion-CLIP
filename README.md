@@ -13,8 +13,11 @@
 사전 인덱싱 데이터(`musinsa_products.snapshot`)가 탑재된 컨테이너가 1초 만에 기동됩니다.
 
 ```bash
-# 백그라운드로 Qdrant 컨테이너 빌드 및 실행
+# Docker Hub(02dlrudals/fitzza-qdrant:latest)에서 이미지를 받아 백그라운드로 실행
 docker compose up -d
+
+# 또는 Docker CLI로 직접 실행 시:
+# docker run -d -p 6333:6333 -p 6334:6334 --name fitzza_qdrant 02dlrudals/fitzza-qdrant:latest
 
 # 실행 상태 및 헬스체크 확인
 docker compose ps
